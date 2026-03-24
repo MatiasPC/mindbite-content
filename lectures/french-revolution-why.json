@@ -1,0 +1,135 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440004",
+  "slug": "french-revolution-why",
+  "title": "Why the French Revolution Happened",
+  "subtitle": "The causes and context of a world-changing upheaval",
+  "topicId": "history",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/french-revolution-why.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "A Nation in Financial Crisis",
+      "body": "By the 1780s, France faced a severe financial crisis. King Louis XVI had inherited massive debts from previous kings and their expensive wars. The cost of supporting the American Revolution against Britain drained the treasury further. Poor harvests led to food shortages and inflation, burdening common people. The government attempted radical tax reforms, but nobles and clergy resisted paying taxes, protecting their privileges. The Three Estates system—clergy, nobility, and commons—meant that only the common people bore the tax burden. This fiscal crisis created the urgency that led Louis XVI to call the Estates-General in 1789.",
+      "funFact": "France's debt in 1789 exceeded 2 billion livres, an astronomical sum equivalent to years of national revenue."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Enlightenment Ideas Challenge Authority",
+      "body": "The 18th century Enlightenment introduced radical new ideas about human rights, democracy, and the social contract. Philosophers like Montesquieu, Rousseau, and Voltaire challenged absolute monarchy and inherited privilege. Montesquieu argued for separation of powers. Rousseau claimed sovereignty rested with the people. These ideas circulated widely through books, salons, and educated circles. American independence in 1783 demonstrated that revolution against monarchy was possible. French soldiers who fought in America returned with revolutionary ideals. The intellectual climate was primed for questioning established authority and demanding change.",
+      "imageUrl": "images/cards/enlightenment-salon.jpg",
+      "imageCaption": "An 18th-century salon where Enlightenment ideas were debated and discussed"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Social Inequality and Resentment",
+      "body": "French society was rigidly divided by birth into estates with vastly different privileges and rights. The nobility owned vast lands and paid no taxes. The clergy controlled substantial property and answered to Rome. The common people—peasants, artisans, merchants, lawyers—comprised 98% of the population yet bore all tax burdens. A prosperous bourgeoisie (merchant class) gained wealth and education but had no political power. Peasants faced feudal obligations, taxes, and food insecurity. This grinding inequality fueled resentment. The notion that one's rights and opportunities were determined by birth rather than merit increasingly seemed intolerable.",
+      "funFact": "A peasant might owe the lord multiple obligations including baking bread in the lord's oven and maintaining the lord's fishponds."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Food Crisis and Popular Desperation",
+      "body": "Bread was the staple food for most French people, comprising 50-80% of their diet depending on social class. Poor harvests in 1788-1789 caused prices to spike dramatically. Unemployment rose as the economy contracted. Hunger and desperation spread through cities and countryside. Riots erupted over bread prices. Poor harvests meant peasants could not pay feudal rents and taxes. This humanitarian crisis created urgency and anger. When the Estates-General convened in May 1789, representatives addressed not only abstract principles but immediate survival needs. Hunger transformed philosophical discontent into revolutionary action.",
+      "funFact": "The bread price in Paris more than doubled between 1770 and 1789, devastating the poor majority."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "The Breakdown of Royal Authority",
+      "body": "King Louis XVI, well-meaning but indecisive, failed to manage the crisis effectively. His ministers proposed reforms that threatened noble privileges, creating conflict. The nobility refused to compromise. Louis vacillated between reform and conservatism, losing the confidence of all parties. When commoners marched to Versailles in October 1789, demanding the king move to Paris, it demonstrated that royal authority had collapsed. The king's inability to control events, prevent riots, or implement coherent policy showed the bankruptcy of absolute monarchy. The vacuum of authority was filled by revolutionary assemblies, creating a moment of profound transformation.",
+      "imageUrl": "images/cards/march-to-versailles.jpg",
+      "imageCaption": "The march of common people to Versailles in October 1789"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Catalysts for Revolutionary Change",
+      "body": "The combination of fiscal crisis, Enlightenment ideas, social inequality, food shortages, and royal failure created a revolutionary moment. The Estates-General, called to solve the financial crisis, became the arena for fundamental questions about power and representation. The Third Estate's formation of the National Assembly, swearing the Tennis Court Oath to create a constitution, marked the point of no return. What began as a financial and political crisis transformed into a social revolution questioning the entire structure of society. These cascading causes explain why the French Revolution became not merely a political change but a fundamental reimagining of society.",
+      "funFact": "The Declaration of the Rights of Man and Citizen, adopted in August 1789, became a foundational document for democracy and human rights worldwide."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The French Revolution: From Enlightenment to Tyranny",
+      "author": "Christopher Hibbert",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "A Short History of the French Revolution",
+      "author": "Peter McPhee",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Citizens: A Chronicle of the French Revolution",
+      "author": "Simon Schama",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-french-rev-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "Which of the following was a major cause of France's financial crisis in the 1780s?",
+        "options": [
+          "Excessive spending on cultural projects",
+          "Support for the American Revolution against Britain",
+          "Trade conflicts with Asian merchants",
+          "Corruption in the military ranks"
+        ],
+        "correctAnswer": "Support for the American Revolution against Britain",
+        "explanation": "France's costly military support for American independence against Britain significantly contributed to the crown's massive debts."
+      },
+      {
+        "id": "q2",
+        "type": "fill_blank",
+        "questionText": "_______ argued that sovereign power rested with the people, not with the monarch, in his influential Enlightenment writings.",
+        "correctAnswer": "Rousseau",
+        "explanation": "Jean-Jacques Rousseau's concept of popular sovereignty challenged the foundation of absolute monarchy."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "The nobility and clergy in France in 1789 paid substantial taxes like the common people did.",
+        "correctAnswer": "false",
+        "explanation": "The nobility and clergy were exempt from taxes, while the common people bore the entire tax burden despite comprising 98% of the population."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "What percentage of a poor French person's diet typically consisted of bread in the late 18th century?",
+        "options": [
+          "20-30%",
+          "40-50%",
+          "50-80%",
+          "90-95%"
+        ],
+        "correctAnswer": "50-80%",
+        "explanation": "Bread was the staple food, comprising a very large portion of poorer people's diets, making bread price spikes devastating to survival."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "The Third Estate's formation of the National Assembly and the Tennis Court Oath occurred before the storming of the Bastille.",
+        "correctAnswer": "true",
+        "explanation": "The Tennis Court Oath in June 1789, where the Third Estate swore to create a constitution, preceded the storming of the Bastille in July 1789."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440004"
+  },
+  "publishedAt": "2026-04-07T00:00:00Z",
+  "createdAt": "2026-04-07T00:00:00Z",
+  "updatedAt": "2026-04-07T00:00:00Z"
+}

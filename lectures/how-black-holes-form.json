@@ -1,0 +1,147 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "slug": "how-black-holes-form",
+  "title": "How Black Holes Form",
+  "subtitle": "Understanding the collapse of massive stars",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/how-black-holes-form.jpg",
+  "isPremium": false,
+  "featured": true,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Birth of a Black Hole",
+      "body": "Black holes form when massive stars reach the end of their lives. When a star much larger than our Sun exhausts its nuclear fuel, it collapses catastrophically in a supernova explosion. If the remaining core is massive enough, gravity becomes so intense that nothing—not even light—can escape. This creates a region of spacetime called a black hole, fundamentally changing our understanding of physics and the universe.",
+      "funFact": "The smallest black holes are the size of mountains, while the largest could be bigger than our entire solar system!",
+      "imageUrl": "images/content/black-hole-formation-1.jpg",
+      "imageCaption": "Illustration of a star collapsing into a black hole"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Stellar Mass Requirements",
+      "body": "Not all stars become black holes. A star must have at least 20-25 times the mass of our Sun to potentially form a black hole. During its lifetime, a massive star fuses heavier and heavier elements in its core. When fusion stops and the core can no longer support itself against gravity, catastrophic collapse occurs. The density becomes so extreme that matter is crushed beyond any known limits.",
+      "funFact": "If Earth were compressed to black hole density, it would be smaller than a marble!"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "The Schwarzschild Radius",
+      "body": "Every black hole has a boundary called the event horizon, defined by the Schwarzschild radius. This is the point of no return—beyond this distance, gravity is so strong that even light cannot escape. The Schwarzschild radius depends only on the black hole's mass; a more massive black hole has a larger event horizon. This mathematical boundary was predicted by Karl Schwarzschild in 1916, shortly after Einstein published general relativity.",
+      "imageUrl": "images/content/event-horizon.jpg",
+      "imageCaption": "The event horizon marks the point of no return"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Types of Black Holes",
+      "body": "Astronomers recognize several types of black holes based on their formation. Stellar black holes form from dying massive stars and typically weigh 5-20 solar masses. Supermassive black holes, millions or billions of times more massive than the Sun, lurk at the centers of galaxies including our own Milky Way. Intermediate black holes may form from stellar collisions or mergers. Each type offers unique insights into cosmic evolution.",
+      "funFact": "Sagittarius A*, the black hole at our galaxy's center, weighs about 4 million suns!"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Observing the Invisible",
+      "body": "Black holes themselves emit no light, making them invisible. However, astronomers detect them by observing their effects on nearby matter. Material swirling into a black hole heats up and emits intense radiation before crossing the event horizon. X-ray observations reveal accretion disks around black holes. In 2019, the Event Horizon Telescope captured the first direct image of a black hole's shadow in galaxy M87, confirming Einstein's predictions.",
+      "imageUrl": "images/content/black-hole-m87.jpg",
+      "imageCaption": "First image of a black hole captured by the Event Horizon Telescope"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Hawking Radiation",
+      "body": "In 1974, Stephen Hawking proposed that black holes are not entirely black. Quantum effects near the event horizon cause black holes to emit radiation, now called Hawking radiation. This means black holes can slowly evaporate over time, though this process takes an extraordinarily long time for stellar-mass black holes. Smaller black holes evaporate faster, releasing tremendous energy. This discovery unified quantum mechanics with general relativity.",
+      "funFact": "A black hole with the mass of Earth would take far longer than the age of the universe to evaporate!"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Black Holes and Time",
+      "body": "Black holes are laboratories for studying extreme physics. Near a black hole, time itself slows down relative to distant observers—a prediction of general relativity. An object falling toward a black hole appears to freeze at the event horizon from a distant observer's perspective, while the falling object experiences normal time. Black holes challenge our understanding of causality and information, leading to the information paradox that physicists still debate today.",
+      "funFact": "Time runs faster away from massive objects—satellites in orbit age slightly faster than people on Earth!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Hawking, S. (1974). 'Black hole explosions?' Nature, 248(5443), 30-31.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Wald, R. M. (1984). General Relativity. University of Chicago Press.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "NASA Astrophysics Data System - Black Hole Research",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-1",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "What is the minimum mass of a star needed to potentially form a black hole?",
+        "options": [
+          "5-10 times the Sun's mass",
+          "15-20 times the Sun's mass",
+          "20-25 times the Sun's mass",
+          "30-40 times the Sun's mass"
+        ],
+        "correctAnswer": "20-25 times the Sun's mass",
+        "explanation": "A star must have at least 20-25 solar masses to potentially form a black hole when it reaches the end of its life."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "The event horizon is the name of the boundary around a black hole from which nothing, not even light, can escape.",
+        "correctAnswer": "true",
+        "explanation": "The event horizon, defined by the Schwarzschild radius, is the point of no return around a black hole."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "Who proposed that black holes emit radiation through quantum effects?",
+        "options": [
+          "Albert Einstein",
+          "Karl Schwarzschild",
+          "Stephen Hawking",
+          "Roger Penrose"
+        ],
+        "correctAnswer": "Stephen Hawking",
+        "explanation": "Stephen Hawking discovered in 1974 that black holes emit radiation due to quantum effects near the event horizon."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "The black hole at the center of the Milky Way, called Sagittarius A*, has a mass of approximately _______ solar masses.",
+        "correctAnswer": "4 million",
+        "explanation": "Sagittarius A* is a supermassive black hole with a mass of about 4 million times that of our Sun."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "What was achieved in 2019 regarding black hole observation?",
+        "options": [
+          "The first black hole was discovered",
+          "The first direct image of a black hole's shadow was captured",
+          "Black hole radiation was directly detected",
+          "A black hole was created in a laboratory"
+        ],
+        "correctAnswer": "The first direct image of a black hole's shadow was captured",
+        "explanation": "The Event Horizon Telescope captured the first direct image of a black hole in galaxy M87 in 2019."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440001"
+  },
+  "publishedAt": "2026-04-01T00:00:00Z",
+  "createdAt": "2026-04-01T00:00:00Z",
+  "updatedAt": "2026-04-01T00:00:00Z"
+}

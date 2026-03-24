@@ -1,0 +1,150 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440007",
+  "slug": "how-stars-die",
+  "title": "How Stars Die",
+  "subtitle": "The spectacular end stages of stellar evolution",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/how-stars-die.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Stellar Evolution and Fate",
+      "body": "Every star has a limited lifetime determined by its mass. Stars spend most of their lives fusing hydrogen into helium in their cores, a stable phase lasting billions of years for Sun-like stars. As fusion proceeds, helium accumulates, altering the star's structure and temperature. Eventually, fuel runs out and the star can no longer sustain itself. What happens next depends critically on stellar mass. Small stars like our Sun become planetary nebulae and white dwarfs, while massive stars explode as supernovae, leaving neutron stars or black holes. Understanding stellar death illuminates stellar lifecycles and cosmic chemistry.",
+      "funFact": "Our Sun has already burned through half its hydrogen fuel and will eventually expand to engulf Mercury, Venus, and possibly Earth!",
+      "imageUrl": "images/content/star-lifecycle.jpg",
+      "imageCaption": "The life cycle of stars from birth to death"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "The Death of Sun-Like Stars",
+      "body": "Stars similar to our Sun become red giants when core hydrogen exhausts. The outer layers expand dramatically while the core contracts and heats. Eventually, the core becomes hot enough for helium fusion, creating carbon and oxygen. When helium is exhausted, the star cannot fuse heavier elements. The outer layers peel away, forming a planetary nebula—a spectacular shell of glowing gas. The exposed core becomes a white dwarf: an Earth-sized object as massive as the Sun with incredible density. White dwarfs slowly cool over billions of years, eventually becoming dark stellar remnants called black dwarfs.",
+      "imageUrl": "images/content/planetary-nebula.jpg",
+      "imageCaption": "The Ring Nebula, a planetary nebula from a dying star"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Massive Stars and Supernovae",
+      "body": "Stars more massive than about eight solar masses undergo more violent deaths. These massive stars burn their fuel much faster, living only millions of years. As the core accumulates iron, fusion becomes impossible—iron fusion consumes energy rather than releasing it. The core catastrophically collapses, crushing atoms and often bouncing back in a supernova explosion. This explosion briefly outshines entire galaxies containing billions of stars. The intense heat in the explosion creates heavy elements like nickel, cobalt, and elements heavier than iron. These elements, synthesized only in supernovae, seed the galaxy and eventually form planets and life.",
+      "funFact": "The iron in your blood was created in a supernova billions of years ago!",
+      "imageUrl": "images/content/supernova-explosion.jpg",
+      "imageCaption": "An artist's representation of a supernova explosion"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Type Ia Supernovae",
+      "body": "Type Ia supernovae occur in binary systems where a white dwarf orbits a normal star. The white dwarf's gravity pulls material from the companion, building up a layer on the white dwarf's surface. This accumulated matter reaches extreme pressure and temperature, triggering thermonuclear runaway. The entire white dwarf explodes, completely destroying the star and leaving no remnant. These explosions are remarkably consistent in brightness, making them useful as 'standard candles' for measuring cosmic distances. Type Ia supernovae helped discover that the universe's expansion is accelerating, revealing the existence of dark energy.",
+      "imageUrl": "images/content/type-ia-supernova.jpg",
+      "imageCaption": "Artist's view of a white dwarf stealing material from a companion star"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Core-Collapse Supernovae",
+      "body": "When a massive star's iron core collapses, a tremendous rebound shock propagates outward through the star. This shock typically stalls, but neutrinos streaming from the core can revive it through subtle interactions. The shock plows through the star's layers, ejecting them explosively. These core-collapse supernovae (Type II, Ib, and Ic) are more variable than Type Ia but equally spectacular. Depending on the original star's mass, the remnant is either a neutron star or a black hole. These explosions enrich space with heavy elements and can trigger star formation in nearby gas clouds.",
+      "funFact": "A single supernova explosion releases more energy than our Sun will produce in its entire 10-billion-year lifetime!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Neutron Stars and Black Holes",
+      "body": "Supernova remnants can be neutron stars or black holes. Neutron stars are incredibly dense stellar corpses approximately 20 kilometers across. They contain exotic matter at nuclear density and possess the strongest magnetic fields in the universe. Many rotate rapidly, beaming radiation visible as pulsars. Black holes form from even more massive stars—gravity is so intense that spacetime itself is warped into a one-way trap. Nothing escapes a black hole's event horizon. Both neutron stars and black holes are cosmic laboratories for extreme physics, allowing tests of general relativity and quantum mechanics.",
+      "imageUrl": "images/content/neutron-star-vs-black-hole.jpg",
+      "imageCaption": "Comparison of a neutron star and black hole"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Impact on the Cosmos",
+      "body": "Stellar death profoundly shapes the universe. Supernovae distribute heavy elements throughout galaxies, enriching gas clouds that form new stars and planets. These elements are essential for chemistry and life—carbon for organic molecules, iron for planetary cores, oxygen for water. Supernova explosions can trigger or prevent star formation in nearby regions, influencing galactic evolution. The energy from supernovae heats intergalactic gas, affecting how galaxies grow. Stellar remnants—white dwarfs, neutron stars, and black holes—continue evolving and interacting with surroundings. The death of stars enables the birth of new cosmic structures.",
+      "funFact": "Every atom in your body heavier than helium was made in a star and distributed by supernova explosions!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Arnett, W. D., & Truran, J. W. (1969). 'Nucleosynthesis in the supernovae and element formation in the galaxy.' The Astrophysical Journal, 157, 339.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Janka, H. T. (2012). 'Explosion mechanisms of core-collapse supernovae.' Annual Review of Nuclear and Particle Science, 62, 407-451.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Branch, D. (1998). 'Type Ia supernovae.' Annual Review of Astronomy and Astrophysics, 36, 17-55.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-7",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "What is a planetary nebula?",
+        "options": [
+          "A nebula orbiting a planet",
+          "A shell of gas ejected by a dying star",
+          "A young star surrounded by a protoplanetary disk",
+          "A region of space containing many planets"
+        ],
+        "correctAnswer": "A shell of gas ejected by a dying star",
+        "explanation": "Planetary nebulae are shells of glowing gas ejected from Sun-like stars as they transition to white dwarfs."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "All massive stars that explode as supernovae leave behind neutron stars.",
+        "correctAnswer": "false",
+        "explanation": "The most massive stars create black holes, while less massive massive stars create neutron stars."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "What type of supernova occurs in a binary system with a white dwarf?",
+        "options": [
+          "Type II supernova",
+          "Type Ia supernova",
+          "Type Ib supernova",
+          "Type Ic supernova"
+        ],
+        "correctAnswer": "Type Ia supernova",
+        "explanation": "Type Ia supernovae occur when a white dwarf accretes material from a binary companion and undergoes thermonuclear runaway."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "An Earth-sized stellar remnant with the mass of the Sun is called a white _______.",
+        "correctAnswer": "dwarf",
+        "explanation": "White dwarfs are the dense remnants of Sun-like stars, with incredible density due to electron degeneracy pressure."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "Which element can no longer be fused in a star to release energy?",
+        "options": [
+          "Hydrogen",
+          "Helium",
+          "Carbon",
+          "Iron"
+        ],
+        "correctAnswer": "Iron",
+        "explanation": "Fusing iron consumes energy rather than releasing it, so iron accumulation leads to core collapse and supernova."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440007"
+  },
+  "publishedAt": "2026-04-13T00:00:00Z",
+  "createdAt": "2026-04-13T00:00:00Z",
+  "updatedAt": "2026-04-13T00:00:00Z"
+}

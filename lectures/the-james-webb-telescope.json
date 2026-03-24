@@ -1,0 +1,149 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440009",
+  "slug": "the-james-webb-telescope",
+  "title": "The James Webb Space Telescope",
+  "subtitle": "Observing the universe's earliest galaxies and searching for biosignatures",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 7,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-james-webb-telescope.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "A New Era of Space Telescopes",
+      "body": "The James Webb Space Telescope (JWST) represents a quantum leap in astronomical observation capabilities. Named after a former NASA administrator, JWST is the successor to the iconic Hubble Space Telescope, which revolutionized astronomy in the 1990s. Launched on December 25, 2021, JWST has already transformed our understanding of the universe. Unlike Hubble, which observes primarily in visible and ultraviolet light, JWST specializes in infrared observations. This allows it to see through cosmic dust that blocks visible light, revealing star-forming regions and the universe's earliest galaxies.",
+      "funFact": "JWST is named after James E. Webb, who led NASA during the Apollo program!",
+      "imageUrl": "images/content/jwst-launch.jpg",
+      "imageCaption": "The James Webb Space Telescope launching aboard an Ariane 5 rocket"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Infrared Observations",
+      "body": "JWST's primary mission is infrared astronomy. Infrared light has longer wavelengths than visible light, penetrating dust clouds opaque to visible light. The telescope's primary mirror is made of beryllium coated with gold, which reflects infrared light exceptionally well. To observe infrared radiation, JWST must be extremely cold—cooler than 50 Kelvin. A massive sunshield, about the size of a tennis court, protects the telescope from the Sun's heat. Located at the Lagrange Point 2, about 1.5 million kilometers from Earth, JWST orbits Earth and Sun together, maintaining its cold temperature while remaining relatively accessible.",
+      "imageUrl": "images/content/jwst-sunshield.jpg",
+      "imageCaption": "JWST's multi-layer sunshield protecting the cold telescope"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Discovering the Earliest Galaxies",
+      "body": "One of JWST's primary goals is observing the universe's first galaxies, formed only a few hundred million years after the Big Bang. Light from these ancient galaxies has been stretched by cosmic expansion, shifted into the infrared. Only JWST's infrared sensitivity can detect these distant objects. Early observations have revealed galaxies that formed earlier than previously thought, challenging galaxy formation models. These discoveries are rewriting our understanding of how the universe's structure developed. JWST's observations of early galaxies help constrain theories of star formation, galaxy evolution, and the chemical enrichment history of the universe.",
+      "imageUrl": "images/content/jwst-early-universe.jpg",
+      "imageCaption": "An image of some of the most distant galaxies JWST has observed"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Star and Planet Formation",
+      "body": "JWST penetrates the dusty clouds where stars and planets form, revealing the previously hidden processes. The telescope observes stellar nurseries, protoplanetary disks, and young planetary systems. Its infrared capabilities show newborn stars heating surrounding dust, and planets carving gaps in protoplanetary disks. JWST images reveal the incredible detail of these systems, constraining formation theories. Observations of exoplanet atmospheres are another key capability—JWST analyzes light filtering through these atmospheres, identifying chemical compositions. The telescope has already detected water, carbon dioxide, and methane in exoplanet atmospheres, with potential biosignature searches coming.",
+      "imageUrl": "images/content/protoplanetary-disk.jpg",
+      "imageCaption": "JWST image of a protoplanetary disk where planets form"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Solving Cosmic Mysteries",
+      "body": "JWST addresses fundamental cosmic questions. Why is there more matter than antimatter in the universe? How do supermassive black holes grow so massive? What are dark matter and dark energy? The telescope observes black hole accretion, the distribution of matter in the cosmic web, and many other phenomena. Its observations of star-forming galaxies and quasars reveal connections between black holes and galaxy evolution. JWST also studies nebulae where elements are created and observes dusty galaxies invisible to Hubble. Each observation adds to our cosmic understanding, though many mysteries remain.",
+      "funFact": "JWST observes so much detail that it can detect the heat from an object the size of a grain of sand at the Moon's distance!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Searching for Signs of Life",
+      "body": "One of JWST's most exciting capabilities is analyzing exoplanet atmospheres for potential biosignatures—chemicals indicating biological activity. Oxygen in combination with methane would be highly suggestive of life. JWST has already detected water, CO2, and methane in exoplanet atmospheres. Future observations will search for unusual chemical combinations that might indicate photosynthesis or other biological processes. While JWST cannot definitively identify extraterrestrial life, it can identify atmospheric compositions that warrant further investigation. A confirmed detection would be revolutionary, potentially indicating that life is common in the universe.",
+      "imageUrl": "images/content/exoplanet-atmosphere.jpg",
+      "imageCaption": "Artist's representation of JWST analyzing an exoplanet's atmosphere"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "The Future of JWST Science",
+      "body": "JWST is expected to operate for at least 20 years, transforming astronomy throughout that period. Its continued observations will refine our understanding of the universe's history, structure, and content. The telescope will observe more distant galaxies, younger star-forming regions, and more exoplanet atmospheres. Future discoveries may include the first evidence of extraterrestrial life, the nature of dark matter, or unexpected cosmic phenomena. JWST represents humanity's investment in understanding the universe. The discoveries it enables will inspire future generations of scientists and explorers, driving the next era of astronomical research.",
+      "funFact": "JWST cost approximately $10 billion and took decades to develop—the most expensive scientific instrument ever built!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Gardner, J. P., et al. (2023). 'The James Webb Space Telescope Mission.' Publications of the Astronomical Society of the Pacific, 135(1044), 068001.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Rigby, J. R., et al. (2023). 'Early Results on the Stellar Populations and Morphologies of High-Redshift Galaxies with JWST/NIRCam.' The Astrophysical Journal Letters, 952(2), L48.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "NASA James Webb Space Telescope Mission Documentation",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-9",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "In what year was the James Webb Space Telescope launched?",
+        "options": [
+          "2018",
+          "2020",
+          "2021",
+          "2023"
+        ],
+        "correctAnswer": "2021",
+        "explanation": "JWST launched on December 25, 2021, aboard an Ariane 5 rocket."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "JWST primarily observes in the infrared wavelength range, unlike the Hubble Space Telescope.",
+        "correctAnswer": "true",
+        "explanation": "JWST specializes in infrared observations, allowing it to penetrate dust clouds and observe distant galaxies invisible to Hubble."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "What is the primary advantage of JWST's infrared observations?",
+        "options": [
+          "Infrared light is brighter than visible light",
+          "Infrared light penetrates cosmic dust that blocks visible light",
+          "Infrared light travels faster through space",
+          "Infrared light is easier to detect with simple instruments"
+        ],
+        "correctAnswer": "Infrared light penetrates cosmic dust that blocks visible light",
+        "explanation": "Infrared's longer wavelengths pass through dust, revealing objects hidden from visible light telescopes."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "JWST is located at a point in space called the _______ Point 2, about 1.5 million kilometers from Earth.",
+        "correctAnswer": "Lagrange",
+        "explanation": "The Lagrange Point 2 is a stable point where Earth and Sun's gravity balance, allowing JWST to remain cold while staying relatively close to Earth."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "One of JWST's major achievements has been observing which of the following?",
+        "options": [
+          "The very first stars in the universe",
+          "Galaxies that formed only a few hundred million years after the Big Bang",
+          "Black holes evaporating via Hawking radiation",
+          "Direct images of dark matter"
+        ],
+        "correctAnswer": "Galaxies that formed only a few hundred million years after the Big Bang",
+        "explanation": "JWST has revealed galaxies formed earlier than previously expected, showing light stretched from the early universe into the infrared."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440009"
+  },
+  "publishedAt": "2026-04-17T00:00:00Z",
+  "createdAt": "2026-04-17T00:00:00Z",
+  "updatedAt": "2026-04-17T00:00:00Z"
+}

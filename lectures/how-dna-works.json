@@ -1,0 +1,146 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440009",
+  "slug": "how-dna-works",
+  "title": "How DNA Works",
+  "subtitle": "The Blueprint of Life",
+  "topicId": "science",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/how-dna-works.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Structure of DNA",
+      "body": "DNA (deoxyribonucleic acid) is a molecule that contains the genetic instructions for building and maintaining life. Its structure resembles a twisted ladder, called a double helix. Each side of the ladder consists of sugar (deoxyribose) and phosphate molecules linked together. The rungs connecting the two sides are made of chemical bases: adenine, thymine, guanine, and cytosine (abbreviated A, T, G, C). These bases pair specifically: adenine always bonds with thymine, and guanine with cytosine. This specific pairing is crucial for replication and function. A single molecule of DNA contains millions or billions of base pairs arranged in a specific sequence. The order of these bases encodes genetic information. The entire set of DNA in a human cell is contained in the nucleus and forms the genome. Understanding DNA's structure reveals how genetic information is stored and transmitted with remarkable precision.",
+      "funFact": "If you unwound all the DNA in a human cell, it would stretch about two meters long!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Genes and Proteins",
+      "body": "Genes are specific sections of DNA that contain instructions for making proteins. Proteins do virtually all the work in cells—they provide structure, catalyze reactions, transport molecules, and regulate cellular processes. A gene consists of a sequence of base pairs that codes for a specific protein. This process begins with transcription: an enzyme reads the DNA sequence and creates a temporary RNA copy. The RNA copy travels out of the nucleus and gets translated into a protein at a ribosome. Translation reads three-letter combinations of bases (codons), each specifying which amino acid to add to the growing protein chain. After all codons are read, the protein is complete and takes its functional shape. Different genes produce different proteins with different functions. Humans have roughly twenty thousand genes producing tens of thousands of different proteins. Each protein's structure and function are determined by its amino acid sequence, which is dictated by the gene's DNA sequence.",
+      "imageUrl": "images/dna-to-protein.jpg",
+      "imageCaption": "Gene expression: DNA to RNA to protein"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "DNA Replication",
+      "body": "DNA replication is the process by which cells copy their DNA before dividing. The enzyme DNA helicase unwinds the double helix. Then, DNA polymerase adds new nucleotides to each separated strand, following the base-pairing rules. Where there was an A on the original strand, a T gets added to the new strand, and vice versa. This ensures each new DNA molecule is an exact copy of the original. Remarkably, DNA replication occurs with extremely high accuracy—errors occur in only one out of every billion base pairs. When errors do occur, repair mechanisms usually catch and fix them. DNA replication is essential for cell division. Each daughter cell receives a complete copy of genetic information. Errors in replication can lead to mutations—changes in DNA sequence. Some mutations are neutral, some harmful, and rarely, some beneficial. Mutations provide variation that allows evolution by natural selection.",
+      "imageUrl": "images/dna-replication.jpg",
+      "imageCaption": "DNA replication creating two identical copies"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Chromosomes and the Genome",
+      "body": "DNA is organized into structures called chromosomes, each containing a single molecule of DNA wrapped around proteins called histones. Histones and associated proteins compact DNA efficiently—the DNA in a single cell would stretch two meters, but when coiled around histones and further organized, it fits in a nucleus just millionths of a meter across. Humans have forty-six chromosomes (twenty-three pairs) containing approximately three billion base pairs. The complete set of chromosomes and DNA is called the genome. One chromosome comes from each parent, providing genetic diversity. Twenty-two pairs of chromosomes are autosomes carrying general genetic information. One pair are sex chromosomes: XX in females, XY in males. The Y chromosome determines maleness. The entire human genome has been sequenced, providing a reference map of human genetic information. Understanding chromosomal organization helps explain how genes are inherited and how genetic diseases occur.",
+      "imageUrl": "images/chromosomes.jpg",
+      "imageCaption": "46 human chromosomes organized in pairs"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Genetic Inheritance",
+      "body": "Children inherit DNA from both parents. Each parent contributes one copy of each chromosome, so children have two copies of each gene—one from each parent. This genetic inheritance follows predictable patterns discovered by Gregor Mendel. If both parents contribute the same gene version (allele), offspring have that allele pair. If parents contribute different alleles, offspring inherit both. Some alleles are dominant, expressing their trait even when paired with a recessive allele. Other alleles are recessive, expressing only when both copies are recessive. This explains why children often resemble their parents and why genetic traits skip generations. Mutations create new alleles, increasing genetic variation. Different alleles can produce different trait variations—blue eyes, brown eyes, hair texture, and many other characteristics. Some genetic conditions result from inheriting mutant alleles from both parents. Understanding genetic inheritance helps predict inherited diseases and explains human diversity.",
+      "funFact": "On average, your DNA is 99.9% identical to any other human's DNA—that 0.1% difference creates remarkable diversity!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Mutations and Evolution",
+      "body": "Mutations are permanent changes in DNA sequence. They can result from replication errors, radiation damage, chemical exposure, or viral insertion. Most mutations have no significant effect. Some reduce fitness by impairing protein function. Rarely, mutations improve function or create new capabilities. Over generations, beneficial mutations become more common through natural selection while harmful mutations decrease. This process drives evolution. Mutations provide the variation that natural selection acts upon. Without mutations, evolution couldn't occur because there would be no genetic differences among organisms. Over millions of years, accumulated mutations create new species. Some mutations cause genetic diseases when they occur in important genes. Cancer develops through multiple mutations accumulating in critical genes. Understanding mutations helps develop treatments for genetic diseases and explains how life evolves.",
+      "imageUrl": "images/mutations.jpg",
+      "imageCaption": "Different types of DNA mutations"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Epigenetics: Beyond the Sequence",
+      "body": "While the DNA sequence provides the basic code, epigenetics reveals that additional factors control which genes are expressed. Chemical modifications to DNA and histone proteins regulate gene activity without changing the sequence itself. These modifications can silence genes or allow their expression. Environmental factors—diet, stress, toxins, temperature—can affect epigenetic modifications. Remarkably, some epigenetic changes can be inherited by offspring without altering the underlying DNA sequence. This explains how identical twins with the same DNA can develop different traits over time as different environmental exposures create different epigenetic patterns. Epigenetics shows that nature and nurture interact at the molecular level. Your genes provide potential, but environmental factors modify which genes are active. This understanding is revolutionizing medicine by showing how lifestyle factors affect health through gene expression regulation. Epigenetics reveals that the genome is more dynamic and flexible than the static DNA sequence alone suggests."
+    }
+  ],
+  "quiz": {
+    "id": "quiz-9",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "What base pairs with adenine (A) in DNA?",
+        "options": [
+          "Guanine (G)",
+          "Thymine (T)",
+          "Cytosine (C)",
+          "Adenine always pairs with itself"
+        ],
+        "correctAnswer": "Thymine (T)",
+        "explanation": "In DNA, adenine always pairs specifically with thymine through hydrogen bonds, and guanine pairs with cytosine."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "DNA replication is a perfect process with no errors.",
+        "correctAnswer": "false",
+        "explanation": "While DNA replication is highly accurate, errors occur in approximately one out of every billion base pairs, though repair mechanisms usually fix these mistakes."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "A ________ is a specific section of DNA that contains instructions for making a protein.",
+        "correctAnswer": "gene",
+        "explanation": "Genes are segments of DNA that code for proteins, with each gene producing a specific protein with a specific function."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "How many chromosomes do humans typically have?",
+        "options": [
+          "23",
+          "23 pairs (46 total)",
+          "100",
+          "The number varies per individual"
+        ],
+        "correctAnswer": "23 pairs (46 total)",
+        "explanation": "Humans have 46 chromosomes organized in 23 pairs, with 22 pairs of autosomes and one pair of sex chromosomes."
+      },
+      {
+        "id": "q5",
+        "type": "multiple_choice",
+        "questionText": "What role do mutations play in evolution?",
+        "options": [
+          "Mutations prevent evolution",
+          "Mutations provide genetic variation that natural selection acts upon",
+          "Mutations only cause genetic diseases",
+          "Mutations have no effect on evolution"
+        ],
+        "correctAnswer": "Mutations provide genetic variation that natural selection acts upon",
+        "explanation": "Mutations create genetic diversity within populations, allowing natural selection to favor beneficial traits and drive evolutionary change over time."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440009"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Watson, J. D., et al. (2013). 'Molecular Biology of the Gene' (7th ed.). Pearson.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Franklin, R. E., & Gosling, R. G. (1953). 'Molecular configuration in sodium thymonucleate'. Nature, 171(4356), 740-741.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Human Genome Project Consortium. (2003). 'Finishing the euchromatic sequence of the human genome'. Nature, 431(7011), 931-945.",
+      "type": "journal"
+    }
+  ],
+  "publishedAt": "2026-04-25T00:00:00Z",
+  "createdAt": "2026-04-25T00:00:00Z",
+  "updatedAt": "2026-04-25T00:00:00Z"
+}

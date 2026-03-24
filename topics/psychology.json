@@ -1,0 +1,9 @@
+{
+  "id": "psychology",
+  "name": "Psychology",
+  "slug": "psychology",
+  "emoji": "🧩",
+  "colorHex": "#EC4899",
+  "description": "Understanding the human mind",
+  "sortOrder": 5
+}

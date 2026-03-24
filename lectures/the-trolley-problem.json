@@ -1,0 +1,131 @@
+{
+  "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "slug": "the-trolley-problem",
+  "title": "The Trolley Problem",
+  "subtitle": "A Moral Dilemma That Challenges Our Ethical Intuitions",
+  "topicId": "philosophy",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-trolley-problem.jpg",
+  "isPremium": false,
+  "featured": true,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "What is the Trolley Problem?",
+      "body": "The trolley problem is a famous thought experiment in ethics created by philosopher Philippa Foot in 1967. It presents a moral dilemma: a runaway trolley is headed toward five people on the track. You stand by a lever that can divert the trolley to a side track where it will kill one person instead. Should you pull the lever? This scenario reveals tensions between two major ethical frameworks: consequentialism, which focuses on outcomes, and deontological ethics, which emphasizes duties and rules."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "The Footbridge Variant",
+      "body": "Philosopher Judith Thomson introduced a variation where instead of pulling a lever, you must push a large person off a footbridge to stop the trolley. Most people refuse to push even though the math is identical: one death versus five. This variation exposes something intriguing about human moral judgment. It suggests our ethics aren't purely consequentialist. We distinguish between actively harming someone and allowing harm to occur. This distinction challenges purely outcome-focused moral reasoning and suggests other factors matter in our ethical decision-making.",
+      "funFact": "Thomson's footbridge variant was inspired by an earlier trolley problem variant but adds a visceral, personal element that dramatically changes most people's intuitions."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Consequentialism vs. Deontology",
+      "body": "Consequentialist ethics judges actions by their outcomes. From this view, pulling the lever seems correct: five deaths are worse than one. Deontological ethics, by contrast, focuses on duties and rules. It might say actively killing someone violates a fundamental duty, even if it prevents greater harm. The trolley problem illustrates why both approaches matter. Pure consequentialism can justify disturbing actions, while pure deontology can permit seemingly irrational refusals to minimize harm. Most people's actual moral intuitions blend both approaches, explaining our inconsistent responses."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Psychological Insights from Variations",
+      "body": "Neuroscience research shows that personal contact activates emotional brain regions, while abstract dilemmas activate rational regions. When pushing someone, we experience moral disgust and emotional resistance. With the lever, it feels more distant and abstract. This reveals that human morality isn't purely rational. We're influenced by psychology, emotion, and evolutionary factors. The trolley problem demonstrates how context shapes our moral judgment. Understanding these psychological patterns helps us recognize biases in our ethical thinking and make more deliberate moral choices rather than relying solely on gut feelings."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Real-World Applications",
+      "body": "The trolley problem isn't merely abstract. It mirrors real ethical dilemmas in medicine, law, and technology. Doctors face versions when allocating scarce resources during crises. Autonomous vehicle designers confront it when programming crash scenarios. Legal systems grapple with it in cases involving self-defense or lesser harms. The problem teaches us to examine our moral principles critically and recognize when our intuitions might conflict. By studying artificial scenarios, we can develop more coherent ethical frameworks before facing high-stakes real situations where emotions might cloud judgment and we need principled guidance."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Criticisms and Limitations",
+      "body": "Critics argue the trolley problem oversimplifies ethics by reducing complex situations to binary choices with perfect information. Real moral dilemmas involve uncertainty, competing goods, and multiple stakeholders. Some philosophers contend that artificial scenarios don't capture how humans actually make moral decisions in social contexts. Others question whether thought experiments about impossible situations reveal genuine ethical principles. Despite these criticisms, the trolley problem remains valuable. It doesn't claim to answer real dilemmas definitively but rather provides a laboratory for examining our moral reasoning and discovering hidden assumptions underlying our ethical judgments."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Foot, Philippa. 'The Problem of Abortion and the Doctrine of Double Effect.' Oxford Review, 1967.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Thomson, Judith. 'Killing, Letting Die, and the Trolley Problem.' The Monist, 1976.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Greene, Joshua D. 'The Secret Joke of Kant's Soul.' In Moral Psychology, 2007.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-the-trolley-problem",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "Who originally created the trolley problem thought experiment?",
+        "options": [
+          "Philippa Foot",
+          "Judith Thomson",
+          "Jeremy Bentham",
+          "Immanuel Kant"
+        ],
+        "correctAnswer": "Philippa Foot",
+        "explanation": "Philippa Foot introduced the trolley problem in 1967 as a way to explore tensions between different ethical theories and how we make moral decisions."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "In the footbridge variant, most people are willing to push a large person off a bridge to stop the trolley.",
+        "correctAnswer": "false",
+        "explanation": "Most people refuse to push someone off the bridge, even though mathematically it saves the same net number of lives (one death vs. five). This shows our ethics involves more than just consequences."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "Which ethical framework focuses on the outcomes of actions?",
+        "options": [
+          "Deontological ethics",
+          "Virtue ethics",
+          "Consequentialism",
+          "Contractualism"
+        ],
+        "correctAnswer": "Consequentialism",
+        "explanation": "Consequentialism judges actions based on their results. In the trolley problem, a consequentialist would likely pull the lever because it produces the better outcome: one death rather than five."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "The trolley problem demonstrates that human morality is influenced not just by reason but also by ___, emotion, and context.",
+        "correctAnswer": "psychology",
+        "explanation": "Neuroscience research shows that personal involvement activates emotional brain regions, while abstract scenarios activate rational regions, proving psychology plays a key role in moral judgment."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "Which of the following is a real-world application of trolley problem reasoning?",
+        "options": [
+          "Deciding what to eat for breakfast",
+          "Allocating scarce medical resources during a crisis",
+          "Choosing a favorite movie genre",
+          "Deciding what clothes to wear"
+        ],
+        "correctAnswer": "Allocating scarce medical resources during a crisis",
+        "explanation": "Doctors and hospitals face versions of the trolley problem when deciding how to allocate limited resources like ventilators or organ transplants during emergencies or pandemics."
+      }
+    ],
+    "lectureId": "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "publishedAt": "2026-04-01T00:00:00Z",
+  "createdAt": "2026-04-01T00:00:00Z",
+  "updatedAt": "2026-04-01T00:00:00Z"
+}

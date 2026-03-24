@@ -1,0 +1,135 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440007",
+  "slug": "ancient-egypt-pyramids",
+  "title": "How Were the Pyramids Built?",
+  "subtitle": "Engineering marvels of the ancient world",
+  "topicId": "history",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/ancient-egypt-pyramids.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Purpose and Significance of Pyramids",
+      "body": "Ancient Egyptian pyramids were monumental tombs built for pharaohs (kings) and their families during the Old Kingdom (c. 2686-2181 BCE) and later periods. Egyptians believed in an afterlife and built pyramids to preserve the pharaoh's body and provide a resting place for the soul's journey to the eternal realm. The pyramids demonstrated a pharaoh's power and wealth. The largest pyramid, the Great Pyramid of Khufu in Giza, was built around 2560 BCE using approximately 2.3 million stone blocks. For nearly 4,000 years, it remained the tallest man-made structure on Earth. Pyramids were sacred spaces filled with elaborate carvings, paintings, statues, and treasures.",
+      "funFact": "The Great Pyramid is one of the Seven Wonders of the Ancient World and the only one still standing today."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Quarrying and Transporting Massive Stones",
+      "body": "Pyramid construction required extracting limestone and granite blocks from quarries, some located far from the construction site. Workers used copper tools and stone hammers to pound grooves into rock. Wooden wedges, moistened to expand, split the stone. The largest blocks weighed 15 tons or more. Workers transported blocks on wooden sledges that were dragged over sandy ground and wet sand, which reduced friction. Evidence suggests ramps—perhaps spiral, zigzagging, or linear—guided blocks upward. Water and lubricants facilitated movement. Thousands of workers, including both permanent employees and seasonal laborers, coordinated enormous logistical efforts. The infrastructure required for pyramid building demonstrates sophisticated organizational capabilities.",
+      "imageUrl": "images/cards/pyramid-stone-quarry.jpg",
+      "imageCaption": "Workers quarrying and transporting massive stone blocks for pyramid construction"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Labor Force and Organization",
+      "body": "Contrary to popular belief, pyramids were not built by slaves. Archaeological evidence, including worker settlements, graffiti, and administrative records, reveals that paid workers, skilled craftsmen, and seasonal laborers built pyramids. Workers were organized into teams with leaders. They received payment in food, beer, and housing. The construction workforce included stonemasons, engineers, overseers, laborers, and support staff including bakers and medical personnel. Pyramid construction employed thousands of people for decades. This massive labor mobilization was possible because of Egypt's centralized government and the pharaoh's authority to command resources. Archaeological discoveries of worker villages near pyramids reveal detailed information about their lives.",
+      "funFact": "Workers left graffiti on blocks inside the Great Pyramid, providing names of work gangs and supervisors, giving us insight into their identities and organization."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Engineering and Precision",
+      "body": "Despite lacking modern surveying instruments, Egyptian engineers achieved extraordinary precision. The Great Pyramid's base is level to within a few inches across its entire 755-foot length. The pyramid's sides align almost exactly with cardinal directions. Workers used simple tools—plumb bobs, levels, measuring ropes, and right-angle devices—to ensure accuracy. They employed geometry and mathematical knowledge. The internal structure included chambers, passages, and sophisticated ventilation shafts. The arrangement of blocks created stable structures that distributed weight effectively. The engineering required understanding mathematical relationships, structural principles, and practical problem-solving. This demonstrates the intellectual sophistication of ancient Egyptian civilization.",
+      "imageUrl": "images/cards/pyramid-cross-section.jpg",
+      "imageCaption": "Cross-section showing the internal chambers and passages of the Great Pyramid"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "The Ramp Controversy and Methods",
+      "body": "Scholars continue debating how blocks were raised to the upper levels. Leading theories include external ramps, internal ramps, lever systems, and pulley systems. Experimental archaeology has tested various methods. Some evidence suggests a combination approach was used. Ramps would have spiraled around the pyramid or ascended diagonally. The incline would need to be gradual enough for workers and sledges to manage. Recent archaeological surveys have found evidence of potential ramp pathways. Workers likely used leverage, rollers, and coordinated effort to move blocks. Water poured on sand reduced friction substantially. The exact method may have varied as construction progressed.",
+      "funFact": "Modern experimental archaeology has successfully moved multi-ton blocks using ancient Egyptian techniques, confirming the feasibility of their methods."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Legacy and Lessons",
+      "body": "The pyramids remain testament to human ingenuity, determination, and organizational capability. Ancient Egyptians accomplished monumental feats using simple tools, mathematical knowledge, and coordinated effort. The pyramids housed advanced internal designs with hidden chambers, sealed passages, and mechanisms. Their construction required decades of planning, resource management, and skilled execution. Understanding how pyramids were built reveals capabilities of ancient civilization often underestimated by modern people. The pyramids demonstrate that humans can accomplish extraordinary things through vision, organization, and persistence. These monuments continue inspiring awe and providing insights into ancient Egyptian engineering, mathematics, religion, and society.",
+      "funFact": "The amount of stone in the Great Pyramid equals approximately 2.3 million blocks, each requiring individual quarrying, transport, and precise placement."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Complete Pyramids",
+      "author": "Mark Lehner",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "How the Great Pyramid Was Built",
+      "author": "Craig B. Smith",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Ancient Egypt",
+      "author": "Zahi Hawass",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-pyramids-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "The Great Pyramid of Khufu was built approximately how many years ago?",
+        "options": [
+          "2,000 years ago",
+          "4,500 years ago",
+          "6,000 years ago",
+          "8,000 years ago"
+        ],
+        "correctAnswer": "4,500 years ago",
+        "explanation": "The Great Pyramid was constructed around 2560 BCE, approximately 4,500 years ago during Egypt's Old Kingdom."
+      },
+      {
+        "id": "q2",
+        "type": "fill_blank",
+        "questionText": "The Great Pyramid of Khufu is composed of approximately _______ million stone blocks, each weighing several tons.",
+        "correctAnswer": "2.3",
+        "explanation": "The Great Pyramid contains approximately 2.3 million stone blocks, demonstrating the enormous scale of the construction project."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "Archaeological evidence shows that pyramids were built by enslaved people rather than paid workers.",
+        "correctAnswer": "false",
+        "explanation": "Evidence from worker settlements, records, and graffiti shows that paid workers, skilled craftsmen, and seasonal laborers built pyramids, not slaves."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "What was the primary purpose of constructing the Egyptian pyramids?",
+        "options": [
+          "To serve as temples for religious ceremonies",
+          "To demonstrate the pharaoh's wealth and power",
+          "To serve as tombs for pharaohs and preparation for the afterlife",
+          "To function as astronomical observatories"
+        ],
+        "correctAnswer": "To serve as tombs for pharaohs and preparation for the afterlife",
+        "explanation": "Pyramids were monumental tombs built to preserve the pharaoh's body and serve as resting places for the soul's journey in the afterlife."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "Modern experimental archaeology has successfully tested ancient Egyptian techniques for moving large stone blocks.",
+        "correctAnswer": "true",
+        "explanation": "Archaeologists have conducted experiments confirming that ancient Egyptian methods using levers, water, rollers, and coordinated effort could effectively move multi-ton blocks."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440007"
+  },
+  "publishedAt": "2026-04-13T00:00:00Z",
+  "createdAt": "2026-04-13T00:00:00Z",
+  "updatedAt": "2026-04-13T00:00:00Z"
+}

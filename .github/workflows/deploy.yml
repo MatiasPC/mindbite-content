@@ -1,0 +1,76 @@
+name: Deploy Content
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    name: Validate Content
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate all JSON
+        run: node scripts/validate.js
+
+      - name: Generate catalog
+        run: node scripts/generate-catalog.js
+
+      - name: Verify catalog was generated
+        run: test -f catalog.json && echo "catalog.json exists" || exit 1
+
+  deploy:
+    name: Deploy to R2
+    needs: validate
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate catalog
+        run: node scripts/generate-catalog.js
+
+      - name: Install wrangler
+        run: npm install -g wrangler
+
+      - name: Upload catalog.json to R2
+        run: wrangler r2 object put mindbite-content/catalog.json --file=catalog.json --content-type=application/json
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+
+      - name: Upload topic files to R2
+        run: |
+          for file in topics/*.json; do
+            wrangler r2 object put "mindbite-content/$file" --file="$file" --content-type=application/json
+          done
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+
+      - name: Upload lecture files to R2
+        run: |
+          for file in lectures/*.json; do
+            wrangler r2 object put "mindbite-content/$file" --file="$file" --content-type=application/json
+          done
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+
+      - name: Purge CDN cache for catalog
+        run: |
+          echo "Note: R2 custom domain cache purge can be configured via Cloudflare API"
+          echo "For now, catalog.json has max-age=1800 so updates propagate within 30 min"

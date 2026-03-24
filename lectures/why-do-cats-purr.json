@@ -1,0 +1,130 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "slug": "why-do-cats-purr",
+  "title": "Why Do Cats Purr?",
+  "subtitle": "Understanding the Science Behind Your Cat's Rumbling Engine",
+  "topicId": "nature-animals",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/why-do-cats-purr.jpg",
+  "isPremium": false,
+  "featured": true,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Mechanics of Purring",
+      "body": "Cat purring is produced by muscles in the larynx (voice box) that rapidly contract and relax while your cat inhales and exhales. This vibration creates the characteristic rumbling sound at frequencies between 25 and 150 Hertz. Scientists believe these muscles are controlled by a specialized neural oscillator in the brain. The vibrations are so consistent that cats can maintain purring while eating, drinking, or even giving birth. This remarkable biological adaptation demonstrates the evolutionary sophistication of feline communication.",
+      "funFact": "A cat's purring frequency is similar to the frequencies used in therapy to promote bone healing in humans!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Reasons Cats Purr",
+      "body": "While many associate purring with contentment, cats purr for multiple reasons. They purr when being petted or sitting in a comfortable lap, signaling trust and affection. However, cats also purr when they're injured, sick, or distressed—suggesting purring may have self-soothing properties. Mother cats purr to guide newborn kittens, and kittens purr within hours of birth. During veterinary visits or stressful situations, cats may purr as a coping mechanism. Understanding context is essential to interpreting what your cat's purr truly means.",
+      "imageUrl": "images/cards/cat-purring.jpg",
+      "imageCaption": "A cat purring contentedly on its owner's lap"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Healing and Health Benefits",
+      "body": "Research suggests that purring may have therapeutic benefits for cats themselves. The vibrations generated during purring may stimulate muscles and bones, potentially preventing atrophy during periods of inactivity. Studies have shown that cats' purring frequencies overlap with frequencies that promote tissue repair and bone healing in medical research. For humans, the sound and vibrations of a purring cat may reduce stress and lower blood pressure. This mutual benefit explains why cat ownership has been associated with improved mental and physical health outcomes in numerous studies.",
+      "funFact": "The purring of domestic cats has frequencies similar to those used in bone-healing treatments!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Purring vs. Other Vocalizations",
+      "body": "Cats communicate through various vocalizations beyond purring: meowing, hissing, yowling, and chattering. Unlike purring, meowing is primarily directed at humans rather than other cats. Hissing is a defensive sound mimicking snakes to warn potential threats. Yowling often indicates mating behavior or distress. Purring is unique because it's the only vocalization that can be sustained continuously, whether inhaling or exhaling. Some researchers believe purring evolved as a mother-kitten bonding mechanism, while other vocalizations developed for territorial and social communication.",
+      "imageUrl": "images/cards/cat-vocalizations.jpg",
+      "imageCaption": "Different cat sounds serve different communication purposes"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Individual Variation in Purring",
+      "body": "Not all cats purr with the same intensity or frequency. Some cats are chronic purrers, while others purr rarely. Kittens typically purr more frequently than adult cats. Older cats may purr less due to age-related changes in muscle control. Breed variations exist, with some breeds being more vocal than others. Outdoor cats purr less frequently than indoor cats, possibly because they rely more on other communication methods with their feline community. Environmental factors, early socialization, and individual personality all influence how often and how loudly a cat will purr.",
+      "funFact": "Some cat owners report their cats purr louder when they're hungry!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "The Neurological Connection",
+      "body": "The brain orchestrates purring through a specialized neural oscillator that sends rhythmic signals to the laryngeal muscles. This mechanism is thought to be involuntary in many situations, meaning your cat may be purring without conscious control. However, research suggests cats can modulate their purring intensity and duration, indicating some voluntary control. The neural pathways involved in purring are distinct from those controlling meowing, explaining why cats can purr while vocalizing. This neurological sophistication reflects cats' evolutionary success as both solitary hunters and social companions.",
+      "imageUrl": "images/cards/cat-brain.jpg",
+      "imageCaption": "The cat brain contains a specialized oscillator for purring"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Cat Behavior Answer Book: Practical Insights and Proven Solutions",
+      "author": "Arden Moore",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "Feline Behavior: A Guide for Veterinarians",
+      "author": "Kristyn Vitale and Monique Udell",
+      "type": "journal",
+      "id": "src-2"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-why-do-cats-purr",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "What produces the sound of a cat's purr?",
+        "options": [
+          "Rapid contractions of throat muscles",
+          "Air passing through nasal passages",
+          "The vibration of the tail",
+          "Clicking of the teeth together"
+        ],
+        "correctAnswer": "Rapid contractions of throat muscles",
+        "explanation": "The laryngeal muscles in the voice box rapidly contract and relax to produce the characteristic rumbling vibration of purring."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "Cats only purr when they are happy and content.",
+        "correctAnswer": "false",
+        "explanation": "While cats purr when content, they also purr when injured, sick, distressed, or as a self-soothing mechanism during stressful situations."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "A cat's purring frequency ranges between _____ and _____ Hertz.",
+        "correctAnswer": "25 and 150",
+        "explanation": "Research has shown that cat purring vibrations typically occur at frequencies between 25 and 150 Hertz."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "Which of the following is unique about purring compared to other cat vocalizations?",
+        "options": [
+          "It can only be produced while inhaling",
+          "It can be sustained continuously while both inhaling and exhaling",
+          "It is primarily used to communicate with other cats",
+          "It can reach frequencies above 200 Hertz"
+        ],
+        "correctAnswer": "It can be sustained continuously while both inhaling and exhaling",
+        "explanation": "Unlike meowing and other vocalizations, purring is unique because cats can maintain it continuously during both inhaling and exhaling."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "The purring frequency in cats is similar to frequencies used in human bone-healing therapies.",
+        "correctAnswer": "true",
+        "explanation": "Studies show that cat purring frequencies overlap with therapeutic frequencies used to promote tissue repair and bone healing in medical research."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440001"
+  },
+  "publishedAt": "2026-04-01T00:00:00Z",
+  "createdAt": "2026-04-01T00:00:00Z",
+  "updatedAt": "2026-04-01T00:00:00Z"
+}

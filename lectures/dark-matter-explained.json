@@ -1,0 +1,148 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440006",
+  "slug": "dark-matter-explained",
+  "title": "Dark Matter Explained",
+  "subtitle": "The invisible substance holding galaxies together",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/dark-matter-explained.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Mystery of Missing Mass",
+      "body": "When astronomers calculate the mass of galaxies based on visible matter—stars, gas, and dust—they find it's not enough to explain the observed motions. Galaxies rotate too quickly; they should fly apart like a spinning merry-go-round missing much of its weight. Clusters of galaxies move in ways suggesting invisible matter far more massive than visible matter. This discrepancy led to the hypothesis of dark matter: an invisible form of matter comprising roughly 85% of all matter in the universe. Dark matter's gravity provides the 'glue' holding galaxies and clusters together.",
+      "funFact": "For every kilogram of normal matter, there are about 5-6 kilograms of dark matter in the universe!",
+      "imageUrl": "images/content/galaxy-rotation-curve.jpg",
+      "imageCaption": "Galaxy rotation curves showing the need for dark matter"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Observational Evidence",
+      "body": "Multiple independent observations support dark matter's existence. Galaxy rotation curves show outer regions moving too fast for gravitational stability with visible mass alone. The velocities of galaxies in clusters exceed predictions based on visible matter. Gravitational lensing—the bending of light by massive objects—reveals massive structures where only small amounts of visible matter exist. The temperature distribution of hot gas in galaxy clusters requires more gravitational mass than visible stars provide. The cosmic microwave background measurements constrain the total matter density, confirming dark matter's dominance over normal matter.",
+      "imageUrl": "images/content/gravitational-lensing.jpg",
+      "imageCaption": "Gravitational lensing by dark matter bends light from distant galaxies"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Candidates for Dark Matter",
+      "body": "Scientists have proposed numerous dark matter candidates. Weakly Interacting Massive Particles (WIMPs) are hypothetical particles that barely interact with normal matter. Axions are tiny, ghost-like particles originally proposed to solve problems in nuclear physics. Sterile neutrinos interact only through gravity. MACHOs (Massive Compact Halo Objects) like black holes and neutron stars are non-particle alternatives. Each candidate has different properties and detection signatures. Despite decades of searching with sensitive detectors, no direct detection has been confirmed, though experiments continue searching for dark matter particles.",
+      "funFact": "Dark matter particles might be passing through your body right now—billions per second—without interacting!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Dark Matter Halos",
+      "body": "Galaxies are embedded in massive halos of dark matter. These halos extend far beyond visible stars and contain most of a galaxy's mass. Our Milky Way likely has a dark matter halo extending hundreds of thousands of light-years. Dark matter halos influence galaxy formation, mergers, and evolution. The distribution of dark matter in halos can be inferred from gravitational lensing and galaxy dynamics. Computer simulations help predict dark matter halo properties, but many details remain uncertain. The structure and properties of dark matter halos remain active research areas.",
+      "imageUrl": "images/content/dark-matter-halo.jpg",
+      "imageCaption": "An illustration of a galaxy surrounded by its dark matter halo"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Detection Experiments",
+      "body": "Scientists conduct sophisticated experiments searching for dark matter particles. Underground detectors like XENON and SuperCDMS seek direct collisions between dark matter and atomic nuclei. These experiments require extreme shielding from cosmic rays, hence the underground locations. Particle accelerators like the Large Hadron Collider search for dark matter produced in high-energy collisions. Other experiments hunt for axions using specialized magnetometers. Despite the extensive search, no confirmed dark matter particle detection has occurred. This non-detection is itself informative, constraining dark matter properties.",
+      "imageUrl": "images/content/xenon-detector.jpg",
+      "imageCaption": "Inside the XENON dark matter detection experiment"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Alternative Theories",
+      "body": "Some scientists propose alternative explanations to dark matter. Modified gravity theories like MOND (Modified Newtonian Dynamics) adjust gravitational laws to explain observations without dark matter. However, these theories struggle to explain all phenomena dark matter easily accounts for, particularly large-scale structure and the cosmic microwave background. While modified gravity remains an active research area, observations increasingly support dark matter over modifications to gravity alone. The mainstream view is that dark matter comprises the missing gravitational mass, though alternatives continue being explored.",
+      "funFact": "Modified gravity theories work better for individual galaxies but fail at explaining galaxy cluster dynamics!"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "The Future of Dark Matter Research",
+      "body": "Dark matter research remains one of physics' greatest mysteries. Future experiments with improved sensitivity may finally detect dark matter particles directly. Next-generation telescopes will enable better observations of dark matter distributions through gravitational lensing. Gravitational wave detectors may reveal dark matter's effects. Theoretical advances may predict new dark matter candidates. The solution could involve multiple dark matter types with different properties. Discovering dark matter's true nature would profoundly impact physics, revealing physics beyond the Standard Model and deepening our understanding of the universe's fundamental composition.",
+      "funFact": "Finding dark matter could lead to revolutionary new physics beyond what we currently know!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Bertone, G., Hooper, D., & Silk, J. (2005). 'Particle dark matter: Evidence, candidates and constraints.' Physics Reports, 405(5-6), 279-390.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Clowe, D., et al. (2006). 'A direct empirical proof of the existence of dark matter.' The Astrophysical Journal Letters, 648(2), L109.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Planck Collaboration (2018). 'Planck 2018 results. VI. Cosmological parameters.' Astronomy & Astrophysics, 641, A6.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-6",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "What percentage of the universe's matter is estimated to be dark matter?",
+        "options": [
+          "Approximately 15%",
+          "Approximately 50%",
+          "Approximately 85%",
+          "Approximately 95%"
+        ],
+        "correctAnswer": "Approximately 85%",
+        "explanation": "Dark matter comprises about 85% of all matter in the universe, far exceeding normal matter."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Galaxy rotation curves provide evidence that galaxies contain more mass than can be accounted for by visible stars and gas alone.",
+        "correctAnswer": "true",
+        "explanation": "Galaxy rotation curves show outer regions moving too fast, requiring additional gravitational mass from dark matter."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "Which of these is NOT a proposed dark matter candidate?",
+        "options": [
+          "WIMPs (Weakly Interacting Massive Particles)",
+          "Axions",
+          "Photons",
+          "Sterile neutrinos"
+        ],
+        "correctAnswer": "Photons",
+        "explanation": "Photons are part of normal matter and readily interact with other matter. Dark matter candidates are hypothetical particles."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "The region surrounding a galaxy and containing most of its mass in the form of dark matter is called a dark matter _______.",
+        "correctAnswer": "halo",
+        "explanation": "Dark matter halos are extended regions around galaxies containing the bulk of gravitational mass."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "What is MOND short for?",
+        "options": [
+          "Modified Orbital Newtonian Dynamics",
+          "Modified Newtonian Dynamics",
+          "Many Orbiting Newtonian Disks",
+          "Massive Object Newtonian Distribution"
+        ],
+        "correctAnswer": "Modified Newtonian Dynamics",
+        "explanation": "MOND proposes modifying gravitational laws as an alternative explanation to dark matter, though observations increasingly support dark matter."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440006"
+  },
+  "publishedAt": "2026-04-11T00:00:00Z",
+  "createdAt": "2026-04-11T00:00:00Z",
+  "updatedAt": "2026-04-11T00:00:00Z"
+}

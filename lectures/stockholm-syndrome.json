@@ -1,0 +1,119 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440007",
+  "slug": "stockholm-syndrome",
+  "title": "Stockholm Syndrome",
+  "subtitle": "Understanding Psychological Bonding Under Duress",
+  "topicId": "psychology",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/stockholm-syndrome.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Hostage Crisis That Started It All",
+      "body": "Stockholm Syndrome takes its name from a 1973 bank robbery and hostage situation in Stockholm, Sweden. Two robbers held four bank employees hostage for nearly six days. Remarkably, the hostages developed positive feelings toward their captors, defending them after rescue and even visiting them in prison. Psychologists Frank Ochberg and Nils Bejerot analyzed this case, identifying the psychological pattern later termed Stockholm Syndrome. The condition has since been recognized in various hostage, abduction, and trauma situations. This phenomenon reveals how human psychology can adapt to extreme danger through unusual psychological mechanisms involving identity, empathy, and survival instincts.",
+      "funFact": "One hostage reportedly said 'If they do bad things, they're against me' about the robbers, demonstrating the psychological shift toward their captors."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Key Psychological Mechanisms",
+      "body": "Stockholm Syndrome involves several psychological processes. The captee perceives a threat to survival from the captors, creating intense fear. When captors grant small gestures of kindness—providing food, allowing bathroom breaks—the contrast between threat and kindness creates emotional bonding. This relief from fear produces positive associations with the captors. Isolation from outside perspectives prevents reality-checking. Captees may unconsciously suppress negative feelings to improve treatment prospects. Over time, captees adopt captors' perspectives, understanding their motivations and justifying their actions. The captee-captor relationship becomes the sole social reality, narrowing perspective. These mechanisms combine to create psychological attachment despite objective danger.",
+      "imageUrl": "images/stockholm-mechanisms.jpg"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "The Four Conditions for Development",
+      "body": "Researchers identified four conditions facilitating Stockholm Syndrome development. First, perceived threat to survival must exist. Second, small acts of kindness from captors create contrast with threat. Third, isolation prevents communication with outside perspectives that might counter the developing attachment. Fourth, an inability to escape maintains the power imbalance and dependence on captors. When all four conditions are present—a life-threatening situation with intermittent kindness, complete isolation, and hopelessness about escape—the psychological bonding becomes likely. However, these conditions aren't universally present in all high-stress situations, which explains why Stockholm Syndrome doesn't develop in every hostage scenario.",
+      "imageUrl": "images/stockholm-conditions.jpg",
+      "imageCaption": "Four conditions facilitate Stockholm Syndrome development"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Beyond Hostage Situations",
+      "body": "While Stockholm Syndrome originated from hostage research, psychologists have observed similar patterns in other contexts. Abuse victims sometimes defend abusers and resist leaving relationships, showing psychological mechanisms overlapping with Stockholm Syndrome. Cult members often exhibit loyalty to leaders who emotionally or financially exploit them. Some employees develop attachment to exploitative employers. Prison guards and inmates sometimes develop unexpected loyalty patterns. However, mental health professionals debate whether these situations constitute true Stockholm Syndrome or represent related but distinct phenomena. The broader insight—that captive people under threat may develop attachment to their captors—applies across various coercive situations.",
+      "imageUrl": "images/stockholm-contexts.jpg"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Psychological Recovery and Implications",
+      "body": "Understanding Stockholm Syndrome has important implications for rescue and recovery. Mental health professionals recognize that hostages showing captor loyalty aren't necessarily mentally ill—they've adapted psychologically to extreme conditions. Recovery involves processing trauma, establishing safety, and rebuilding accurate threat perception. Therapy helps survivors distinguish between survival adaptations and genuine attachment. Legal systems have become more understanding, avoiding charging victims who initially cooperate with or defend captors. Workplace and relationship dynamics benefit from awareness that extreme power imbalances and trauma can create unexpected attachment patterns. This knowledge promotes compassion for those who've experienced coercive situations and informs better support strategies during recovery.",
+      "funFact": "The Stockholm Syndrome criteria remain controversial in psychology, with some experts arguing it's more accurately viewed as a trauma response than a distinct syndrome."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Ochberg, F. M. (1978). The victim of terrorism: Psychiatric considerations. Terrorism, 1(2), 147-168.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Graham, D. L., Rawlings, E. I., & Rimini, N. (1988). Survivors of terror: Battered women, hostages and the Stockholm syndrome. In K. Yllo & M. Bograd (Eds.), Feminist perspectives on wife abuse. Sage Publications.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-stockholm-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "In which city and year did the hostage situation occur that gave Stockholm Syndrome its name?",
+        "options": [
+          "Berlin, 1972",
+          "Stockholm, 1973",
+          "Oslo, 1974",
+          "Amsterdam, 1975"
+        ],
+        "correctAnswer": "Stockholm, 1973",
+        "explanation": "The original Stockholm Syndrome case involved a 1973 bank robbery in Stockholm, Sweden, where hostages developed positive feelings toward their captors."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "In Stockholm Syndrome, captees develop positive feelings toward captors primarily because they are naturally empathetic people.",
+        "correctAnswer": "false",
+        "explanation": "This is false. Stockholm Syndrome develops through specific psychological mechanisms including fear, intermittent kindness, and isolation—not simply due to personality traits."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "Which of the following is NOT one of the four conditions researchers identified as facilitating Stockholm Syndrome?",
+        "options": [
+          "Perceived threat to survival",
+          "Small acts of kindness from captors",
+          "Previous emotional trauma in the captee",
+          "Isolation from outside perspectives"
+        ],
+        "correctAnswer": "Previous emotional trauma in the captee",
+        "explanation": "The four identified conditions are: threat perception, intermittent kindness, isolation, and inability to escape. Previous trauma is not a required condition."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "When captors provide small gestures of kindness following perceived threats, the contrast creates emotional _______ between captee and captor.",
+        "correctAnswer": "bonding",
+        "explanation": "The psychological relief from fear when captors show kindness creates positive associations, leading to unexpected bonding despite the dangerous situation."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "Stockholm Syndrome patterns have been observed in contexts beyond hostage situations, such as certain abusive relationships.",
+        "correctAnswer": "true",
+        "explanation": "True. Psychologists have recognized similar psychological mechanisms in abuse victims, cult members, and exploitative relationship dynamics."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440007"
+  },
+  "publishedAt": "2026-04-13T00:00:00Z",
+  "createdAt": "2026-04-13T00:00:00Z",
+  "updatedAt": "2026-04-13T00:00:00Z"
+}

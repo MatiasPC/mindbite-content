@@ -1,0 +1,9 @@
+{
+  "id": "space-astronomy",
+  "name": "Space & Astronomy",
+  "slug": "space-astronomy",
+  "emoji": "🚀",
+  "colorHex": "#06B6D4",
+  "description": "Exploring the universe beyond",
+  "sortOrder": 6
+}

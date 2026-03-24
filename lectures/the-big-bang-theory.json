@@ -1,0 +1,148 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440002",
+  "slug": "the-big-bang-theory",
+  "title": "The Big Bang Theory",
+  "subtitle": "The origin and expansion of our universe",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 9,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-big-bang-theory.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Beginning of Everything",
+      "body": "The Big Bang theory describes how our universe began approximately 13.8 billion years ago. Before this moment, space, time, and matter did not exist in any conventional sense. In an incredibly hot, dense state, the universe suddenly began expanding. This wasn't an explosion in space, but rather the expansion of space itself. All of matter, energy, and spacetime emerged from this initial event, making it the most dramatic moment in cosmic history.",
+      "funFact": "The Big Bang didn't happen in a specific location—it happened everywhere at once!",
+      "imageUrl": "images/content/big-bang-timeline.jpg",
+      "imageCaption": "Timeline of the universe from the Big Bang to present"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Evidence from Cosmic Microwave Background",
+      "body": "One of the strongest pieces of evidence for the Big Bang is the cosmic microwave background (CMB). This is leftover radiation from when the universe was only 380,000 years old, when it cooled enough for light to travel freely. Discovered in 1965 by Penzias and Wilson, the CMB fills all of space uniformly. Precise measurements by satellites like WMAP and Planck show tiny temperature variations that match predictions from Big Bang theory, providing remarkable confirmation of the theory.",
+      "funFact": "About 1% of the static on old television sets was caused by CMB radiation!",
+      "imageUrl": "images/content/cmb-map.jpg",
+      "imageCaption": "Temperature map of the cosmic microwave background"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Hubble's Discovery and Cosmic Expansion",
+      "body": "In the 1920s, Edwin Hubble made a revolutionary discovery: the universe is expanding. By measuring the light from distant galaxies, he found that most galaxies are moving away from us, and the farther away they are, the faster they recede. This observation provided direct evidence that the universe had a beginning and is not static. If the universe is expanding now, tracing back in time means it must have been smaller and denser in the past, supporting the Big Bang hypothesis.",
+      "funFact": "The expansion of the universe is accelerating due to dark energy, not slowing down!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "The First Fractions of a Second",
+      "body": "The earliest moments of the Big Bang remain mysterious due to quantum effects at extreme energies. In the first fraction of a second, the universe was incomprehensibly hot and dense. During the first microsecond, quarks formed protons and neutrons. By one second after the Big Bang, the universe had cooled enough for the weak and electromagnetic forces to separate. Between one second and three minutes, protons and neutrons combined to form the first atomic nuclei—primarily hydrogen and helium.",
+      "funFact": "The first second of the Big Bang involved more fundamental changes than billions of years later!"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Recombination and the First Atoms",
+      "body": "For the first 380,000 years after the Big Bang, the universe was a hot plasma of particles and radiation. Electrons couldn't combine with nuclei because photons had too much energy. Then the universe expanded and cooled below 3,000 Kelvin, allowing electrons to recombine with nuclei to form neutral atoms—mostly hydrogen and some helium. This moment, called recombination, is when light could finally travel freely, creating the cosmic microwave background we observe today.",
+      "imageUrl": "images/content/recombination-era.jpg",
+      "imageCaption": "The era of recombination marked when the universe became transparent"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Structure Formation and Galaxies",
+      "body": "After recombination, the universe was mostly uniform, but tiny density variations seeded structure formation. Over millions of years, gravity amplified these variations, pulling matter together into clumps. The first stars formed about 100-200 million years after the Big Bang, followed by the first galaxies. These early galaxies were merging and evolving into the diverse galaxy population we see today. This cosmic structure we observe—galaxies, clusters, and the cosmic web—all emerged from quantum fluctuations in the early universe.",
+      "funFact": "The first galaxies we see today formed when the universe was less than 1 billion years old!"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Inflation and Cosmic Mysteries",
+      "body": "To explain certain observations, cosmologists proposed cosmic inflation: an extremely rapid expansion in the first fraction of a second. Inflation smooths out the universe and explains why distant regions are remarkably similar despite never being in contact. Though not yet proven conclusively, inflation solves major problems in Big Bang theory. Current and future observations may detect gravitational waves from inflation. Understanding these early moments requires combining quantum mechanics with general relativity.",
+      "funFact": "During inflation, the universe may have expanded faster than the speed of light—this doesn't violate relativity because space itself was expanding!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Penzias, A. A., & Wilson, R. W. (1965). 'A Measurement of Excess Antenna Temperature at 4080 Mc/s.' The Astrophysical Journal, 142, 419-421.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Lineweaver, C. H., & Rao, T. M. (2003). 'The cosmic microwave background and the geometry of the universe.' General Relativity and Gravitation, 35(12), 2313-2331.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Planck Collaboration (2018). 'Planck 2018 results. VI. Cosmological parameters.' Astronomy & Astrophysics, 641, A6.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-2",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "Approximately how long ago did the Big Bang occur?",
+        "options": [
+          "4.6 billion years ago",
+          "13.8 billion years ago",
+          "50 billion years ago",
+          "100 billion years ago"
+        ],
+        "correctAnswer": "13.8 billion years ago",
+        "explanation": "Current observations indicate the Big Bang occurred approximately 13.8 billion years ago."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "The cosmic microwave background is evidence that the universe was once extremely hot and dense.",
+        "correctAnswer": "true",
+        "explanation": "The CMB is leftover radiation from when the universe was about 380,000 years old and extremely hot, providing strong evidence for the Big Bang."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "Who discovered that the universe is expanding?",
+        "options": [
+          "Albert Einstein",
+          "Edwin Hubble",
+          "Georges Lemaître",
+          "Fred Hoyle"
+        ],
+        "correctAnswer": "Edwin Hubble",
+        "explanation": "Edwin Hubble's observations in the 1920s showed that distant galaxies are moving away from us, proving the universe is expanding."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "The moment when electrons combined with nuclei to form neutral atoms is called _______.",
+        "correctAnswer": "recombination",
+        "explanation": "Recombination occurred about 380,000 years after the Big Bang, when the universe cooled enough for electrons to combine with nuclei."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "What does the Big Bang theory say about the origin of space and time?",
+        "options": [
+          "They always existed unchanged",
+          "They began with the Big Bang",
+          "They came from another universe",
+          "They are illusions of human perception"
+        ],
+        "correctAnswer": "They began with the Big Bang",
+        "explanation": "The Big Bang theory describes space, time, and matter as having originated from the initial expansion event."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440002"
+  },
+  "publishedAt": "2026-04-03T00:00:00Z",
+  "createdAt": "2026-04-03T00:00:00Z",
+  "updatedAt": "2026-04-03T00:00:00Z"
+}

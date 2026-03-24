@@ -1,0 +1,165 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MindBite Lecture",
+  "description": "Schema for a MindBite lecture with cards, sources, and quiz",
+  "type": "object",
+  "required": ["id", "slug", "title", "subtitle", "topicId", "estimatedMinutes", "difficulty", "thumbnailUrl", "isPremium", "featured", "cards", "sources", "quiz", "publishedAt", "createdAt", "updatedAt"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Unique identifier (UUID v4)"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "URL-friendly identifier"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 5,
+      "maxLength": 80
+    },
+    "subtitle": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 120
+    },
+    "topicId": {
+      "type": "string",
+      "enum": ["philosophy", "science", "history", "nature-animals", "psychology", "space-astronomy"]
+    },
+    "estimatedMinutes": {
+      "type": "integer",
+      "minimum": 5,
+      "maximum": 15
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": ["beginner", "intermediate", "advanced"]
+    },
+    "thumbnailUrl": {
+      "type": "string"
+    },
+    "isPremium": {
+      "type": "boolean"
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "popularityScore": {
+      "type": "number",
+      "minimum": 0
+    },
+    "cards": {
+      "type": "array",
+      "minItems": 5,
+      "maxItems": 8,
+      "items": {
+        "$ref": "#/$defs/LectureCard"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/Source"
+      }
+    },
+    "quiz": {
+      "$ref": "#/$defs/Quiz"
+    },
+    "publishedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "createdAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updatedAt": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "LectureCard": {
+      "type": "object",
+      "required": ["id", "order", "heading", "body"],
+      "properties": {
+        "id": { "type": "string" },
+        "order": { "type": "integer", "minimum": 1, "maximum": 8 },
+        "heading": { "type": "string", "minLength": 3, "maxLength": 60 },
+        "body": { "type": "string", "minLength": 50, "maxLength": 600 },
+        "imageUrl": { "type": "string" },
+        "imageCaption": { "type": "string" },
+        "funFact": { "type": "string", "maxLength": 200 }
+      },
+      "additionalProperties": false
+    },
+    "Source": {
+      "type": "object",
+      "required": ["id", "title", "type"],
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "author": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "doi": { "type": "string" },
+        "type": {
+          "type": "string",
+          "enum": ["journal", "book", "institution", "documentary", "expert"]
+        }
+      },
+      "additionalProperties": false
+    },
+    "Quiz": {
+      "type": "object",
+      "required": ["id", "questions"],
+      "properties": {
+        "id": { "type": "string" },
+        "lectureId": { "type": "string" },
+        "questions": {
+          "type": "array",
+          "minItems": 5,
+          "maxItems": 5,
+          "items": {
+            "$ref": "#/$defs/Question"
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "Question": {
+      "type": "object",
+      "required": ["id", "order", "type", "questionText", "correctAnswer", "explanation"],
+      "properties": {
+        "id": { "type": "string" },
+        "order": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "type": {
+          "type": "string",
+          "enum": ["multiple_choice", "true_false", "fill_blank"]
+        },
+        "questionText": { "type": "string" },
+        "options": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "correctAnswer": { "type": "string" },
+        "explanation": { "type": "string" },
+        "sourceRef": { "type": "string" }
+      },
+      "additionalProperties": false,
+      "if": {
+        "properties": { "type": { "const": "multiple_choice" } }
+      },
+      "then": {
+        "required": ["options"],
+        "properties": {
+          "options": { "minItems": 4, "maxItems": 4 }
+        }
+      }
+    }
+  }
+}

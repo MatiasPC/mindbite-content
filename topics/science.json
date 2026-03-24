@@ -1,0 +1,9 @@
+{
+  "id": "science",
+  "name": "Science",
+  "slug": "science",
+  "emoji": "🔬",
+  "colorHex": "#3B82F6",
+  "description": "How the world really works",
+  "sortOrder": 2
+}

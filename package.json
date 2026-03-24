@@ -1,0 +1,13 @@
+{
+  "name": "mindbite-content",
+  "version": "1.0.0",
+  "description": "Static content repository for MindBite — microlearning iOS app",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "generate-catalog": "node scripts/generate-catalog.js",
+    "build": "npm run validate && npm run generate-catalog"
+  },
+  "keywords": ["mindbite", "content", "microlearning"],
+  "license": "UNLICENSED"
+}

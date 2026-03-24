@@ -1,0 +1,135 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440002",
+  "slug": "cleopatra-last-pharaoh",
+  "title": "Cleopatra: The Last Pharaoh",
+  "subtitle": "The brilliant ruler who defined an era",
+  "topicId": "history",
+  "estimatedMinutes": 9,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/cleopatra-last-pharaoh.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Final Dynasty of Egypt",
+      "body": "Cleopatra VII Philopator (69-30 BCE) was the last active ruler of Ptolemaic Egypt, a dynasty founded after Alexander the Great's conquest. Born into the Greek Ptolemaic family, she inherited a throne weakened by internal conflict and external pressure from Rome. Egypt, once the greatest power in the Mediterranean, had become vulnerable. Cleopatra was raised in Alexandria, one of the most sophisticated cities of the ancient world, and received an exceptional education in languages, mathematics, philosophy, and diplomacy.",
+      "funFact": "Cleopatra spoke at least eight languages including Egyptian, Greek, Latin, Hebrew, Aramaic, and others—making her intellectually formidable."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Political Cunning and Strategy",
+      "body": "When her father died, Cleopatra was meant to co-rule with her brother-husband, following Ptolemaic custom. However, court officials removed her from power, forcing her into exile. Through strategic military alliances and diplomatic skill, she maneuvered her way back to the throne. She allied with Julius Caesar of Rome, bearing him a son, Caesarion. After Caesar's assassination, she formed a powerful partnership with Mark Antony, another Roman leader, securing Egypt's independence and her continued rule during Rome's turbulent civil wars.",
+      "imageUrl": "images/cards/cleopatra-caesar.jpg",
+      "imageCaption": "Cleopatra meeting Julius Caesar in Alexandria"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "An Astute Economic Manager",
+      "body": "Beyond her famous political alliances, Cleopatra was an accomplished administrator and economic manager. She navigated Egypt's finances during turbulent times, collecting taxes, managing the Nile's agricultural resources, and controlling crucial trade routes between Europe, Africa, and Asia. She promoted agriculture and commerce, ensuring Egypt remained wealthy despite threats from Rome. Her economic policies allowed her to support armies, maintain temples, and sustain the infrastructure of one of the ancient world's greatest civilizations.",
+      "funFact": "Egypt was the Roman Empire's breadbasket, supplying vast quantities of grain that fed Rome's population."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "The Clash with Octavian",
+      "body": "After Mark Antony's death, Cleopatra faced her greatest threat: Octavian (later Emperor Augustus), Rome's most powerful leader. Octavian was determined to conquer Egypt and annex it as a Roman province. Cleopatra attempted diplomacy and negotiation, but Octavian was relentless. Her naval forces were defeated at the Battle of Actium in 31 BCE. Octavian pursued her to Alexandria, and facing capture and humiliation, Cleopatra made her final choice, ending her life rather than submitting to her enemy.",
+      "funFact": "The traditional story describes her death as suicide by asp (snake) bite, though historical accounts vary."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "The End of Pharaonic Egypt",
+      "body": "With Cleopatra's death in 30 BCE, Egypt's independence ended, and Octavian annexed it as a Roman province. The three-thousand-year tradition of Egyptian pharaohs came to an end. Egypt's wealth and resources now served Rome's empire. The Mediterranean world entered a new era of Roman dominance. Despite her defeat, Cleopatra's legacy endured—she became the symbol of the final, brilliant chapter of ancient Egypt, remembered not just as a ruler but as an intellectual and political strategist.",
+      "funFact": "Octavian's victory over Antony and Cleopatra marked the end of the Roman Republic and the beginning of the Roman Empire, making Cleopatra's struggle historically pivotal."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Legacy and Cultural Impact",
+      "body": "Cleopatra remains one of history's most fascinating figures, though popular culture often misrepresents her. She was primarily a sophisticated political strategist, scholar, and administrator, not merely a seductress as sometimes portrayed. Her reign saw cultural flourishing in Alexandria, with advances in mathematics, astronomy, and medicine. She patronized the arts and scholarship. Her story represents the collision between ancient Egypt and the emerging Roman order, symbolizing how even brilliant leadership could not withstand the tide of historical change.",
+      "imageUrl": "images/cards/alexandria-library.jpg",
+      "imageCaption": "Alexandria's Great Library, a center of learning during Cleopatra's era"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cleopatra: A Life",
+      "author": "Stacy Schiff",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "The Ptolemaic Period",
+      "author": "Günter Hölbl",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Ancient Egypt",
+      "author": "John Romer",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-cleopatra-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "fill_blank",
+        "questionText": "Cleopatra spoke at least _______ different languages, including Egyptian, Greek, Latin, and Hebrew.",
+        "correctAnswer": "eight",
+        "explanation": "Cleopatra's linguistic abilities were extraordinary for her time, making her a formidable political and intellectual figure."
+      },
+      {
+        "id": "q2",
+        "type": "multiple_choice",
+        "questionText": "What year did Egypt lose its independence when Octavian annexed it as a Roman province?",
+        "options": [
+          "48 BCE",
+          "30 BCE",
+          "58 BCE",
+          "44 BCE"
+        ],
+        "correctAnswer": "30 BCE",
+        "explanation": "Following Cleopatra's death in 30 BCE, Octavian annexed Egypt, ending three thousand years of pharaonic rule."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "Cleopatra's main strength as a ruler was her physical beauty and romantic relationships rather than her administrative skills.",
+        "correctAnswer": "false",
+        "explanation": "While romantic alliances were politically useful, Cleopatra was primarily a shrewd administrator, economic manager, and scholar. Popular culture often misrepresents her as merely a seductress."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "Which Roman leader did Cleopatra form a powerful alliance with after Julius Caesar's death?",
+        "options": [
+          "Pompey",
+          "Brutus",
+          "Mark Antony",
+          "Cicero"
+        ],
+        "correctAnswer": "Mark Antony",
+        "explanation": "After Caesar's assassination, Cleopatra allied with Mark Antony, another powerful Roman leader, to maintain Egypt's independence."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "Alexandria was the capital city of Egypt during Cleopatra's reign and a center of learning and culture.",
+        "correctAnswer": "true",
+        "explanation": "Alexandria was one of the most sophisticated cities in the ancient world and a center of scholarship, including hosting the famous Library of Alexandria."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440002"
+  },
+  "publishedAt": "2026-04-03T00:00:00Z",
+  "createdAt": "2026-04-03T00:00:00Z",
+  "updatedAt": "2026-04-03T00:00:00Z"
+}

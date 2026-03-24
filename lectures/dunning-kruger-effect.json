@@ -1,0 +1,119 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440005",
+  "slug": "dunning-kruger-effect",
+  "title": "The Dunning-Kruger Effect",
+  "subtitle": "Why Incompetence Often Breeds Overconfidence",
+  "topicId": "psychology",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/dunning-kruger-effect.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Understanding the Dunning-Kruger Effect",
+      "body": "The Dunning-Kruger effect is a cognitive bias where people with limited knowledge or skill overestimate their competence. In their 1999 study, Dunning and Kruger found that those scoring lowest on competence tests rated their abilities as highest. Meanwhile, highly competent individuals underestimated their performance, assuming others performed similarly. This paradoxical pattern occurs because lacking expertise prevents accurate self-assessment—you don't know what you don't know. The effect has profound implications for workplace performance, decision-making, and interpersonal relationships across numerous domains.",
+      "funFact": "The effect was demonstrated when Justin Kruger and David Dunning asked participants to rate their humor and found that the least funny people thought they were hilarious."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "The Metacognitive Problem",
+      "body": "Metacognition—the ability to accurately assess your own knowledge and skills—requires knowing what competence looks like. Beginners lack this knowledge, making accurate self-assessment impossible. A novice programmer doesn't recognize what professional code quality entails, so they overestimate their abilities. As someone develops expertise, they realize how much exists beyond their current knowledge, leading to more accurate, often humble self-assessments. This creates the characteristic curve: competence is lowest when metacognitive ability is unavailable. This explains why experienced professionals often express self-doubt—they understand the complexity of their field.",
+      "imageUrl": "images/dunning-kruger-curve.jpg",
+      "imageCaption": "Confidence peaks before competence begins increasing"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Real-World Manifestations",
+      "body": "The Dunning-Kruger effect appears across many contexts. Inexperienced drivers overestimate their abilities, correlating with higher accident rates. Students often overestimate exam performance before receiving results. New managers frequently overestimate their leadership capabilities. People make confident medical self-diagnoses based on internet research. Cryptocurrency novices confidently predict market movements. Social media fuels the effect by allowing unqualified individuals broad platforms. Each domain shows the same pattern: early-stage learners display inflated confidence while experts recognize their limitations and opportunities for growth.",
+      "imageUrl": "images/dunning-kruger-domains.jpg"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "The Improvement Phase",
+      "body": "As people gain experience and develop expertise, several positive changes occur. Initial confidence decreases as they recognize complexity and their limitations. They develop more accurate self-assessment. Metacognitive abilities improve, enabling realistic evaluation of their knowledge and skills. This often produces the appearance of becoming less confident, but it's actually more accurate self-perception. Continued improvement eventually increases genuine competence above initial inflated estimates. People who push through this uncomfortable phase—where they realize how much they don't know—become truly competent. This journey from ignorant confidence to humble expertise requires persistence and openness.",
+      "imageUrl": "images/skill-development.jpg"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Managing and Overcoming the Effect",
+      "body": "Recognizing the Dunning-Kruger effect in yourself and others improves decision-making and interpersonal effectiveness. Seek feedback from more experienced people to calibrate self-assessment. Study experts in your field to understand what competence actually looks like. Take on challenges that reveal knowledge gaps. Welcome criticism as valuable information. When hiring or evaluating others, recognize that exceptional candidates may seem less confident than mediocre ones. Organizations that acknowledge this bias create better training programs and more realistic performance evaluations. Personal growth requires accepting that the more you learn, the less certain you become—and that's progress.",
+      "funFact": "Dunning and Kruger's research has become so widely discussed that many people now overestimate how much the Dunning-Kruger effect applies to others!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121-1134.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Dunning, D. (2011). The Dunning-Kruger Effect: On Being Ignorant of One's Own Ignorance. Advances in Experimental Social Psychology.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-dunning-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "According to Dunning and Kruger's research, who tends to overestimate their abilities most significantly?",
+        "options": [
+          "Highly skilled individuals",
+          "People with moderate skills",
+          "Those with the least competence in a domain",
+          "Expert professionals"
+        ],
+        "correctAnswer": "Those with the least competence in a domain",
+        "explanation": "The Dunning-Kruger effect shows that those with the lowest competence tend to rate themselves highest because they lack the knowledge to recognize what they don't know."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Experts typically overestimate their competence because they understand all there is to know in their field.",
+        "correctAnswer": "false",
+        "explanation": "This is false. Experts typically underestimate their competence because they recognize the full scope and complexity of their field, knowing how much more exists to learn."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "What is metacognition, as discussed in the context of the Dunning-Kruger effect?",
+        "options": [
+          "Thinking about thinking",
+          "The ability to accurately assess your own knowledge and skills",
+          "The tendency to compare yourself to others",
+          "Understanding others' emotions"
+        ],
+        "correctAnswer": "The ability to accurately assess your own knowledge and skills",
+        "explanation": "Metacognition is the capacity to evaluate your own competence—something lacking in beginners, which is why they cannot accurately assess their abilities."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "The Dunning-Kruger effect occurs because you don't know what you _______, making accurate self-assessment impossible.",
+        "correctAnswer": "don't know",
+        "explanation": "A key insight of the effect is that incompetence prevents awareness of incompetence—you cannot recognize knowledge gaps when you're ignorant of those areas."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "As people develop expertise in a field, their self-assessed confidence typically remains high and stable.",
+        "correctAnswer": "false",
+        "explanation": "This is false. As expertise develops, initial overconfidence typically decreases before genuine competence increases, creating a valley where experts seem less confident than beginners."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440005"
+  },
+  "publishedAt": "2026-04-09T00:00:00Z",
+  "createdAt": "2026-04-09T00:00:00Z",
+  "updatedAt": "2026-04-09T00:00:00Z"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440004",
+  "slug": "the-double-slit-experiment",
+  "title": "The Double-Slit Experiment",
+  "subtitle": "Unveiling the Wave-Particle Duality of Light",
+  "topicId": "science",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/the-double-slit-experiment.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Classic Experiment Setup",
+      "body": "The double-slit experiment is a fundamental demonstration in quantum mechanics. In its simplest form, a light source shines on a barrier with two slits. Behind the barrier sits a screen to detect the light. When light passes through the two slits, it can create an interference pattern on the screen—alternating bright and dark bands. This pattern demonstrates that light behaves as a wave. However, when scientists tried to determine which slit the light traveled through by measuring it, something astonishing happened: the interference pattern disappeared, and light behaved as particles instead. This experiment reveals a fundamental truth about nature: the act of observation affects the behavior of particles.",
+      "funFact": "The double-slit experiment has been called the most beautiful experiment in physics!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Wave Behavior of Light",
+      "body": "When unmeasured, light behaves as a wave passing through both slits simultaneously. The light waves from the two slits spread out and overlap on the screen. Where peaks align with peaks, constructive interference occurs, creating bright fringes. Where peaks align with troughs, destructive interference occurs, creating dark areas. This interference pattern clearly demonstrates wave behavior. Waves can pass through multiple paths simultaneously and interfere with themselves. This wavelike property was well-established by the nineteenth century. Scientists understood that light must behave like waves because interference patterns matched mathematical predictions of wave behavior. The double-slit experiment elegantly demonstrates this wave nature with simple, observable results.",
+      "imageUrl": "images/wave-interference.jpg",
+      "imageCaption": "Interference pattern showing constructive and destructive interference"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "The Measurement Problem",
+      "body": "The truly puzzling aspect of the double-slit experiment is the measurement problem. When scientists added detectors at the slits to determine which slit each photon traveled through, the interference pattern disappeared. The light then behaved as particles, with two distinct bands appearing on the screen corresponding to the two slits. Remarkably, simply attempting to measure which slit the photon used changed its behavior completely. The measurement didn't fail to detect which slit—it fundamentally altered the photon's behavior. This isn't a limitation of detection technology; it's a fundamental feature of quantum mechanics. The experiment reveals that particles and waves aren't fixed properties but depend on how we observe them. This observation-dependent behavior challenges our intuitions about reality.",
+      "imageUrl": "images/double-slit-measurement.jpg",
+      "imageCaption": "Observed vs. unobserved behavior in the double-slit experiment"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Wave-Particle Duality",
+      "body": "The double-slit experiment demonstrates the principle of wave-particle duality: objects at quantum scales exhibit both wave and particle properties depending on the measurement. Light isn't simply one or the other; it's fundamentally both and neither until measured. This duality extends beyond light to all matter. Electrons, atoms, and molecules also exhibit wave-particle duality. An electron has an associated wave (de Broglie wave) with wavelength inversely proportional to its momentum. Massive particles show diffraction and interference patterns when passing through slits, just like light does. This duality is central to quantum mechanics. It means the classical distinction between waves and particles breaks down at quantum scales. Nature operates according to principles fundamentally different from everyday experience.",
+      "funFact": "In 1924, de Broglie proposed that matter has wave properties. This theory was confirmed experimentally when electron beams created diffraction patterns!"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Quantum Superposition",
+      "body": "The double-slit experiment reveals quantum superposition: unobserved particles exist in multiple states simultaneously. When light isn't measured, it exists in a superposition state—simultaneously passing through both slits. The particle doesn't choose a slit; it experiences both paths at once. This isn't merely unknown which path it took; the particle genuinely exists in both states. Superposition is a counterintuitive but fundamental quantum phenomenon. When measured, the superposition collapses into a definite state. This collapse of the wave function is one of quantum mechanics' most profound and philosophically puzzling aspects. The experiment demonstrates that superposition isn't just theoretical—it produces measurable consequences through interference patterns.",
+      "imageUrl": "images/quantum-superposition.jpg",
+      "imageCaption": "A quantum particle in superposition exists in multiple states simultaneously"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Historical Development",
+      "body": "Thomas Young performed the first double-slit experiment around 1801, using water waves and then light, demonstrating wave properties and interference patterns. Young's work provided strong evidence for the wave theory of light, contradicting Newton's corpuscular theory. However, the quantum mechanical interpretation emerged only after Planck, Einstein, and others developed quantum theory in the early twentieth century. The modern understanding—that observation affects outcomes—came from quantum mechanics' foundational work. In the 1920s, physicists like Dirac and Schrödinger developed mathematical frameworks explaining these observations. Today, variations of the double-slit experiment continue revealing quantum behavior, including delayed-choice experiments. This historical journey shows how single experiments can reshape our understanding of reality.",
+      "imageUrl": "images/thomas-young.jpg",
+      "imageCaption": "Thomas Young performed early double-slit experiments with light"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Modern Interpretations and Implications",
+      "body": "The double-slit experiment remains central to interpreting quantum mechanics today. Different interpretations propose different explanations. The Copenhagen interpretation says observation causes wave function collapse. The many-worlds interpretation suggests both paths occur in different universes. Objective collapse theories propose spontaneous wave function collapse. All interpretations agree on predictions but differ philosophically. The experiment has profound implications: reality at quantum scales behaves differently than classical physics predicts. Measurement isn't passive observation but active interaction. The universe appears fundamentally probabilistic rather than deterministic. These insights have spawned quantum technologies: lasers, transistors, and quantum computers all exploit wave-particle duality and superposition. The double-slit experiment's lessons continue transforming technology and philosophy."
+    }
+  ],
+  "quiz": {
+    "id": "quiz-4",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "What happens to light in the double-slit experiment when it is not measured?",
+        "options": [
+          "It behaves only as particles",
+          "It behaves as a wave and creates an interference pattern",
+          "It cannot pass through the slits",
+          "It splits into separate colors"
+        ],
+        "correctAnswer": "It behaves as a wave and creates an interference pattern",
+        "explanation": "Unmeasured light behaves as a wave, passing through both slits simultaneously and creating an interference pattern on the screen."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "When scientists measure which slit light passes through, the interference pattern remains the same.",
+        "correctAnswer": "false",
+        "explanation": "When measured, the interference pattern disappears and light behaves as particles, demonstrating that measurement fundamentally affects quantum behavior."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "Light exhibits ________ __________, meaning it has both wave and particle properties depending on how it is measured.",
+        "correctAnswer": "wave-particle duality",
+        "explanation": "Wave-particle duality describes how objects exhibit properties of both waves and particles, depending on the observation method used."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "What creates the bright and dark bands in a double-slit interference pattern?",
+        "options": [
+          "Bright slits and dark slits",
+          "Constructive and destructive interference of light waves",
+          "Variations in slit width",
+          "Different colored light sources"
+        ],
+        "correctAnswer": "Constructive and destructive interference of light waves",
+        "explanation": "Bright bands form where wave peaks align (constructive interference), and dark bands form where peaks align with troughs (destructive interference)."
+      },
+      {
+        "id": "q5",
+        "type": "multiple_choice",
+        "questionText": "Which physicist first performed the double-slit experiment with light?",
+        "options": [
+          "Isaac Newton",
+          "Thomas Young",
+          "Albert Einstein",
+          "Niels Bohr"
+        ],
+        "correctAnswer": "Thomas Young",
+        "explanation": "Thomas Young performed the first double-slit experiment with light around 1801, providing evidence for the wave theory of light."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440004"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Feynman, R. P., Leighton, R. B., & Sands, M. (1963). 'The Feynman Lectures on Physics, Vol. 3: Quantum Mechanics'. Addison-Wesley.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Young, T. (1807). 'A Course of Lectures on Natural Philosophy and the Mechanical Arts'. Printed for Joseph Johnson.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Born, M. (1926). 'Zur Quantenmechanik der Stoßvorgänge'. Zeitschrift für Physik, 37(12), 863-867.",
+      "type": "journal"
+    }
+  ],
+  "publishedAt": "2026-04-10T00:00:00Z",
+  "createdAt": "2026-04-10T00:00:00Z",
+  "updatedAt": "2026-04-10T00:00:00Z"
+}

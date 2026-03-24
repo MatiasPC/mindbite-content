@@ -1,0 +1,150 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440005",
+  "slug": "the-voyager-missions",
+  "title": "The Voyager Missions",
+  "subtitle": "Humanity's greatest journey into the cosmos",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 7,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-voyager-missions.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Grand Tour of the Planets",
+      "body": "The Voyager missions represent one of humanity's greatest achievements in space exploration. Launched in 1977 during a rare alignment of the outer planets, Voyager 1 and 2 were designed to explore Jupiter, Saturn, and beyond. Voyager 2 also visited Uranus and Neptune—the only spacecraft to do so. The missions capitalized on a gravitational alignment that occurs only once every 176 years, allowing the spacecraft to travel throughout the solar system using planetary gravity assists. These probes continue transmitting data today, nearly 50 years later.",
+      "funFact": "The Voyager probes have traveled farther than any human-made object, with Voyager 1 now in interstellar space!",
+      "imageUrl": "images/content/voyager-launch.jpg",
+      "imageCaption": "Voyager spacecraft launching in 1977"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Encounters with the Giant Planets",
+      "body": "Voyager 1 made groundbreaking discoveries at Jupiter (1979) and Saturn (1980), revealing complex atmospheric dynamics, intense radiation belts, and unexpected ring structures. The encounter with Jupiter's moon Io revealed active volcanoes—the first definitive evidence of volcanism beyond Earth. At Saturn, the spacecraft discovered new moons, revealed intricate ring structure, and found complex organic chemistry in the atmosphere. Voyager 2 continued this exploration, discovering 10 new moons at Saturn and providing the first close-up views of Uranus and Neptune. These encounters revolutionized our understanding of the outer solar system.",
+      "imageUrl": "images/content/saturn-rings-voyager.jpg",
+      "imageCaption": "Saturn's rings photographed by Voyager 1"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "The Golden Record",
+      "body": "The Voyager spacecraft carry Golden Records containing sounds and images from Earth, intended as messages to any extraterrestrial intelligence. The records include greetings in 55 languages, Earth sounds like wind and rain, and music from diverse cultures. President Jimmy Carter provided a recorded greeting: 'We cast this message into the cosmos.' The records represent humanity's hope for peaceful contact with extraterrestrial life. Though the probability of retrieval is vanishingly small, these records symbolize our desire to share human culture with the universe.",
+      "funFact": "The Golden Record includes a Beethoven symphony, Johnny B. Goode, and greetings from world leaders!",
+      "imageUrl": "images/content/golden-record.jpg",
+      "imageCaption": "The Golden Record carried aboard Voyager spacecraft"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Uranus and Neptune Discoveries",
+      "body": "Voyager 2's encounters with Uranus (1986) and Neptune (1989) were humanity's only up-close views of these distant ice giants. At Uranus, the spacecraft revealed extreme axial tilt, a ring system, and new moons. At Neptune, Voyager 2 discovered 6 new moons and Triton, Neptune's largest moon with active nitrogen geysers—the coldest place yet directly observed. These encounters fundamentally changed our understanding of planetary formation and atmospheres in the outer solar system. No other spacecraft has visited these distant worlds since.",
+      "imageUrl": "images/content/triton-neptune.jpg",
+      "imageCaption": "Neptune and its moon Triton, photographed by Voyager 2"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "The Pale Blue Dot",
+      "body": "One of the most iconic images in human history was taken by Voyager 1 on February 14, 1990, when it was 6.4 billion kilometers away. The photograph shows Earth as a tiny speck of light—the 'Pale Blue Dot.' Astronomer Carl Sagan wrote about this image, noting how Earth appears insignificant yet contains all of humanity, every culture, conflict, and achievement. The image fundamentally changed how we view ourselves and our place in the cosmos, emphasizing Earth's isolation and the urgent need to protect our planet.",
+      "imageUrl": "images/content/pale-blue-dot.jpg",
+      "imageCaption": "Earth as the Pale Blue Dot, photographed from billions of kilometers away"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Reaching Interstellar Space",
+      "body": "In 2012, Voyager 1 became the first human-made object to reach interstellar space, crossing the heliopause—the boundary where the Sun's solar wind gives way to the interstellar medium. Voyager 2 followed in 2018. Despite their original 5-year mission duration, both spacecraft continue transmitting data. The Voyager Interstellar Mission studies the characteristics of interstellar space and will continue as long as power allows. Both spacecraft carry radioisotope thermoelectric generators (RTGs) that convert heat from radioactive plutonium decay into electricity, allowing them to function indefinitely.",
+      "funFact": "Voyager 1 is now over 14 billion miles from Earth and still sending back data!"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Legacy and Future",
+      "body": "The Voyager missions represent the pinnacle of space exploration achievement. They demonstrated human ingenuity, engineering excellence, and scientific curiosity. The spacecraft have revealed the structure of planetary systems, the nature of exotic worlds, and our place in the universe. Data from Voyager continues to contribute to scientific research. Though communication will eventually cease when power depletes, the spacecraft will continue drifting through space for billions of years, carrying Earth's message. The Voyager missions inspire future generations to explore and understand the cosmos.",
+      "funFact": "It takes about 20 hours for a radio signal traveling at light speed to reach Voyager 1 and back!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Gurnett, D. A., et al. (2013). 'In Situ Observations of Interstellar Plasma with Voyager 1.' Science, 341(6147), 1489-1492.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Stone, E. C., et al. (2005). 'Voyager 1's interaction with the termination shock and heliosheath.' Science, 309(5743), 2017-2020.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "NASA Voyager Mission Archive and Documentation",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-5",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "In what year were the Voyager spacecraft launched?",
+        "options": [
+          "1970",
+          "1975",
+          "1977",
+          "1980"
+        ],
+        "correctAnswer": "1977",
+        "explanation": "Voyager 1 and 2 were launched in 1977, capitalizing on a rare alignment of the outer planets."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Voyager 2 is the only spacecraft to have visited Uranus and Neptune.",
+        "correctAnswer": "true",
+        "explanation": "Voyager 2 remains the only spacecraft to have conducted close flybys of both Uranus and Neptune."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "What is carried aboard the Voyager spacecraft as a message to extraterrestrial intelligence?",
+        "options": [
+          "A digital computer database",
+          "The Golden Record",
+          "Mathematical equations",
+          "DNA samples"
+        ],
+        "correctAnswer": "The Golden Record",
+        "explanation": "The Golden Record contains sounds, images, and greetings from Earth intended as a message for any extraterrestrial life."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "The famous image showing Earth as a tiny speck of light is called the '_______.'",
+        "correctAnswer": "Pale Blue Dot",
+        "explanation": "The Pale Blue Dot, photographed by Voyager 1 in 1990, shows Earth from 6.4 billion kilometers away."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "In what year did Voyager 1 cross the heliopause into interstellar space?",
+        "options": [
+          "2009",
+          "2012",
+          "2015",
+          "2018"
+        ],
+        "correctAnswer": "2012",
+        "explanation": "Voyager 1 became the first human-made object to reach interstellar space in 2012, with Voyager 2 following in 2018."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440005"
+  },
+  "publishedAt": "2026-04-09T00:00:00Z",
+  "createdAt": "2026-04-09T00:00:00Z",
+  "updatedAt": "2026-04-09T00:00:00Z"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440009",
+  "slug": "genghis-khan-empire",
+  "title": "Genghis Khan's Empire",
+  "subtitle": "The largest contiguous land empire in history",
+  "topicId": "history",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/genghis-khan-empire.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "From Temüjin to Genghis Khan",
+      "body": "Genghis Khan was born as Temüjin around 1162 in Mongolia. His early life was marked by hardship, tribal conflict, and struggle for survival in the harsh steppe environment. Through cunning, military innovation, and charisma, Temüjin unified the fractious Mongol tribes. He established new organizational structures that transcended tribal loyalties, appointing generals based on ability rather than birth. By 1206, he was proclaimed Genghis Khan, meaning 'Universal Ruler.' At this point, he commanded a powerful unified Mongol state. His rise from hardscrabble origins to supreme ruler of a continental empire represents one of history's most remarkable ascensions. His leadership abilities, strategic vision, and organizational genius created an unprecedented military force.",
+      "funFact": "Genghis Khan's actual birth name was Temüjin, and he only became known as Genghis Khan after unifying the Mongol tribes."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Military Innovation and Organization",
+      "body": "Genghis Khan revolutionized military strategy through organizational innovation. He created a highly disciplined, mobile cavalry army superior to contemporary forces. Mongol armies were organized hierarchically with units of 10, 100, 1,000, and 10,000 soldiers. This structure enabled coordinated command and control. Mongols mastered composite bow technology, enabling warriors to shoot accurately from horseback at distance. They developed elaborate siege warfare techniques, eventually conquering heavily fortified cities. Mongol scouts provided intelligence networks across vast territories. They used psychological warfare, spreading fear through reputation and propaganda. The speed of Mongol cavalry, combined with sophisticated strategy and organization, made them unstoppable against conventional armies.",
+      "imageUrl": "images/cards/mongol-warrior-cavalry.jpg",
+      "imageCaption": "Mongol warriors with composite bows, the foundation of their military superiority"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Territorial Expansion and Conquest",
+      "body": "Genghis Khan and his successors conquered an enormous empire. By 1368, the Mongol Empire stretched from the Pacific Ocean to Eastern Europe, encompassing approximately 13 million square miles. Genghis Khan personally conquered Central Asia, China, and the Islamic world. His successors continued expansion. Under his grandson Kublai Khan, Mongol rule encompassed China completely. Mongol armies defeated the Jin Dynasty, conquered the Khwarazmian Empire, and threatened Europe. The conquest of Baghdad in 1258 by Hulagu Khan, Genghis Khan's grandson, marked the decline of Islamic civilization's political power. The speed and scale of Mongol conquests were unprecedented in world history. Within a century, a unified steppe confederation became the world's largest contiguous land empire.",
+      "imageUrl": "images/cards/mongol-empire-map.jpg",
+      "imageCaption": "The vast extent of the Mongol Empire at its peak"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "The Pax Mongolica and Trade",
+      "body": "Paradoxically, despite the Mongol conquest's brutality, the resulting stability created the Pax Mongolica (Mongol Peace). Genghis Khan and his successors established systems of governance that, while sometimes harsh, provided security and predictability. They promoted trade and communication across their vast territories, revitalizing the Silk Road. Merchants from different regions could travel more safely. The Mongols were pragmatic administrators, tolerating various religions and customs as long as subjects paid taxes and acknowledged Mongol supremacy. They employed skilled craftspeople, engineers, and administrators from conquered territories. This stability facilitated the exchange of goods, technologies, and ideas across Eurasia. The Mongol period represented a unique moment where political unification enabled unprecedented cultural and economic exchange.",
+      "funFact": "Marco Polo traveled to Kublai Khan's court during the Pax Mongolica, bringing knowledge of Asia back to Europe."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Mongol Brutality and Conquest Methods",
+      "body": "The Mongol conquest came at enormous human cost. Cities that resisted faced total destruction, massacre of populations, and enslavement. Historians estimate tens of millions died during Mongol expansion. The conquest of the Khwarazmian Empire, which began when Shah Muhammad insulted Genghis Khan's emissary, resulted in total war across Central Asia. Cities like Samarkand and Bukhara were devastated. The psychological warfare was deliberate—news of Mongol atrocities preceded armies, encouraging surrender. When cities submitted without fighting, they were generally spared destruction. However, those resisting faced complete annihilation. This calculated brutality, while horrifying, was effective militarily. The scale of violence and suffering demonstrates the human cost of conquest and empire-building.",
+      "funFact": "Genghis Khan issued laws protecting religious freedom and merchants, creating frameworks for coexistence among diverse populations."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Legacy and Historical Impact",
+      "body": "Genghis Khan's empire, while eventually fragmenting into regional khanates, profoundly shaped world history. The Mongol conquests connected Eurasia politically, facilitating trade and cultural exchange. Technologies, ideas, and goods traveled between East and West. The Mongol period saw significant advances in cartography, astronomy, and administration adopted from conquered civilizations. The empire's stability, however brutally achieved, enabled centuries of cross-continental commerce. Genghis Khan remains a controversial figure—celebrated as a military genius and organizational innovator, yet also remembered for unprecedented violence. His legacy demonstrates how individual vision, combined with organizational innovation and military prowess, can reshape world order dramatically. The Mongol Empire was history's largest land empire, unmatched until modern nation-states.",
+      "funFact": "Genetic studies suggest that approximately 0.5% of the world's male population may be descended from Genghis Khan due to his multiple wives and offspring."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Genghis Khan and the Making of the Modern World",
+      "author": "Jack Weatherford",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "The Mongol Empire",
+      "author": "Jean-Noël Biraben",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "The Great Khan: The Life of Kubilai Khan",
+      "author": "John Man",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-genghis-khan-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "fill_blank",
+        "questionText": "Genghis Khan was born as _______ and only adopted his title after unifying the Mongol tribes in 1206.",
+        "correctAnswer": "Temüjin",
+        "explanation": "Temüjin was his birth name before he became known as Genghis Khan, which means 'Universal Ruler.'"
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "The Mongol Empire became the largest contiguous land empire in world history.",
+        "correctAnswer": "true",
+        "explanation": "At its peak, the Mongol Empire spanned from the Pacific Ocean to Eastern Europe, approximately 13 million square miles."
+      },
+      {
+        "id": "q3",
+        "type": "multiple_choice",
+        "questionText": "What was the 'Pax Mongolica'?",
+        "options": [
+          "A peace treaty between Mongol and European kingdoms",
+          "A period of relative stability and safety under Mongol rule",
+          "A Mongol military strategy emphasizing peaceful conquest",
+          "A trade agreement between Mongol and Chinese merchants"
+        ],
+        "correctAnswer": "A period of relative stability and safety under Mongol rule",
+        "explanation": "The Pax Mongolica was a period of relative stability and security under Mongol rule that facilitated trade and cultural exchange across Eurasia."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "What was a key military innovation of Genghis Khan's forces?",
+        "options": [
+          "Early gunpowder weapons",
+          "Heavily armored infantry formations",
+          "Highly disciplined mobile cavalry with composite bows",
+          "Naval dominance through advanced ship design"
+        ],
+        "correctAnswer": "Highly disciplined mobile cavalry with composite bows",
+        "explanation": "Mongol armies excelled through disciplined cavalry forces equipped with composite bows, enabling rapid movement and effective ranged combat."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "Genetic studies suggest a significant percentage of the world's male population may be descended from Genghis Khan.",
+        "correctAnswer": "true",
+        "explanation": "Genetic research indicates that approximately 0.5% of the world's male population may be descended from Genghis Khan due to his multiple wives and offspring."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440009"
+  },
+  "publishedAt": "2026-04-17T00:00:00Z",
+  "createdAt": "2026-04-17T00:00:00Z",
+  "updatedAt": "2026-04-17T00:00:00Z"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440002",
+  "slug": "cognitive-biases-intro",
+  "title": "Introduction to Cognitive Biases",
+  "subtitle": "How Our Minds Systematically Mislead Us",
+  "topicId": "psychology",
+  "estimatedMinutes": 9,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/cognitive-biases-intro.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "What Are Cognitive Biases?",
+      "body": "Cognitive biases are systematic patterns in how our brains process information that lead to consistent deviations from rational judgment. Rather than evaluating all information objectively, our minds use mental shortcuts called heuristics that often lead us astray. These biases aren't character flaws—they're features of human cognition that evolved to help us make quick decisions with limited information. Understanding these patterns is essential for improving decision-making in personal, professional, and academic contexts.",
+      "funFact": "The human brain processes approximately 11 million bits of information per second, but our conscious mind can only handle about 40 bits. This limitation is why we rely on shortcuts."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Confirmation Bias",
+      "body": "Confirmation bias is the tendency to search for, interpret, and recall information that confirms our pre-existing beliefs while dismissing contradictory evidence. If you believe coffee is healthy, you'll remember studies supporting that claim while ignoring research showing negative effects. This bias operates automatically and unconsciously. It reinforces existing worldviews, making it difficult to update beliefs based on new information. Recognizing this tendency helps us actively seek out opposing viewpoints and evaluate evidence more objectively."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Availability Heuristic",
+      "body": "The availability heuristic leads us to judge the frequency or probability of events based on how easily examples come to mind. Memorable or recent events seem more common than they actually are. After hearing about plane crashes, people overestimate aviation accidents while underestimating far more common causes of death like car accidents. News coverage amplifies this bias by giving disproportionate attention to dramatic events. This heuristic is useful for quick judgments but often leads to inaccurate risk assessments in daily life.",
+      "imageUrl": "images/availability-heuristic.jpg"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Anchoring Bias",
+      "body": "Anchoring bias occurs when we rely too heavily on initial information (the anchor) when making decisions. In negotiations, the first price mentioned anchors expectations, significantly influencing the final outcome. Even when we know an anchor is irrelevant or misleading, it still influences our judgment. This bias affects salary negotiations, product pricing perception, and numerical estimations. Understanding anchoring helps negotiators set initial offers strategically and allows consumers to resist manipulative pricing tactics in retail contexts."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Overcoming Cognitive Biases",
+      "body": "While we cannot eliminate biases entirely, we can develop strategies to minimize their impact. Slowing down our thinking, seeking diverse perspectives, and using statistical data rather than anecdotes all help counteract bias. Keeping a decision journal to track how predictions compare to actual outcomes builds awareness over time. Collaborating with others who have different viewpoints exposes blind spots. Regular practice in recognizing biases in others' thinking strengthens our ability to identify them in ourselves, leading to more rational and well-informed decisions."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Ariely, D. (2008). Predictably Irrational: The Hidden Forces That Shape Our Decisions. HarperCollins.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-biases-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "What is the primary reason cognitive biases developed in human cognition?",
+        "options": [
+          "To make us less intelligent",
+          "To help us make quick decisions with limited information",
+          "To prevent us from thinking rationally",
+          "To create evolutionary disadvantages"
+        ],
+        "correctAnswer": "To help us make quick decisions with limited information",
+        "explanation": "Cognitive biases evolved as mental shortcuts that allowed our ancestors to make rapid decisions in situations requiring quick action, despite incomplete information."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Confirmation bias means we actively seek out information that contradicts our existing beliefs.",
+        "correctAnswer": "false",
+        "explanation": "This is false. Confirmation bias is the opposite—we tend to seek information that confirms our existing beliefs while dismissing contradictory evidence."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "The availability heuristic causes us to misjudge frequency based on what factor?",
+        "options": [
+          "How expensive something is",
+          "How easily examples come to mind",
+          "How many people we know who experienced it",
+          "How recent our last experience was"
+        ],
+        "correctAnswer": "How easily examples come to mind",
+        "explanation": "The availability heuristic makes us judge probability and frequency based on how readily examples come to mind, which often reflects media coverage rather than actual frequency."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "In negotiation situations, the first price mentioned can act as a(n) _______, significantly influencing the final outcome.",
+        "correctAnswer": "anchor",
+        "explanation": "In anchoring bias, the initial figure serves as an anchor that influences subsequent judgments and negotiations, even when the anchor is irrelevant or known to be misleading."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "Keeping a decision journal can help build awareness of our cognitive biases over time.",
+        "correctAnswer": "true",
+        "explanation": "This is true. Tracking decisions and comparing predictions to actual outcomes creates feedback that helps identify patterns in our biased thinking."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440002"
+  },
+  "publishedAt": "2026-04-03T00:00:00Z",
+  "createdAt": "2026-04-03T00:00:00Z",
+  "updatedAt": "2026-04-03T00:00:00Z"
+}

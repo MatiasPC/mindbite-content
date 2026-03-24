@@ -1,0 +1,135 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440003",
+  "slug": "the-silk-road",
+  "title": "The Silk Road",
+  "subtitle": "Ancient trade routes that connected civilizations",
+  "topicId": "history",
+  "estimatedMinutes": 10,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/the-silk-road.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "More Than Silk: A Network of Trade Routes",
+      "body": "The Silk Road was not a single road but a vast network of land and maritime trade routes connecting East Asia, Central Asia, India, the Middle East, and Europe. Established during the Han Dynasty of China (206 BCE-220 CE), these routes facilitated trade, cultural exchange, and diplomatic relations for over 1,500 years. Named after silk, the luxury fabric highly prized by Roman elites, the routes also transported spices, ceramics, precious metals, glassware, and other goods. Beyond commerce, the Silk Road enabled the spread of religions, technologies, and ideas across continents.",
+      "funFact": "Silk production was closely guarded by China, and revealing the secret of sericulture to outsiders was punishable by death."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Key Cities and Trading Hubs",
+      "body": "Major cities along the Silk Road became cosmopolitan centers where merchants, pilgrims, and envoys from different cultures interacted. Samarkand in Central Asia was a crossroads where Persian, Chinese, and Indian merchants converged. Chang'an (modern-day Xi'an), China's capital, was one of the largest cities in the world with populations exceeding one million. Other important hubs included Baghdad, Damascus, and Kashmir. These cities developed sophisticated banking systems, caravanserais (roadside inns), and markets where goods were exchanged, stored, and redistributed.",
+      "imageUrl": "images/cards/samarkand-bazaar.jpg",
+      "imageCaption": "Ancient bazaar in Samarkand, a major Silk Road trading center"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "The Spread of Buddhism and Ideas",
+      "body": "The Silk Road was instrumental in spreading Buddhism from India to Central Asia and eventually to China, Korea, and Japan. Buddhist monks traveled these routes, establishing monasteries and translating Buddhist texts. Similarly, Islamic expansion followed trade routes, spreading the religion from the 7th century onward. Technological innovations like papermaking, printing, and gunpowder traveled from East to West along these networks. Greek philosophy and mathematical knowledge moved eastward. This exchange of ideas fundamentally shaped the intellectual and spiritual development of civilizations across Eurasia.",
+      "funFact": "Chinese papermaking technology reached the Islamic world by the 8th century, eventually spreading to Europe and revolutionizing information transmission."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Merchants, Dangers, and Logistics",
+      "body": "Traveling the Silk Road was hazardous and expensive. Merchants faced harsh deserts, mountain passes, unpredictable weather, and bandits. Individual traders rarely traveled the entire length of the route; instead, goods were passed through numerous intermediaries. Caravans of camels, horses, and pack animals carried merchandise across vast distances. Merchants formed networks and partnerships with traders in different regions. The Byzantine Empire and Islamic Caliphates provided security and infrastructure for trade. Specialized merchant communities like the Sogdians became essential intermediaries, facilitating commerce and diplomacy.",
+      "funFact": "The Sogdians were central Asian traders so crucial to Silk Road commerce that they became the language of trade across multiple regions."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Goods, Luxury, and Demand",
+      "body": "Roman elites coveted Chinese silk so intensely that the demand drove trade for centuries. Chinese porcelain, lacquerware, and tea were highly valued in Western markets. From the West, Mediterranean glassware, Roman coins, and wool traveled eastward. Persian carpets, Indian spices, and Central Asian horses were traded across regions. The luxury goods market created enormous wealth for merchants and rulers. Trade stimulated urban development, craft industries, and banking systems. The desire for exotic commodities literally connected continents, creating the first truly global trading network.",
+      "imageUrl": "images/cards/silk-caravan.jpg",
+      "imageCaption": "Merchants and camels on the Silk Road transporting valuable goods"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Decline and Legacy",
+      "body": "The Silk Road declined gradually between the 15th and 17th centuries as maritime routes around Africa became viable alternatives for European trade with Asia. Ocean-based commerce was faster and sometimes safer than overland routes. The rise of European sea power and the Age of Exploration redirected global trade. However, the Silk Road's legacy profoundly shaped world history. The religions, technologies, cuisines, and artistic traditions we see today reflect centuries of Silk Road exchange. Understanding these ancient trade networks reveals how interconnected human civilization has always been.",
+      "funFact": "Modern DNA studies show that Silk Road trade created genetic mixing among populations across Eurasia, demonstrating the scale of human movement."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Silk Roads: A New History of the World",
+      "author": "Peter Frankopan",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "The Silk Road: A History",
+      "author": "Susan Whitfield",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Central Asia in World History",
+      "author": "Peter B. Golden",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-silk-road-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "Which Chinese dynasty established the Silk Road during its reign?",
+        "options": [
+          "Tang Dynasty",
+          "Han Dynasty",
+          "Ming Dynasty",
+          "Song Dynasty"
+        ],
+        "correctAnswer": "Han Dynasty",
+        "explanation": "The Silk Road was established during the Han Dynasty (206 BCE-220 CE) as Chinese rulers expanded westward."
+      },
+      {
+        "id": "q2",
+        "type": "fill_blank",
+        "questionText": "The Silk Road was instrumental in spreading _______ from India to Central Asia, China, and eventually Japan.",
+        "correctAnswer": "Buddhism",
+        "explanation": "Buddhist monks traveled the Silk Road routes, establishing monasteries and spreading Buddhism across Asia."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "Individual merchants typically traveled the entire length of the Silk Road from China to Europe.",
+        "correctAnswer": "false",
+        "explanation": "The Silk Road was too vast and dangerous for individual traders to traverse. Instead, goods passed through numerous intermediaries and trading hubs."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "Which Central Asian trading group became essential intermediaries on the Silk Road?",
+        "options": [
+          "Huns",
+          "Sogdians",
+          "Scythians",
+          "Mongols"
+        ],
+        "correctAnswer": "Sogdians",
+        "explanation": "The Sogdians were central Asian traders whose language became the lingua franca of Silk Road commerce."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "Chinese papermaking technology reached the Islamic world by the 8th century CE.",
+        "correctAnswer": "true",
+        "explanation": "Papermaking traveled along the Silk Road and was established in the Islamic world during the 8th century, eventually reaching Europe."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440003"
+  },
+  "publishedAt": "2026-04-05T00:00:00Z",
+  "createdAt": "2026-04-05T00:00:00Z",
+  "updatedAt": "2026-04-05T00:00:00Z"
+}

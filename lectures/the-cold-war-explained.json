@@ -1,0 +1,136 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440008",
+  "slug": "the-cold-war-explained",
+  "title": "The Cold War Explained",
+  "subtitle": "Decades of tension between superpowers without direct military conflict",
+  "topicId": "history",
+  "estimatedMinutes": 10,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/the-cold-war-explained.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Origins of Conflict",
+      "body": "After World War II ended in 1945, the alliance between the Soviet Union and the Western powers dissolved. Ideological differences—communism versus capitalism and democracy—created fundamental incompatibility. Stalin expanded Soviet control over Eastern European nations, creating satellite states under Soviet domination. Western nations, led by the United States, opposed Soviet expansion and sought to contain communism. The Iron Curtain, a term popularized by Winston Churchill, symbolized the division between communist Eastern Europe and democratic Western Europe. Mutual distrust, competing interests, and ideological opposition created a bipolar world. Neither superpower directly attacked the other militarily, but they competed globally through proxy wars, espionage, and arms races.",
+      "funFact": "The term 'Cold War' was coined because the superpowers never fought directly; the conflict was ideological, political, and economic."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Nuclear Weapons and Deterrence",
+      "body": "The development of nuclear weapons transformed global strategy. The Soviet Union detonated its first atomic bomb in 1949, breaking the American atomic monopoly. Both superpowers developed massive nuclear arsenals capable of destroying civilization. The doctrine of Mutually Assured Destruction (MAD) suggested that nuclear war would be so devastating that neither side would risk initiating conflict. This created a precarious stability based on the threat of nuclear annihilation. The Cuban Missile Crisis in 1962 brought humanity closest to nuclear war, with the U.S. and Soviet Union on the brink of direct conflict. Nuclear anxiety shaped Cold War culture, influencing literature, film, and public consciousness.",
+      "imageUrl": "images/cards/nuclear-mushroom-cloud.jpg",
+      "imageCaption": "Nuclear weapons shaped Cold War strategy and global security thinking"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Proxy Wars and Global Competition",
+      "body": "Unable to fight directly, superpowers competed through proxy wars, funding opposing sides in conflicts across the globe. The Korean War (1950-1953) saw American forces supporting South Korea against a Soviet-backed North Korea. The Vietnam War (1955-1975) became a major proxy conflict with extensive American involvement against communist North Vietnam. The Soviet Union intervened in Afghanistan in 1979, facing American-backed mujahedeen fighters. In Africa, Latin America, and Asia, the Cold War superpowers supported opposing factions. These proxy conflicts caused enormous suffering, millions of deaths, and prolonged regional instability. The superpowers used developing nations as chessboards for their ideological competition.",
+      "funFact": "The term 'proxy war' describes conflicts where rival powers don't fight directly but support opposing sides to advance their interests."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Espionage, Technology, and Space",
+      "body": "The Cold War was also fought through espionage, with the CIA and KGB conducting intelligence operations globally. Both superpowers prioritized technological advancement. The Space Race became a symbol of Cold War competition. The Soviet Union achieved initial successes, launching Sputnik (1957) and sending Yuri Gagarin as the first human in space (1961). The United States responded by committing to landing humans on the Moon, which it achieved in 1969. Technological competition extended to military systems, computers, and medicine. This competition, while dangerous and expensive, accelerated technological progress. The interstate highway system, the internet (ARPANET), and numerous medical advances resulted from Cold War technological competition.",
+      "imageUrl": "images/cards/space-race-moon.jpg",
+      "imageCaption": "The Space Race symbolized Cold War competition between superpowers"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Alliances and Divided Europe",
+      "body": "NATO (North Atlantic Treaty Organization), formed in 1949, allied Western democracies against Soviet expansion. The Warsaw Pact, established in 1955, formalized Soviet control over Eastern Europe. Germany was divided into communist East Germany and capitalist West Germany. Berlin, the German capital, was similarly divided, with a wall constructed in 1961 preventing East Germans from fleeing to the West. Korea and Vietnam were split into communist and non-communist regions. This division of the world into spheres of influence created lasting geopolitical consequences. NATO and the Warsaw Pact represented formal alliances that persisted until the Cold War's end.",
+      "imageUrl": "images/cards/berlin-wall.jpg",
+      "imageCaption": "The Berlin Wall, constructed in 1961, symbolized Cold War division"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "The End of the Cold War",
+      "body": "The Cold War gradually ended in the late 1980s. Soviet leader Mikhail Gorbachev implemented glasnost (openness) and perestroika (restructuring), reducing tensions. The Soviet economy, burdened by military spending and inefficiency, collapsed. Eastern European nations achieved independence. The Berlin Wall fell in 1989. The Soviet Union dissolved in 1991. These changes fundamentally altered global geopolitics. The bipolar world of communist versus capitalist superpowers gave way to American unipolarity and new regional challenges. The Cold War lasted over four decades, profoundly shaping post-World War II history. Its legacy persists in geopolitical tensions, nuclear proliferation concerns, and regional instabilities.",
+      "funFact": "The Cold War ended not with a dramatic military confrontation but through economic failure and internal collapse of the Soviet system."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Cold War: A New History",
+      "author": "John Lewis Gaddis",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "The Cold War: A Very Short Introduction",
+      "author": "Robert McMahon",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Origins of the Cold War in Europe",
+      "author": "David Reynolds",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-cold-war-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "What year did the Soviet Union dissolve, effectively ending the Cold War?",
+        "options": [
+          "1989",
+          "1991",
+          "1993",
+          "1985"
+        ],
+        "correctAnswer": "1991",
+        "explanation": "The Soviet Union officially dissolved on December 26, 1991, marking the definitive end of the Cold War."
+      },
+      {
+        "id": "q2",
+        "type": "fill_blank",
+        "questionText": "The doctrine of _______ suggested that nuclear war would be so devastating that neither superpower would risk initiating conflict.",
+        "correctAnswer": "Mutually Assured Destruction",
+        "explanation": "Mutually Assured Destruction (MAD) was the strategic concept that prevented direct confrontation between nuclear-armed superpowers."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "The Cuban Missile Crisis was the closest moment the world came to direct nuclear war between the superpowers.",
+        "correctAnswer": "true",
+        "explanation": "The Cuban Missile Crisis in October 1962 brought the U.S. and Soviet Union to the brink of nuclear conflict before resolving through diplomatic negotiation."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "Which of the following was a major proxy war during the Cold War?",
+        "options": [
+          "The Hundred Years War",
+          "The Vietnam War",
+          "The Spanish Civil War",
+          "The Napoleonic Wars"
+        ],
+        "correctAnswer": "The Vietnam War",
+        "explanation": "The Vietnam War (1955-1975) was a major Cold War proxy conflict with extensive American and Soviet involvement."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "The Soviet Union was the first nation to achieve human spaceflight with Yuri Gagarin in 1961.",
+        "correctAnswer": "true",
+        "explanation": "Soviet cosmonaut Yuri Gagarin became the first human in space on April 12, 1961, representing an initial Soviet victory in the Space Race."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440008"
+  },
+  "publishedAt": "2026-04-15T00:00:00Z",
+  "createdAt": "2026-04-15T00:00:00Z",
+  "updatedAt": "2026-04-15T00:00:00Z"
+}

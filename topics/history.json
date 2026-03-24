@@ -1,0 +1,9 @@
+{
+  "id": "history",
+  "name": "History",
+  "slug": "history",
+  "emoji": "📜",
+  "colorHex": "#D97706",
+  "description": "Stories that shaped the world",
+  "sortOrder": 3
+}

@@ -1,0 +1,148 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440004",
+  "slug": "what-are-neutron-stars",
+  "title": "What Are Neutron Stars?",
+  "subtitle": "Exploring the universe's most extreme objects",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 8,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/what-are-neutron-stars.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Birth of a Neutron Star",
+      "body": "Neutron stars form when massive stars—between 8 and 20 solar masses—reach the end of their lives and explode as supernovae. Unlike the most massive stars which become black holes, these moderately massive stars leave behind an incredibly dense remnant. The core collapses so violently that protons and electrons are forced together to form neutrons. What remains is a neutron star: a sphere of nuclear-density matter typically 20 kilometers across yet containing more mass than our entire Sun.",
+      "funFact": "One teaspoon of neutron star matter would weigh as much as a mountain on Earth!",
+      "imageUrl": "images/content/neutron-star-formation.jpg",
+      "imageCaption": "A massive star exploding and leaving behind a neutron star"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Extreme Density and Composition",
+      "body": "The density of neutron star matter defies comprehension. A cubic centimeter of neutron star material would weigh about 6 billion tons. The matter is so compressed that electrons are forced into protons, creating mostly neutrons. At such densities, matter behaves in ways physics can barely describe. The outer crust is solid iron and nickel, but deeper down exists an ocean of supercooled neutrons with exotic phases of matter. At the core, some theories propose quark matter—the fundamental constituents of matter compressed even further.",
+      "imageUrl": "images/content/neutron-star-structure.jpg",
+      "imageCaption": "Cross-section showing the layered structure of a neutron star"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Pulsars: Cosmic Lighthouses",
+      "body": "Many neutron stars are pulsars—rotating neutron stars that emit beams of radiation from their magnetic poles. As they spin, these beams sweep across space like a lighthouse. When a beam points toward Earth, we detect a radio pulse. Pulsars can rotate incredibly fast, from a few times per second to hundreds of times per second. The first pulsar was discovered in 1967 by Jocelyn Bell Burnell, initially called LGM-1 (Little Green Men) because its signal was so regular it seemed artificial. Pulsars are remarkably accurate timekeepers, with timing precision rivaling atomic clocks.",
+      "funFact": "The Crab Pulsar rotates 30 times per second, yet it was created by a supernova only 950 years ago!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Powerful Magnetic Fields",
+      "body": "Neutron stars possess the strongest magnetic fields in the universe. Their magnetic strength exceeds Earth's by a factor of a trillion to a quadrillion. These intense fields are believed to arise from the collapsing star's original magnetic field getting compressed along with the material. The magnetic field channels material onto the star's poles, creating hot spots that emit intense radiation. Some neutron stars are 'magnetars'—with even stronger fields—that occasionally release massive bursts of energy from crustal fractures.",
+      "imageUrl": "images/content/magnetar-burst.jpg",
+      "imageCaption": "An artist's representation of a magnetar releasing energy"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Binary Systems and Accretion",
+      "body": "Some neutron stars exist in binary systems with companion stars. Material from the companion flows toward the neutron star, forming an accretion disk. As material spirals inward, it heats to millions of degrees and emits X-rays. These X-ray binaries are among the brightest X-ray sources in the sky. The intense gravity causes the accreting material to spin the neutron star faster, eventually creating millisecond pulsars. Some neutron stars in binaries eventually merge with their companions, creating gravitational waves detectable by instruments like LIGO.",
+      "funFact": "Some millisecond pulsars are the fastest-spinning objects in the universe, completing more than 700 rotations per second!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Gravitational Waves from Mergers",
+      "body": "In 2017, gravitational wave detectors LIGO and Virgo observed the merger of two neutron stars. This event, GW170817, produced gravitational waves and was followed by observations across the electromagnetic spectrum. The collision created an element-rich fireball producing heavy elements like gold, platinum, and uranium. This discovery confirmed that neutron star mergers are a major source of heavy elements in the universe. The observations opened a new window on neutron star physics and demonstrated how neutron stars can produce the precious metals we see on Earth today.",
+      "imageUrl": "images/content/neutron-star-merger.jpg",
+      "imageCaption": "Illustration of two neutron stars merging"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Mysteries of Neutron Stars",
+      "body": "Despite decades of study, neutron stars remain mysterious. Questions persist about the exact equation of state—how pressure relates to density in their cores. Does matter transform into quarks? Are there strange phases of matter at neutron densities? How are the strongest magnetic fields generated? The mass-radius relationship constrains theories, but remains incompletely understood. Upcoming observations with instruments like the Event Horizon Telescope and future gravitational wave detectors promise to reveal more neutron star secrets. These objects are natural laboratories for testing physics under conditions impossible to recreate on Earth.",
+      "funFact": "If a neutron star entered our solar system, its gravity would disrupt planetary orbits, and its radiation would sterilize everything!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Shapiro, S. L., & Teukolsky, S. A. (1983). Black Holes, White Dwarfs, and Neutron Stars: The Physics of Compact Objects. John Wiley & Sons.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Abbott, B. P., et al. (2017). 'GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral.' Physical Review Letters, 119(16), 161101.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Lorimer, D. R., & Kramer, M. (2004). Handbook of Pulsar Astronomy. Cambridge University Press.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-4",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "What is the typical diameter of a neutron star?",
+        "options": [
+          "200 kilometers",
+          "20 kilometers",
+          "2 kilometers",
+          "200 meters"
+        ],
+        "correctAnswer": "20 kilometers",
+        "explanation": "Neutron stars are typically about 20 kilometers in diameter despite containing more mass than our Sun."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "A pulsar is a type of neutron star that emits beams of radiation that sweep across space like a lighthouse.",
+        "correctAnswer": "true",
+        "explanation": "Pulsars are rotating neutron stars with intense magnetic fields that direct radiation beams, creating detectable pulses as they rotate."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "Who discovered the first pulsar in 1967?",
+        "options": [
+          "Jocelyn Bell Burnell",
+          "Stephen Hawking",
+          "Carl Sagan",
+          "Fred Hoyle"
+        ],
+        "correctAnswer": "Jocelyn Bell Burnell",
+        "explanation": "Jocelyn Bell Burnell discovered the first pulsar while analyzing radio signals, which was initially puzzling due to its regular nature."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "In 2017, gravitational wave detectors observed the merger of two neutron stars in an event called _______.",
+        "correctAnswer": "GW170817",
+        "explanation": "GW170817 was the first confirmed detection of gravitational waves from a neutron star merger, providing unprecedented insights into extreme physics."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "What process causes some neutron stars to become millisecond pulsars?",
+        "options": [
+          "Radioactive decay in the core",
+          "Magnetic field reversal",
+          "Accretion from a companion star spinning up the neutron star",
+          "Collision with cosmic dust"
+        ],
+        "correctAnswer": "Accretion from a companion star spinning up the neutron star",
+        "explanation": "Material from a binary companion can transfer angular momentum to a neutron star, accelerating its rotation to produce millisecond pulsars."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440004"
+  },
+  "publishedAt": "2026-04-07T00:00:00Z",
+  "createdAt": "2026-04-07T00:00:00Z",
+  "updatedAt": "2026-04-07T00:00:00Z"
+}

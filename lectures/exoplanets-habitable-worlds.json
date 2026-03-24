@@ -1,0 +1,148 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440008",
+  "slug": "exoplanets-habitable-worlds",
+  "title": "Exoplanets and Habitable Worlds",
+  "subtitle": "Searching for worlds where life could exist",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 8,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/exoplanets-habitable-worlds.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Discovery of Exoplanets",
+      "body": "For most of human history, we observed only planets orbiting our Sun. In 1995, astronomers discovered the first exoplanet around a Sun-like star (51 Pegasi), revolutionizing our understanding of planetary systems. Over 5,000 exoplanets have been discovered since, with more being found constantly. These discoveries reveal that planetary systems are common and diverse. Some planets orbit extremely close to their stars, others are surprisingly distant. Some orbit binary stars, others travel through interstellar space. This diversity challenged existing theories and expanded our knowledge of how planetary systems form.",
+      "funFact": "The first exoplanet discovered was a 'hot Jupiter'—a giant gas planet orbiting very close to its star, nothing like our solar system!",
+      "imageUrl": "images/content/exoplanet-discovery.jpg",
+      "imageCaption": "Artistic representation of an exoplanet and its host star"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Methods of Detection",
+      "body": "Astronomers detect exoplanets using several techniques. The transit method detects the slight brightness drop as a planet crosses in front of its star. The radial velocity method measures the star's 'wobble' caused by the planet's gravity. Direct imaging captures light reflected or emitted by the planet itself. Gravitational microlensing detects planets through gravitational lensing effects. Astrometry measures the star's position shift caused by orbiting planets. Each method has strengths and limitations. The transit method has been most successful, used by NASA's Kepler space telescope to discover thousands of exoplanets.",
+      "imageUrl": "images/content/transit-method.jpg",
+      "imageCaption": "The transit method detects planets by measuring starlight dips"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Types of Exoplanets",
+      "body": "Exoplanet diversity far exceeds our solar system. Super-Earths and mini-Neptunes—planets between Earth and Neptune in size—are the most common type but don't exist in our solar system. Hot Jupiters orbit very close to their stars, unlike Jupiter. Cold giants orbit far away in extended orbits. Terrestrial planets similar to Earth or Mars are increasingly discovered. Some planets orbit binary stars or travel free-floating through space without any star. This variety demonstrates that our solar system represents just one possibility among countless planetary configurations. Understanding this diversity informs planetary formation theories.",
+      "funFact": "Some exoplanets are so close to their stars that they're tidally locked, with one side always facing the star and the other always dark!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "The Habitable Zone",
+      "body": "The habitable zone (or 'Goldilocks zone') is the region around a star where liquid water could exist on a planet's surface. Too close to the star, and water evaporates; too far away, and it freezes. The habitable zone's size and location depend on the star's temperature and luminosity. Hotter stars have habitable zones farther out; cooler stars have them closer. Numerous potentially habitable exoplanets have been discovered, including Earth-sized worlds around dim red dwarf stars. However, habitability requires more than just being in the habitable zone—atmospheric composition, magnetic field strength, and geological activity matter significantly.",
+      "imageUrl": "images/content/habitable-zone.jpg",
+      "imageCaption": "The habitable zone concept showing liquid water potential"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Potentially Habitable Candidates",
+      "body": "Several exoplanets are compelling habitable candidates. Proxima Centauri b, discovered in 2016, orbits Earth-sized around the closest star to our Sun. TRAPPIST-1e orbits within the habitable zone of a small red dwarf star. Kepler-452b was called 'Earth's cousin' due to its size and star similarity. K2-18b shows evidence of water in its atmosphere. These worlds remain distant and difficult to study, but ongoing observations refine our understanding. Future telescopes like the James Webb Space Telescope will analyze exoplanet atmospheres, searching for biosignatures—chemical combinations suggesting biological activity.",
+      "funFact": "The nearest potentially habitable exoplanet (Proxima Centauri b) is 4.24 light-years away—it would take our fastest spacecraft over 80,000 years to reach!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Atmospheric Studies",
+      "body": "Understanding exoplanet atmospheres is crucial for assessing habitability. When a planet transits its star, some starlight filters through the atmosphere. By analyzing this filtered light, scientists can identify atmospheric components. Water vapor, carbon dioxide, methane, and oxygen are detectable biosignatures indicating possible life. The James Webb Space Telescope can analyze atmospheres of relatively nearby exoplanets. Future instruments will enable more detailed atmospheric characterization. The discovery of oxygen-rich atmospheres without apparent geological sources would suggest biological origins. Atmospheric studies represent the frontier of exoplanet research.",
+      "imageUrl": "images/content/atmospheri-spectroscopy.jpg",
+      "imageCaption": "Technique for analyzing exoplanet atmospheres"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "The Future of Exoplanet Science",
+      "body": "Exoplanet research is advancing rapidly. Upcoming space missions will discover smaller, potentially habitable planets. Next-generation ground-based telescopes will provide unprecedented detail. Biosignature research will focus on identifying reliable indicators of life. Statistical studies will estimate how many habitable planets exist in our galaxy—potentially billions. Future missions might image exoplanet surfaces or even analyze exoplanet moons. Finding evidence of life elsewhere would answer one of humanity's deepest questions. Whether life is rare or common in the universe, exoplanet research will profoundly impact our understanding of life's place in the cosmos.",
+      "funFact": "Some estimates suggest there could be tens of billions of potentially habitable planets in the Milky Way alone!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Mayor, M., & Queloz, D. (1995). 'A Jupiter-mass companion to a solar-type star.' Nature, 378(6555), 355-359.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Kaltenegger, L., & Sasselov, D. (2011). 'Exploring the habitable zone for Kepler planetary candidates.' The Astrophysical Journal Letters, 736(2), L25.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Snellen, I. A., et al. (2014). 'Abundance of water in the atmosphere of WASP-33b detected with the CRIRES spectrograph.' The Astrophysical Journal, 764(2), 182.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-8",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "When was the first exoplanet discovered?",
+        "options": [
+          "1985",
+          "1990",
+          "1995",
+          "2000"
+        ],
+        "correctAnswer": "1995",
+        "explanation": "The first exoplanet was discovered around 51 Pegasi in 1995, fundamentally changing our view of planetary systems."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "The most common method of detecting exoplanets measures the wobble caused by the planet's gravitational pull on its star.",
+        "correctAnswer": "false",
+        "explanation": "While the radial velocity method measures wobble, the transit method (measuring brightness dips) has been most successful for exoplanet discovery."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "What is the habitable zone?",
+        "options": [
+          "The region inside a planet's atmosphere where life can exist",
+          "The region around a star where liquid water could exist on a planet's surface",
+          "The area around a planet where moons can form",
+          "The region between planetary orbits"
+        ],
+        "correctAnswer": "The region around a star where liquid water could exist on a planet's surface",
+        "explanation": "The habitable zone is the orbital region where temperatures allow liquid water, essential for life as we know it."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "Proxima Centauri b, a potentially habitable exoplanet, orbits the _______ star to our Sun.",
+        "correctAnswer": "closest",
+        "explanation": "Proxima Centauri is our Sun's nearest stellar neighbor at 4.24 light-years away."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "What is a 'hot Jupiter'?",
+        "options": [
+          "A giant gas planet with a very hot atmosphere",
+          "A giant gas planet orbiting very close to its star",
+          "The most massive type of exoplanet",
+          "A planet made of molten rock and metals"
+        ],
+        "correctAnswer": "A giant gas planet orbiting very close to its star",
+        "explanation": "Hot Jupiters are unexpected discoveries—gas giants in very close orbits, unlike anything in our solar system."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440008"
+  },
+  "publishedAt": "2026-04-15T00:00:00Z",
+  "createdAt": "2026-04-15T00:00:00Z",
+  "updatedAt": "2026-04-15T00:00:00Z"
+}

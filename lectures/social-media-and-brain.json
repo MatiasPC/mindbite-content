@@ -1,0 +1,120 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440009",
+  "slug": "social-media-and-brain",
+  "title": "Social Media and Your Brain",
+  "subtitle": "How Digital Platforms Affect Our Cognition and Mental Health",
+  "topicId": "psychology",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/social-media-and-brain.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Dopamine Feedback Loop",
+      "body": "Social media platforms leverage the brain's dopamine reward system. When you post content, notifications of likes, comments, and shares trigger dopamine release—the neurotransmitter associated with pleasure and motivation. This creates a powerful feedback loop where anticipation of social validation motivates continued posting and checking. Platforms design features to maximize these dopamine hits: variable rewards (sometimes a post gets hundreds of likes, sometimes few), immediate feedback (notifications appear quickly), and endless scrolling (infinite content availability). This design mirrors gambling mechanics, which also manipulate dopamine systems. Understanding this biological mechanism explains why social media feels compelling even when users consciously want to limit use.",
+      "funFact": "The architects of social media platforms—including former Facebook executives—have stated they deliberately designed features to be addictive and have expressed concern about their creations' impacts."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Attention and Cognitive Capacity",
+      "body": "Constant social media exposure fragments attention, reducing our capacity for deep focus. The brain's attentional resources are limited. Checking social media throughout work or study breaks interrupts the cognitive processes required for complex thinking. Research shows that merely having your phone visible reduces cognitive performance on challenging tasks, even if you don't use it. The potential for notifications creates divided attention. Regular interruptions impair the consolidation of learning into long-term memory. Students who multitask with social media perform worse academically. Professionals attempting to concentrate on complex problems experience reduced productivity. The cumulative effect of fragmented attention is reduced ability to engage deeply with challenging material.",
+      "imageUrl": "images/attention-fragmentation.jpg",
+      "imageCaption": "Social media interruptions reduce sustained focus capacity"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Social Comparison and Self-Esteem",
+      "body": "Social media facilitates constant upward social comparison—comparing your life to others' highlight reels. Platforms encourage curating perfect presentations: posting attractive photos, documenting experiences, showcasing accomplishments. Viewing others' carefully edited content creates the illusion that everyone else is living better, happier, more successful lives. This comparison activates brain regions associated with self-evaluation and produces feelings of inadequacy. Research links heavy social media use with increased anxiety and depression, particularly among adolescents whose identities are still forming. The comparison tendency is amplified by algorithmic feeds that show increasingly extreme content. Taking breaks from social media consistently improves self-esteem and mood, suggesting these feelings reflect social media influence rather than reality.",
+      "imageUrl": "images/social-comparison.jpg"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Sleep and Neurological Effects",
+      "body": "Late-night social media use disrupts sleep through multiple mechanisms. The blue light from screens suppresses melatonin production, delaying sleep onset. The emotionally stimulating content activates your nervous system when you should be winding down. Notifications create sleep fragmentation throughout the night. Sleep loss impairs cognitive function, emotional regulation, immune function, and memory consolidation. Adolescents are particularly vulnerable—sleep is critical for brain development. The timing of social media use matters greatly: evening use produces worse sleep disruption than morning or afternoon use. Establishing phone-free wind-down periods improves sleep quality, which subsequently improves mood, cognition, and overall functioning. Sleep quality often improves dramatically after reducing evening social media use.",
+      "imageUrl": "images/sleep-disruption.jpg",
+      "imageCaption": "Blue light and content stimulation disrupt sleep patterns"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Intentional Use Strategies",
+      "body": "Understanding social media's neurological effects enables more intentional use. Turning off notifications reduces the dopamine-triggering unpredictability. Scheduling specific social media times rather than checking throughout the day limits attention fragmentation. Limiting evening use protects sleep. Curating feeds to include inspiring rather than comparison-inducing content changes algorithm-driven exposure. Using website blockers during focused work sessions prevents temptation. Taking regular social media breaks helps reset tolerance levels—what felt like necessary checks becomes less compelling. Choosing face-to-face interaction over social media engagement activates different, healthier neural pathways. Being aware of design manipulation—recognizing when platforms trigger comparison or anxiety—creates psychological distance. These strategies don't require abandoning social media but rather using it more consciously.",
+      "funFact": "Research on social media breaks shows that just one to two weeks of reduced use produces measurable improvements in mood and anxiety levels in most users."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World. Grand Central Publishing.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Williams, J. (2018). Stand Out of Our Light: Freedom and Resistance in the Attention Economy. Cambridge University Press.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-socialmedia-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "Which neurotransmitter system do social media platforms primarily leverage to create addictive experiences?",
+        "options": [
+          "Serotonin",
+          "Dopamine",
+          "GABA",
+          "Acetylcholine"
+        ],
+        "correctAnswer": "Dopamine",
+        "explanation": "Social media platforms manipulate the dopamine reward system through likes, comments, and notifications, creating powerful feedback loops similar to gambling mechanisms."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Merely having your phone visible, even without using it, has no significant effect on cognitive performance.",
+        "correctAnswer": "false",
+        "explanation": "Research shows that the mere presence and visibility of a phone reduces cognitive performance on challenging tasks, even when the phone isn't being used."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "What type of social comparison does social media facilitate most prominently?",
+        "options": [
+          "Downward comparison with less successful people",
+          "Lateral comparison with people in similar circumstances",
+          "Upward comparison with highlight reels of others' curated lives",
+          "Comparative analysis of different life philosophies"
+        ],
+        "correctAnswer": "Upward comparison with highlight reels of others' curated lives",
+        "explanation": "Social media shows people's best moments and edited presentations, leading to upward comparison that produces feelings of inadequacy in viewers."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "The blue light from screens suppresses production of _______, which is crucial for initiating sleep.",
+        "correctAnswer": "melatonin",
+        "explanation": "Blue light from screens suppresses melatonin production, delaying sleep onset when used in the evening."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "Research indicates that taking breaks from social media typically results in worsened mood and anxiety levels.",
+        "correctAnswer": "false",
+        "explanation": "Research shows that social media breaks improve mood and anxiety levels, with measurable improvements occurring within one to two weeks of reduced use."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440009"
+  },
+  "publishedAt": "2026-04-17T00:00:00Z",
+  "createdAt": "2026-04-17T00:00:00Z",
+  "updatedAt": "2026-04-17T00:00:00Z"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440006",
+  "slug": "theory-of-relativity",
+  "title": "Einstein's Theory of Relativity",
+  "subtitle": "Understanding Space, Time, and Gravity",
+  "topicId": "science",
+  "estimatedMinutes": 10,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/theory-of-relativity.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Two Pillars of Relativity",
+      "body": "Einstein's theory of relativity consists of two parts: special relativity (1905) and general relativity (1915). Special relativity revolutionized understanding of motion, time, and energy at high speeds. It showed that space and time aren't absolute but relative to the observer's frame of reference. General relativity extended this to include gravity, describing it not as a force but as curvature of space and time. Together, these theories fundamentally changed how we understand the universe. Special relativity is essential for understanding particle physics and high-speed phenomena. General relativity is crucial for understanding cosmology, black holes, and the universe's structure. Both theories have passed every experimental test and form the foundation of modern physics. Einstein's insights required imagining scenarios and thinking beyond Newtonian assumptions.",
+      "funFact": "Einstein developed special relativity in just one year while working as a patent clerk!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Special Relativity and the Speed of Light",
+      "body": "Special relativity is based on a revolutionary principle: the speed of light is constant for all observers. No matter how fast an observer moves, light always travels at approximately three hundred thousand kilometers per second. This seems counterintuitive—if a light beam passes you while you're moving at high speed, shouldn't it appear slower? Special relativity says no. This constancy of light speed has profound consequences. Time passes at different rates for observers in different reference frames. An object moving at high speed experiences time more slowly than a stationary observer—time dilation. Moving objects also appear shorter in the direction of motion—length contraction. These aren't illusions; they're real physical effects. At everyday speeds, these effects are negligible, but at speeds approaching light speed, they become significant.",
+      "imageUrl": "images/light-speed.jpg",
+      "imageCaption": "Light travels at constant speed in all reference frames"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "E=mc²: Energy and Mass Equivalence",
+      "body": "Einstein's most famous equation, E=mc², reveals that energy and mass are interchangeable. A small amount of mass contains enormous energy because the speed of light squared (c²) is an enormous number. This equation explains why nuclear reactions release such tremendous energy. One kilogram of matter converted completely to energy would release energy equivalent to millions of tons of TNT. This equivalence shows that mass is concentrated energy. The equation has practical implications: it explains how the sun generates energy through nuclear fusion, converting mass into light and heat. It explains radioactive decay and nuclear power. It shows that no object with mass can reach light speed because accelerating to light speed would require infinite energy. The E=mc² relationship is one of the most important discoveries in physics.",
+      "imageUrl": "images/emc2.jpg",
+      "imageCaption": "Energy and mass equivalence demonstrated through nuclear reactions"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "General Relativity and Curved Spacetime",
+      "body": "General relativity extends special relativity to include gravity by proposing that gravity isn't a force pulling objects together, but curvature of space and time itself. Massive objects like stars and planets warp the spacetime around them. Other objects follow curved paths through this warped spacetime, which we perceive as gravitational attraction. Imagine spacetime as a rubber sheet. A heavy ball placed on the sheet creates a depression. A rolling marble curves along this depression, appearing to be attracted to the ball. Similarly, Earth curves spacetime, and objects move along this curvature. This perspective explains why gravity affects even massless photons—they follow the curved spacetime. Black holes represent extreme spacetime curvature where gravity is so intense that not even light escapes. General relativity predicts phenomena Newton's gravity cannot: gravitational lensing, black holes, and the expansion of the universe.",
+      "imageUrl": "images/spacetime-curvature.jpg",
+      "imageCaption": "Massive objects curve spacetime, affecting nearby objects' motion"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Gravitational Time Dilation",
+      "body": "General relativity predicts that time passes at different rates in regions of different gravitational strength. Clocks run faster in weaker gravitational fields and slower in stronger gravitational fields. This gravitational time dilation has been experimentally verified. Atomic clocks at different altitudes run at measurably different rates—clocks at higher altitudes, where Earth's gravity is weaker, run faster than clocks at sea level. Satellites must account for relativity to maintain accurate positioning. GPS satellites orbit at high altitude where gravity is weaker, so their clocks run faster than ground clocks by about thirty-eight microseconds daily. If these relativistic corrections weren't applied, GPS would accumulate errors of several kilometers per day. This practical application demonstrates that relativity isn't just theoretical—it's essential for modern technology.",
+      "funFact": "Without accounting for relativity, GPS would be off by kilometers within just a week!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Black Holes and Singularities",
+      "body": "General relativity predicts that sufficiently massive stars collapse into black holes—regions where gravity becomes so extreme that spacetime is infinitely curved. At a black hole's event horizon, the escape velocity exceeds light speed, meaning nothing can escape, not even light. Inside the event horizon lies a singularity—a point of infinite density and curvature where spacetime physics breaks down. Black holes were long considered theoretical curiosities, but astronomers have detected numerous black holes, including supermassive ones at galaxy centers. The black hole at our Milky Way's center, Sagittarius A*, has a mass of four million suns. Black holes aren't cosmic vacuums; they're laboratories where physics reaches extremes. Studying them reveals fundamental principles about gravity, spacetime, and the universe. The recent image of a black hole's shadow confirmed predictions made over a century ago.",
+      "imageUrl": "images/black-hole.jpg",
+      "imageCaption": "Black holes represent extreme spacetime curvature"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Modern Tests and Applications",
+      "body": "Relativity has been tested countless times, always confirming Einstein's predictions. Particle accelerators accelerate particles to speeds approaching light, and relativistic effects are observed precisely as predicted. Gravitational waves—ripples in spacetime from accelerating masses—were detected in 2015, over a hundred years after Einstein predicted them. The detection provided direct evidence for general relativity's predictions. Relativity explains the universe's structure and evolution. It shows that the universe isn't static but expanding. Combined with quantum mechanics, relativity forms the foundation for understanding atomic nuclei, stars, and the universe. Modern technology from nuclear power to GPS depends on relativistic principles. The theory challenged intuitions about absolute space and time, replacing them with a unified spacetime. Relativity remains central to physics over a century after its formulation."
+    }
+  ],
+  "quiz": {
+    "id": "quiz-6",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "What is the fundamental principle underlying special relativity?",
+        "options": [
+          "Time always passes at the same rate for all observers",
+          "The speed of light is constant for all observers",
+          "Objects cannot move faster than sound",
+          "Gravity is the strongest force in nature"
+        ],
+        "correctAnswer": "The speed of light is constant for all observers",
+        "explanation": "Special relativity is based on the principle that the speed of light remains constant at approximately 300,000 km/s regardless of the observer's reference frame."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "According to E=mc², mass and energy are interchangeable.",
+        "correctAnswer": "true",
+        "explanation": "Einstein's equation shows that a small amount of mass contains tremendous energy, and mass can be converted to energy and vice versa."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "General relativity describes gravity not as a force, but as ________ of space and time.",
+        "correctAnswer": "curvature",
+        "explanation": "General relativity proposes that massive objects curve spacetime, and other objects follow the curved paths, which we perceive as gravitational attraction."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "Why must GPS satellites account for relativity in their calculations?",
+        "options": [
+          "GPS satellites need to compensate for Earth's rotation",
+          "Gravitational time dilation causes satellite clocks to run faster than ground clocks",
+          "GPS satellites must account for the sun's gravity",
+          "Relativity prevents satellites from orbiting Earth"
+        ],
+        "correctAnswer": "Gravitational time dilation causes satellite clocks to run faster than ground clocks",
+        "explanation": "GPS satellites orbit at high altitude where gravity is weaker, so their clocks run faster than ground clocks due to gravitational time dilation. Without relativistic corrections, GPS would accumulate errors."
+      },
+      {
+        "id": "q5",
+        "type": "multiple_choice",
+        "questionText": "What is the event horizon of a black hole?",
+        "options": [
+          "The center of the black hole",
+          "The boundary beyond which nothing can escape because escape velocity exceeds light speed",
+          "A zone of stars surrounding the black hole",
+          "The point where gravity begins"
+        ],
+        "correctAnswer": "The boundary beyond which nothing can escape because escape velocity exceeds light speed",
+        "explanation": "The event horizon is the boundary around a black hole where the escape velocity exceeds the speed of light, making it impossible for anything to escape."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440006"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Einstein, A. (1905). 'On the Electrodynamics of Moving Bodies'. Annalen der Physik, 17(10), 891-921.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Einstein, A. (1915). 'The Field Equations of Gravitation'. Sitzungsberichte der Königlich-Preußischen Akademie der Wissenschaften, 844-847.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Schutz, B. F. (2009). 'A First Course in General Relativity' (2nd ed.). Cambridge University Press.",
+      "type": "journal"
+    }
+  ],
+  "publishedAt": "2026-04-16T00:00:00Z",
+  "createdAt": "2026-04-16T00:00:00Z",
+  "updatedAt": "2026-04-16T00:00:00Z"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440008",
+  "slug": "the-marshmallow-test",
+  "title": "The Marshmallow Test",
+  "subtitle": "Delayed Gratification and Long-Term Success",
+  "topicId": "psychology",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-marshmallow-test.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Classic Experiment",
+      "body": "Walter Mischel's marshmallow test, conducted at Stanford in the late 1960s, became one of psychology's most famous experiments. Children aged four to six were presented with a marshmallow and told they could eat it immediately, or wait fifteen minutes and receive two marshmallows. The experimenter then left the room. Children's strategies for resisting temptation ranged from covering their eyes to talking to themselves. About thirty percent successfully waited for the reward. This simple test appeared to measure self-control, a trait some researchers believed critical for future success. The experiment captured public imagination, suggesting that childhood self-control predicted lifetime achievement.",
+      "funFact": "Some children tested created elaborate distraction strategies, including singing songs or covering their eyes to avoid looking at the tempting marshmallow."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "The Longitudinal Follow-Up",
+      "body": "Mischel's team tracked marshmallow test participants into adulthood, finding that those who waited had better outcomes: higher SAT scores, lower BMI, better stress management, and improved financial planning. The correlation between childhood self-control and adult success seemed established. This finding influenced educational policy and parenting advice globally. The idea became pervasive: self-control matters more than other factors for long-term success. Parents and educators increasingly focused on building children's ability to delay gratification. The marshmallow test became a symbol of self-discipline as the key to achievement, widely cited in popular psychology and business literature.",
+      "imageUrl": "images/marshmallow-outcomes.jpg",
+      "imageCaption": "Early research appeared to show strong predictive value"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Critical Reexamination",
+      "body": "Recent research has significantly complicated the marshmallow test story. A 2018 replication study controlled for socioeconomic factors that weren't accounted for in the original research. When controlling for family income, parental education, and home environment, the correlation between childhood delay of gratification and adult outcomes largely disappeared. Children from wealthier backgrounds waited longer—not because they had superior self-control, but because they had learned from experience that delayed rewards were reliable. Children from economically insecure backgrounds rationally took immediate rewards, having learned that delayed promises are less trustworthy. This reinterpretation fundamentally changed how psychologists understand the test.",
+      "imageUrl": "images/marshmallow-socioeconomic.jpg"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Context and Trust",
+      "body": "The revised understanding emphasizes that the marshmallow test measures trust and learned expectations as much as self-control. Children who grew up experiencing broken promises rationally don't wait—they know from lived experience that future rewards are uncertain. Children from stable, reliable environments trust the experimenter's promise. This reflects adaptation to life circumstances rather than character deficiency. A child who immediately takes the marshmallow might demonstrate rational economic decision-making given their history. This insight extends beyond the marshmallow test: what appears as poor impulse control often reflects rational responses to unstable environments. Understanding these contextual factors prevents misattributing poverty and inequality to personal character flaws.",
+      "imageUrl": "images/trust-context.jpg"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Implications for Education and Policy",
+      "body": "The revised marshmallow test understanding has important implications. Assuming children's life outcomes depend primarily on self-control ignores structural barriers and environmental factors. Educational policies emphasizing willpower without addressing poverty prove insufficient. Supporting children's long-term success requires attention to economic stability, reliable relationships, and trustworthy institutions—not just self-discipline training. The reexamined research suggests that building environmental stability and trust is more effective than repeatedly telling children to 'just wait.' This perspective encourages addressing root causes of inequality rather than blaming individuals for not having more willpower. True success support requires both individual development and environmental change.",
+      "funFact": "The marshmallow test's transformation from simple self-control measure to complex study of trust and context reflects broader evolution in psychology toward recognizing environmental factors."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Mischel, W. (1989). Personality and Assessment. Lawrence Erlbaum Associates.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the Marshmallow Test: A conceptual replication investigating links between early delay of gratification and later outcomes. Psychological Science, 29(7), 1159-1177.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-marshmallow-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "Who conducted the original marshmallow test experiments at Stanford?",
+        "options": [
+          "B. F. Skinner",
+          "Walter Mischel",
+          "Albert Bandura",
+          "Carol Dweck"
+        ],
+        "correctAnswer": "Walter Mischel",
+        "explanation": "Walter Mischel conducted the famous marshmallow test experiments in the late 1960s at Stanford University."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "In the original marshmallow test, approximately 30% of children successfully waited fifteen minutes for the larger reward.",
+        "correctAnswer": "true",
+        "explanation": "About 30% of the children ages 4-6 were able to wait the full fifteen minutes to receive two marshmallows instead of eating one immediately."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "What factor did the 2018 replication study identify that the original research had not adequately accounted for?",
+        "options": [
+          "The children's age and gender",
+          "The color and size of the marshmallows",
+          "Socioeconomic status and family background",
+          "The experimenter's appearance"
+        ],
+        "correctAnswer": "Socioeconomic status and family background",
+        "explanation": "The 2018 replication found that when controlling for socioeconomic factors, the correlation between childhood delay of gratification and adult outcomes largely disappeared."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "Recent research suggests that the marshmallow test measures _______ and learned expectations as much as self-control.",
+        "correctAnswer": "trust",
+        "explanation": "Children's willingness to wait depends on whether they've learned from experience that delayed rewards are reliable and trustworthy."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "Children from economically insecure backgrounds who took the marshmallow immediately were likely demonstrating poor self-control rather than rational decision-making.",
+        "correctAnswer": "false",
+        "explanation": "This is false. Recent research suggests these children were demonstrating rational economic decision-making based on learned experience that delayed promises are less trustworthy."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440008"
+  },
+  "publishedAt": "2026-04-15T00:00:00Z",
+  "createdAt": "2026-04-15T00:00:00Z",
+  "updatedAt": "2026-04-15T00:00:00Z"
+}

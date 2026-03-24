@@ -1,0 +1,131 @@
+{
+  "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+  "slug": "the-ship-of-theseus",
+  "title": "The Ship of Theseus",
+  "subtitle": "Identity, Continuity, and What Makes Something the Same Over Time",
+  "topicId": "philosophy",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-ship-of-theseus.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Classic Paradox",
+      "body": "The Ship of Theseus is an ancient paradox about identity and continuity attributed to Greek philosopher Plutarch. The legendary hero Theseus' ship was preserved by Athenians who gradually replaced each wooden plank as it decayed. Eventually, every original plank was replaced. The paradox asks: Is it still the same ship? Intuitively, yes—we accept gradual replacement of parts. We replace cells in our bodies, yet remain ourselves. But the paradox becomes puzzling. Imagine collecting the original planks as they're removed and reassembling them into a ship. Now you have two ships: one with all the original planks, one that maintained continuity through gradual replacement. Which is the real Ship of Theseus? This problem has no obvious answer. It reveals something subtle about identity. Identity isn't determined by an intrinsic property but by our conceptual frameworks. The paradox illustrates how language and logic can confuse philosophical issues."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "The Principle of Material Composition",
+      "body": "One approach to the paradox emphasizes material composition: the ship is identical to its material parts. If all the original planks are reassembled, that ship is the real Ship of Theseus because it contains all original material. The ship with all new planks is a different ship despite continuous existence. This view prioritizes physical substance. However, it raises problems. If identity depends on material composition, then you're not the same person because you've replaced most cells since childhood. A building isn't the same building after renovation. These conclusions seem false. We intuitively accept that people and buildings can be 'the same' despite material replacement. The material composition view too strictly defines identity. It works for some objects but fails for living organisms and complex artifacts. This illustrates that identity might not be a single objective fact but rather depends on context, interests, and conceptual schemes."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "The Principle of Continuity",
+      "body": "Another approach emphasizes spatio-temporal continuity: the ship remains identical because it maintained continuous existence through gradual replacement. At no moment was there a discontinuity; the ship continuously persisted. This supports identifying the ship that underwent gradual replacement as the original Ship of Theseus. This approach aligns with how we naturally identify organisms and objects. Your body persists through continuous existence and gradual material change. A river remains the same river despite constant water flow. This principle makes practical sense and matches our ordinary identity judgments. However, continuity alone doesn't fully resolve the paradox. If someone suddenly created an exact duplicate of the ship at some point, which ship is the original—the duplicate or the gradually altered one? Both have continuity with what existed before. The paradox reveals that continuity provides one important criterion for identity, but it's not the only one. Different criteria can conflict, creating genuine ambiguity."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "The Role of Function and Purpose",
+      "body": "Some philosophers argue that identity partly depends on function or purpose. The ship's identity depends on it being the object used for sailing, carrying people, and serving as a memorial to Theseus. The ship that maintains functional continuity—it's still used for the same purposes and recognized by the community—is the real Ship of Theseus. This functional approach explains why we identify ships by their roles despite material changes. Similarly, we identify persons partly through psychological continuity—memory, personality, intentions. This view accommodates practical identity judgments better than strict material composition. However, function also seems somewhat arbitrary. What makes a function 'the same'? What if a ship is repurposed completely? The functional approach highlights that identity involves purposes and community recognition, not just objective physical properties. This suggests identity is socially constructed and purpose-dependent, not purely objective."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Application to Persons and Personal Identity",
+      "body": "The Ship of Theseus directly applies to personal identity. Over time, your body replaces cells, your mind changes through experience, and your values and beliefs evolve. Are you the same person you were ten years ago? The paradox suggests this isn't a purely factual question but partly conventional. For practical purposes, we say you're the same person because of psychological continuity—memory connects your present self to past selves. Society recognizes this continuity legally and morally. However, philosophical puzzles remain. Is there a deep fact about personal identity independent of our conventions? What if your brain were split, with each half developing separately? Both continuations would have some claim to being you. The paradox teaches humility: identity might not have a determinate answer independent of human interests and conceptual schemes. Personal identity is real and important, but its foundations are more complex than simple objective facts.",
+      "funFact": "The Ship of Theseus paradox has influenced contemporary philosophy of mind, personal identity, and even discussions about consciousness uploading and digital immortality."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Why the Paradox Matters",
+      "body": "The Ship of Theseus might seem like a pointless puzzle, but it reveals something profound about identity, language, and reality. It shows that identity judgments depend on multiple criteria—material composition, continuity, function, social recognition. When these criteria conflict, there's no objectively correct answer. This applies beyond ships to organisms, artifacts, persons, and even institutions. The paradox teaches that identity isn't always determinate. Language developed for most cases breaks down at extremes. Rather than seeking a single definition of identity, we should understand how different criteria apply in different contexts. This philosophical humility is valuable. It suggests that some philosophical puzzles aren't solved by better logic but by recognizing that language and concepts have limits. The paradox encourages careful thinking about what we mean by 'same' and recognizing that identity, while practically important, might lack absolute foundations."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Plutarch. Life of Theseus. Various classical editions.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Hobbes, Thomas. De Corpore. Translated by A.P. Martinich, Abaris Books, 1981.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Wiggins, David. Sameness and Substance. Harvard University Press, 1980.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-the-ship-of-theseus",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "In the Ship of Theseus paradox, what is the central philosophical question?",
+        "options": [
+          "Can ships travel across oceans?",
+          "Is the ship with gradually replaced planks the same ship as one made from the original planks?",
+          "How should ships be built most effectively?",
+          "Why did Theseus own a ship?"
+        ],
+        "correctAnswer": "Is the ship with gradually replaced planks the same ship as one made from the original planks?",
+        "explanation": "The paradox questions what constitutes identity when all parts are replaced gradually. Two ships could claim to be the original Ship of Theseus—creating ambiguity about identity."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "According to the principle of material composition, the ship made from original reassembled planks would be the true Ship of Theseus.",
+        "correctAnswer": "true",
+        "explanation": "The material composition principle identifies objects by their physical substance. If all original planks are reassembled, that ship contains the original material and would be considered the true Ship of Theseus."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "Which principle supports the idea that the gradually replaced ship is the true Ship of Theseus?",
+        "options": [
+          "Material composition",
+          "Spatio-temporal continuity",
+          "Economic value",
+          "Historical documentation"
+        ],
+        "correctAnswer": "Spatio-temporal continuity",
+        "explanation": "The continuity principle argues that the ship maintaining continuous existence and gradual replacement is the true Ship of Theseus because it never experiences discontinuity."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "The Ship of Theseus paradox reveals that identity might partly depend on ___, purpose, and social recognition rather than just objective physical properties.",
+        "correctAnswer": "function",
+        "explanation": "A functional approach considers how objects are used and their role in community practices. Ships identified through their sailing function rather than strict material identity."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "How does the Ship of Theseus paradox apply to human personal identity?",
+        "options": [
+          "It shows that people cannot change over time",
+          "It demonstrates that your physical body determines who you are",
+          "It illustrates that personal identity depends on continuity criteria that can conflict, similar to ships",
+          "It proves that identity is purely a matter of material composition"
+        ],
+        "correctAnswer": "It illustrates that personal identity depends on continuity criteria that can conflict, similar to ships",
+        "explanation": "Like the ship, personal identity over time involves material change, continuity, and psychological factors. The paradox shows identity criteria can conflict in persons too."
+      }
+    ],
+    "lectureId": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d"
+  },
+  "publishedAt": "2026-04-15T00:00:00Z",
+  "createdAt": "2026-04-15T00:00:00Z",
+  "updatedAt": "2026-04-15T00:00:00Z"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "slug": "why-is-the-sky-blue",
+  "title": "Why Is the Sky Blue?",
+  "subtitle": "Understanding Light Scattering in Our Atmosphere",
+  "topicId": "science",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/why-is-the-sky-blue.jpg",
+  "isPremium": false,
+  "featured": true,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "What Makes the Sky Blue?",
+      "body": "The sky appears blue due to a phenomenon called Rayleigh scattering. When sunlight enters Earth's atmosphere, it collides with nitrogen and oxygen molecules. These molecules scatter shorter wavelengths of light—like blue and violet—more effectively than longer wavelengths like red and orange. This scattering happens in all directions, making the entire sky appear blue. The effect is strongest during the day when the sun is high overhead, providing the optimal angles for blue light to reach our eyes.",
+      "funFact": "The sky isn't always blue! During sunrise and sunset, the light travels through more atmosphere, scattering away the blue light and revealing reds, oranges, and yellows."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Wavelength and Color",
+      "body": "Light travels in waves with different wavelengths. Visible light ranges from about 380 nanometers (violet) to 750 nanometers (red). Blue light has a wavelength around 450 nanometers. Rayleigh scattering is inversely proportional to the fourth power of wavelength, meaning shorter wavelengths scatter much more dramatically. This mathematical relationship explains why blue light is scattered about nine times more than red light. Understanding this helps explain not just the sky's color, but also why sunsets are red and why the moon appears reddish during lunar eclipses.",
+      "imageUrl": "images/wavelength-spectrum.jpg",
+      "imageCaption": "Visible light spectrum showing wavelengths from violet to red"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Why Not Violet?",
+      "body": "You might wonder why the sky is blue rather than violet, since violet light has an even shorter wavelength and scatters even more. There are two main reasons. First, our eyes are more sensitive to blue light than violet light. Second, violet light is partially absorbed by the upper atmosphere before it reaches us. Additionally, much violet light is scattered so much that it's dispersed into other directions. The combination of these factors makes blue the dominant color we perceive in the sky on clear days.",
+      "funFact": "Some animals and birds can see ultraviolet light and may perceive the sky quite differently than we do!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Atmospheric Conditions and Sky Color",
+      "body": "The brightness and shade of blue in the sky varies based on atmospheric conditions. On clear, dry days with little dust or pollution, the sky appears a deeper, more saturated blue. Humidity, dust particles, and pollution can scatter additional white light, making the sky appear paler or even grayish. Water droplets in clouds scatter all wavelengths of light equally, which is why clouds appear white. The angle of observation also matters—the sky directly overhead appears darker blue than near the horizon because light has traveled through less atmosphere.",
+      "imageUrl": "images/sky-conditions.jpg",
+      "imageCaption": "Sky color variations based on atmospheric conditions"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Beyond Earth",
+      "body": "The blue sky is unique to Earth because we have an oxygen and nitrogen-rich atmosphere with the right density. Other planets have different colored skies. Mars has a butterscotch-colored sky due to iron oxide dust particles that scatter longer wavelengths. Venus's thick atmosphere creates an orange-yellow sky. The Moon, lacking any atmosphere, has a black sky even during the day. This demonstrates that the sky's color directly depends on what molecules are in the atmosphere and how they interact with sunlight, making Earth's blue sky a special feature of our planet.",
+      "funFact": "If you were standing on Mars looking at the sunset, the sky would turn blue near the sun—the opposite of Earth!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Historical Understanding",
+      "body": "For centuries, people puzzled over why the sky was blue. Ancient philosophers offered various explanations, from reflections to sympathetic vibrations. In the 1870s, physicist John Tyndall discovered that small particles could scatter light, but his explanation wasn't complete. In 1871, Lord Rayleigh developed the mathematical theory of scattering that perfectly explained the phenomenon. His work laid the foundation for understanding not just the sky's color, but also phenomena like why the ocean appears blue and how stars twinkle. This scientific journey shows how understanding simple everyday observations requires both observation and mathematical analysis.",
+      "imageUrl": "images/rayleigh-portrait.jpg",
+      "imageCaption": "Lord Rayleigh, who developed the theory of light scattering"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Key Takeaways",
+      "body": "The sky is blue because of Rayleigh scattering—shorter blue wavelengths scatter more effectively than longer red wavelengths when interacting with atmospheric molecules. This process explains not only the blue sky but also red sunsets and the colors of other planets. The phenomenon depends on the atmospheric composition, humidity, and the angle of sunlight. Understanding this teaches us fundamental principles about light, atmosphere, and how our planet differs from others. It's a beautiful example of how physics explains the everyday wonders around us."
+    }
+  ],
+  "quiz": {
+    "id": "quiz-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "What is the primary reason the sky appears blue?",
+        "options": [
+          "Blue light is absorbed by the atmosphere",
+          "Rayleigh scattering scatters blue light more than other colors",
+          "Oxygen and nitrogen molecules are blue",
+          "The ocean reflects its color into the sky"
+        ],
+        "correctAnswer": "Rayleigh scattering scatters blue light more than other colors",
+        "explanation": "Rayleigh scattering is inversely proportional to the fourth power of wavelength, making shorter blue wavelengths scatter much more dramatically than longer wavelengths like red."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "Violet light scatters more than blue light in the atmosphere.",
+        "correctAnswer": "true",
+        "explanation": "Violet light has a shorter wavelength than blue light, so according to Rayleigh scattering theory, it scatters even more. However, we see blue, not violet, because violet is partially absorbed and our eyes are more sensitive to blue."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "Light travels in waves with different ________, with blue light around 450 nanometers and red around 750 nanometers.",
+        "correctAnswer": "wavelengths",
+        "explanation": "The wavelength of light determines its color. Different colors correspond to different wavelengths within the visible light spectrum."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "Why is the sky near the horizon paler than directly overhead?",
+        "options": [
+          "Light scatters less near the horizon",
+          "Light travels through more atmosphere near the horizon",
+          "The sun is weaker at the horizon",
+          "Moisture increases near the ground"
+        ],
+        "correctAnswer": "Light travels through more atmosphere near the horizon",
+        "explanation": "Near the horizon, sunlight must travel through significantly more atmosphere to reach your eyes. This means more white light is scattered in addition to blue, making the sky appear paler."
+      },
+      {
+        "id": "q5",
+        "type": "multiple_choice",
+        "questionText": "What does Mars's butterscotch-colored sky tell us?",
+        "options": [
+          "Mars is closer to the sun",
+          "Martian atmosphere has different composition and particle types than Earth",
+          "Mars has no atmosphere",
+          "The Martian sky changes color daily"
+        ],
+        "correctAnswer": "Martian atmosphere has different composition and particle types than Earth",
+        "explanation": "Mars's butterscotch color is caused by iron oxide dust particles that scatter longer wavelengths, demonstrating that sky color depends on atmospheric composition and particle types."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440001"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Tyndall, J. (1870). 'On the Blue Colour of the Sky, the Polarization of Sky-Light, and on the Polarization of Light by Cloudy Matter Generally'. Proceedings of the Royal Society of London.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Strutt, J. W. (1871). 'On the light from the sky, its polarization and colour'. Philosophical Magazine.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Bohren, C. F., & Huffman, D. R. (1983). 'Absorption and Scattering of Light by Small Particles'. Wiley-Interscience.",
+      "type": "journal"
+    }
+  ],
+  "publishedAt": "2026-04-01T00:00:00Z",
+  "createdAt": "2026-04-01T00:00:00Z",
+  "updatedAt": "2026-04-01T00:00:00Z"
+}

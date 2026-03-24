@@ -1,0 +1,130 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440005",
+  "slug": "coral-reef-ecosystems",
+  "title": "Coral Reef Ecosystems",
+  "subtitle": "The Rainforests of the Sea and Their Ecological Importance",
+  "topicId": "nature-animals",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/coral-reef-ecosystems.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "The Living Structure",
+      "body": "Coral reefs are among Earth's most biodiverse ecosystems, often compared to rainforests for their ecological richness. The reef structure is built by stony corals, which are actually colonies of tiny animals called polyps. Each polyp is a miniature anemone that constructs a limestone skeleton. Millions of polyps work together to build the three-dimensional architecture that provides habitat for thousands of other species. Corals exhibit remarkable collaboration, with some species forming synchronized spawning events where thousands of colonies release eggs and sperm simultaneously on the same night each year. This architectural achievement is enhanced by the symbiotic relationship between corals and zooxanthellae—photosynthetic algae that live within coral tissues. These algae provide up to 90% of the coral's energy through photosynthesis, enabling the coral to thrive in nutrient-poor tropical waters.",
+      "funFact": "Corals spawn on the same night each year in synchronized events that last only a few hours, ensuring maximum fertilization chances!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Biodiversity Beyond Imagination",
+      "body": "Coral reefs cover less than 0.1% of the ocean floor but support approximately 25% of all known marine fish species. Researchers estimate that over 1 million species depend on coral reefs for food and shelter, though only a fraction have been scientifically described. Each coral head harbors its own microecosystem with algae, sponges, crustaceans, and fish. The Great Barrier Reef alone contains over 1,500 fish species, 400 coral species, and thousands of other organisms. Reef biodiversity results from the stable, tropical environmental conditions and the three-dimensional habitat structure provided by coral. Complex food webs connect predators and prey across multiple trophic levels. The cryptic organisms hiding within coral colonies include some of the most venomous creatures on Earth, yet many remain undiscovered by science. This extraordinary biodiversity has made coral reefs centers of scientific research for decades.",
+      "imageUrl": "images/cards/coral-biodiversity.jpg",
+      "imageCaption": "Coral reefs support countless species in complex food webs"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "The Zooxanthellae Symbiosis",
+      "body": "The relationship between corals and zooxanthellae (photosynthetic algae) is one of nature's most elegant symbiotic partnerships. Zooxanthellae live within coral polyp cells and conduct photosynthesis using sunlight that penetrates the water. The algae produce sugars through photosynthesis that nourish the coral animal. In return, the coral provides zooxanthellae with protection, access to sunlight, and nitrogen and phosphorus waste products that serve as nutrients for algal growth. This intimate partnership allows corals to thrive in tropical waters that are nutrient-poor, as the algae manufacture essential nutrients. However, this relationship also makes corals vulnerable to coral bleaching. When water temperatures rise or light becomes excessive, corals expel their zooxanthellae, losing their primary energy source. If zooxanthellae aren't reestablished within weeks, the coral dies. Climate change has made bleaching events increasingly frequent and severe.",
+      "funFact": "Zooxanthellae produce up to 90% of a coral's energy needs through photosynthesis!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Trophic Structure and Food Webs",
+      "body": "Coral reef food webs are extraordinarily complex, with energy flowing through multiple pathways. Zooxanthellae and turf algae form the base of the food web, producing energy through photosynthesis. Herbivorous fish and sea urchins consume algae, controlling algal growth that would otherwise smother corals. Small fish and invertebrates feed on zooplankton and detritus. Larger predatory fish hunt smaller fish and invertebrates. Apex predators like sharks regulate populations of lower trophic levels through top-down control. The complexity of reef food webs provides stability and resilience—if one species declines, alternative pathways allow energy to flow through different species. However, overfishing top predators has destabilized many reefs, leading to trophic cascades where herbivore populations explode, overwhelming the reef ecosystem. This demonstrates how crucial functional diversity is to ecosystem stability.",
+      "imageUrl": "images/cards/reef-food-web.jpg",
+      "imageCaption": "Complex food webs maintain reef ecosystem balance"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Ecological Services and Human Dependence",
+      "body": "Coral reefs provide invaluable ecosystem services to human societies. Approximately 500 million people worldwide depend on coral reef ecosystems for food, with many relying on reef fish as their primary protein source. The Great Barrier Reef alone contributes over $50 billion annually to the global economy through tourism, fishing, and pharmaceutical development. Reef compounds have yielded medications for cancer, arthritis, and other diseases. Coral reefs protect coastlines from storms and wave damage, reducing erosion and flood risk. Nursery habitats in reefs support juvenile stages of commercially important fish species. Reef biodiversity offers potential for future biotechnological applications. Yet these ecosystem services are increasingly threatened by climate change, pollution, overfishing, and coral disease. The loss of even one reef system impacts regional economies and global biodiversity.",
+      "funFact": "Coral reef tourism generates over $50 billion annually for the global economy!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Threats and Conservation",
+      "body": "Coral reefs face unprecedented challenges from multiple stressors. Climate change causes warming water temperatures that trigger coral bleaching events, now occurring with alarming frequency. Ocean acidification—caused by increased CO2 absorption—weakens coral skeletons and reduces calcification rates. Pollution from agricultural runoff increases nutrient levels, promoting algal overgrowth that smothers corals. Overfishing removes herbivorous fish and apex predators, destabilizing reef ecosystems. Physical damage from destructive fishing practices, anchors, and boat impacts breaks coral structures. Coral diseases, likely amplified by warming and stress, spread through reef populations. Scientists estimate that 50% of global coral reefs have already been lost, with the remaining reefs at risk. Conservation efforts include marine protected areas, reducing fishing pressure, controlling pollution, and supporting coral restoration. Some researchers explore assisted evolution to develop heat-resistant coral varieties. International cooperation is essential to address the climate change that represents the greatest long-term threat.",
+      "imageUrl": "images/cards/reef-conservation.jpg",
+      "imageCaption": "Coral restoration efforts aim to rebuild damaged reefs"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Coral Reef Ecosystems",
+      "author": "Moberg, F., and Folke, C.",
+      "type": "journal",
+      "id": "src-1"
+    },
+    {
+      "title": "The World Beneath: The Life and Times of Unknown Sea Creatures",
+      "author": "Claire Nouvian",
+      "type": "book",
+      "id": "src-2"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-coral-reef-ecosystems",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "What percentage of marine fish species depend on coral reefs despite reefs covering only 0.1% of the ocean floor?",
+        "options": [
+          "Approximately 10%",
+          "Approximately 25%",
+          "Approximately 50%",
+          "Approximately 75%"
+        ],
+        "correctAnswer": "Approximately 25%",
+        "explanation": "Despite covering less than 0.1% of the ocean floor, coral reefs support approximately 25% of all known marine fish species."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "Coral polyps are carnivorous animals, not plants or algae.",
+        "correctAnswer": "true",
+        "explanation": "Corals are animals with polyps that capture small prey, though they rely on symbiotic zooxanthellae for most of their energy."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "Zooxanthellae produce approximately _____% of a coral's energy needs through photosynthesis.",
+        "correctAnswer": "90",
+        "explanation": "Zooxanthellae photosynthesis provides up to 90% of the coral's energy requirements in the tropical ocean environment."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "What is coral bleaching caused by?",
+        "options": [
+          "A viral infection of coral polyps",
+          "Excessive algal growth on coral surfaces",
+          "The expulsion of zooxanthellae due to stress from high water temperature or excessive light",
+          "Chemical pollution from industrial runoff"
+        ],
+        "correctAnswer": "The expulsion of zooxanthellae due to stress from high water temperature or excessive light",
+        "explanation": "Coral bleaching occurs when corals expel their symbiotic zooxanthellae in response to environmental stress, causing them to lose their primary energy source."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "The Great Barrier Reef is estimated to contribute over $50 billion annually to the global economy through tourism, fishing, and other activities.",
+        "correctAnswer": "true",
+        "explanation": "Coral reefs, particularly the Great Barrier Reef, provide enormous economic value through tourism, fisheries, and pharmaceutical development."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440005"
+  },
+  "publishedAt": "2026-04-09T00:00:00Z",
+  "createdAt": "2026-04-09T00:00:00Z",
+  "updatedAt": "2026-04-09T00:00:00Z"
+}

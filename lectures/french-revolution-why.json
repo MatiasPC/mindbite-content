@@ -7,7 +7,7 @@
   "estimatedMinutes": 9,
   "difficulty": "intermediate",
   "thumbnailUrl": "images/thumbnails/french-revolution-why.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -15,7 +15,7 @@
       "id": "card-1",
       "order": 1,
       "heading": "A Nation in Financial Crisis",
-      "body": "By the 1780s, France faced a severe financial crisis. King Louis XVI had inherited massive debts from previous kings and their expensive wars. The cost of supporting the American Revolution against Britain drained the treasury further. Poor harvests led to food shortages and inflation, burdening common people. The government attempted radical tax reforms, but nobles and clergy resisted paying taxes, protecting their privileges. The Three Estates system—clergy, nobility, and commons—meant that only the common people bore the tax burden. This fiscal crisis created the urgency that led Louis XVI to call the Estates-General in 1789.",
+      "body": "By the 1780s, France faced a severe financial crisis. King Louis XVI had inherited massive debts from previous kings and their expensive wars. The cost of supporting the American Revolution against Britain drained the treasury further. Poor harvests led to food shortages and inflation, burdening common people. The government attempted radical tax reforms, but nobles and clergy resisted paying taxes, protecting their privileges. The Three Estates system\u2014clergy, nobility, and commons\u2014meant that only the common people bore the tax burden. This fiscal crisis created the urgency that led Louis XVI to call the Estates-General in 1789.",
       "funFact": "France's debt in 1789 exceeded 2 billion livres, an astronomical sum equivalent to years of national revenue."
     },
     {
@@ -30,7 +30,7 @@
       "id": "card-3",
       "order": 3,
       "heading": "Social Inequality and Resentment",
-      "body": "French society was rigidly divided by birth into estates with vastly different privileges and rights. The nobility owned vast lands and paid no taxes. The clergy controlled substantial property and answered to Rome. The common people—peasants, artisans, merchants, lawyers—comprised 98% of the population yet bore all tax burdens. A prosperous bourgeoisie (merchant class) gained wealth and education but had no political power. Peasants faced feudal obligations, taxes, and food insecurity. This grinding inequality fueled resentment. The notion that one's rights and opportunities were determined by birth rather than merit increasingly seemed intolerable.",
+      "body": "French society was rigidly divided by birth into estates with vastly different privileges and rights. The nobility owned vast lands and paid no taxes. The clergy controlled substantial property and answered to Rome. The common people\u2014peasants, artisans, merchants, lawyers\u2014comprised 98% of the population yet bore all tax burdens. A prosperous bourgeoisie (merchant class) gained wealth and education but had no political power. Peasants faced feudal obligations, taxes, and food insecurity. This grinding inequality fueled resentment. The notion that one's rights and opportunities were determined by birth rather than merit increasingly seemed intolerable.",
       "funFact": "A peasant might owe the lord multiple obligations including baking bread in the lord's oven and maintaining the lord's fishponds."
     },
     {

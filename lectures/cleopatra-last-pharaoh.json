@@ -7,7 +7,7 @@
   "estimatedMinutes": 9,
   "difficulty": "beginner",
   "thumbnailUrl": "images/thumbnails/cleopatra-last-pharaoh.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -16,7 +16,7 @@
       "order": 1,
       "heading": "The Final Dynasty of Egypt",
       "body": "Cleopatra VII Philopator (69-30 BCE) was the last active ruler of Ptolemaic Egypt, a dynasty founded after Alexander the Great's conquest. Born into the Greek Ptolemaic family, she inherited a throne weakened by internal conflict and external pressure from Rome. Egypt, once the greatest power in the Mediterranean, had become vulnerable. Cleopatra was raised in Alexandria, one of the most sophisticated cities of the ancient world, and received an exceptional education in languages, mathematics, philosophy, and diplomacy.",
-      "funFact": "Cleopatra spoke at least eight languages including Egyptian, Greek, Latin, Hebrew, Aramaic, and others—making her intellectually formidable."
+      "funFact": "Cleopatra spoke at least eight languages including Egyptian, Greek, Latin, Hebrew, Aramaic, and others\u2014making her intellectually formidable."
     },
     {
       "id": "card-2",
@@ -44,7 +44,7 @@
       "id": "card-5",
       "order": 5,
       "heading": "The End of Pharaonic Egypt",
-      "body": "With Cleopatra's death in 30 BCE, Egypt's independence ended, and Octavian annexed it as a Roman province. The three-thousand-year tradition of Egyptian pharaohs came to an end. Egypt's wealth and resources now served Rome's empire. The Mediterranean world entered a new era of Roman dominance. Despite her defeat, Cleopatra's legacy endured—she became the symbol of the final, brilliant chapter of ancient Egypt, remembered not just as a ruler but as an intellectual and political strategist.",
+      "body": "With Cleopatra's death in 30 BCE, Egypt's independence ended, and Octavian annexed it as a Roman province. The three-thousand-year tradition of Egyptian pharaohs came to an end. Egypt's wealth and resources now served Rome's empire. The Mediterranean world entered a new era of Roman dominance. Despite her defeat, Cleopatra's legacy endured\u2014she became the symbol of the final, brilliant chapter of ancient Egypt, remembered not just as a ruler but as an intellectual and political strategist.",
       "funFact": "Octavian's victory over Antony and Cleopatra marked the end of the Roman Republic and the beginning of the Roman Empire, making Cleopatra's struggle historically pivotal."
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "title": "The Ptolemaic Period",
-      "author": "Günter Hölbl",
+      "author": "G\u00fcnter H\u00f6lbl",
       "type": "book",
       "id": "src-2"
     },

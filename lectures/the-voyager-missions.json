@@ -7,7 +7,7 @@
   "estimatedMinutes": 7,
   "difficulty": "beginner",
   "thumbnailUrl": "images/thumbnails/the-voyager-missions.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -15,7 +15,7 @@
       "id": "card-1",
       "order": 1,
       "heading": "The Grand Tour of the Planets",
-      "body": "The Voyager missions represent one of humanity's greatest achievements in space exploration. Launched in 1977 during a rare alignment of the outer planets, Voyager 1 and 2 were designed to explore Jupiter, Saturn, and beyond. Voyager 2 also visited Uranus and Neptune—the only spacecraft to do so. The missions capitalized on a gravitational alignment that occurs only once every 176 years, allowing the spacecraft to travel throughout the solar system using planetary gravity assists. These probes continue transmitting data today, nearly 50 years later.",
+      "body": "The Voyager missions represent one of humanity's greatest achievements in space exploration. Launched in 1977 during a rare alignment of the outer planets, Voyager 1 and 2 were designed to explore Jupiter, Saturn, and beyond. Voyager 2 also visited Uranus and Neptune\u2014the only spacecraft to do so. The missions capitalized on a gravitational alignment that occurs only once every 176 years, allowing the spacecraft to travel throughout the solar system using planetary gravity assists. These probes continue transmitting data today, nearly 50 years later.",
       "funFact": "The Voyager probes have traveled farther than any human-made object, with Voyager 1 now in interstellar space!",
       "imageUrl": "images/content/voyager-launch.jpg",
       "imageCaption": "Voyager spacecraft launching in 1977"
@@ -24,7 +24,7 @@
       "id": "card-2",
       "order": 2,
       "heading": "Encounters with the Giant Planets",
-      "body": "Voyager 1 made groundbreaking discoveries at Jupiter (1979) and Saturn (1980), revealing complex atmospheric dynamics, intense radiation belts, and unexpected ring structures. The encounter with Jupiter's moon Io revealed active volcanoes—the first definitive evidence of volcanism beyond Earth. At Saturn, the spacecraft discovered new moons, revealed intricate ring structure, and found complex organic chemistry in the atmosphere. Voyager 2 continued this exploration, discovering 10 new moons at Saturn and providing the first close-up views of Uranus and Neptune. These encounters revolutionized our understanding of the outer solar system.",
+      "body": "Voyager 1 made groundbreaking discoveries at Jupiter (1979) and Saturn (1980), revealing complex atmospheric dynamics, intense radiation belts, and unexpected ring structures. The encounter with Jupiter's moon Io revealed active volcanoes\u2014the first definitive evidence of volcanism beyond Earth. At Saturn, the spacecraft discovered new moons, revealed intricate ring structure, and found complex organic chemistry in the atmosphere. Voyager 2 continued this exploration, discovering 10 new moons at Saturn and providing the first close-up views of Uranus and Neptune. These encounters revolutionized our understanding of the outer solar system.",
       "imageUrl": "images/content/saturn-rings-voyager.jpg",
       "imageCaption": "Saturn's rings photographed by Voyager 1"
     },
@@ -41,7 +41,7 @@
       "id": "card-4",
       "order": 4,
       "heading": "Uranus and Neptune Discoveries",
-      "body": "Voyager 2's encounters with Uranus (1986) and Neptune (1989) were humanity's only up-close views of these distant ice giants. At Uranus, the spacecraft revealed extreme axial tilt, a ring system, and new moons. At Neptune, Voyager 2 discovered 6 new moons and Triton, Neptune's largest moon with active nitrogen geysers—the coldest place yet directly observed. These encounters fundamentally changed our understanding of planetary formation and atmospheres in the outer solar system. No other spacecraft has visited these distant worlds since.",
+      "body": "Voyager 2's encounters with Uranus (1986) and Neptune (1989) were humanity's only up-close views of these distant ice giants. At Uranus, the spacecraft revealed extreme axial tilt, a ring system, and new moons. At Neptune, Voyager 2 discovered 6 new moons and Triton, Neptune's largest moon with active nitrogen geysers\u2014the coldest place yet directly observed. These encounters fundamentally changed our understanding of planetary formation and atmospheres in the outer solar system. No other spacecraft has visited these distant worlds since.",
       "imageUrl": "images/content/triton-neptune.jpg",
       "imageCaption": "Neptune and its moon Triton, photographed by Voyager 2"
     },
@@ -49,7 +49,7 @@
       "id": "card-5",
       "order": 5,
       "heading": "The Pale Blue Dot",
-      "body": "One of the most iconic images in human history was taken by Voyager 1 on February 14, 1990, when it was 6.4 billion kilometers away. The photograph shows Earth as a tiny speck of light—the 'Pale Blue Dot.' Astronomer Carl Sagan wrote about this image, noting how Earth appears insignificant yet contains all of humanity, every culture, conflict, and achievement. The image fundamentally changed how we view ourselves and our place in the cosmos, emphasizing Earth's isolation and the urgent need to protect our planet.",
+      "body": "One of the most iconic images in human history was taken by Voyager 1 on February 14, 1990, when it was 6.4 billion kilometers away. The photograph shows Earth as a tiny speck of light\u2014the 'Pale Blue Dot.' Astronomer Carl Sagan wrote about this image, noting how Earth appears insignificant yet contains all of humanity, every culture, conflict, and achievement. The image fundamentally changed how we view ourselves and our place in the cosmos, emphasizing Earth's isolation and the urgent need to protect our planet.",
       "imageUrl": "images/content/pale-blue-dot.jpg",
       "imageCaption": "Earth as the Pale Blue Dot, photographed from billions of kilometers away"
     },
@@ -57,7 +57,7 @@
       "id": "card-6",
       "order": 6,
       "heading": "Reaching Interstellar Space",
-      "body": "In 2012, Voyager 1 became the first human-made object to reach interstellar space, crossing the heliopause—the boundary where the Sun's solar wind gives way to the interstellar medium. Voyager 2 followed in 2018. Despite their original 5-year mission duration, both spacecraft continue transmitting data. The Voyager Interstellar Mission studies the characteristics of interstellar space and will continue as long as power allows. Both spacecraft carry radioisotope thermoelectric generators (RTGs) that convert heat from radioactive plutonium decay into electricity, allowing them to function indefinitely.",
+      "body": "In 2012, Voyager 1 became the first human-made object to reach interstellar space, crossing the heliopause\u2014the boundary where the Sun's solar wind gives way to the interstellar medium. Voyager 2 followed in 2018. Despite their original 5-year mission duration, both spacecraft continue transmitting data. The Voyager Interstellar Mission studies the characteristics of interstellar space and will continue as long as power allows. Both spacecraft carry radioisotope thermoelectric generators (RTGs) that convert heat from radioactive plutonium decay into electricity, allowing them to function indefinitely.",
       "funFact": "Voyager 1 is now over 14 billion miles from Earth and still sending back data!"
     },
     {

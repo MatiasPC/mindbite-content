@@ -9,7 +9,7 @@
     {
       "id": "philosophy",
       "name": "Philosophy",
-      "emoji": "🧠",
+      "emoji": "\ud83e\udde0",
       "colorHex": "#7C3AED",
       "description": "Big questions, simple answers",
       "sortOrder": 1
@@ -17,7 +17,7 @@
     {
       "id": "science",
       "name": "Science",
-      "emoji": "🔬",
+      "emoji": "\ud83d\udd2c",
       "colorHex": "#3B82F6",
       "description": "How the world really works",
       "sortOrder": 2
@@ -25,7 +25,7 @@
     {
       "id": "history",
       "name": "History",
-      "emoji": "📜",
+      "emoji": "\ud83d\udcdc",
       "colorHex": "#D97706",
       "description": "Stories that shaped the world",
       "sortOrder": 3
@@ -33,7 +33,7 @@
     {
       "id": "nature-animals",
       "name": "Nature & Animals",
-      "emoji": "🌿",
+      "emoji": "\ud83c\udf3f",
       "colorHex": "#059669",
       "description": "The wild world around us",
       "sortOrder": 4
@@ -41,7 +41,7 @@
     {
       "id": "psychology",
       "name": "Psychology",
-      "emoji": "🧩",
+      "emoji": "\ud83e\udde9",
       "colorHex": "#EC4899",
       "description": "Understanding the human mind",
       "sortOrder": 5
@@ -49,7 +49,7 @@
     {
       "id": "space-astronomy",
       "name": "Space & Astronomy",
-      "emoji": "🚀",
+      "emoji": "\ud83d\ude80",
       "colorHex": "#06B6D4",
       "description": "Exploring the universe beyond",
       "sortOrder": 6
@@ -136,7 +136,7 @@
       "estimatedMinutes": 9,
       "difficulty": "beginner",
       "thumbnailUrl": "images/thumbnails/cleopatra-last-pharaoh.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-03T00:00:00Z",
       "popularityScore": 0
     },
@@ -196,7 +196,7 @@
       "estimatedMinutes": 9,
       "difficulty": "intermediate",
       "thumbnailUrl": "images/thumbnails/crispr-gene-editing.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-04T00:00:00Z",
       "popularityScore": 0
     },
@@ -244,7 +244,7 @@
       "estimatedMinutes": 10,
       "difficulty": "intermediate",
       "thumbnailUrl": "images/thumbnails/milgram-obedience-experiment.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-05T00:00:00Z",
       "popularityScore": 0
     },
@@ -256,7 +256,7 @@
       "estimatedMinutes": 10,
       "difficulty": "intermediate",
       "thumbnailUrl": "images/thumbnails/the-silk-road.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-05T00:00:00Z",
       "popularityScore": 0
     },
@@ -268,7 +268,7 @@
       "estimatedMinutes": 9,
       "difficulty": "intermediate",
       "thumbnailUrl": "images/thumbnails/french-revolution-why.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-07T00:00:00Z",
       "popularityScore": 0
     },
@@ -292,7 +292,7 @@
       "estimatedMinutes": 8,
       "difficulty": "beginner",
       "thumbnailUrl": "images/thumbnails/migration-of-monarchs.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-07T00:00:00Z",
       "popularityScore": 0
     },
@@ -304,7 +304,7 @@
       "estimatedMinutes": 9,
       "difficulty": "intermediate",
       "thumbnailUrl": "images/thumbnails/the-absurd-camus.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-07T00:00:00Z",
       "popularityScore": 0
     },
@@ -316,7 +316,7 @@
       "estimatedMinutes": 8,
       "difficulty": "beginner",
       "thumbnailUrl": "images/thumbnails/the-flow-state.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-07T00:00:00Z",
       "popularityScore": 0
     },
@@ -376,7 +376,7 @@
       "estimatedMinutes": 7,
       "difficulty": "beginner",
       "thumbnailUrl": "images/thumbnails/the-voyager-missions.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-09T00:00:00Z",
       "popularityScore": 0
     },
@@ -400,7 +400,7 @@
       "estimatedMinutes": 9,
       "difficulty": "intermediate",
       "thumbnailUrl": "images/thumbnails/the-double-slit-experiment.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-10T00:00:00Z",
       "popularityScore": 0
     },
@@ -424,7 +424,7 @@
       "estimatedMinutes": 9,
       "difficulty": "intermediate",
       "thumbnailUrl": "images/thumbnails/nietzsche-god-is-dead.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-11T00:00:00Z",
       "popularityScore": 0
     },
@@ -484,7 +484,7 @@
       "estimatedMinutes": 9,
       "difficulty": "intermediate",
       "thumbnailUrl": "images/thumbnails/bioluminescence-deep-sea.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-13T00:00:00Z",
       "popularityScore": 0
     },
@@ -496,7 +496,7 @@
       "estimatedMinutes": 8,
       "difficulty": "beginner",
       "thumbnailUrl": "images/thumbnails/how-stars-die.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-13T00:00:00Z",
       "popularityScore": 0
     },
@@ -508,7 +508,7 @@
       "estimatedMinutes": 9,
       "difficulty": "intermediate",
       "thumbnailUrl": "images/thumbnails/stockholm-syndrome.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-13T00:00:00Z",
       "popularityScore": 0
     },
@@ -532,7 +532,7 @@
       "estimatedMinutes": 8,
       "difficulty": "beginner",
       "thumbnailUrl": "images/thumbnails/why-we-dream.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-13T00:00:00Z",
       "popularityScore": 0
     },
@@ -544,7 +544,7 @@
       "estimatedMinutes": 8,
       "difficulty": "intermediate",
       "thumbnailUrl": "images/thumbnails/exoplanets-habitable-worlds.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-15T00:00:00Z",
       "popularityScore": 0
     },
@@ -556,7 +556,7 @@
       "estimatedMinutes": 9,
       "difficulty": "intermediate",
       "thumbnailUrl": "images/thumbnails/mushroom-networks.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-15T00:00:00Z",
       "popularityScore": 0
     },
@@ -640,7 +640,7 @@
       "estimatedMinutes": 10,
       "difficulty": "advanced",
       "thumbnailUrl": "images/thumbnails/simone-de-beauvoir-freedom.jpg",
-      "isPremium": false,
+      "isPremium": true,
       "publishedAt": "2026-04-17T00:00:00Z",
       "popularityScore": 0
     },

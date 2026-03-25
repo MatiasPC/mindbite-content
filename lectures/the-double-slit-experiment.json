@@ -7,7 +7,7 @@
   "estimatedMinutes": 9,
   "difficulty": "intermediate",
   "thumbnailUrl": "images/thumbnails/the-double-slit-experiment.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -15,7 +15,7 @@
       "id": "card-1",
       "order": 1,
       "heading": "The Classic Experiment Setup",
-      "body": "The double-slit experiment is a fundamental demonstration in quantum mechanics. In its simplest form, a light source shines on a barrier with two slits. Behind the barrier sits a screen to detect the light. When light passes through the two slits, it can create an interference pattern on the screen—alternating bright and dark bands. This pattern demonstrates that light behaves as a wave. However, when scientists tried to determine which slit the light traveled through by measuring it, something astonishing happened: the interference pattern disappeared, and light behaved as particles instead. This experiment reveals a fundamental truth about nature: the act of observation affects the behavior of particles.",
+      "body": "The double-slit experiment is a fundamental demonstration in quantum mechanics. In its simplest form, a light source shines on a barrier with two slits. Behind the barrier sits a screen to detect the light. When light passes through the two slits, it can create an interference pattern on the screen\u2014alternating bright and dark bands. This pattern demonstrates that light behaves as a wave. However, when scientists tried to determine which slit the light traveled through by measuring it, something astonishing happened: the interference pattern disappeared, and light behaved as particles instead. This experiment reveals a fundamental truth about nature: the act of observation affects the behavior of particles.",
       "funFact": "The double-slit experiment has been called the most beautiful experiment in physics!"
     },
     {
@@ -30,7 +30,7 @@
       "id": "card-3",
       "order": 3,
       "heading": "The Measurement Problem",
-      "body": "The truly puzzling aspect of the double-slit experiment is the measurement problem. When scientists added detectors at the slits to determine which slit each photon traveled through, the interference pattern disappeared. The light then behaved as particles, with two distinct bands appearing on the screen corresponding to the two slits. Remarkably, simply attempting to measure which slit the photon used changed its behavior completely. The measurement didn't fail to detect which slit—it fundamentally altered the photon's behavior. This isn't a limitation of detection technology; it's a fundamental feature of quantum mechanics. The experiment reveals that particles and waves aren't fixed properties but depend on how we observe them. This observation-dependent behavior challenges our intuitions about reality.",
+      "body": "The truly puzzling aspect of the double-slit experiment is the measurement problem. When scientists added detectors at the slits to determine which slit each photon traveled through, the interference pattern disappeared. The light then behaved as particles, with two distinct bands appearing on the screen corresponding to the two slits. Remarkably, simply attempting to measure which slit the photon used changed its behavior completely. The measurement didn't fail to detect which slit\u2014it fundamentally altered the photon's behavior. This isn't a limitation of detection technology; it's a fundamental feature of quantum mechanics. The experiment reveals that particles and waves aren't fixed properties but depend on how we observe them. This observation-dependent behavior challenges our intuitions about reality.",
       "imageUrl": "images/double-slit-measurement.jpg",
       "imageCaption": "Observed vs. unobserved behavior in the double-slit experiment"
     },
@@ -45,7 +45,7 @@
       "id": "card-5",
       "order": 5,
       "heading": "Quantum Superposition",
-      "body": "The double-slit experiment reveals quantum superposition: unobserved particles exist in multiple states simultaneously. When light isn't measured, it exists in a superposition state—simultaneously passing through both slits. The particle doesn't choose a slit; it experiences both paths at once. This isn't merely unknown which path it took; the particle genuinely exists in both states. Superposition is a counterintuitive but fundamental quantum phenomenon. When measured, the superposition collapses into a definite state. This collapse of the wave function is one of quantum mechanics' most profound and philosophically puzzling aspects. The experiment demonstrates that superposition isn't just theoretical—it produces measurable consequences through interference patterns.",
+      "body": "The double-slit experiment reveals quantum superposition: unobserved particles exist in multiple states simultaneously. When light isn't measured, it exists in a superposition state\u2014simultaneously passing through both slits. The particle doesn't choose a slit; it experiences both paths at once. This isn't merely unknown which path it took; the particle genuinely exists in both states. Superposition is a counterintuitive but fundamental quantum phenomenon. When measured, the superposition collapses into a definite state. This collapse of the wave function is one of quantum mechanics' most profound and philosophically puzzling aspects. The experiment demonstrates that superposition isn't just theoretical\u2014it produces measurable consequences through interference patterns.",
       "imageUrl": "images/quantum-superposition.jpg",
       "imageCaption": "A quantum particle in superposition exists in multiple states simultaneously"
     },
@@ -53,7 +53,7 @@
       "id": "card-6",
       "order": 6,
       "heading": "Historical Development",
-      "body": "Thomas Young performed the first double-slit experiment around 1801, using water waves and then light, demonstrating wave properties and interference patterns. Young's work provided strong evidence for the wave theory of light, contradicting Newton's corpuscular theory. However, the quantum mechanical interpretation emerged only after Planck, Einstein, and others developed quantum theory in the early twentieth century. The modern understanding—that observation affects outcomes—came from quantum mechanics' foundational work. In the 1920s, physicists like Dirac and Schrödinger developed mathematical frameworks explaining these observations. Today, variations of the double-slit experiment continue revealing quantum behavior, including delayed-choice experiments. This historical journey shows how single experiments can reshape our understanding of reality.",
+      "body": "Thomas Young performed the first double-slit experiment around 1801, using water waves and then light, demonstrating wave properties and interference patterns. Young's work provided strong evidence for the wave theory of light, contradicting Newton's corpuscular theory. However, the quantum mechanical interpretation emerged only after Planck, Einstein, and others developed quantum theory in the early twentieth century. The modern understanding\u2014that observation affects outcomes\u2014came from quantum mechanics' foundational work. In the 1920s, physicists like Dirac and Schr\u00f6dinger developed mathematical frameworks explaining these observations. Today, variations of the double-slit experiment continue revealing quantum behavior, including delayed-choice experiments. This historical journey shows how single experiments can reshape our understanding of reality.",
       "imageUrl": "images/thomas-young.jpg",
       "imageCaption": "Thomas Young performed early double-slit experiments with light"
     },
@@ -136,7 +136,7 @@
     },
     {
       "id": "src-3",
-      "title": "Born, M. (1926). 'Zur Quantenmechanik der Stoßvorgänge'. Zeitschrift für Physik, 37(12), 863-867.",
+      "title": "Born, M. (1926). 'Zur Quantenmechanik der Sto\u00dfvorg\u00e4nge'. Zeitschrift f\u00fcr Physik, 37(12), 863-867.",
       "type": "journal"
     }
   ],

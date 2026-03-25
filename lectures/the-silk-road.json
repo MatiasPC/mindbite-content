@@ -7,7 +7,7 @@
   "estimatedMinutes": 10,
   "difficulty": "intermediate",
   "thumbnailUrl": "images/thumbnails/the-silk-road.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [

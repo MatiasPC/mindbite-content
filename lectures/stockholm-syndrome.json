@@ -7,7 +7,7 @@
   "estimatedMinutes": 9,
   "difficulty": "intermediate",
   "thumbnailUrl": "images/thumbnails/stockholm-syndrome.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -22,14 +22,14 @@
       "id": "card-2",
       "order": 2,
       "heading": "Key Psychological Mechanisms",
-      "body": "Stockholm Syndrome involves several psychological processes. The captee perceives a threat to survival from the captors, creating intense fear. When captors grant small gestures of kindness—providing food, allowing bathroom breaks—the contrast between threat and kindness creates emotional bonding. This relief from fear produces positive associations with the captors. Isolation from outside perspectives prevents reality-checking. Captees may unconsciously suppress negative feelings to improve treatment prospects. Over time, captees adopt captors' perspectives, understanding their motivations and justifying their actions. The captee-captor relationship becomes the sole social reality, narrowing perspective. These mechanisms combine to create psychological attachment despite objective danger.",
+      "body": "Stockholm Syndrome involves several psychological processes. The captee perceives a threat to survival from the captors, creating intense fear. When captors grant small gestures of kindness\u2014providing food, allowing bathroom breaks\u2014the contrast between threat and kindness creates emotional bonding. This relief from fear produces positive associations with the captors. Isolation from outside perspectives prevents reality-checking. Captees may unconsciously suppress negative feelings to improve treatment prospects. Over time, captees adopt captors' perspectives, understanding their motivations and justifying their actions. The captee-captor relationship becomes the sole social reality, narrowing perspective. These mechanisms combine to create psychological attachment despite objective danger.",
       "imageUrl": "images/stockholm-mechanisms.jpg"
     },
     {
       "id": "card-3",
       "order": 3,
       "heading": "The Four Conditions for Development",
-      "body": "Researchers identified four conditions facilitating Stockholm Syndrome development. First, perceived threat to survival must exist. Second, small acts of kindness from captors create contrast with threat. Third, isolation prevents communication with outside perspectives that might counter the developing attachment. Fourth, an inability to escape maintains the power imbalance and dependence on captors. When all four conditions are present—a life-threatening situation with intermittent kindness, complete isolation, and hopelessness about escape—the psychological bonding becomes likely. However, these conditions aren't universally present in all high-stress situations, which explains why Stockholm Syndrome doesn't develop in every hostage scenario.",
+      "body": "Researchers identified four conditions facilitating Stockholm Syndrome development. First, perceived threat to survival must exist. Second, small acts of kindness from captors create contrast with threat. Third, isolation prevents communication with outside perspectives that might counter the developing attachment. Fourth, an inability to escape maintains the power imbalance and dependence on captors. When all four conditions are present\u2014a life-threatening situation with intermittent kindness, complete isolation, and hopelessness about escape\u2014the psychological bonding becomes likely. However, these conditions aren't universally present in all high-stress situations, which explains why Stockholm Syndrome doesn't develop in every hostage scenario.",
       "imageUrl": "images/stockholm-conditions.jpg",
       "imageCaption": "Four conditions facilitate Stockholm Syndrome development"
     },
@@ -37,14 +37,14 @@
       "id": "card-4",
       "order": 4,
       "heading": "Beyond Hostage Situations",
-      "body": "While Stockholm Syndrome originated from hostage research, psychologists have observed similar patterns in other contexts. Abuse victims sometimes defend abusers and resist leaving relationships, showing psychological mechanisms overlapping with Stockholm Syndrome. Cult members often exhibit loyalty to leaders who emotionally or financially exploit them. Some employees develop attachment to exploitative employers. Prison guards and inmates sometimes develop unexpected loyalty patterns. However, mental health professionals debate whether these situations constitute true Stockholm Syndrome or represent related but distinct phenomena. The broader insight—that captive people under threat may develop attachment to their captors—applies across various coercive situations.",
+      "body": "While Stockholm Syndrome originated from hostage research, psychologists have observed similar patterns in other contexts. Abuse victims sometimes defend abusers and resist leaving relationships, showing psychological mechanisms overlapping with Stockholm Syndrome. Cult members often exhibit loyalty to leaders who emotionally or financially exploit them. Some employees develop attachment to exploitative employers. Prison guards and inmates sometimes develop unexpected loyalty patterns. However, mental health professionals debate whether these situations constitute true Stockholm Syndrome or represent related but distinct phenomena. The broader insight\u2014that captive people under threat may develop attachment to their captors\u2014applies across various coercive situations.",
       "imageUrl": "images/stockholm-contexts.jpg"
     },
     {
       "id": "card-5",
       "order": 5,
       "heading": "Psychological Recovery and Implications",
-      "body": "Understanding Stockholm Syndrome has important implications for rescue and recovery. Mental health professionals recognize that hostages showing captor loyalty aren't necessarily mentally ill—they've adapted psychologically to extreme conditions. Recovery involves processing trauma, establishing safety, and rebuilding accurate threat perception. Therapy helps survivors distinguish between survival adaptations and genuine attachment. Legal systems have become more understanding, avoiding charging victims who initially cooperate with or defend captors. Workplace and relationship dynamics benefit from awareness that extreme power imbalances and trauma can create unexpected attachment patterns. This knowledge promotes compassion for those who've experienced coercive situations and informs better support strategies during recovery.",
+      "body": "Understanding Stockholm Syndrome has important implications for rescue and recovery. Mental health professionals recognize that hostages showing captor loyalty aren't necessarily mentally ill\u2014they've adapted psychologically to extreme conditions. Recovery involves processing trauma, establishing safety, and rebuilding accurate threat perception. Therapy helps survivors distinguish between survival adaptations and genuine attachment. Legal systems have become more understanding, avoiding charging victims who initially cooperate with or defend captors. Workplace and relationship dynamics benefit from awareness that extreme power imbalances and trauma can create unexpected attachment patterns. This knowledge promotes compassion for those who've experienced coercive situations and informs better support strategies during recovery.",
       "funFact": "The Stockholm Syndrome criteria remain controversial in psychology, with some experts arguing it's more accurately viewed as a trauma response than a distinct syndrome."
     }
   ],
@@ -81,7 +81,7 @@
         "type": "true_false",
         "questionText": "In Stockholm Syndrome, captees develop positive feelings toward captors primarily because they are naturally empathetic people.",
         "correctAnswer": "false",
-        "explanation": "This is false. Stockholm Syndrome develops through specific psychological mechanisms including fear, intermittent kindness, and isolation—not simply due to personality traits."
+        "explanation": "This is false. Stockholm Syndrome develops through specific psychological mechanisms including fear, intermittent kindness, and isolation\u2014not simply due to personality traits."
       },
       {
         "id": "q-3",

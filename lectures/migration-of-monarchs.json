@@ -7,7 +7,7 @@
   "estimatedMinutes": 8,
   "difficulty": "beginner",
   "thumbnailUrl": "images/thumbnails/migration-of-monarchs.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -15,14 +15,14 @@
       "id": "card-1",
       "order": 1,
       "heading": "An Epic Cross-Continental Journey",
-      "body": "Each fall, roughly 100 million monarch butterflies embark on a journey that spans over 3,000 kilometers (1,900 miles) from Canada and the northern United States to remote forests in central Mexico. This migration is one of nature's greatest wonders, yet individual monarchs weigh less than a gram and live for only 8-10 months. The butterflies that make this journey are the last generation born before winter, and they possess dramatically different physical and behavioral characteristics from the three previous generations born that year. These 'super-generation' monarchs live six times longer and must navigate using cues their ancestors never needed. No individual monarch has ever completed this round trip migration before—the knowledge must be encoded in their genetics.",
-      "funFact": "A single monarch butterfly weighs less than a gram, yet travels 3,000 miles—equivalent to a person carrying a car on their back!"
+      "body": "Each fall, roughly 100 million monarch butterflies embark on a journey that spans over 3,000 kilometers (1,900 miles) from Canada and the northern United States to remote forests in central Mexico. This migration is one of nature's greatest wonders, yet individual monarchs weigh less than a gram and live for only 8-10 months. The butterflies that make this journey are the last generation born before winter, and they possess dramatically different physical and behavioral characteristics from the three previous generations born that year. These 'super-generation' monarchs live six times longer and must navigate using cues their ancestors never needed. No individual monarch has ever completed this round trip migration before\u2014the knowledge must be encoded in their genetics.",
+      "funFact": "A single monarch butterfly weighs less than a gram, yet travels 3,000 miles\u2014equivalent to a person carrying a car on their back!"
     },
     {
       "id": "card-2",
       "order": 2,
       "heading": "Navigation and Environmental Cues",
-      "body": "Monarch butterflies use multiple navigation strategies to find their way to specific forests they've never visited. They possess a sophisticated internal compass that uses the sun's position as a reference, adjusting for time of day. Magnetic fields provide additional navigation cues, with monarchs having magnetoreceptive proteins that allow them to sense Earth's magnetic field. They also respond to environmental markers including the angle of light polarization in the sky. Research suggests monarchs may use landmark recognition, visual memory of geographical features. The remarkable aspect is that this navigation knowledge isn't learned—it's innate and encoded genetically. Scientists continue to study how such complex navigational information is stored in the monarch's tiny brain.",
+      "body": "Monarch butterflies use multiple navigation strategies to find their way to specific forests they've never visited. They possess a sophisticated internal compass that uses the sun's position as a reference, adjusting for time of day. Magnetic fields provide additional navigation cues, with monarchs having magnetoreceptive proteins that allow them to sense Earth's magnetic field. They also respond to environmental markers including the angle of light polarization in the sky. Research suggests monarchs may use landmark recognition, visual memory of geographical features. The remarkable aspect is that this navigation knowledge isn't learned\u2014it's innate and encoded genetically. Scientists continue to study how such complex navigational information is stored in the monarch's tiny brain.",
       "imageUrl": "images/cards/monarch-navigation.jpg",
       "imageCaption": "Monarchs use the sun and Earth's magnetic field for navigation"
     },
@@ -30,7 +30,7 @@
       "id": "card-3",
       "order": 3,
       "heading": "The Mexican Sanctuaries",
-      "body": "Monarchs winter in a small area of central Mexico, primarily in the state of Michoacán, in forest reserves between 2,400 and 3,600 meters elevation. The forests there provide the ideal microclimate—cool enough to reduce metabolism and extend lifespan, but not so cold as to be lethal. The oyamel fir trees (Abies religiosa) create a canopy that provides shelter from wind and precipitation while allowing filtered sunlight. Tens of millions of monarchs cluster together in these forests, creating a visual spectacle with branches and tree trunks completely covered in butterflies. The forests serve as breeding grounds when monarchs emerge in spring, with milkweed plants providing essential food for caterpillars. These sanctuaries are crucial to monarch survival, yet they occupy an area smaller than Mexico City.",
+      "body": "Monarchs winter in a small area of central Mexico, primarily in the state of Michoac\u00e1n, in forest reserves between 2,400 and 3,600 meters elevation. The forests there provide the ideal microclimate\u2014cool enough to reduce metabolism and extend lifespan, but not so cold as to be lethal. The oyamel fir trees (Abies religiosa) create a canopy that provides shelter from wind and precipitation while allowing filtered sunlight. Tens of millions of monarchs cluster together in these forests, creating a visual spectacle with branches and tree trunks completely covered in butterflies. The forests serve as breeding grounds when monarchs emerge in spring, with milkweed plants providing essential food for caterpillars. These sanctuaries are crucial to monarch survival, yet they occupy an area smaller than Mexico City.",
       "funFact": "The monarch reserves in Mexico cover less than 6,000 hectares, an area smaller than the city of Washington, D.C.!"
     },
     {
@@ -52,7 +52,7 @@
       "id": "card-6",
       "order": 6,
       "heading": "Conservation Challenges and Climate Change",
-      "body": "Monarch populations have declined by over 80% in recent decades due to habitat loss, pesticide use, and climate change. The loss of milkweed plants—their only food source as caterpillars—is particularly devastating. Widespread use of glyphosate herbicides has eliminated milkweed from agricultural areas. Climate change threatens monarchs in multiple ways: extreme weather events during migration kill thousands, earlier springs disrupt the synchronization between monarchs and milkweed flowering, and warmer winters reduce their cold-induced dormancy. The Mexican forest reserves themselves face threats from logging and climate change. Conservation efforts include protecting migration corridors, restoring milkweed habitat in North America, and preserving the Mexican forest sanctuaries. International cooperation is essential, as the monarchs' needs span three countries.",
+      "body": "Monarch populations have declined by over 80% in recent decades due to habitat loss, pesticide use, and climate change. The loss of milkweed plants\u2014their only food source as caterpillars\u2014is particularly devastating. Widespread use of glyphosate herbicides has eliminated milkweed from agricultural areas. Climate change threatens monarchs in multiple ways: extreme weather events during migration kill thousands, earlier springs disrupt the synchronization between monarchs and milkweed flowering, and warmer winters reduce their cold-induced dormancy. The Mexican forest reserves themselves face threats from logging and climate change. Conservation efforts include protecting migration corridors, restoring milkweed habitat in North America, and preserving the Mexican forest sanctuaries. International cooperation is essential, as the monarchs' needs span three countries.",
       "imageUrl": "images/cards/monarch-conservation.jpg",
       "imageCaption": "Restoring milkweed habitat is crucial for monarch conservation"
     }

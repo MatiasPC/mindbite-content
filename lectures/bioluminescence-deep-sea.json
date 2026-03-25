@@ -7,7 +7,7 @@
   "estimatedMinutes": 9,
   "difficulty": "intermediate",
   "thumbnailUrl": "images/thumbnails/bioluminescence-deep-sea.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -15,14 +15,14 @@
       "id": "card-1",
       "order": 1,
       "heading": "The Chemistry of Light Production",
-      "body": "Bioluminescence is the production of light by living organisms through a chemical reaction. The fundamental mechanism involves a light-emitting molecule called luciferin that reacts with an enzyme called luciferase in the presence of oxygen. This reaction, known as chemiluminescence, releases energy as light rather than heat. Different organisms produce light of different colors by using different luciferin molecules and luciferase enzymes. Some produce blue light (optimized for transmission through ocean water), while others produce green, red, or even far-red light. The efficiency of bioluminescence is remarkable—organisms can convert up to 88% of chemical energy into light, compared to only about 5% efficiency in incandescent light bulbs. This chemical elegance represents billions of years of evolution optimizing light production for use in the perpetual darkness of the deep ocean.",
+      "body": "Bioluminescence is the production of light by living organisms through a chemical reaction. The fundamental mechanism involves a light-emitting molecule called luciferin that reacts with an enzyme called luciferase in the presence of oxygen. This reaction, known as chemiluminescence, releases energy as light rather than heat. Different organisms produce light of different colors by using different luciferin molecules and luciferase enzymes. Some produce blue light (optimized for transmission through ocean water), while others produce green, red, or even far-red light. The efficiency of bioluminescence is remarkable\u2014organisms can convert up to 88% of chemical energy into light, compared to only about 5% efficiency in incandescent light bulbs. This chemical elegance represents billions of years of evolution optimizing light production for use in the perpetual darkness of the deep ocean.",
       "funFact": "Bioluminescence is up to 18 times more efficient than traditional light bulbs at converting energy into light!"
     },
     {
       "id": "card-2",
       "order": 2,
       "heading": "The Midnight Zone Ecosystem",
-      "body": "The deep sea zone below 200 meters receives no sunlight and is completely dark. This midnight zone (also called the bathypelagic zone) extends from 1,000 to 4,000 meters depth. Despite the darkness, it's not lifeless—organisms here have adapted to extreme pressure, cold temperatures, and complete light deprivation. In this environment, bioluminescence becomes a primary form of communication. Approximately 90% of deep-sea organisms produce light or possess light-detecting organs. The ecological functions of bioluminescence in the midnight zone include predator-prey interactions, communication, navigation, and mate attraction. The vast majority of bioluminescent light in the ocean comes from tiny copepods and other zooplankton that flash in coordinated bioluminescent displays. These displays create a visual symphony in the darkness, though for what purpose scientists are still investigating.",
+      "body": "The deep sea zone below 200 meters receives no sunlight and is completely dark. This midnight zone (also called the bathypelagic zone) extends from 1,000 to 4,000 meters depth. Despite the darkness, it's not lifeless\u2014organisms here have adapted to extreme pressure, cold temperatures, and complete light deprivation. In this environment, bioluminescence becomes a primary form of communication. Approximately 90% of deep-sea organisms produce light or possess light-detecting organs. The ecological functions of bioluminescence in the midnight zone include predator-prey interactions, communication, navigation, and mate attraction. The vast majority of bioluminescent light in the ocean comes from tiny copepods and other zooplankton that flash in coordinated bioluminescent displays. These displays create a visual symphony in the darkness, though for what purpose scientists are still investigating.",
       "imageUrl": "images/cards/deep-sea-light.jpg",
       "imageCaption": "Bioluminescent organisms create light in the deep ocean darkness"
     },
@@ -30,14 +30,14 @@
       "id": "card-3",
       "order": 3,
       "heading": "Predator-Prey Bioluminescent Interactions",
-      "body": "Bioluminescence plays a crucial role in predator-prey relationships in the deep sea. Some fish, like the hatchetfish, possess rows of bioluminescent photophores along their ventral (belly) surface. These counterillumination lights match the faint downwelling light from the surface, making the fish invisible to predators looking up from below. Prey animals often produce bioluminescent flash displays to startle predators, similar to how some terrestrial animals flash bright colors. The anglerfish uses a bioluminescent lure to attract prey—bacteria in the lure produce light that attracts curious fish into the predator's mouth. Some copepods produce bioluminescent mucus clouds that distract or disorient pursuing predators. This evolutionary arms race between predators and prey has generated extraordinary diversity in bioluminescent strategies. The deep sea represents nature's most complex light show, though invisible to human eyes without specialized equipment.",
+      "body": "Bioluminescence plays a crucial role in predator-prey relationships in the deep sea. Some fish, like the hatchetfish, possess rows of bioluminescent photophores along their ventral (belly) surface. These counterillumination lights match the faint downwelling light from the surface, making the fish invisible to predators looking up from below. Prey animals often produce bioluminescent flash displays to startle predators, similar to how some terrestrial animals flash bright colors. The anglerfish uses a bioluminescent lure to attract prey\u2014bacteria in the lure produce light that attracts curious fish into the predator's mouth. Some copepods produce bioluminescent mucus clouds that distract or disorient pursuing predators. This evolutionary arms race between predators and prey has generated extraordinary diversity in bioluminescent strategies. The deep sea represents nature's most complex light show, though invisible to human eyes without specialized equipment.",
       "funFact": "The anglerfish's bioluminescent lure is like a living fishing rod, using bacteria-produced light to attract prey!"
     },
     {
       "id": "card-4",
       "order": 4,
       "heading": "Communication and Attraction",
-      "body": "Bioluminescence serves as a visual language in the darkness of the deep ocean. Many organisms produce species-specific light signals for communication. Male firefly fish use characteristic flashing patterns to attract females, similar to terrestrial fireflies. Squid and other cephalopods produce complex patterns of light displays that may communicate dominance, interest in mating, or other information. Bacteria living symbiotically in light organs produce bioluminescence that the host organism controls with precision, allowing rapid on-off modulation. Some fish possess bioluminescent eye spots that may flash in predator-prey interactions or social signaling. The deep sea may have been the birthplace of visual signaling evolution—organisms in complete darkness developed sophisticated systems of light production and reception before light communication evolved in shallow water. This 'language of light' represents an elegant solution to the communication challenges of deep-sea living.",
+      "body": "Bioluminescence serves as a visual language in the darkness of the deep ocean. Many organisms produce species-specific light signals for communication. Male firefly fish use characteristic flashing patterns to attract females, similar to terrestrial fireflies. Squid and other cephalopods produce complex patterns of light displays that may communicate dominance, interest in mating, or other information. Bacteria living symbiotically in light organs produce bioluminescence that the host organism controls with precision, allowing rapid on-off modulation. Some fish possess bioluminescent eye spots that may flash in predator-prey interactions or social signaling. The deep sea may have been the birthplace of visual signaling evolution\u2014organisms in complete darkness developed sophisticated systems of light production and reception before light communication evolved in shallow water. This 'language of light' represents an elegant solution to the communication challenges of deep-sea living.",
       "imageUrl": "images/cards/bioluminescent-signals.jpg",
       "imageCaption": "Deep-sea organisms use bioluminescence for communication"
     },
@@ -45,7 +45,7 @@
       "id": "card-5",
       "order": 5,
       "heading": "Symbiotic Bioluminescence",
-      "body": "Many bioluminescent organisms don't produce light themselves—they culture symbiotic bacteria that generate light for them. The Hawaiian bobtail squid (Euprymna scolopes) harbors bioluminescent bacteria in a specialized light organ. The squid manipulates the bacterial population, controlling when and how brightly the light is produced. The bacteria receive shelter and nutrients; the squid receives counterillumination camouflage. This mutualistic relationship is so ancient and specialized that neither organism can survive long without the other in nature. The bacteria communicate with each other through quorum sensing—they produce light only when their population reaches a critical density, a system of bacterial democracy. Studying these symbiotic relationships has advanced our understanding of how complex biological systems evolve through cooperation. The squid-bacteria relationship represents a remarkable example of evolutionary mutualism, where two species become so interdependent that they function as a single organism.",
+      "body": "Many bioluminescent organisms don't produce light themselves\u2014they culture symbiotic bacteria that generate light for them. The Hawaiian bobtail squid (Euprymna scolopes) harbors bioluminescent bacteria in a specialized light organ. The squid manipulates the bacterial population, controlling when and how brightly the light is produced. The bacteria receive shelter and nutrients; the squid receives counterillumination camouflage. This mutualistic relationship is so ancient and specialized that neither organism can survive long without the other in nature. The bacteria communicate with each other through quorum sensing\u2014they produce light only when their population reaches a critical density, a system of bacterial democracy. Studying these symbiotic relationships has advanced our understanding of how complex biological systems evolve through cooperation. The squid-bacteria relationship represents a remarkable example of evolutionary mutualism, where two species become so interdependent that they function as a single organism.",
       "funFact": "The Hawaiian bobtail squid cultivates billions of bioluminescent bacteria in its light organ like a living garden!"
     },
     {
@@ -112,7 +112,7 @@
           "Competitive: they fight for the same resources"
         ],
         "correctAnswer": "Mutualistic symbiosis: both organisms benefit",
-        "explanation": "The squid provides shelter and nutrients to bacteria; bacteria provide bioluminescent light for camouflage—a mutually beneficial relationship."
+        "explanation": "The squid provides shelter and nutrients to bacteria; bacteria provide bioluminescent light for camouflage\u2014a mutually beneficial relationship."
       },
       {
         "id": "q5",

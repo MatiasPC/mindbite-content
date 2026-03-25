@@ -7,7 +7,7 @@
   "estimatedMinutes": 9,
   "difficulty": "intermediate",
   "thumbnailUrl": "images/thumbnails/the-absurd-camus.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -15,38 +15,38 @@
       "id": "card-1",
       "order": 1,
       "heading": "Defining the Absurd",
-      "body": "Albert Camus identified 'the Absurd' as the confrontation between humanity's need for meaning and the universe's silence and meaninglessness. We crave understanding, purpose, and rational explanations, yet the world refuses to provide them. We're conscious beings capable of asking 'why?' but existence offers no answers. This collision between human yearning for meaning and the indifference of reality constitutes the Absurd. It's not that life is bad or painful, but that it's fundamentally irrational and indifferent. Camus didn't invent this problem—thinkers like Kierkegaard and Dostoevsky explored similar territory—but he gave it precise articulation and explored its philosophical implications systematically."
+      "body": "Albert Camus identified 'the Absurd' as the confrontation between humanity's need for meaning and the universe's silence and meaninglessness. We crave understanding, purpose, and rational explanations, yet the world refuses to provide them. We're conscious beings capable of asking 'why?' but existence offers no answers. This collision between human yearning for meaning and the indifference of reality constitutes the Absurd. It's not that life is bad or painful, but that it's fundamentally irrational and indifferent. Camus didn't invent this problem\u2014thinkers like Kierkegaard and Dostoevsky explored similar territory\u2014but he gave it precise articulation and explored its philosophical implications systematically."
     },
     {
       "id": "card-2",
       "order": 2,
       "heading": "The Myth of Sisyphus",
-      "body": "Camus famously used Sisyphus—the mythological figure condemned to eternally push a boulder uphill only to watch it roll down—as metaphor for human existence. The absurdity lies in purposeless repetition. Yet Camus argued we must imagine Sisyphus happy. This isn't resignation or false hope. Rather, Camus suggests that once Sisyphus accepts the meaninglessness of his task and stops seeking external justification, he finds freedom and happiness. The point isn't that the boulder matters or that suffering is good, but that accepting reality as it is, without illusions, opens possibility for genuine happiness. This represents Camus' philosophy: acknowledge the Absurd honestly, reject false solutions, and embrace life anyway."
+      "body": "Camus famously used Sisyphus\u2014the mythological figure condemned to eternally push a boulder uphill only to watch it roll down\u2014as metaphor for human existence. The absurdity lies in purposeless repetition. Yet Camus argued we must imagine Sisyphus happy. This isn't resignation or false hope. Rather, Camus suggests that once Sisyphus accepts the meaninglessness of his task and stops seeking external justification, he finds freedom and happiness. The point isn't that the boulder matters or that suffering is good, but that accepting reality as it is, without illusions, opens possibility for genuine happiness. This represents Camus' philosophy: acknowledge the Absurd honestly, reject false solutions, and embrace life anyway."
     },
     {
       "id": "card-3",
       "order": 3,
       "heading": "Three False Solutions",
-      "body": "Camus identified three common responses to the Absurd that he rejected: suicide, religion, and philosophical escape. Suicide attempts to end the absurd collision by removing one side—the conscious subject. Camus argued this abandons the absurd rather than confronts it. Religion and philosophy offer false hope by claiming hidden meaning or transcendent purpose. These solutions escape the absurd by proposing that meaning exists elsewhere—in God or metaphysical reality. Camus rejected all three because they deny authentic confrontation with reality. Instead, he advocated for living fully aware of meaninglessness while passionately embracing existence. This requires intellectual honesty and courage. Rather than seeking escape, we should accept absurdity and find freedom within it."
+      "body": "Camus identified three common responses to the Absurd that he rejected: suicide, religion, and philosophical escape. Suicide attempts to end the absurd collision by removing one side\u2014the conscious subject. Camus argued this abandons the absurd rather than confronts it. Religion and philosophy offer false hope by claiming hidden meaning or transcendent purpose. These solutions escape the absurd by proposing that meaning exists elsewhere\u2014in God or metaphysical reality. Camus rejected all three because they deny authentic confrontation with reality. Instead, he advocated for living fully aware of meaninglessness while passionately embracing existence. This requires intellectual honesty and courage. Rather than seeking escape, we should accept absurdity and find freedom within it."
     },
     {
       "id": "card-4",
       "order": 4,
       "heading": "Passion and Revolt",
-      "body": "Camus advocated for what he called 'revolt'—a passionate refusal to accept false solutions or surrender to despair. Revolt means living fully and deliberately despite meaninglessness. It involves continuous effort, awareness, and engagement with life. Camus valued passion and intensity. Rather than passive acceptance, he recommended artistic creativity, sensual experience, and human relationships. These don't solve the absurd or create objective meaning, but they constitute authentic living. The revolting person continues asking 'why?' even knowing no answer comes. This questioning attitude and determined engagement with life characterizes Camus' philosophy. Passion becomes possible precisely because expectations of external validation are abandoned. Without illusions, we're free to create our own values and find joy in the struggle itself.",
+      "body": "Camus advocated for what he called 'revolt'\u2014a passionate refusal to accept false solutions or surrender to despair. Revolt means living fully and deliberately despite meaninglessness. It involves continuous effort, awareness, and engagement with life. Camus valued passion and intensity. Rather than passive acceptance, he recommended artistic creativity, sensual experience, and human relationships. These don't solve the absurd or create objective meaning, but they constitute authentic living. The revolting person continues asking 'why?' even knowing no answer comes. This questioning attitude and determined engagement with life characterizes Camus' philosophy. Passion becomes possible precisely because expectations of external validation are abandoned. Without illusions, we're free to create our own values and find joy in the struggle itself.",
       "funFact": "Camus won the Nobel Prize in Literature in 1957, one of the youngest recipients at age 43, partially for his philosophical novels like 'The Stranger' and 'The Plague.'"
     },
     {
       "id": "card-5",
       "order": 5,
       "heading": "The Stranger and The Plague",
-      "body": "Camus explored his philosophical ideas through novels. 'The Stranger' depicts Meursault, a man who responds to life's absurdity with emotional detachment. He commits a crime and faces execution without showing expected remorse or seeking meaning in his fate. The novel illustrates how society demands meaning and emotional conventional responses, yet Meursault's authentic response is indifference. 'The Plague' presents a city facing catastrophic disease. Characters attempt various responses: denial, religious faith, defiant courage. The plague represents life's fundamental absurdity—suffering without purpose or justification. Through these narratives, Camus shows how people typically escape absurdity through delusion. His protagonists' alternative approaches—accepting reality without false hope—suggest paths to authentic living despite meaninglessness."
+      "body": "Camus explored his philosophical ideas through novels. 'The Stranger' depicts Meursault, a man who responds to life's absurdity with emotional detachment. He commits a crime and faces execution without showing expected remorse or seeking meaning in his fate. The novel illustrates how society demands meaning and emotional conventional responses, yet Meursault's authentic response is indifference. 'The Plague' presents a city facing catastrophic disease. Characters attempt various responses: denial, religious faith, defiant courage. The plague represents life's fundamental absurdity\u2014suffering without purpose or justification. Through these narratives, Camus shows how people typically escape absurdity through delusion. His protagonists' alternative approaches\u2014accepting reality without false hope\u2014suggest paths to authentic living despite meaninglessness."
     },
     {
       "id": "card-6",
       "order": 6,
       "heading": "Absurdism vs. Existentialism",
-      "body": "Though often grouped together, Camus' absurdism differs significantly from Sartre's existentialism. Sartre argued that existence precedes essence and humans create their own meaning through free choices. Camus rejected this. For Camus, even our freedom to create meaning doesn't solve the Absurd—we still face a fundamentally meaningless universe. Existentialists can claim that the meaning we create is real and important. Camus insisted that invented meaning remains arbitrary and illusory. This philosophical disagreement led to their famous public quarrel. Yet both philosophies reject traditional sources of meaning (God, nature, predetermined essence) and demand authentic engagement with life. Both emphasize human freedom, responsibility, and passionate living. Understanding their distinction illuminates different responses to modernity's spiritual crisis."
+      "body": "Though often grouped together, Camus' absurdism differs significantly from Sartre's existentialism. Sartre argued that existence precedes essence and humans create their own meaning through free choices. Camus rejected this. For Camus, even our freedom to create meaning doesn't solve the Absurd\u2014we still face a fundamentally meaningless universe. Existentialists can claim that the meaning we create is real and important. Camus insisted that invented meaning remains arbitrary and illusory. This philosophical disagreement led to their famous public quarrel. Yet both philosophies reject traditional sources of meaning (God, nature, predetermined essence) and demand authentic engagement with life. Both emphasize human freedom, responsibility, and passionate living. Understanding their distinction illuminates different responses to modernity's spiritual crisis."
     }
   ],
   "sources": [
@@ -62,7 +62,7 @@
     },
     {
       "id": "src-3",
-      "title": "Sharpe, Matthew & Geoff Boucher. Žižek and Politics: A Critical Introduction. Edinburgh University Press, 2010.",
+      "title": "Sharpe, Matthew & Geoff Boucher. \u017di\u017eek and Politics: A Critical Introduction. Edinburgh University Press, 2010.",
       "type": "journal"
     }
   ],
@@ -120,7 +120,7 @@
           "They have no meaningful differences in their core philosophies"
         ],
         "correctAnswer": "Existentialists believe humans can create meaningful values through free choice; Camus rejected this as still illusory",
-        "explanation": "While Sartre believed we can create real meaning through authentic choices, Camus argued that even our self-created meaning remains arbitrary—it doesn't solve the fundamental absurdity of a meaningless universe."
+        "explanation": "While Sartre believed we can create real meaning through authentic choices, Camus argued that even our self-created meaning remains arbitrary\u2014it doesn't solve the fundamental absurdity of a meaningless universe."
       }
     ],
     "lectureId": "c7e9f1a2-b3c4-5d6e-7f8a-9b0c1d2e3f4a"

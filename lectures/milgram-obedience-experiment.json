@@ -7,7 +7,7 @@
   "estimatedMinutes": 10,
   "difficulty": "intermediate",
   "thumbnailUrl": "images/thumbnails/milgram-obedience-experiment.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -22,7 +22,7 @@
       "id": "card-2",
       "order": 2,
       "heading": "The Gradual Escalation Process",
-      "body": "Shocks began at 15 volts and increased in 15-volt increments up to 450 volts, labeled as potentially lethal. Participants didn't suddenly consent to maximum voltage—they gradually escalated through small increments. This gradual process made it psychologically easier to continue than to suddenly refuse. Each step seemed like a minor increase, but cumulatively led to extreme behavior. The incremental nature reveals how harmful actions often occur through a series of small decisions rather than single dramatic choices. Understanding this pattern helps explain how harmful organizational practices can develop.",
+      "body": "Shocks began at 15 volts and increased in 15-volt increments up to 450 volts, labeled as potentially lethal. Participants didn't suddenly consent to maximum voltage\u2014they gradually escalated through small increments. This gradual process made it psychologically easier to continue than to suddenly refuse. Each step seemed like a minor increase, but cumulatively led to extreme behavior. The incremental nature reveals how harmful actions often occur through a series of small decisions rather than single dramatic choices. Understanding this pattern helps explain how harmful organizational practices can develop.",
       "imageUrl": "images/milgram-voltage-scale.jpg",
       "imageCaption": "The gradual voltage escalation made compliance easier"
     },
@@ -30,7 +30,7 @@
       "id": "card-3",
       "order": 3,
       "heading": "Factors Promoting Obedience",
-      "body": "Milgram identified several conditions that increased obedience rates. Physical presence of the authority figure significantly boosted compliance. Legitimacy of the authority and clear assignment of responsibility also mattered—participants believed the experimenter was responsible for harm. Prestige of the institution (Yale University) lent credibility. Distance from the victim reduced resistance—fewer participants obeyed when they had to physically place the victim's hand on the shock plate. These findings reveal how context and social structure can override personal moral judgments.",
+      "body": "Milgram identified several conditions that increased obedience rates. Physical presence of the authority figure significantly boosted compliance. Legitimacy of the authority and clear assignment of responsibility also mattered\u2014participants believed the experimenter was responsible for harm. Prestige of the institution (Yale University) lent credibility. Distance from the victim reduced resistance\u2014fewer participants obeyed when they had to physically place the victim's hand on the shock plate. These findings reveal how context and social structure can override personal moral judgments.",
       "imageUrl": "images/milgram-factors.jpg"
     },
     {
@@ -44,7 +44,7 @@
       "id": "card-5",
       "order": 5,
       "heading": "Modern Implications and Criticisms",
-      "body": "Milgram's work profoundly influenced understanding of authority, institutional structures, and ethical decision-making. It raised serious ethical concerns about psychological research itself, leading to stricter ethical guidelines. Modern replications show varying results based on cultural context and setup modifications. The research explains workplace abuses, organizational misconduct, and compliance with unethical directives. However, critics note the artificial nature of laboratory settings and argue real-world decisions involve more complexity. Nevertheless, Milgram's core insight—that ordinary people can commit harmful acts under authority—remains crucial for understanding human behavior.",
+      "body": "Milgram's work profoundly influenced understanding of authority, institutional structures, and ethical decision-making. It raised serious ethical concerns about psychological research itself, leading to stricter ethical guidelines. Modern replications show varying results based on cultural context and setup modifications. The research explains workplace abuses, organizational misconduct, and compliance with unethical directives. However, critics note the artificial nature of laboratory settings and argue real-world decisions involve more complexity. Nevertheless, Milgram's core insight\u2014that ordinary people can commit harmful acts under authority\u2014remains crucial for understanding human behavior.",
       "funFact": "Many participants showed extreme stress during the experiment, including trembling, sweating, and nervous laughter, yet continued administering shocks when instructed."
     }
   ],
@@ -81,7 +81,7 @@
         "type": "true_false",
         "questionText": "In Milgram's experiments, actual electric shocks were delivered to the learners.",
         "correctAnswer": "false",
-        "explanation": "No shocks were actually administered. The experiment was a deception study—participants believed they were delivering shocks, but no learner was actually harmed."
+        "explanation": "No shocks were actually administered. The experiment was a deception study\u2014participants believed they were delivering shocks, but no learner was actually harmed."
       },
       {
         "id": "q-3",

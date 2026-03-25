@@ -7,7 +7,7 @@
   "estimatedMinutes": 8,
   "difficulty": "beginner",
   "thumbnailUrl": "images/thumbnails/the-flow-state.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -15,14 +15,14 @@
       "id": "card-1",
       "order": 1,
       "heading": "What Is Flow?",
-      "body": "Flow is a state of complete absorption in an activity where time seems to disappear and self-consciousness fades away. Mihaly Csikszentmihalyi, who pioneered flow research, describes it as optimal experience—a mental state where skill level matches challenge level perfectly. During flow, people perform at their best while experiencing deep satisfaction and fulfillment. Athletes describe it as being 'in the zone,' musicians feel complete immersion in their performance, and programmers lose track of time while problem-solving. This state represents one of the most rewarding human experiences available through focused engagement.",
+      "body": "Flow is a state of complete absorption in an activity where time seems to disappear and self-consciousness fades away. Mihaly Csikszentmihalyi, who pioneered flow research, describes it as optimal experience\u2014a mental state where skill level matches challenge level perfectly. During flow, people perform at their best while experiencing deep satisfaction and fulfillment. Athletes describe it as being 'in the zone,' musicians feel complete immersion in their performance, and programmers lose track of time while problem-solving. This state represents one of the most rewarding human experiences available through focused engagement.",
       "funFact": "Csikszentmihalyi developed the concept of flow after studying artists who became so absorbed in painting that they forgot to eat or sleep."
     },
     {
       "id": "card-2",
       "order": 2,
       "heading": "The Challenge-Skill Balance",
-      "body": "Flow occurs at the intersection of challenge and skill—when difficulty and capability are equally matched. If a task is too easy relative to your skill, boredom results. If the challenge vastly exceeds your ability, anxiety and frustration emerge. Flow requires this delicate balance where you're constantly stretched just beyond your current comfort zone. As skills improve, challenges must increase proportionally to maintain flow. This dynamic adjustment is why video games with adjustable difficulty levels can sustain engagement—they keep the challenge aligned with developing player skills throughout the experience.",
+      "body": "Flow occurs at the intersection of challenge and skill\u2014when difficulty and capability are equally matched. If a task is too easy relative to your skill, boredom results. If the challenge vastly exceeds your ability, anxiety and frustration emerge. Flow requires this delicate balance where you're constantly stretched just beyond your current comfort zone. As skills improve, challenges must increase proportionally to maintain flow. This dynamic adjustment is why video games with adjustable difficulty levels can sustain engagement\u2014they keep the challenge aligned with developing player skills throughout the experience.",
       "imageUrl": "images/flow-challenge-skill.jpg",
       "imageCaption": "Flow occurs when challenge and skill are balanced"
     },
@@ -36,7 +36,7 @@
       "id": "card-4",
       "order": 4,
       "heading": "Finding Flow in Daily Life",
-      "body": "Flow isn't limited to professional pursuits—it's accessible in hobbies, sports, creative projects, and work tasks. To cultivate flow, identify activities where you lose track of time. Choose pursuits with clear objectives and feedback mechanisms. Eliminate distractions and environmental interruptions. Start with challenges slightly exceeding current skill levels. Gradually increase difficulty as competence grows. Setting specific goals before activities helps establish clear direction. Regular practice builds skills, enabling deeper flow states. Many people report that activities producing flow contribute significantly to overall life satisfaction and sense of purpose.",
+      "body": "Flow isn't limited to professional pursuits\u2014it's accessible in hobbies, sports, creative projects, and work tasks. To cultivate flow, identify activities where you lose track of time. Choose pursuits with clear objectives and feedback mechanisms. Eliminate distractions and environmental interruptions. Start with challenges slightly exceeding current skill levels. Gradually increase difficulty as competence grows. Setting specific goals before activities helps establish clear direction. Regular practice builds skills, enabling deeper flow states. Many people report that activities producing flow contribute significantly to overall life satisfaction and sense of purpose.",
       "imageUrl": "images/flow-activities.jpg"
     },
     {
@@ -73,14 +73,14 @@
           "Work and leisure"
         ],
         "correctAnswer": "Challenge and skill level",
-        "explanation": "Flow is achieved when the challenge of a task is perfectly matched to the person's skill level—difficult enough to engage but not so hard as to cause anxiety."
+        "explanation": "Flow is achieved when the challenge of a task is perfectly matched to the person's skill level\u2014difficult enough to engage but not so hard as to cause anxiety."
       },
       {
         "id": "q-2",
         "type": "true_false",
         "questionText": "In flow state, people typically become very self-conscious about how they are performing.",
         "correctAnswer": "false",
-        "explanation": "This is false. One of the key characteristics of flow is loss of self-consciousness—people become so absorbed in the activity that ego concerns fade away."
+        "explanation": "This is false. One of the key characteristics of flow is loss of self-consciousness\u2014people become so absorbed in the activity that ego concerns fade away."
       },
       {
         "id": "q-3",
@@ -93,14 +93,14 @@
           "Frustration"
         ],
         "correctAnswer": "Boredom",
-        "explanation": "When task difficulty is below skill level, boredom results. Flow requires challenge slightly above current capability—easy enough to be achievable but hard enough to require engagement."
+        "explanation": "When task difficulty is below skill level, boredom results. Flow requires challenge slightly above current capability\u2014easy enough to be achievable but hard enough to require engagement."
       },
       {
         "id": "q-4",
         "type": "fill_blank",
         "questionText": "During flow, people often report that time seems to _______, and they become completely absorbed in their activity.",
         "correctAnswer": "disappear",
-        "explanation": "Loss of time perception is a hallmark characteristic of flow—people in flow often express surprise at how much time has passed because they were so engaged."
+        "explanation": "Loss of time perception is a hallmark characteristic of flow\u2014people in flow often express surprise at how much time has passed because they were so engaged."
       },
       {
         "id": "q-5",

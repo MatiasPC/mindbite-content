@@ -7,7 +7,7 @@
   "estimatedMinutes": 9,
   "difficulty": "intermediate",
   "thumbnailUrl": "images/thumbnails/crispr-gene-editing.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -16,7 +16,7 @@
       "order": 1,
       "heading": "What is CRISPR?",
       "body": "CRISPR stands for Clustered Regularly Interspaced Short Palindromic Repeats. It's a genetic engineering tool that allows scientists to edit DNA sequences with remarkable precision. Originally discovered in bacteria as a defense mechanism against viruses, CRISPR has been adapted as a powerful tool for modifying genes in living organisms. The system consists of two main components: a guide RNA that directs the tool to specific DNA sequences, and a protein called Cas9 that acts like molecular scissors. Together, they can find, cut, and modify genes with unprecedented accuracy and efficiency.",
-      "funFact": "Bacteria have been using CRISPR as an immune system for millions of years—we're essentially repurposing nature's own gene-editing tool!"
+      "funFact": "Bacteria have been using CRISPR as an immune system for millions of years\u2014we're essentially repurposing nature's own gene-editing tool!"
     },
     {
       "id": "card-2",
@@ -53,7 +53,7 @@
       "id": "card-6",
       "order": 6,
       "heading": "Ethical Considerations and Limitations",
-      "body": "While CRISPR offers tremendous promise, it raises important ethical questions. Off-target effects, where CRISPR cuts at unintended DNA locations, remain a concern requiring careful design and validation. There's ongoing debate about editing human embryo genes, which could create permanent heritable changes. The difference between somatic therapy (editing adult body cells) and germline editing (affecting future generations) carries profound ethical implications. International guidelines restrict some applications to ensure responsible use. Access and equity issues exist—CRISPR treatments may be expensive initially. Religious and philosophical objections to modifying human nature persist. The scientific community actively engages with ethicists, policymakers, and the public to develop appropriate guidelines balancing innovation with safety and ethical responsibility.",
+      "body": "While CRISPR offers tremendous promise, it raises important ethical questions. Off-target effects, where CRISPR cuts at unintended DNA locations, remain a concern requiring careful design and validation. There's ongoing debate about editing human embryo genes, which could create permanent heritable changes. The difference between somatic therapy (editing adult body cells) and germline editing (affecting future generations) carries profound ethical implications. International guidelines restrict some applications to ensure responsible use. Access and equity issues exist\u2014CRISPR treatments may be expensive initially. Religious and philosophical objections to modifying human nature persist. The scientific community actively engages with ethicists, policymakers, and the public to develop appropriate guidelines balancing innovation with safety and ethical responsibility.",
       "funFact": "Some countries have banned human germline editing, while others allow therapeutic use under strict regulations."
     },
     {

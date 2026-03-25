@@ -7,7 +7,7 @@
   "estimatedMinutes": 8,
   "difficulty": "beginner",
   "thumbnailUrl": "images/thumbnails/how-stars-die.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -24,7 +24,7 @@
       "id": "card-2",
       "order": 2,
       "heading": "The Death of Sun-Like Stars",
-      "body": "Stars similar to our Sun become red giants when core hydrogen exhausts. The outer layers expand dramatically while the core contracts and heats. Eventually, the core becomes hot enough for helium fusion, creating carbon and oxygen. When helium is exhausted, the star cannot fuse heavier elements. The outer layers peel away, forming a planetary nebula—a spectacular shell of glowing gas. The exposed core becomes a white dwarf: an Earth-sized object as massive as the Sun with incredible density. White dwarfs slowly cool over billions of years, eventually becoming dark stellar remnants called black dwarfs.",
+      "body": "Stars similar to our Sun become red giants when core hydrogen exhausts. The outer layers expand dramatically while the core contracts and heats. Eventually, the core becomes hot enough for helium fusion, creating carbon and oxygen. When helium is exhausted, the star cannot fuse heavier elements. The outer layers peel away, forming a planetary nebula\u2014a spectacular shell of glowing gas. The exposed core becomes a white dwarf: an Earth-sized object as massive as the Sun with incredible density. White dwarfs slowly cool over billions of years, eventually becoming dark stellar remnants called black dwarfs.",
       "imageUrl": "images/content/planetary-nebula.jpg",
       "imageCaption": "The Ring Nebula, a planetary nebula from a dying star"
     },
@@ -32,7 +32,7 @@
       "id": "card-3",
       "order": 3,
       "heading": "Massive Stars and Supernovae",
-      "body": "Stars more massive than about eight solar masses undergo more violent deaths. These massive stars burn their fuel much faster, living only millions of years. As the core accumulates iron, fusion becomes impossible—iron fusion consumes energy rather than releasing it. The core catastrophically collapses, crushing atoms and often bouncing back in a supernova explosion. This explosion briefly outshines entire galaxies containing billions of stars. The intense heat in the explosion creates heavy elements like nickel, cobalt, and elements heavier than iron. These elements, synthesized only in supernovae, seed the galaxy and eventually form planets and life.",
+      "body": "Stars more massive than about eight solar masses undergo more violent deaths. These massive stars burn their fuel much faster, living only millions of years. As the core accumulates iron, fusion becomes impossible\u2014iron fusion consumes energy rather than releasing it. The core catastrophically collapses, crushing atoms and often bouncing back in a supernova explosion. This explosion briefly outshines entire galaxies containing billions of stars. The intense heat in the explosion creates heavy elements like nickel, cobalt, and elements heavier than iron. These elements, synthesized only in supernovae, seed the galaxy and eventually form planets and life.",
       "funFact": "The iron in your blood was created in a supernova billions of years ago!",
       "imageUrl": "images/content/supernova-explosion.jpg",
       "imageCaption": "An artist's representation of a supernova explosion"
@@ -56,7 +56,7 @@
       "id": "card-6",
       "order": 6,
       "heading": "Neutron Stars and Black Holes",
-      "body": "Supernova remnants can be neutron stars or black holes. Neutron stars are incredibly dense stellar corpses approximately 20 kilometers across. They contain exotic matter at nuclear density and possess the strongest magnetic fields in the universe. Many rotate rapidly, beaming radiation visible as pulsars. Black holes form from even more massive stars—gravity is so intense that spacetime itself is warped into a one-way trap. Nothing escapes a black hole's event horizon. Both neutron stars and black holes are cosmic laboratories for extreme physics, allowing tests of general relativity and quantum mechanics.",
+      "body": "Supernova remnants can be neutron stars or black holes. Neutron stars are incredibly dense stellar corpses approximately 20 kilometers across. They contain exotic matter at nuclear density and possess the strongest magnetic fields in the universe. Many rotate rapidly, beaming radiation visible as pulsars. Black holes form from even more massive stars\u2014gravity is so intense that spacetime itself is warped into a one-way trap. Nothing escapes a black hole's event horizon. Both neutron stars and black holes are cosmic laboratories for extreme physics, allowing tests of general relativity and quantum mechanics.",
       "imageUrl": "images/content/neutron-star-vs-black-hole.jpg",
       "imageCaption": "Comparison of a neutron star and black hole"
     },
@@ -64,7 +64,7 @@
       "id": "card-7",
       "order": 7,
       "heading": "Impact on the Cosmos",
-      "body": "Stellar death profoundly shapes the universe. Supernovae distribute heavy elements throughout galaxies, enriching gas clouds that form new stars and planets. These elements are essential for chemistry and life—carbon for organic molecules, iron for planetary cores, oxygen for water. Supernova explosions can trigger or prevent star formation in nearby regions, influencing galactic evolution. The energy from supernovae heats intergalactic gas, affecting how galaxies grow. Stellar remnants—white dwarfs, neutron stars, and black holes—continue evolving and interacting with surroundings. The death of stars enables the birth of new cosmic structures.",
+      "body": "Stellar death profoundly shapes the universe. Supernovae distribute heavy elements throughout galaxies, enriching gas clouds that form new stars and planets. These elements are essential for chemistry and life\u2014carbon for organic molecules, iron for planetary cores, oxygen for water. Supernova explosions can trigger or prevent star formation in nearby regions, influencing galactic evolution. The energy from supernovae heats intergalactic gas, affecting how galaxies grow. Stellar remnants\u2014white dwarfs, neutron stars, and black holes\u2014continue evolving and interacting with surroundings. The death of stars enables the birth of new cosmic structures.",
       "funFact": "Every atom in your body heavier than helium was made in a star and distributed by supernova explosions!"
     }
   ],

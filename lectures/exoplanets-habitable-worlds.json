@@ -7,7 +7,7 @@
   "estimatedMinutes": 8,
   "difficulty": "intermediate",
   "thumbnailUrl": "images/thumbnails/exoplanets-habitable-worlds.jpg",
-  "isPremium": false,
+  "isPremium": true,
   "featured": false,
   "popularityScore": 0,
   "cards": [
@@ -16,7 +16,7 @@
       "order": 1,
       "heading": "The Discovery of Exoplanets",
       "body": "For most of human history, we observed only planets orbiting our Sun. In 1995, astronomers discovered the first exoplanet around a Sun-like star (51 Pegasi), revolutionizing our understanding of planetary systems. Over 5,000 exoplanets have been discovered since, with more being found constantly. These discoveries reveal that planetary systems are common and diverse. Some planets orbit extremely close to their stars, others are surprisingly distant. Some orbit binary stars, others travel through interstellar space. This diversity challenged existing theories and expanded our knowledge of how planetary systems form.",
-      "funFact": "The first exoplanet discovered was a 'hot Jupiter'—a giant gas planet orbiting very close to its star, nothing like our solar system!",
+      "funFact": "The first exoplanet discovered was a 'hot Jupiter'\u2014a giant gas planet orbiting very close to its star, nothing like our solar system!",
       "imageUrl": "images/content/exoplanet-discovery.jpg",
       "imageCaption": "Artistic representation of an exoplanet and its host star"
     },
@@ -32,14 +32,14 @@
       "id": "card-3",
       "order": 3,
       "heading": "Types of Exoplanets",
-      "body": "Exoplanet diversity far exceeds our solar system. Super-Earths and mini-Neptunes—planets between Earth and Neptune in size—are the most common type but don't exist in our solar system. Hot Jupiters orbit very close to their stars, unlike Jupiter. Cold giants orbit far away in extended orbits. Terrestrial planets similar to Earth or Mars are increasingly discovered. Some planets orbit binary stars or travel free-floating through space without any star. This variety demonstrates that our solar system represents just one possibility among countless planetary configurations. Understanding this diversity informs planetary formation theories.",
+      "body": "Exoplanet diversity far exceeds our solar system. Super-Earths and mini-Neptunes\u2014planets between Earth and Neptune in size\u2014are the most common type but don't exist in our solar system. Hot Jupiters orbit very close to their stars, unlike Jupiter. Cold giants orbit far away in extended orbits. Terrestrial planets similar to Earth or Mars are increasingly discovered. Some planets orbit binary stars or travel free-floating through space without any star. This variety demonstrates that our solar system represents just one possibility among countless planetary configurations. Understanding this diversity informs planetary formation theories.",
       "funFact": "Some exoplanets are so close to their stars that they're tidally locked, with one side always facing the star and the other always dark!"
     },
     {
       "id": "card-4",
       "order": 4,
       "heading": "The Habitable Zone",
-      "body": "The habitable zone (or 'Goldilocks zone') is the region around a star where liquid water could exist on a planet's surface. Too close to the star, and water evaporates; too far away, and it freezes. The habitable zone's size and location depend on the star's temperature and luminosity. Hotter stars have habitable zones farther out; cooler stars have them closer. Numerous potentially habitable exoplanets have been discovered, including Earth-sized worlds around dim red dwarf stars. However, habitability requires more than just being in the habitable zone—atmospheric composition, magnetic field strength, and geological activity matter significantly.",
+      "body": "The habitable zone (or 'Goldilocks zone') is the region around a star where liquid water could exist on a planet's surface. Too close to the star, and water evaporates; too far away, and it freezes. The habitable zone's size and location depend on the star's temperature and luminosity. Hotter stars have habitable zones farther out; cooler stars have them closer. Numerous potentially habitable exoplanets have been discovered, including Earth-sized worlds around dim red dwarf stars. However, habitability requires more than just being in the habitable zone\u2014atmospheric composition, magnetic field strength, and geological activity matter significantly.",
       "imageUrl": "images/content/habitable-zone.jpg",
       "imageCaption": "The habitable zone concept showing liquid water potential"
     },
@@ -47,8 +47,8 @@
       "id": "card-5",
       "order": 5,
       "heading": "Potentially Habitable Candidates",
-      "body": "Several exoplanets are compelling habitable candidates. Proxima Centauri b, discovered in 2016, orbits Earth-sized around the closest star to our Sun. TRAPPIST-1e orbits within the habitable zone of a small red dwarf star. Kepler-452b was called 'Earth's cousin' due to its size and star similarity. K2-18b shows evidence of water in its atmosphere. These worlds remain distant and difficult to study, but ongoing observations refine our understanding. Future telescopes like the James Webb Space Telescope will analyze exoplanet atmospheres, searching for biosignatures—chemical combinations suggesting biological activity.",
-      "funFact": "The nearest potentially habitable exoplanet (Proxima Centauri b) is 4.24 light-years away—it would take our fastest spacecraft over 80,000 years to reach!"
+      "body": "Several exoplanets are compelling habitable candidates. Proxima Centauri b, discovered in 2016, orbits Earth-sized around the closest star to our Sun. TRAPPIST-1e orbits within the habitable zone of a small red dwarf star. Kepler-452b was called 'Earth's cousin' due to its size and star similarity. K2-18b shows evidence of water in its atmosphere. These worlds remain distant and difficult to study, but ongoing observations refine our understanding. Future telescopes like the James Webb Space Telescope will analyze exoplanet atmospheres, searching for biosignatures\u2014chemical combinations suggesting biological activity.",
+      "funFact": "The nearest potentially habitable exoplanet (Proxima Centauri b) is 4.24 light-years away\u2014it would take our fastest spacecraft over 80,000 years to reach!"
     },
     {
       "id": "card-6",
@@ -62,7 +62,7 @@
       "id": "card-7",
       "order": 7,
       "heading": "The Future of Exoplanet Science",
-      "body": "Exoplanet research is advancing rapidly. Upcoming space missions will discover smaller, potentially habitable planets. Next-generation ground-based telescopes will provide unprecedented detail. Biosignature research will focus on identifying reliable indicators of life. Statistical studies will estimate how many habitable planets exist in our galaxy—potentially billions. Future missions might image exoplanet surfaces or even analyze exoplanet moons. Finding evidence of life elsewhere would answer one of humanity's deepest questions. Whether life is rare or common in the universe, exoplanet research will profoundly impact our understanding of life's place in the cosmos.",
+      "body": "Exoplanet research is advancing rapidly. Upcoming space missions will discover smaller, potentially habitable planets. Next-generation ground-based telescopes will provide unprecedented detail. Biosignature research will focus on identifying reliable indicators of life. Statistical studies will estimate how many habitable planets exist in our galaxy\u2014potentially billions. Future missions might image exoplanet surfaces or even analyze exoplanet moons. Finding evidence of life elsewhere would answer one of humanity's deepest questions. Whether life is rare or common in the universe, exoplanet research will profoundly impact our understanding of life's place in the cosmos.",
       "funFact": "Some estimates suggest there could be tens of billions of potentially habitable planets in the Milky Way alone!"
     }
   ],
@@ -137,7 +137,7 @@
           "A planet made of molten rock and metals"
         ],
         "correctAnswer": "A giant gas planet orbiting very close to its star",
-        "explanation": "Hot Jupiters are unexpected discoveries—gas giants in very close orbits, unlike anything in our solar system."
+        "explanation": "Hot Jupiters are unexpected discoveries\u2014gas giants in very close orbits, unlike anything in our solar system."
       }
     ],
     "lectureId": "550e8400-e29b-41d4-a716-446655440008"

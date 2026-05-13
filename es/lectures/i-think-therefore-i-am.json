@@ -1,0 +1,131 @@
+{
+  "id": "b6d8e9f0-a1b2-4c3d-5e6f-7a8b9c0d1e2f",
+  "slug": "i-think-therefore-i-am",
+  "title": "El cogito, ergo sum de Descartes",
+  "subtitle": "El fundamento de la filosofía moderna y la certeza de la conciencia",
+  "topicId": "philosophy",
+  "estimatedMinutes": 8,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/i-think-therefore-i-am.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El método de la duda radical",
+      "body": "René Descartes buscó la certeza absoluta dudando de todo lo que pudiera dudarse. Cuestionó la fiabilidad de sus sentidos, que a veces le engañan. Consideró la posibilidad de que pudiera estar soñando. Incluso imaginó a un poderoso engañador manipulando sus pensamientos. Sin embargo, Descartes se dio cuenta de que incluso en este estado de duda radical, un hecho seguía siendo innegable: estaba pensando. Dudar es pensar y pensar es existir. Esta comprensión se convirtió en su principio fundamental. El acto de dudar en sí no puede descartarse porque dudar requiere un pensador. Esta idea lanzó la filosofía moderna y estableció la conciencia como base del conocimiento."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Cogito, Ergo Sum",
+      "body": "La famosa formulación de Descartes: \"Pienso, luego existo\" es engañosamente simple. No es un silogismo lógico donde las premisas conducen a una conclusión. Más bien, es una certeza inmediata e intuitiva. Cuando piensas \"yo pienso\", experimentas directamente tanto el pensamiento como la existencia del pensador simultáneamente. Es evidente y no requiere pruebas. La afirmación capta una verdad fundamental: no se puede dudar de la conciencia porque la conciencia es la condición misma de la duda. Antes de establecer algo más sobre el mundo, Descartes estableció la realidad del sujeto pensante. Esta perspectiva cambia el enfoque de la realidad externa a la vida mental interna y establece la conciencia como la base de todo conocimiento."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Del yo a Dios y más allá",
+      "body": "Una vez que Descartes estableció su propia existencia como algo pensante, enfrentó el desafío de conocer algo más allá de su propia mente. Notó dentro de sí mismo la idea de Dios: infinito, perfecto, omnisciente. Descartes argumentó que esta idea no podía provenir de su mente finita e imperfecta, sino que debía originarse en Dios mismo. Este se convirtió en su argumento a favor de la existencia de Dios. Una vez establecida la existencia de Dios, Descartes razonó que un Dios perfecto no lo engañaría sobre el mundo externo percibido mediante el uso adecuado de la razón y la experiencia sensorial. Esto le permitió escapar del escepticismo radical de su método de la duda. El mundo exterior recupera la realidad una vez que la confiabilidad de Dios se establece a través de la lógica que parte de la conciencia."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Dualismo mente-cuerpo",
+      "body": "Descartes distinguió claramente entre mente (sustancia pensante) y cuerpo (sustancia extendida). La mente no es física, es indivisible y privada de cada persona. El cuerpo es físico, divisible y públicamente observable. Este dualismo creó problemas filosóficos duraderos. ¿Cómo interactúan causalmente las mentes no físicas con los cuerpos físicos? Si son sustancias fundamentalmente diferentes, ¿cuál es el mecanismo de interacción? La glándula pineal fue la solución propuesta por Descartes, pero resultó insatisfactoria. A pesar de estas dificultades, el dualismo cartesiano influyó profundamente en la filosofía, la psicología y la neurociencia. Estableció el problema mente-cuerpo como una cuestión filosófica central y dio forma a nuestra forma de pensar sobre la conciencia, el libre albedrío y la naturaleza de las personas.",
+      "funFact": "Descartes desarrolló su famoso principio mientras estaba sentado en una habitación con calefacción en el sur de Alemania durante el servicio militar, no en un aislamiento filosófico como a menudo se imagina."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Críticas y desafíos filosóficos",
+      "body": "Los filósofos han planteado serias objeciones al razonamiento de Descartes. Los críticos argumentan que \"yo pienso\" no necesariamente establece un \"yo\". Quizás sólo existan pensamientos, no necesariamente un yo unificado que los produzca. Wittgenstein sugirió que la afirmación supone demasiado sobre la identidad personal. Nietzsche cuestionó si \"pensar\" prueba claramente \"yo soy\", señalando que el pensamiento podría ocurrir sin un sujeto unificado. El argumento a favor de la existencia de Dios también ha sido cuestionado: ¿por qué la idea de Dios debe originarse externamente? Los filósofos modernos se preguntan si la conciencia realmente requiere una sustancia separada. A pesar de estas críticas, las ideas de Descartes siguen siendo centrales. Identificó la conciencia como algo genuinamente difícil de negar y estableció la experiencia subjetiva como filosóficamente significativa."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Implicaciones heredadas y modernas",
+      "body": "El principio de Descartes moldeó profundamente el pensamiento moderno. Estableció el \"sujeto\" o conciencia individual como filosóficamente central. Esto influyó en la forma en que la cultura occidental piensa sobre las personas, los derechos y la identidad. El cambio hacia el conocimiento subjetivo y la metodología empírica del que Descartes fue pionero contribuyó al desarrollo de la ciencia moderna. Sin embargo, su dualismo creó problemas conceptuales con los que los filósofos todavía luchan hoy. Las cuestiones sobre la inteligencia artificial, la conciencia y la carga mental heredan en parte cuestiones de la filosofía cartesiana. La neurociencia contemporánea desafía el dualismo mente-cuerpo, pero la conciencia sigue siendo filosóficamente desconcertante. El método de la duda de Descartes todavía ofrece valor: enseña el pensamiento crítico y la importancia de examinar los supuestos. El principio nos recuerda que la conciencia, cualquiera que sea su naturaleza última, es innegable."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Descartes, René. Meditations on First Philosophy. Translated by Michael Moriarty, Oxford University Press, 2008.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Watson, Richard A. Descartes' Theory of Mind. Oxford University Press, 2002.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Marion, Jean-Luc. On Descartes' Metaphysical Prism. University of Chicago Press, 1999.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-i-think-therefore-i-am",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál es el propósito del \"método de la duda radical\" de Descartes?",
+        "options": [
+          "Para demostrar que nada existe",
+          "Encontrar algo de lo que no se pueda dudar y que sea absolutamente cierto.",
+          "Demostrar que todo conocimiento es imposible.",
+          "Criticar la fe religiosa"
+        ],
+        "correctAnswer": "Encontrar algo de lo que no se pueda dudar y que sea absolutamente cierto.",
+        "explanation": "Descartes utilizó la duda radical para despojar a todas las afirmaciones que pudieran dudarse con el fin de encontrar una base inquebrantable para el conocimiento. El acto mismo de pensar resultó ser ese fundamento."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "El 'Cogito, ergo sum' de Descartes es un argumento lógico formal con premisas y conclusión.",
+        "correctAnswer": "false",
+        "explanation": "El 'Cogito, ergo sum' no es un argumento lógico sino una certeza inmediata e intuitiva. Expresa autoevidencia directa: el acto de pensar confirma simultáneamente que el pensamiento está ocurriendo y que existe un \"yo\" para realizar ese pensamiento."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "Según Descartes, ¿qué establece la confiabilidad del conocimiento sobre el mundo exterior?",
+        "options": [
+          "La fiabilidad de la percepción sensorial por sí sola",
+          "La existencia y perfección de Dios.",
+          "Sólo pruebas matemáticas.",
+          "Consistencia lógica dentro de la mente."
+        ],
+        "correctAnswer": "La existencia y perfección de Dios.",
+        "explanation": "Descartes argumentó que la existencia de Dios podría derivarse de la idea de Dios dentro de la mente, y que la perfección de Dios garantizaría que no nos engañe acerca del mundo externo revelado a través de la razón y los sentidos."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "Descartes distinguió entre mente, a la que llamó ___ sustancia, y cuerpo, al que llamó ___ sustancia.",
+        "correctAnswer": "pensando; extendido",
+        "explanation": "Descartes dividió la realidad en dos sustancias: sustancia pensante (mente, que es no física y consciente) y sustancia extendida (cuerpo, que es físico y espacial). Esto se conoce como dualismo cartesiano."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué filósofo criticó a Descartes al cuestionar si el \"yo\" está necesariamente establecido por el \"yo pienso\"?",
+        "options": [
+          "Emmanuel Kant",
+          "David Hume",
+          "Federico Nietzsche",
+          "Thomas Hobbes"
+        ],
+        "correctAnswer": "Federico Nietzsche",
+        "explanation": "Nietzsche argumentó que \"yo pienso\" no prueba necesariamente que \"yo soy\" como sujeto unificado. Sugirió que el argumento supone demasiado sobre la identidad personal y la naturaleza del \"yo\"."
+      }
+    ],
+    "lectureId": "b6d8e9f0-a1b2-4c3d-5e6f-7a8b9c0d1e2f"
+  },
+  "publishedAt": "2026-04-05T00:00:00Z",
+  "createdAt": "2026-04-05T00:00:00Z",
+  "updatedAt": "2026-04-05T00:00:00Z"
+}

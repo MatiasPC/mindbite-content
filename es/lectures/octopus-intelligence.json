@@ -1,0 +1,130 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440002",
+  "slug": "octopus-intelligence",
+  "title": "La inteligencia de los pulpos",
+  "subtitle": "Explorando las notables habilidades cognitivas de estas criaturas oceánicas",
+  "topicId": "nature-animals",
+  "estimatedMinutes": 9,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/octopus-intelligence.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Una inteligencia extraterrestre",
+      "body": "Los pulpos representan uno de los ejemplos más fascinantes de la naturaleza de inteligencia que evoluciona independientemente de los vertebrados. Con aproximadamente 500 millones de neuronas (más que la mayoría de los vertebrados de tamaño comparable), los pulpos han desarrollado capacidades cognitivas sofisticadas a pesar de su corta esperanza de vida, de uno a cinco años. Su inteligencia es fundamentalmente diferente a la de los mamíferos; está distribuido por todo su cuerpo en lugar de centralizado en su cerebro. Dos tercios de las neuronas de un pulpo están ubicadas en sus ocho brazos, lo que permite que cada brazo actúe de forma semiindependiente mientras mantiene la coordinación con el sistema nervioso central. Esta arquitectura neuronal única permite a los pulpos resolver problemas complejos y adaptarse rápidamente a nuevos entornos.",
+      "funFact": "Los pulpos tienen sangre azul debido a una proteína a base de cobre llamada hemocianina, que es más eficiente para transportar oxígeno en las frías profundidades del océano que la hemoglobina a base de hierro en la sangre humana."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Habilidades para resolver problemas",
+      "body": "Los experimentos de laboratorio han demostrado una notable capacidad de resolución de problemas en los pulpos. Pueden abrir frascos con tapas roscadas para acceder a la comida, navegar por laberintos y manipular rompecabezas de varias partes. Los pulpos han demostrado la capacidad de aprender mediante la observación, observando a otros pulpos resolver problemas y luego replicar esas soluciones. Pueden utilizar herramientas, como transportar cáscaras de coco para utilizarlas como refugios portátiles. En acuarios, se ha observado que los pulpos resuelven problemas de múltiples maneras, lo que sugiere que no se limitan a memorizar soluciones sino que comprenden genuinamente la mecánica de los diferentes desafíos. Su capacidad para aprender rápidamente y aplicar conocimientos de forma creativa supera la de muchos animales vertebrados.",
+      "imageUrl": "images/cards/octopus-jar.jpg",
+      "imageCaption": "Un pulpo manipula un frasco para acceder a la comida del interior."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Camuflaje y percepción visual",
+      "body": "Los pulpos poseen habilidades excepcionales para cambiar el color, el patrón y la textura de su piel en respuesta a su entorno. Esto sucede en milisegundos a través de células cutáneas especializadas llamadas cromatóforos, iridóforos y papilas. Sorprendentemente, los pulpos son daltónicos, pero aun así combinan los colores con una precisión sorprendente. Los científicos teorizan que pueden tener proteínas sensibles a la luz en la piel que funcionan independientemente de sus ojos, permitiéndoles percibir el color en todo el cuerpo. Esta notable habilidad va más allá del simple camuflaje: los pulpos pueden combinar no solo colores sino patrones y texturas específicos, lo que sugiere una comprensión profunda de su entorno visual y la capacidad de planificar y ejecutar disfraces complejos.",
+      "funFact": "Un pulpo puede cambiar de color en menos de un segundo, ¡pero biológicamente carece de las estructuras oculares necesarias para ver en color!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Personalidad e individualidad",
+      "body": "Los investigadores que trabajan con pulpos han documentado distintas diferencias de personalidad entre animales individuales. Algunos pulpos son audaces y exploradores, mientras que otros son tímidos y cautelosos. Algunos son agresivos y territoriales, mientras que otros son dóciles. Estos rasgos de personalidad permanecen consistentes a lo largo del tiempo e influyen en cómo cada individuo interactúa con su entorno y resuelve problemas. Se ha observado que los pulpos muestran curiosidad, alegría e incluso lo que parece diversión. En cautiverio, reconocen a los humanos individuales y los tratan de manera diferente según interacciones pasadas: algunos aceptan comida de sus cuidadores favoritos mientras la rechazan de otros. Esta evidencia de personalidad persistente y reconocimiento social indica un nivel de conciencia y autoconciencia.",
+      "imageUrl": "images/cards/octopus-personality.jpg",
+      "imageCaption": "Los pulpos muestran distintas personalidades y preferencias individuales."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Corta vida útil y limitaciones de aprendizaje",
+      "body": "A pesar de su notable inteligencia, los pulpos se enfrentan a una limitación biológica crítica: su corta esperanza de vida. La mayoría de las especies viven sólo de uno a cinco años, y algunas llegan hasta los quince años. Esto significa que los pulpos individuales deben adquirir todos sus conocimientos y habilidades dentro de este breve período. No tienen la ventaja de la enseñanza de sus padres o del aprendizaje entre pares a través de generaciones como muchas otras especies inteligentes. Los pulpos son animales en gran medida solitarios y no forman grupos sociales estables que puedan transmitir conocimientos entre individuos. Esto hace que su capacidad para resolver problemas novedosos y adaptarse a los desafíos ambientales sea aún más notable, lo que sugiere que su inteligencia está codificada en su propio sistema nervioso en lugar de desarrollarse a través de largos períodos de aprendizaje.",
+      "funFact": "Las madres pulpos mueren poco después de que sus huevos eclosionan y nunca ven a sus crías, ¡por lo que no es posible recibir instrucciones de los padres!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "El futuro de la investigación sobre el pulpo",
+      "body": "Los científicos continúan descubriendo los misterios de la cognición de los pulpos mediante métodos de investigación cada vez más sofisticados. Imágenes cerebrales avanzadas, estudios genéticos y experimentos de comportamiento están revelando los mecanismos neuronales subyacentes a su inteligencia. Los investigadores están investigando cómo los sistemas neuronales distribuidos pueden coordinarse para producir un comportamiento y una toma de decisiones tan sofisticados. El estudio de la inteligencia del pulpo tiene profundas implicaciones para nuestra comprensión de la conciencia y la naturaleza de la inteligencia misma. Al estudiar una forma de inteligencia que evolucionó de manera completamente independiente de la nuestra, obtenemos una perspectiva de lo que realmente es la inteligencia y descubrimos principios de cognición que pueden trascender cualquier arquitectura de sistema nervioso.",
+      "imageUrl": "images/cards/octopus-research.jpg",
+      "imageCaption": "Los científicos estudian el comportamiento de los pulpos para comprender la inteligencia distribuida"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Worlds in a Shell: Cognition in Cephalopods",
+      "author": "Mather, J. A., Kuba, M. J., and Byrne, R. A.",
+      "type": "journal",
+      "id": "src-1"
+    },
+    {
+      "title": "Other Minds: The Octopus and the Evolution of Intelligent Life",
+      "author": "Peter Godfrey-Smith",
+      "type": "book",
+      "id": "src-2"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-octopus-intelligence",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "fill_blank",
+        "questionText": "Un pulpo tiene aproximadamente _____ millones de neuronas.",
+        "correctAnswer": "500",
+        "explanation": "Los pulpos tienen alrededor de 500 millones de neuronas, aproximadamente dos tercios de ellas ubicadas en sus ocho brazos en lugar de en su cerebro central."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "Los pulpos son daltónicos, pero aun así pueden igualar los colores de su entorno con notable precisión.",
+        "correctAnswer": "true",
+        "explanation": "A pesar de ser daltónicos, los pulpos pueden cambiar de color para adaptarse a su entorno, posiblemente utilizando proteínas sensibles a la luz en su piel."
+      },
+      {
+        "id": "q3",
+        "type": "multiple_choice",
+        "questionText": "¿Dónde se encuentra la mayor parte del tejido neural de un pulpo?",
+        "options": [
+          "En el cerebro central",
+          "en los ojos",
+          "en los ocho brazos",
+          "Distribuido uniformemente por todo el cuerpo."
+        ],
+        "correctAnswer": "en los ocho brazos",
+        "explanation": "Aproximadamente dos tercios de los 500 millones de neuronas de un pulpo se encuentran en sus ocho brazos, lo que les permite actuar de forma semiindependiente."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál de los siguientes es un ejemplo del uso de herramientas del pulpo documentado por científicos?",
+        "options": [
+          "Usar piedras para abrir mariscos",
+          "Llevar cáscaras de coco para usarlas como refugios portátiles.",
+          "Creando redes a partir de algas",
+          "Usar piedras para construir muros"
+        ],
+        "correctAnswer": "Llevar cáscaras de coco para usarlas como refugios portátiles.",
+        "explanation": "Se ha observado que los pulpos llevan consigo cáscaras de coco como refugios defensivos portátiles, lo que representa uno de los ejemplos más claros del uso de herramientas en invertebrados."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "Los pulpos suelen tener una larga vida útil que les permite acumular conocimientos a lo largo de muchos años de aprendizaje.",
+        "correctAnswer": "false",
+        "explanation": "La mayoría de los pulpos viven sólo entre uno y cinco años, lo que les obliga a resolver problemas y adaptarse con un tiempo limitado para aprender y experimentar."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440002"
+  },
+  "publishedAt": "2026-04-03T00:00:00Z",
+  "createdAt": "2026-04-03T00:00:00Z",
+  "updatedAt": "2026-04-03T00:00:00Z"
+}

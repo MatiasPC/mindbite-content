@@ -1,0 +1,135 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440007",
+  "slug": "ancient-egypt-pyramids",
+  "title": "¿Cómo se construyeron las pirámides?",
+  "subtitle": "Maravillas de la ingeniería del mundo antiguo.",
+  "topicId": "history",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/ancient-egypt-pyramids.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El propósito y la importancia de las pirámides",
+      "body": "Las pirámides del antiguo Egipto eran tumbas monumentales construidas para faraones (reyes) y sus familias durante el Reino Antiguo (c. 2686-2181 a. C.) y períodos posteriores. Los egipcios creían en una vida futura y construyeron pirámides para preservar el cuerpo del faraón y proporcionar un lugar de descanso para el viaje del alma al reino eterno. Las pirámides demostraron el poder y la riqueza de un faraón. La pirámide más grande, la Gran Pirámide de Keops en Giza, fue construida alrededor del año 2560 a. C. utilizando aproximadamente 2,3 millones de bloques de piedra. Durante casi 4.000 años, siguió siendo la estructura construida por el hombre más alta de la Tierra. Las pirámides eran espacios sagrados llenos de elaboradas tallas, pinturas, estatuas y tesoros.",
+      "funFact": "La Gran Pirámide es una de las Siete Maravillas del Mundo Antiguo y la única que sigue en pie en la actualidad."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Extracción y transporte de piedras masivas",
+      "body": "La construcción de las pirámides requirió la extracción de bloques de piedra caliza y granito de canteras, algunas ubicadas lejos del sitio de construcción. Los trabajadores utilizaban herramientas de cobre y martillos de piedra para hacer surcos en la roca. Cuñas de madera, humedecidas para expandirse, parten la piedra. Los bloques más grandes pesaban 15 toneladas o más. Los trabajadores transportaban bloques en trineos de madera que eran arrastrados sobre suelo arenoso y arena húmeda, lo que reducía la fricción. La evidencia sugiere rampas, tal vez en espiral, en zigzag o lineales, que guían los bloques hacia arriba. El agua y los lubricantes facilitaron el movimiento. Miles de trabajadores, incluidos tanto empleados permanentes como trabajadores estacionales, coordinaron enormes esfuerzos logísticos. La infraestructura necesaria para la construcción de una pirámide demuestra capacidades organizativas sofisticadas.",
+      "imageUrl": "images/cards/pyramid-stone-quarry.jpg",
+      "imageCaption": "Trabajadores extrayendo y transportando enormes bloques de piedra para la construcción de pirámides"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Fuerza laboral y organización",
+      "body": "Contrariamente a la creencia popular, las pirámides no fueron construidas por esclavos. La evidencia arqueológica, incluidos asentamientos de trabajadores, graffitis y registros administrativos, revela que trabajadores remunerados, artesanos calificados y trabajadores estacionales construyeron pirámides. Los trabajadores se organizaron en equipos con líderes. Recibieron pagos en comida, cerveza y vivienda. La fuerza laboral de construcción incluía canteros, ingenieros, supervisores, obreros y personal de apoyo, incluidos panaderos y personal médico. La construcción de pirámides empleó a miles de personas durante décadas. Esta movilización laboral masiva fue posible gracias al gobierno centralizado de Egipto y la autoridad del faraón para controlar los recursos. Los descubrimientos arqueológicos de aldeas de trabajadores cerca de las pirámides revelan información detallada sobre sus vidas.",
+      "funFact": "Los trabajadores dejaron graffitis en bloques dentro de la Gran Pirámide, proporcionando nombres de grupos de trabajo y supervisores, dándonos una idea de sus identidades y organización."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Ingeniería y Precisión",
+      "body": "A pesar de carecer de instrumentos topográficos modernos, los ingenieros egipcios lograron una precisión extraordinaria. La base de la Gran Pirámide está nivelada con una precisión de unos pocos centímetros en toda su longitud de 755 pies. Los lados de la pirámide se alinean casi exactamente con los puntos cardinales. Los trabajadores utilizaron herramientas simples (plomadas, niveles, cuerdas de medición y dispositivos de ángulo recto) para garantizar la precisión. Emplearon geometría y conocimientos matemáticos. La estructura interna incluía cámaras, pasillos y sofisticados conductos de ventilación. La disposición de los bloques creó estructuras estables que distribuyeron el peso de manera efectiva. La ingeniería requería comprender las relaciones matemáticas, los principios estructurales y la resolución práctica de problemas. Esto demuestra la sofisticación intelectual de la civilización egipcia antigua.",
+      "imageUrl": "images/cards/pyramid-cross-section.jpg",
+      "imageCaption": "Sección transversal que muestra las cámaras internas y los pasajes de la Gran Pirámide."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "La controversia y los métodos de la rampa",
+      "body": "Los estudiosos continúan debatiendo cómo se elevaron los bloques a los niveles superiores. Las principales teorías incluyen rampas externas, rampas internas, sistemas de palancas y sistemas de poleas. La arqueología experimental ha probado varios métodos. Alguna evidencia sugiere que se utilizó un enfoque combinado. Las rampas habrían girado en espiral alrededor de la pirámide o ascendido en diagonal. La pendiente tendría que ser lo suficientemente gradual para que los trabajadores y los trineos pudieran manejarla. Estudios arqueológicos recientes han encontrado evidencia de posibles vías de rampa. Los trabajadores probablemente utilizaron palancas, rodillos y esfuerzos coordinados para mover bloques. El agua vertida sobre arena redujo sustancialmente la fricción. El método exacto puede haber variado a medida que avanzaba la construcción.",
+      "funFact": "La arqueología experimental moderna ha movido con éxito bloques de varias toneladas utilizando técnicas del antiguo Egipto, lo que confirma la viabilidad de sus métodos."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Legado y lecciones",
+      "body": "Las pirámides siguen siendo testimonio del ingenio, la determinación y la capacidad organizativa humana. Los antiguos egipcios lograron hazañas monumentales utilizando herramientas simples, conocimiento matemático y esfuerzo coordinado. Las pirámides albergaban diseños internos avanzados con cámaras ocultas, pasajes sellados y mecanismos. Su construcción requirió décadas de planificación, gestión de recursos y ejecución calificada. Comprender cómo se construyeron las pirámides revela capacidades de la civilización antigua a menudo subestimadas por la gente moderna. Las pirámides demuestran que los humanos pueden lograr cosas extraordinarias mediante la visión, la organización y la perseverancia. Estos monumentos continúan inspirando asombro y brindando información sobre la ingeniería, las matemáticas, la religión y la sociedad del antiguo Egipto.",
+      "funFact": "La cantidad de piedra en la Gran Pirámide equivale aproximadamente a 2,3 millones de bloques, cada uno de los cuales requiere extracción individual, transporte y colocación precisa."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Complete Pyramids",
+      "author": "Mark Lehner",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "How the Great Pyramid Was Built",
+      "author": "Craig B. Smith",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Ancient Egypt",
+      "author": "Zahi Hawass",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-pyramids-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿La Gran Pirámide de Keops se construyó hace aproximadamente cuántos años?",
+        "options": [
+          "Hace 2.000 años",
+          "Hace 4.500 años",
+          "Hace 6.000 años",
+          "Hace 8.000 años"
+        ],
+        "correctAnswer": "Hace 4.500 años",
+        "explanation": "La Gran Pirámide fue construida alrededor del año 2560 a. C., hace aproximadamente 4.500 años durante el Reino Antiguo de Egipto."
+      },
+      {
+        "id": "q2",
+        "type": "fill_blank",
+        "questionText": "La Gran Pirámide de Keops está compuesta por aproximadamente _______ millones de bloques de piedra, cada uno de los cuales pesa varias toneladas.",
+        "correctAnswer": "2.3",
+        "explanation": "La Gran Pirámide contiene aproximadamente 2,3 millones de bloques de piedra, lo que demuestra la enorme escala del proyecto de construcción."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "La evidencia arqueológica muestra que las pirámides fueron construidas por personas esclavizadas y no por trabajadores remunerados.",
+        "correctAnswer": "false",
+        "explanation": "La evidencia de los asentamientos de trabajadores, los registros y los grafitis muestra que los trabajadores remunerados, los artesanos calificados y los trabajadores estacionales construyeron pirámides, no esclavos."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál fue el propósito principal de la construcción de las pirámides de Egipto?",
+        "options": [
+          "Servir como templos para ceremonias religiosas.",
+          "Para demostrar la riqueza y el poder del faraón.",
+          "Servir de tumbas a los faraones y preparación para el más allá.",
+          "Funcionar como observatorios astronómicos"
+        ],
+        "correctAnswer": "Servir de tumbas a los faraones y preparación para el más allá.",
+        "explanation": "Las pirámides eran tumbas monumentales construidas para preservar el cuerpo del faraón y servir como lugares de descanso para el viaje del alma al más allá."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "La arqueología experimental moderna ha probado con éxito técnicas del antiguo Egipto para mover grandes bloques de piedra.",
+        "correctAnswer": "true",
+        "explanation": "Los arqueólogos han realizado experimentos que confirman que los métodos del antiguo Egipto que utilizaban palancas, agua, rodillos y esfuerzos coordinados podían mover bloques de varias toneladas de manera efectiva."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440007"
+  },
+  "publishedAt": "2026-04-13T00:00:00Z",
+  "createdAt": "2026-04-13T00:00:00Z",
+  "updatedAt": "2026-04-13T00:00:00Z"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440008",
+  "slug": "the-marshmallow-test",
+  "title": "La prueba del malvavisco",
+  "subtitle": "Gratificación retrasada y éxito a largo plazo",
+  "topicId": "psychology",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-marshmallow-test.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El experimento clásico",
+      "body": "La prueba del malvavisco de Walter Mischel, realizada en Stanford a finales de la década de 1960, se convirtió en uno de los experimentos más famosos de la psicología. A los niños de cuatro a seis años se les presentó un malvavisco y se les dijo que podían comérselo inmediatamente o esperar quince minutos y recibir dos malvaviscos. Luego el experimentador abandonó la habitación. Las estrategias de los niños para resistir la tentación iban desde taparse los ojos hasta hablar solos. Alrededor del treinta por ciento esperó con éxito la recompensa. Esta sencilla prueba parecía medir el autocontrol, un rasgo que algunos investigadores consideraban fundamental para el éxito futuro. El experimento capturó la imaginación del público y sugirió que el autocontrol infantil predecía los logros de la vida.",
+      "funFact": "Algunos niños evaluados crearon elaboradas estrategias de distracción, como cantar canciones o cubrirse los ojos para evitar mirar el tentador malvavisco."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "El seguimiento longitudinal",
+      "body": "El equipo de Mischel siguió a los participantes de la prueba de malvaviscos hasta la edad adulta y descubrió que aquellos que esperaron obtuvieron mejores resultados: puntuaciones más altas en el SAT, menor IMC, mejor manejo del estrés y mejor planificación financiera. La correlación entre el autocontrol infantil y el éxito en la edad adulta parecía establecida. Este hallazgo influyó en la política educativa y el asesoramiento para padres a nivel mundial. La idea se volvió generalizada: el autocontrol es más importante que otros factores para el éxito a largo plazo. Los padres y educadores se centraron cada vez más en desarrollar la capacidad de los niños para retrasar la gratificación. La prueba del malvavisco se convirtió en un símbolo de la autodisciplina como clave para el logro, ampliamente citado en la psicología popular y la literatura empresarial.",
+      "imageUrl": "images/marshmallow-outcomes.jpg",
+      "imageCaption": "Las primeras investigaciones parecieron mostrar un fuerte valor predictivo"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Reexamen crítico",
+      "body": "Investigaciones recientes han complicado significativamente la historia de la prueba del malvavisco. Un estudio de replicación de 2018 controló los factores socioeconómicos que no se tuvieron en cuenta en la investigación original. Al controlar el ingreso familiar, la educación de los padres y el ambiente hogareño, la correlación entre el retraso de la gratificación en la niñez y los resultados en la edad adulta desaparecieron en gran medida. Los niños de entornos más ricos esperaron más, no porque tuvieran un autocontrol superior, sino porque habían aprendido por experiencia que las recompensas retrasadas eran fiables. Los niños de entornos económicamente inseguros aceptaron racionalmente recompensas inmediatas, habiendo aprendido que las promesas retrasadas son menos dignas de confianza. Esta reinterpretación cambió fundamentalmente la forma en que los psicólogos entienden la prueba.",
+      "imageUrl": "images/marshmallow-socioeconomic.jpg"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Contexto y confianza",
+      "body": "El entendimiento revisado enfatiza que la prueba del malvavisco mide la confianza y las expectativas aprendidas tanto como el autocontrol. Los niños que crecieron experimentando promesas incumplidas racionalmente no esperan: saben por experiencia vivida que las recompensas futuras son inciertas. Los niños de ambientes estables y confiables confían en la promesa del experimentador. Esto refleja una adaptación a las circunstancias de la vida más que una deficiencia de carácter. Un niño que inmediatamente toma el malvavisco podría demostrar una toma de decisiones económicas racional dada su historia. Esta idea se extiende más allá de la prueba del malvavisco: lo que parece un control deficiente de los impulsos a menudo refleja respuestas racionales a entornos inestables. Comprender estos factores contextuales evita atribuir erróneamente la pobreza y la desigualdad a defectos de carácter personal.",
+      "imageUrl": "images/trust-context.jpg"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Implicaciones para la educación y las políticas",
+      "body": "La comprensión revisada de la prueba del malvavisco tiene implicaciones importantes. Asumir que los resultados de la vida de los niños dependen principalmente del autocontrol ignora las barreras estructurales y los factores ambientales. Las políticas educativas que enfatizan la fuerza de voluntad sin abordar la pobreza resultan insuficientes. Apoyar el éxito a largo plazo de los niños requiere prestar atención a la estabilidad económica, relaciones confiables e instituciones confiables, no solo capacitación en autodisciplina. La investigación reexaminada sugiere que generar estabilidad ambiental y confianza es más efectivo que decirles repetidamente a los niños que \"simplemente esperen\". Esta perspectiva alienta a abordar las causas profundas de la desigualdad en lugar de culpar a los individuos por no tener más fuerza de voluntad. El verdadero apoyo al éxito requiere tanto del desarrollo individual como del cambio ambiental.",
+      "funFact": "La transformación de la prueba del malvavisco de una simple medida de autocontrol a un estudio complejo de la confianza y el contexto refleja una evolución más amplia en la psicología hacia el reconocimiento de los factores ambientales."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Mischel, W. (1989). Personality and Assessment. Lawrence Erlbaum Associates.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the Marshmallow Test: A conceptual replication investigating links between early delay of gratification and later outcomes. Psychological Science, 29(7), 1159-1177.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-marshmallow-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Quién realizó los experimentos originales de prueba del malvavisco en Stanford?",
+        "options": [
+          "BF Skinner",
+          "Walter Mischel",
+          "Alberto Bandura",
+          "Carol Dweck"
+        ],
+        "correctAnswer": "Walter Mischel",
+        "explanation": "Walter Mischel llevó a cabo los famosos experimentos de prueba con malvaviscos a finales de los años 60 en la Universidad de Stanford."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "En la prueba original del malvavisco, aproximadamente el 30% de los niños esperaron con éxito quince minutos para recibir la recompensa mayor.",
+        "correctAnswer": "true",
+        "explanation": "Alrededor del 30% de los niños de 4 a 6 años pudieron esperar los quince minutos completos para recibir dos malvaviscos en lugar de comer uno inmediatamente."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué factor identificó el estudio de replicación de 2018 que la investigación original no había tenido en cuenta adecuadamente?",
+        "options": [
+          "La edad y el sexo de los niños.",
+          "El color y tamaño de los malvaviscos.",
+          "Estado socioeconómico y antecedentes familiares.",
+          "La apariencia del experimentador."
+        ],
+        "correctAnswer": "Estado socioeconómico y antecedentes familiares.",
+        "explanation": "La réplica de 2018 encontró que, al controlar los factores socioeconómicos, la correlación entre el retraso de la gratificación en la infancia y los resultados en la edad adulta desaparecían en gran medida."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "Investigaciones recientes sugieren que la prueba del malvavisco mide _______ y las expectativas aprendidas tanto como el autocontrol.",
+        "correctAnswer": "confianza",
+        "explanation": "La disposición de los niños a esperar depende de si han aprendido por experiencia que las recompensas retrasadas son fiables y dignas de confianza."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "Los niños de entornos económicamente inseguros que tomaron el malvavisco inmediatamente probablemente demostraron poco autocontrol en lugar de una toma de decisiones racional.",
+        "correctAnswer": "false",
+        "explanation": "Esto es falso. Investigaciones recientes sugieren que estos niños estaban demostrando una toma de decisiones económicas racional basada en la experiencia adquirida de que las promesas retrasadas son menos confiables."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440008"
+  },
+  "publishedAt": "2026-04-15T00:00:00Z",
+  "createdAt": "2026-04-15T00:00:00Z",
+  "updatedAt": "2026-04-15T00:00:00Z"
+}

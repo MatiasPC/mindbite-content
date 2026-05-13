@@ -1,0 +1,9 @@
+{
+  "id": "history",
+  "name": "Historia",
+  "slug": "history",
+  "emoji": "📜",
+  "colorHex": "#D97706",
+  "description": "Historias que dieron forma al mundo",
+  "sortOrder": 3
+}

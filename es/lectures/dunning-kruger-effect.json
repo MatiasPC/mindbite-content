@@ -1,0 +1,119 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440005",
+  "slug": "dunning-kruger-effect",
+  "title": "El efecto Dunning-Kruger",
+  "subtitle": "Por qué la incompetencia a menudo genera exceso de confianza",
+  "topicId": "psychology",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/dunning-kruger-effect.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Comprender el efecto Dunning-Kruger",
+      "body": "El efecto Dunning-Kruger es un sesgo cognitivo en el que las personas con conocimientos o habilidades limitados sobreestiman su competencia. En su estudio de 1999, Dunning y Kruger descubrieron que aquellos que obtenían las puntuaciones más bajas en pruebas de competencia calificaban sus habilidades como las más altas. Mientras tanto, los individuos altamente competentes subestimaron su desempeño, asumiendo que otros se desempeñaban de manera similar. Este patrón paradójico se produce porque la falta de experiencia impide una autoevaluación precisa: no sabes lo que no sabes. El efecto tiene profundas implicaciones para el desempeño en el lugar de trabajo, la toma de decisiones y las relaciones interpersonales en numerosos ámbitos.",
+      "funFact": "El efecto quedó demostrado cuando Justin Kruger y David Dunning pidieron a los participantes que calificaran su humor y descubrieron que las personas menos divertidas pensaban que eran hilarantes."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "El problema metacognitivo",
+      "body": "La metacognición (la capacidad de evaluar con precisión sus propios conocimientos y habilidades) requiere saber cómo es la competencia. Los principiantes carecen de este conocimiento, lo que hace imposible una autoevaluación precisa. Un programador novato no reconoce lo que implica la calidad del código profesional, por lo que sobreestima sus habilidades. A medida que alguien desarrolla experiencia, se da cuenta de cuánto existe más allá de su conocimiento actual, lo que lleva a autoevaluaciones más precisas y, a menudo, humildes. Esto crea la curva característica: la competencia es más baja cuando la capacidad metacognitiva no está disponible. Esto explica por qué los profesionales experimentados a menudo expresan dudas: comprenden la complejidad de su campo.",
+      "imageUrl": "images/dunning-kruger-curve.jpg",
+      "imageCaption": "La confianza alcanza su punto máximo antes de que la competencia comience a aumentar"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Manifestaciones del mundo real",
+      "body": "El efecto Dunning-Kruger aparece en muchos contextos. Los conductores inexpertos sobreestiman sus capacidades, lo que se correlaciona con mayores tasas de accidentes. Los estudiantes a menudo sobreestiman el desempeño en los exámenes antes de recibir los resultados. Los nuevos directivos frecuentemente sobreestiman sus capacidades de liderazgo. Las personas hacen autodiagnósticos médicos seguros basándose en investigaciones en Internet. Los principiantes en criptomonedas predicen con confianza los movimientos del mercado. Las redes sociales alimentan el efecto al permitir plataformas amplias a individuos no calificados. Cada dominio muestra el mismo patrón: los estudiantes en las primeras etapas muestran una confianza inflada, mientras que los expertos reconocen sus limitaciones y oportunidades de crecimiento.",
+      "imageUrl": "images/dunning-kruger-domains.jpg"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "La fase de mejora",
+      "body": "A medida que las personas adquieren experiencia y desarrollan conocimientos, se producen varios cambios positivos. La confianza inicial disminuye a medida que reconocen la complejidad y sus limitaciones. Desarrollan una autoevaluación más precisa. Las habilidades metacognitivas mejoran, lo que permite una evaluación realista de sus conocimientos y habilidades. Esto a menudo produce la apariencia de perder confianza, pero en realidad es una autopercepción más precisa. La mejora continua eventualmente aumenta la competencia genuina por encima de las estimaciones infladas iniciales. Las personas que superan esta fase incómoda (en la que se dan cuenta de lo mucho que no saben) se vuelven verdaderamente competentes. Este viaje desde la confianza ignorante hasta la experiencia humilde requiere perseverancia y apertura.",
+      "imageUrl": "images/skill-development.jpg"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Manejar y superar el efecto",
+      "body": "Reconocer el efecto Dunning-Kruger en uno mismo y en los demás mejora la toma de decisiones y la eficacia interpersonal. Busque comentarios de personas más experimentadas para calibrar la autoevaluación. Estudie a expertos en su campo para comprender cómo es realmente la competencia. Acepte desafíos que revelen lagunas de conocimiento. Bienvenidas las críticas como información valiosa. Al contratar o evaluar a otros, reconozca que los candidatos excepcionales pueden parecer menos seguros que los mediocres. Las organizaciones que reconocen este sesgo crean mejores programas de capacitación y evaluaciones de desempeño más realistas. El crecimiento personal requiere aceptar que cuanto más aprende, menos seguro se vuelve, y eso es progreso.",
+      "funFact": "La investigación de Dunning y Kruger ha sido tan ampliamente discutida que muchas personas ahora sobreestiman cuánto se aplica el efecto Dunning-Kruger a otros."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121-1134.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Dunning, D. (2011). The Dunning-Kruger Effect: On Being Ignorant of One's Own Ignorance. Advances in Experimental Social Psychology.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-dunning-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "Según la investigación de Dunning y Kruger, ¿quién tiende a sobreestimar sus habilidades de manera más significativa?",
+        "options": [
+          "Personas altamente capacitadas",
+          "Personas con habilidades moderadas.",
+          "Aquellos con menor competencia en un dominio.",
+          "Profesionales expertos"
+        ],
+        "correctAnswer": "Aquellos con menor competencia en un dominio.",
+        "explanation": "El efecto Dunning-Kruger muestra que aquellos con menor competencia tienden a calificarse a sí mismos como los más altos porque carecen del conocimiento para reconocer lo que no saben."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Los expertos suelen sobrestimar su competencia porque entienden todo lo que hay que saber en su campo.",
+        "correctAnswer": "false",
+        "explanation": "Esto es falso. Los expertos suelen subestimar su competencia porque reconocen todo el alcance y la complejidad de su campo, sabiendo cuánto más queda por aprender."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué es la metacognición, como se analiza en el contexto del efecto Dunning-Kruger?",
+        "options": [
+          "Pensando en pensar",
+          "La capacidad de evaluar con precisión sus propios conocimientos y habilidades.",
+          "La tendencia a compararse con los demás.",
+          "Comprender las emociones de los demás"
+        ],
+        "correctAnswer": "La capacidad de evaluar con precisión sus propios conocimientos y habilidades.",
+        "explanation": "La metacognición es la capacidad de evaluar la propia competencia, algo de lo que carecen los principiantes, por lo que no pueden evaluar con precisión sus habilidades."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "El efecto Dunning-Kruger se produce porque no sabes lo que _______, lo que hace imposible una autoevaluación precisa.",
+        "correctAnswer": "no lo sé",
+        "explanation": "Una idea clave del efecto es que la incompetencia impide la conciencia de la incompetencia: no se pueden reconocer las lagunas de conocimiento cuando se ignoran esas áreas."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "A medida que las personas desarrollan experiencia en un campo, su confianza en sí mismas suele permanecer alta y estable.",
+        "correctAnswer": "false",
+        "explanation": "Esto es falso. A medida que se desarrolla la experiencia, el exceso de confianza inicial generalmente disminuye antes de que aumente la competencia genuina, creando un valle donde los expertos parecen menos seguros que los principiantes."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440005"
+  },
+  "publishedAt": "2026-04-09T00:00:00Z",
+  "createdAt": "2026-04-09T00:00:00Z",
+  "updatedAt": "2026-04-09T00:00:00Z"
+}

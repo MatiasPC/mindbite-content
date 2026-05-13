@@ -1,0 +1,130 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440004",
+  "slug": "migration-of-monarchs",
+  "title": "La migración de la mariposa monarca",
+  "subtitle": "El viaje más notable en el reino animal",
+  "topicId": "nature-animals",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/migration-of-monarchs.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Un viaje épico a través del continente",
+      "body": "Cada otoño, aproximadamente 100 millones de mariposas monarca se embarcan en un viaje que abarca más de 3.000 kilómetros (1.900 millas) desde Canadá y el norte de Estados Unidos hasta bosques remotos en el centro de México. Esta migración es una de las mayores maravillas de la naturaleza; sin embargo, las monarcas individuales pesan menos de un gramo y viven sólo de 8 a 10 meses. Las mariposas que realizan este viaje son la última generación nacida antes del invierno y poseen características físicas y de comportamiento dramáticamente diferentes a las de las tres generaciones anteriores nacidas ese año. Estas monarcas de 'supergeneración' viven seis veces más y deben navegar utilizando señales que sus ancestros nunca necesitaron. Ninguna monarca individual ha completado nunca antes esta migración de ida y vuelta; el conocimiento debe estar codificado en su genética.",
+      "funFact": "Una sola mariposa monarca pesa menos de un gramo y, sin embargo, viaja 3.000 millas, ¡lo que equivale a una persona que lleva un automóvil a la espalda!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Señales ambientales y de navegación",
+      "body": "Las mariposas monarca utilizan múltiples estrategias de navegación para encontrar su camino hacia bosques específicos que nunca han visitado. Poseen una sofisticada brújula interna que utiliza la posición del sol como referencia, ajustándose a la hora del día. Los campos magnéticos proporcionan señales de navegación adicionales, y las monarcas tienen proteínas magnetorreceptoras que les permiten sentir el campo magnético de la Tierra. También responden a marcadores ambientales, incluido el ángulo de polarización de la luz en el cielo. Las investigaciones sugieren que las monarcas pueden utilizar el reconocimiento de puntos de referencia y la memoria visual de características geográficas. El aspecto notable es que este conocimiento de navegación no se aprende: es innato y está codificado genéticamente. Los científicos continúan estudiando cómo se almacena información de navegación tan compleja en el diminuto cerebro de la monarca.",
+      "imageUrl": "images/cards/monarch-navigation.jpg",
+      "imageCaption": "Las monarcas utilizan el sol y el campo magnético de la Tierra para navegar"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Los Santuarios Mexicanos",
+      "body": "Las monarcas pasan el invierno en una pequeña zona del centro de México, principalmente en el estado de Michoacán, en reservas forestales entre 2.400 y 3.600 metros de altitud. Los bosques allí proporcionan el microclima ideal: lo suficientemente frío como para reducir el metabolismo y prolongar la vida útil, pero no tan frío como para ser letal. Los árboles de oyamel (Abies religiosa) crean un dosel que brinda refugio contra el viento y las precipitaciones y al mismo tiempo permite filtrar la luz del sol. Decenas de millones de monarcas se agrupan en estos bosques, creando un espectáculo visual con ramas y troncos de árboles completamente cubiertos de mariposas. Los bosques sirven como caldo de cultivo cuando las monarcas emergen en primavera, y las plantas de algodoncillo proporcionan alimento esencial para las orugas. Estos santuarios son cruciales para la supervivencia de las monarcas, aunque ocupan un área más pequeña que la Ciudad de México.",
+      "funFact": "Las reservas de monarca en México cubren menos de 6.000 hectáreas, ¡un área más pequeña que la ciudad de Washington, D.C.!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "El fenómeno de la supergeneración",
+      "body": "La última generación de monarcas nacidas en verano sufre una transformación notable en comparación con las generaciones anteriores. Las monarcas de verano viven de 2 a 6 semanas, mientras que la \"supergeneración\" vive de 6 a 8 meses. Esta prolongación de la vida va acompañada de cambios en el metabolismo, la composición corporal y la madurez reproductiva. Las monarcas de supergeneración tienen una coloración más oscura y alas más compactas. Sus cerebros se desarrollan de manera diferente, con un mayor desarrollo neuronal en áreas asociadas con la navegación y la memoria. Los niveles hormonales difieren significativamente, lo que suprime la reproducción para conservar energía para la migración. Los científicos creen que estos cambios son provocados por la disminución de la duración del día y las temperaturas más frías a finales del verano. Los mecanismos genéticos que producen cambios fisiológicos tan dramáticos en una misma especie representan uno de los sistemas adaptativos más elegantes de la naturaleza.",
+      "imageUrl": "images/cards/monarch-generations.jpg",
+      "imageCaption": "Las monarcas de verano y las de la supergeneración muestran diferencias dramáticas"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Requisitos de combustible y lugares de escala",
+      "body": "Las monarcas deben obtener importantes reservas de grasa corporal para sobrevivir a su viaje. Los músculos de sus alas contienen lípidos que se consumen durante el vuelo y deben repostar con frecuencia durante la migración. Las mariposas dependen del néctar de las flores silvestres a lo largo de su ruta migratoria, particularmente en Texas y México. La pérdida de plantas de algodoncillo (su fuente de alimento para las orugas) y de flores de néctar debido al desarrollo agrícola ha afectado gravemente las tasas de supervivencia de las monarcas. Los sitios de escala cruciales en Texas han disminuido debido a la conversión del paisaje. Durante la migración, las monarcas enfrentan numerosos peligros, incluidos los depredadores, el clima adverso y el hambre. Una sola parada para repostar combustible podría determinar si una mariposa sobrevive para llegar a los santuarios mexicanos. La conservación de las plantas productoras de néctar a lo largo de las rutas migratorias es esencial para la supervivencia de la monarca.",
+      "funFact": "¡Una monarca debe consumir el equivalente al 100% de su peso corporal en néctar para completar su migración!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Desafíos de conservación y cambio climático",
+      "body": "Las poblaciones de monarcas han disminuido más del 80% en las últimas décadas debido a la pérdida de hábitat, el uso de pesticidas y el cambio climático. La pérdida de plantas de algodoncillo, su única fuente de alimento como orugas, es particularmente devastadora. El uso generalizado de herbicidas con glifosato ha eliminado el algodoncillo de las zonas agrícolas. El cambio climático amenaza a las monarcas de múltiples maneras: los fenómenos meteorológicos extremos durante la migración matan a miles de personas, las primaveras más tempranas interrumpen la sincronización entre las monarcas y la floración del algodoncillo, y los inviernos más cálidos reducen su latencia inducida por el frío. Las propias reservas forestales mexicanas enfrentan amenazas por la tala y el cambio climático. Los esfuerzos de conservación incluyen proteger los corredores migratorios, restaurar el hábitat del algodoncillo en América del Norte y preservar los santuarios forestales mexicanos. La cooperación internacional es esencial, ya que las necesidades de los monarcas abarcan tres países.",
+      "imageUrl": "images/cards/monarch-conservation.jpg",
+      "imageCaption": "Restaurar el hábitat del algodoncillo es crucial para la conservación de la monarca"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Monarch Butterfly: Biology and Conservation",
+      "author": "Oberhauser, K. S., and Solensky, M. J.",
+      "type": "journal",
+      "id": "src-1"
+    },
+    {
+      "title": "Monarchs and Milkweed: A Migrating Butterfly, a Poisonous Plant, and Their Remarkable Story of Coevolution",
+      "author": "Anurag Agrawal",
+      "type": "book",
+      "id": "src-2"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-migration-of-monarchs",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "fill_blank",
+        "questionText": "Las mariposas monarca migran más de _____ kilómetros desde Canadá a México.",
+        "correctAnswer": "3000",
+        "explanation": "La migración de la monarca se extiende por más de 3.000 kilómetros (1.900 millas) desde las zonas de reproducción del norte hasta los sitios de invernada en México."
+      },
+      {
+        "id": "q2",
+        "type": "multiple_choice",
+        "questionText": "¿Qué es la 'supergeneración' de monarcas?",
+        "options": [
+          "Mariposas más grandes que comen más néctar",
+          "La última generación nacida antes del invierno que vive entre 6 y 8 meses.",
+          "Monarcas que migran dos veces en un solo año",
+          "Monarcas masculinos que defienden el territorio"
+        ],
+        "correctAnswer": "La última generación nacida antes del invierno que vive entre 6 y 8 meses.",
+        "explanation": "La supergeneración es la última generación de verano que sufre cambios fisiológicos que les permiten vivir de 6 a 8 meses en lugar de las típicas 2 a 6 semanas."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "Las mariposas monarca individuales realizan la migración de ida y vuelta varias veces a lo largo de su vida.",
+        "correctAnswer": "false",
+        "explanation": "Cada monarca sólo completa un tramo del viaje migratorio. Las monarcas de primavera migran al norte en busca de zonas de reproducción, mientras que las de otoño migran al sur, a México."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Cómo navegan las mariposas monarca principalmente hacia México?",
+        "options": [
+          "Siguiendo a otras mariposas",
+          "Por hitos y memoria",
+          "Usando el sol como brújula y el campo magnético de la Tierra",
+          "Siguiendo los gradientes de temperatura estacionales"
+        ],
+        "correctAnswer": "Usando el sol como brújula y el campo magnético de la Tierra",
+        "explanation": "Las monarcas utilizan una sofisticada brújula interna basada en la posición del sol y el campo magnético de la Tierra, ajustándose a la hora del día."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "La pérdida de plantas de algodoncillo ha tenido un impacto negativo significativo en las poblaciones de mariposas monarca.",
+        "correctAnswer": "true",
+        "explanation": "El algodoncillo es la única planta alimenticia de las orugas monarca. El uso generalizado de herbicidas y el desarrollo agrícola han reducido drásticamente la disponibilidad de algodoncillo y contribuido a la disminución de la población de monarca."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440004"
+  },
+  "publishedAt": "2026-04-07T00:00:00Z",
+  "createdAt": "2026-04-07T00:00:00Z",
+  "updatedAt": "2026-04-07T00:00:00Z"
+}

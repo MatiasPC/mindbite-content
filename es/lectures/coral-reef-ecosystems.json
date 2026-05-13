@@ -1,0 +1,130 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440005",
+  "slug": "coral-reef-ecosystems",
+  "title": "Ecosistemas de arrecifes de coral",
+  "subtitle": "Los bosques tropicales del mar y su importancia ecológica",
+  "topicId": "nature-animals",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/coral-reef-ecosystems.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "La estructura viva",
+      "body": "Los arrecifes de coral se encuentran entre los ecosistemas con mayor biodiversidad de la Tierra, a menudo comparados con las selvas tropicales por su riqueza ecológica. La estructura del arrecife está formada por corales pétreos, que en realidad son colonias de animales diminutos llamados pólipos. Cada pólipo es una anémona en miniatura que construye un esqueleto de piedra caliza. Millones de pólipos trabajan juntos para construir la arquitectura tridimensional que proporciona hábitat a miles de otras especies. Los corales exhiben una colaboración notable, y algunas especies forman eventos de desove sincronizados donde miles de colonias liberan óvulos y esperma simultáneamente en la misma noche cada año. Este logro arquitectónico se ve realzado por la relación simbiótica entre los corales y las zooxantelas, algas fotosintéticas que viven dentro de los tejidos de los corales. Estas algas proporcionan hasta el 90% de la energía del coral a través de la fotosíntesis, lo que le permite prosperar en aguas tropicales pobres en nutrientes.",
+      "funFact": "Los corales desovan la misma noche cada año en eventos sincronizados que duran sólo unas pocas horas, ¡lo que garantiza las máximas posibilidades de fertilización!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Biodiversidad más allá de la imaginación",
+      "body": "Los arrecifes de coral cubren menos del 0,1% del fondo del océano, pero albergan aproximadamente el 25% de todas las especies de peces marinos conocidas. Los investigadores estiman que más de un millón de especies dependen de los arrecifes de coral para alimentarse y refugiarse, aunque sólo una fracción ha sido descrita científicamente. Cada cabeza de coral alberga su propio microecosistema con algas, esponjas, crustáceos y peces. Sólo la Gran Barrera de Coral contiene más de 1.500 especies de peces, 400 especies de coral y miles de otros organismos. La biodiversidad de los arrecifes es el resultado de las condiciones ambientales tropicales estables y de la estructura tridimensional del hábitat proporcionada por los corales. Las complejas redes alimentarias conectan a depredadores y presas en múltiples niveles tróficos. Los organismos crípticos que se esconden dentro de las colonias de coral incluyen algunas de las criaturas más venenosas de la Tierra, pero muchos siguen sin ser descubiertos por la ciencia. Esta extraordinaria biodiversidad ha convertido a los arrecifes de coral en centros de investigación científica durante décadas.",
+      "imageUrl": "images/cards/coral-biodiversity.jpg",
+      "imageCaption": "Los arrecifes de coral albergan innumerables especies en complejas redes alimentarias"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "La simbiosis de las zooxantelas",
+      "body": "La relación entre los corales y las zooxantelas (algas fotosintéticas) es una de las asociaciones simbióticas más elegantes de la naturaleza. Las zooxantelas viven dentro de las células de los pólipos de coral y realizan la fotosíntesis utilizando la luz solar que penetra en el agua. Las algas producen azúcares a través de la fotosíntesis que nutren al animal coralino. A cambio, el coral proporciona protección a las zooxantelas, acceso a la luz solar y productos de desecho de nitrógeno y fósforo que sirven como nutrientes para el crecimiento de las algas. Esta íntima asociación permite que los corales prosperen en aguas tropicales pobres en nutrientes, ya que las algas fabrican nutrientes esenciales. Sin embargo, esta relación también hace que los corales sean vulnerables al blanqueamiento de los corales. Cuando la temperatura del agua aumenta o la luz es excesiva, los corales expulsan sus zooxantelas, perdiendo su principal fuente de energía. Si las zooxantelas no se restablecen en unas semanas, el coral muere. El cambio climático ha hecho que los fenómenos de blanqueamiento sean cada vez más frecuentes y graves.",
+      "funFact": "¡Las zooxantelas producen hasta el 90% de las necesidades energéticas de un coral a través de la fotosíntesis!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Estructura trófica y redes alimentarias",
+      "body": "Las redes alimentarias de los arrecifes de coral son extraordinariamente complejas y la energía fluye a través de múltiples vías. Las zooxantelas y las algas del césped forman la base de la red alimentaria y producen energía a través de la fotosíntesis. Los peces herbívoros y los erizos de mar consumen algas, controlando su crecimiento que de otro modo asfixiaría a los corales. Los peces pequeños y los invertebrados se alimentan de zooplancton y detritos. Los peces depredadores más grandes cazan peces e invertebrados más pequeños. Los superdepredadores, como los tiburones, regulan las poblaciones de niveles tróficos inferiores mediante un control de arriba hacia abajo. La complejidad de las redes alimentarias de los arrecifes proporciona estabilidad y resiliencia: si una especie disminuye, vías alternativas permiten que la energía fluya a través de diferentes especies. Sin embargo, la sobrepesca de los principales depredadores ha desestabilizado muchos arrecifes, lo que ha dado lugar a cascadas tróficas donde las poblaciones de herbívoros explotan, abrumando el ecosistema del arrecife. Esto demuestra cuán crucial es la diversidad funcional para la estabilidad de los ecosistemas.",
+      "imageUrl": "images/cards/reef-food-web.jpg",
+      "imageCaption": "Las redes alimentarias complejas mantienen el equilibrio del ecosistema de arrecifes"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Servicios ecológicos y dependencia humana",
+      "body": "Los arrecifes de coral brindan servicios ecosistémicos invaluables a las sociedades humanas. Aproximadamente 500 millones de personas en todo el mundo dependen de los ecosistemas de arrecifes de coral para alimentarse, y muchas de ellas dependen de los peces de arrecife como su principal fuente de proteínas. Sólo la Gran Barrera de Coral aporta más de 50 mil millones de dólares anuales a la economía mundial a través del turismo, la pesca y el desarrollo farmacéutico. Los compuestos de los arrecifes han producido medicamentos para el cáncer, la artritis y otras enfermedades. Los arrecifes de coral protegen las costas de las tormentas y los daños de las olas, reduciendo la erosión y el riesgo de inundaciones. Los hábitats de cría en los arrecifes sustentan las etapas juveniles de especies de peces de importancia comercial. La biodiversidad de los arrecifes ofrece potencial para futuras aplicaciones biotecnológicas. Sin embargo, estos servicios ecosistémicos están cada vez más amenazados por el cambio climático, la contaminación, la sobrepesca y las enfermedades de los corales. La pérdida de incluso un sistema de arrecifes impacta las economías regionales y la biodiversidad global.",
+      "funFact": "¡El turismo de arrecifes de coral genera más de 50 mil millones de dólares anuales para la economía mundial!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Amenazas y conservación",
+      "body": "Los arrecifes de coral enfrentan desafíos sin precedentes debido a múltiples factores estresantes. El cambio climático provoca un calentamiento de la temperatura del agua que desencadena eventos de blanqueamiento de corales, que ahora ocurren con una frecuencia alarmante. La acidificación de los océanos, causada por una mayor absorción de CO2, debilita los esqueletos de coral y reduce las tasas de calcificación. La contaminación procedente de la escorrentía agrícola aumenta los niveles de nutrientes, lo que promueve el crecimiento excesivo de algas que asfixia a los corales. La sobrepesca elimina peces herbívoros y depredadores superiores, desestabilizando los ecosistemas de arrecifes. El daño físico causado por prácticas de pesca destructivas, anclas e impactos de embarcaciones rompe las estructuras de coral. Las enfermedades de los corales, probablemente amplificadas por el calentamiento y el estrés, se propagan entre las poblaciones de arrecifes. Los científicos estiman que el 50% de los arrecifes de coral del mundo ya se han perdido y que los arrecifes restantes están en riesgo. Los esfuerzos de conservación incluyen áreas marinas protegidas, reducir la presión pesquera, controlar la contaminación y apoyar la restauración de corales. Algunos investigadores exploran la evolución asistida para desarrollar variedades de coral resistentes al calor. La cooperación internacional es esencial para abordar el cambio climático que representa la mayor amenaza a largo plazo.",
+      "imageUrl": "images/cards/reef-conservation.jpg",
+      "imageCaption": "Los esfuerzos de restauración de corales tienen como objetivo reconstruir los arrecifes dañados"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Coral Reef Ecosystems",
+      "author": "Moberg, F., and Folke, C.",
+      "type": "journal",
+      "id": "src-1"
+    },
+    {
+      "title": "The World Beneath: The Life and Times of Unknown Sea Creatures",
+      "author": "Claire Nouvian",
+      "type": "book",
+      "id": "src-2"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-coral-reef-ecosystems",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué porcentaje de especies de peces marinos dependen de los arrecifes de coral a pesar de que los arrecifes cubren sólo el 0,1% del fondo del océano?",
+        "options": [
+          "Aproximadamente 10%",
+          "Aproximadamente el 25%",
+          "Aproximadamente el 50%",
+          "Aproximadamente el 75%"
+        ],
+        "correctAnswer": "Aproximadamente el 25%",
+        "explanation": "A pesar de cubrir menos del 0,1% del fondo del océano, los arrecifes de coral albergan aproximadamente el 25% de todas las especies de peces marinos conocidas."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "Los pólipos de coral son animales carnívoros, no plantas ni algas.",
+        "correctAnswer": "true",
+        "explanation": "Los corales son animales con pólipos que capturan presas pequeñas, aunque dependen de zooxantelas simbióticas para obtener la mayor parte de su energía."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "Las zooxantelas producen aproximadamente el _____% de las necesidades energéticas de un coral a través de la fotosíntesis.",
+        "correctAnswer": "90",
+        "explanation": "La fotosíntesis de las zooxantelas proporciona hasta el 90% de las necesidades energéticas de los corales en el entorno oceánico tropical."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿A qué se debe el blanqueamiento de los corales?",
+        "options": [
+          "Una infección viral de pólipos de coral.",
+          "Crecimiento excesivo de algas en las superficies de los corales.",
+          "La expulsión de zooxantelas debido al estrés por alta temperatura del agua o luz excesiva.",
+          "Contaminación química por escorrentía industrial"
+        ],
+        "correctAnswer": "La expulsión de zooxantelas debido al estrés por alta temperatura del agua o luz excesiva.",
+        "explanation": "El blanqueamiento de los corales ocurre cuando los corales expulsan sus zooxantelas simbióticas en respuesta al estrés ambiental, lo que les hace perder su principal fuente de energía."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "Se estima que la Gran Barrera de Coral aporta más de 50 mil millones de dólares anuales a la economía mundial a través del turismo, la pesca y otras actividades.",
+        "correctAnswer": "true",
+        "explanation": "Los arrecifes de coral, en particular la Gran Barrera de Coral, aportan un enorme valor económico a través del turismo, la pesca y el desarrollo farmacéutico."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440005"
+  },
+  "publishedAt": "2026-04-09T00:00:00Z",
+  "createdAt": "2026-04-09T00:00:00Z",
+  "updatedAt": "2026-04-09T00:00:00Z"
+}

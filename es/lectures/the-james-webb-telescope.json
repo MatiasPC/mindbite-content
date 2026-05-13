@@ -1,0 +1,149 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440009",
+  "slug": "the-james-webb-telescope",
+  "title": "El telescopio espacial James Webb",
+  "subtitle": "Observando las primeras galaxias del universo y buscando biofirmas",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 7,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-james-webb-telescope.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Una nueva era de telescopios espaciales",
+      "body": "El Telescopio Espacial James Webb (JWST) representa un salto cuántico en las capacidades de observación astronómica. El JWST, que lleva el nombre de un ex administrador de la NASA, es el sucesor del icónico Telescopio Espacial Hubble, que revolucionó la astronomía en la década de 1990. Lanzado el 25 de diciembre de 2021, JWST ya ha transformado nuestra comprensión del universo. A diferencia del Hubble, que observa principalmente en luz visible y ultravioleta, JWST se especializa en observaciones infrarrojas. Esto le permite ver a través del polvo cósmico que bloquea la luz visible, revelando regiones de formación de estrellas y las primeras galaxias del universo.",
+      "funFact": "¡JWST lleva el nombre de James E. Webb, quien dirigió la NASA durante el programa Apolo!",
+      "imageUrl": "images/content/jwst-launch.jpg",
+      "imageCaption": "Lanzamiento del telescopio espacial James Webb a bordo de un cohete Ariane 5"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Observaciones infrarrojas",
+      "body": "La misión principal del JWST es la astronomía infrarroja. La luz infrarroja tiene longitudes de onda más largas que la luz visible y penetra las nubes de polvo opacas a la luz visible. El espejo primario del telescopio está hecho de berilio recubierto de oro, que refleja excepcionalmente bien la luz infrarroja. Para observar la radiación infrarroja, JWST debe estar extremadamente frío: menos de 50 Kelvin. Un enorme parasol, del tamaño de una cancha de tenis, protege el telescopio del calor del sol. Ubicado en Lagrange Point 2, a aproximadamente 1,5 millones de kilómetros de la Tierra, JWST orbita la Tierra y el Sol juntos, manteniendo su temperatura fría y al mismo tiempo relativamente accesible.",
+      "imageUrl": "images/content/jwst-sunshield.jpg",
+      "imageCaption": "El parasol multicapa de JWST protege el telescopio frío"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Descubriendo las primeras galaxias",
+      "body": "Uno de los principales objetivos del JWST es observar las primeras galaxias del universo, formadas sólo unos cientos de millones de años después del Big Bang. La luz de estas antiguas galaxias ha sido estirada por la expansión cósmica y desplazada hacia el infrarrojo. Sólo la sensibilidad infrarroja del JWST puede detectar estos objetos distantes. Las primeras observaciones han revelado galaxias que se formaron antes de lo que se pensaba, desafiando los modelos de formación de galaxias. Estos descubrimientos están reescribiendo nuestra comprensión de cómo se desarrolló la estructura del universo. Las observaciones de las galaxias tempranas realizadas por JWST ayudan a limitar las teorías sobre la formación de estrellas, la evolución de las galaxias y la historia del enriquecimiento químico del universo.",
+      "imageUrl": "images/content/jwst-early-universe.jpg",
+      "imageCaption": "Una imagen de algunas de las galaxias más distantes que ha observado JWST"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Formación de estrellas y planetas",
+      "body": "JWST penetra las nubes de polvo donde se forman estrellas y planetas, revelando procesos previamente ocultos. El telescopio observa guarderías estelares, discos protoplanetarios y sistemas planetarios jóvenes. Sus capacidades infrarrojas muestran estrellas recién nacidas calentando el polvo circundante y planetas abriendo huecos en los discos protoplanetarios. Las imágenes del JWST revelan el increíble detalle de estos sistemas, lo que limita las teorías de formación. Las observaciones de las atmósferas de exoplanetas son otra capacidad clave: JWST analiza la luz que se filtra a través de estas atmósferas, identificando composiciones químicas. El telescopio ya ha detectado agua, dióxido de carbono y metano en atmósferas de exoplanetas, y se avecinan posibles búsquedas de biofirmas.",
+      "imageUrl": "images/content/protoplanetary-disk.jpg",
+      "imageCaption": "Imagen JWST de un disco protoplanetario donde se forman los planetas"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Resolviendo misterios cósmicos",
+      "body": "JWST aborda cuestiones cósmicas fundamentales. ¿Por qué hay más materia que antimateria en el universo? ¿Cómo se vuelven tan masivos los agujeros negros supermasivos? ¿Qué son la materia oscura y la energía oscura? El telescopio observa la acumulación de agujeros negros, la distribución de la materia en la red cósmica y muchos otros fenómenos. Sus observaciones de galaxias en formación de estrellas y quásares revelan conexiones entre los agujeros negros y la evolución de las galaxias. JWST también estudia nebulosas donde se crean elementos y observa galaxias polvorientas invisibles para el Hubble. Cada observación contribuye a nuestra comprensión cósmica, aunque quedan muchos misterios.",
+      "funFact": "¡JWST observa tanto detalle que puede detectar el calor de un objeto del tamaño de un grano de arena a la distancia de la Luna!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Buscando señales de vida",
+      "body": "Una de las capacidades más interesantes del JWST es analizar las atmósferas de los exoplanetas en busca de posibles biofirmas: sustancias químicas que indiquen actividad biológica. El oxígeno en combinación con el metano sería muy indicativo de vida. JWST ya ha detectado agua, CO2 y metano en atmósferas de exoplanetas. Las observaciones futuras buscarán combinaciones químicas inusuales que puedan indicar la fotosíntesis u otros procesos biológicos. Si bien JWST no puede identificar definitivamente vida extraterrestre, puede identificar composiciones atmosféricas que justifican una mayor investigación. Una detección confirmada sería revolucionaria e indicaría potencialmente que la vida es común en el universo.",
+      "imageUrl": "images/content/exoplanet-atmosphere.jpg",
+      "imageCaption": "Representación artística del JWST analizando la atmósfera de un exoplaneta."
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "El futuro de la ciencia JWST",
+      "body": "Se espera que JWST funcione durante al menos 20 años, transformando la astronomía durante ese período. Sus continuas observaciones perfeccionarán nuestra comprensión de la historia, la estructura y el contenido del universo. El telescopio observará galaxias más distantes, regiones de formación de estrellas más jóvenes y más atmósferas de exoplanetas. Los descubrimientos futuros pueden incluir la primera evidencia de vida extraterrestre, la naturaleza de la materia oscura o fenómenos cósmicos inesperados. JWST representa la inversión de la humanidad en la comprensión del universo. Los descubrimientos que permita inspirarán a futuras generaciones de científicos y exploradores, impulsando la próxima era de la investigación astronómica.",
+      "funFact": "El JWST costó aproximadamente 10 mil millones de dólares y tardó décadas en desarrollarse: ¡el instrumento científico más caro jamás construido!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Gardner, J. P., et al. (2023). 'The James Webb Space Telescope Mission.' Publications of the Astronomical Society of the Pacific, 135(1044), 068001.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Rigby, J. R., et al. (2023). 'Early Results on the Stellar Populations and Morphologies of High-Redshift Galaxies with JWST/NIRCam.' The Astrophysical Journal Letters, 952(2), L48.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "NASA James Webb Space Telescope Mission Documentation",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-9",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿En qué año se lanzó el telescopio espacial James Webb?",
+        "options": [
+          "2018",
+          "2020",
+          "2021",
+          "2023"
+        ],
+        "correctAnswer": "2021",
+        "explanation": "JWST se lanzó el 25 de diciembre de 2021 a bordo de un cohete Ariane 5."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "JWST observa principalmente en el rango de longitud de onda infrarroja, a diferencia del Telescopio Espacial Hubble.",
+        "correctAnswer": "true",
+        "explanation": "JWST se especializa en observaciones infrarrojas, lo que le permite penetrar nubes de polvo y observar galaxias distantes invisibles para el Hubble."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál es la principal ventaja de las observaciones infrarrojas del JWST?",
+        "options": [
+          "La luz infrarroja es más brillante que la luz visible",
+          "La luz infrarroja penetra el polvo cósmico que bloquea la luz visible",
+          "La luz infrarroja viaja más rápido por el espacio",
+          "La luz infrarroja es más fácil de detectar con instrumentos sencillos"
+        ],
+        "correctAnswer": "La luz infrarroja penetra el polvo cósmico que bloquea la luz visible",
+        "explanation": "Las longitudes de onda más largas del infrarrojo atraviesan el polvo, revelando objetos ocultos a los telescopios de luz visible."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "JWST está ubicado en un punto del espacio llamado _______ Punto 2, a aproximadamente 1,5 millones de kilómetros de la Tierra.",
+        "correctAnswer": "Lagrange",
+        "explanation": "El Punto de Lagrange 2 es un punto estable donde la gravedad de la Tierra y el Sol se equilibran, lo que permite que JWST permanezca frío mientras permanece relativamente cerca de la Tierra."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Uno de los mayores logros de JWST ha sido observar cuál de los siguientes?",
+        "options": [
+          "Las primeras estrellas del universo.",
+          "Galaxias que se formaron solo unos pocos cientos de millones de años después del Big Bang",
+          "Agujeros negros que se evaporan a través de la radiación de Hawking",
+          "Imágenes directas de materia oscura"
+        ],
+        "correctAnswer": "Galaxias que se formaron solo unos pocos cientos de millones de años después del Big Bang",
+        "explanation": "JWST ha revelado que las galaxias se formaron antes de lo esperado, mostrando la luz extendida desde el universo primitivo hasta el infrarrojo."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440009"
+  },
+  "publishedAt": "2026-04-17T00:00:00Z",
+  "createdAt": "2026-04-17T00:00:00Z",
+  "updatedAt": "2026-04-17T00:00:00Z"
+}

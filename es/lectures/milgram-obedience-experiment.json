@@ -1,0 +1,119 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440003",
+  "slug": "milgram-obedience-experiment",
+  "title": "El experimento de Milgram",
+  "subtitle": "Comprender la obediencia a la autoridad",
+  "topicId": "psychology",
+  "estimatedMinutes": 10,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/milgram-obedience-experiment.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "La configuración y los hallazgos",
+      "body": "Los experimentos de obediencia de Stanley Milgram (1963) midieron la disposición de los participantes a infligir daño bajo instrucción de autoridad. Los participantes creían que estaban administrando descargas eléctricas a un alumno por respuestas incorrectas, aunque en realidad no se aplicaron descargas. El experimento presentó un conflicto entre la conciencia personal y la obediencia a la autoridad. Sorprendentemente, el 65% de los participantes aplicaron descargas de voltaje máximo cuando el experimentador se lo indicó. Este impactante hallazgo cuestionó las suposiciones sobre la naturaleza humana y proporcionó ideas inquietantes sobre cómo la gente común y corriente puede cometer actos dañinos bajo autoridad.",
+      "funFact": "Milgram llevó a cabo sus experimentos después de los juicios de Nuremberg, buscando comprender cómo los perpetradores nazis podían afirmar que \"simplemente estaban siguiendo órdenes\"."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "El proceso de escalada gradual",
+      "body": "Las descargas comenzaron con 15 voltios y aumentaron en incrementos de 15 voltios hasta 450 voltios, catalogadas como potencialmente letales. Los participantes no aceptaron repentinamente el voltaje máximo, sino que lo aumentaron gradualmente mediante pequeños incrementos. Este proceso gradual hizo que psicológicamente fuera más fácil continuar que negarse repentinamente. Cada paso parecía un aumento menor, pero acumulativamente conducía a un comportamiento extremo. La naturaleza incremental revela cómo las acciones dañinas a menudo ocurren a través de una serie de pequeñas decisiones en lugar de elecciones dramáticas únicas. Comprender este patrón ayuda a explicar cómo pueden desarrollarse prácticas organizacionales dañinas.",
+      "imageUrl": "images/milgram-voltage-scale.jpg",
+      "imageCaption": "El aumento gradual de tensión facilitó el cumplimiento"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Factores que promueven la obediencia",
+      "body": "Milgram identificó varias condiciones que aumentaban las tasas de obediencia. La presencia física de la figura de autoridad impulsó significativamente el cumplimiento. También importaban la legitimidad de la autoridad y la clara asignación de responsabilidad: los participantes creían que el experimentador era responsable del daño. El prestigio de la institución (Universidad de Yale) dio credibilidad. La distancia a la víctima redujo la resistencia: menos participantes obedecieron cuando tuvieron que colocar físicamente la mano de la víctima sobre la placa de choque. Estos hallazgos revelan cómo el contexto y la estructura social pueden anular los juicios morales personales.",
+      "imageUrl": "images/milgram-factors.jpg"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "La teoría del estado agente",
+      "body": "Milgram propuso la teoría del estado agencial para explicar la obediencia: cuando están bajo autoridad, las personas pasan del estado autónomo al estado agencial, viéndose a sí mismas como agentes que llevan a cabo la voluntad de la autoridad en lugar de agentes morales autónomos. En este estado mental, la responsabilidad personal se siente disminuida. La persona atribuye responsabilidad a la figura de autoridad al tiempo que justifica sus propias acciones como un cumplimiento necesario. Este cambio psicológico explica cómo las personas pueden realizar acciones que contradicen sus valores. Comprender este mecanismo ayuda a identificar situaciones en las que podríamos estar renunciando a la autonomía moral.",
+      "imageUrl": "images/agentic-state.jpg"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Implicaciones y críticas modernas",
+      "body": "El trabajo de Milgram influyó profundamente en la comprensión de la autoridad, las estructuras institucionales y la toma de decisiones éticas. Planteó serias preocupaciones éticas sobre la propia investigación psicológica, lo que llevó a directrices éticas más estrictas. Las replicaciones modernas muestran resultados variables según el contexto cultural y las modificaciones de configuración. La investigación explica los abusos en el lugar de trabajo, la mala conducta organizacional y el cumplimiento de directivas poco éticas. Sin embargo, los críticos señalan la naturaleza artificial de los entornos de laboratorio y argumentan que las decisiones del mundo real implican una mayor complejidad. Sin embargo, la idea central de Milgram –que la gente común y corriente puede cometer actos dañinos bajo autoridad– sigue siendo crucial para comprender el comportamiento humano.",
+      "funFact": "Muchos participantes mostraron un estrés extremo durante el experimento, incluyendo temblores, sudoración y risa nerviosa, pero continuaron administrando descargas cuando se les indicó."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Milgram, S. (1963). Behavioral study of obedience. Journal of Abnormal and Social Psychology, 67(4), 371-378.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Milgram, S. (1974). Obedience to Authority: An Experimental View. Harper & Row.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-milgram-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué porcentaje de los participantes de Milgram aplicaron descargas de voltaje máximo cuando se lo indicó el experimentador?",
+        "options": [
+          "25%",
+          "45%",
+          "65%",
+          "85%"
+        ],
+        "correctAnswer": "65%",
+        "explanation": "Aproximadamente el 65% de los participantes continuaron administrando descargas de voltaje máximo cuando el experimentador se lo indicó, lo que demuestra la poderosa influencia de la autoridad."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "En los experimentos de Milgram, se aplicaron descargas eléctricas reales a los alumnos.",
+        "correctAnswer": "false",
+        "explanation": "En realidad, no se administraron descargas. El experimento fue un estudio de engaño: los participantes creían que estaban aplicando descargas eléctricas, pero en realidad ningún alumno resultó lastimado."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué es el estado agente según la teoría de Milgram?",
+        "options": [
+          "Un estado de mayor conciencia moral.",
+          "Un cambio en el que las personas se ven a sí mismas como agentes de autoridad en lugar de agentes morales autónomos.",
+          "La capacidad de actuar de forma independiente sin guía.",
+          "Un estado psicológico de confusión e indecisión."
+        ],
+        "correctAnswer": "Un cambio en el que las personas se ven a sí mismas como agentes de autoridad en lugar de agentes morales autónomos.",
+        "explanation": "La teoría del estado agente explica cómo las personas bajo autoridad pasan de verse a sí mismas como agentes morales responsables a verse a sí mismas implementando las órdenes de los demás."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "Milgram descubrió que _______ de la figura de autoridad aumentaba significativamente los índices de obediencia en sus experimentos.",
+        "correctAnswer": "presencia física",
+        "explanation": "Cuando el experimentador (figura de autoridad) estaba físicamente presente y daba órdenes directas, las tasas de obediencia eran más altas. La distancia de la autoridad redujo el cumplimiento."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "Los shocks en el experimento de Milgram aumentaron en cantidades mayores desde el principio para fomentar una toma de decisiones más rápida.",
+        "correctAnswer": "false",
+        "explanation": "Las descargas aumentaron gradualmente en incrementos de 15 voltios, lo que hizo que psicológicamente fuera más fácil para los participantes continuar aumentando en lugar de negarse en cualquier momento."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440003"
+  },
+  "publishedAt": "2026-04-05T00:00:00Z",
+  "createdAt": "2026-04-05T00:00:00Z",
+  "updatedAt": "2026-04-05T00:00:00Z"
+}

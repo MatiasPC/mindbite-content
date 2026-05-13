@@ -1,0 +1,9 @@
+{
+  "id": "nature-animals",
+  "name": "Naturaleza y animales",
+  "slug": "nature-animals",
+  "emoji": "🌿",
+  "colorHex": "#059669",
+  "description": "El mundo salvaje que nos rodea",
+  "sortOrder": 4
+}

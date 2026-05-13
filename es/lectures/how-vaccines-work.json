@@ -1,0 +1,145 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440003",
+  "slug": "how-vaccines-work",
+  "title": "Cómo funcionan las vacunas",
+  "subtitle": "Entrenando su sistema inmunológico",
+  "topicId": "science",
+  "estimatedMinutes": 7,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/how-vaccines-work.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "¿Qué son las vacunas?",
+      "body": "Las vacunas son preparados médicos que fortalecen la capacidad del sistema inmunológico para combatir enfermedades específicas. Contienen versiones debilitadas o inactivadas de patógenos que causan enfermedades (virus o bacterias) o, a veces, simplemente componentes clave como proteínas de estos patógenos. Las vacunas no tratan una infección existente; en cambio, preparan su sistema inmunológico de antemano enseñándole a reconocer y combatir el patógeno si lo encuentra más adelante. Este enfoque de prevención es mucho más eficaz que tratar la enfermedad después de la infección. Las vacunas han salvado millones de vidas y eliminado enfermedades como la viruela. Funcionan aprovechando el sistema de respuesta inmune natural de su cuerpo.",
+      "funFact": "¡La primera vacuna se desarrolló en 1796 cuando Edward Jenner usó el virus de la viruela vacuna para protegerse contra la viruela!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Cómo funciona el sistema inmunológico",
+      "body": "Su sistema inmunológico tiene dos componentes principales: inmunidad innata (respuestas rápidas pero no específicas) e inmunidad adaptativa (más lenta pero muy específica). La inmunidad adaptativa se basa en glóbulos blancos llamados linfocitos. Las células B producen anticuerpos, proteínas que se unen a los invasores. Las células T atacan directamente a las células infectadas. Cuando un patógeno invade por primera vez, su sistema inmunológico adaptativo genera anticuerpos y células de memoria específicas para ese patógeno. Estas células de memoria permanecen durante años o décadas, proporcionando protección a largo plazo. Las vacunas esencialmente realizan un ejercicio de entrenamiento, activando estas células de memoria sin causar enfermedades. Esto permite que su sistema inmunológico reconozca rápidamente el patógeno real si alguna vez está expuesto, previniendo infecciones o reduciendo la gravedad de la enfermedad.",
+      "imageUrl": "images/immune-cells.jpg",
+      "imageCaption": "Diferentes tipos de células inmunes trabajando juntas"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Tipos de vacunas",
+      "body": "Existen varios tipos de vacunas, cada una de las cuales utiliza enfoques diferentes. Las vacunas vivas atenuadas contienen versiones debilitadas del patógeno que aún pueden reproducirse pero no causar enfermedades. Las vacunas inactivadas utilizan versiones muertas del patógeno. Las vacunas de subunidades contienen sólo proteínas específicas del patógeno. Las vacunas de ARNm proporcionan instrucciones genéticas para que las células produzcan la proteína del patógeno, desencadenando inmunidad sin contener el virus en sí. Las vacunas toxoides se dirigen a las toxinas bacterianas en lugar de a las bacterias. Las vacunas vectoriales utilizan virus modificados para administrar material genético. Cada tipo tiene ventajas: las vacunas vivas atenuadas crean una inmunidad fuerte, pero pueden no ser adecuadas para personas inmunodeprimidas. Las vacunas inactivadas y de subunidades son más seguras, pero pueden requerir refuerzos. Se pueden desarrollar rápidamente vacunas de ARNm para amenazas emergentes.",
+      "imageUrl": "images/vaccine-types.jpg",
+      "imageCaption": "Diferentes tipos de vacunas y sus mecanismos."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Por qué se necesitan refuerzos",
+      "body": "Algunas vacunas requieren inyecciones de refuerzo: dosis adicionales administradas meses o años después de la vacuna inicial. Esto sucede porque la respuesta inmune a una primera vacuna eventualmente disminuye con el tiempo. Las células B y T de memoria disminuyen en número y su eficacia disminuye. Los potenciadores reactivan la memoria inmune, fortaleciendo y refrescando la respuesta. Algunas vacunas, como la del tétanos, requieren refuerzos cada diez años. Otros, como el sarampión, pueden brindar protección de por vida después de la serie inicial. La cantidad de refuerzos necesarios varía según la enfermedad, el tipo de vacuna y la respuesta inmunitaria individual. Los investigadores continúan mejorando las formulaciones de vacunas para extender la duración de la protección y reducir la necesidad de refuerzos frecuentes.",
+      "funFact": "Algunas personas tienen inmunidad natural que dura toda la vida, mientras que otras necesitan recordatorios periódicos: ¡la genética influye!"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Seguridad y desarrollo de vacunas",
+      "body": "Las vacunas se someten a pruebas rigurosas antes de su aprobación. El desarrollo suele tardar años e implica investigación de laboratorio, pruebas con animales y múltiples fases de ensayos clínicos en humanos. La fase I prueba la seguridad en grupos pequeños. La fase II prueba la eficacia y la dosificación. La fase III implica pruebas a gran escala que comparan grupos vacunados y no vacunados. La Fase IV continúa el seguimiento tras su aprobación. El proceso involucra juntas de revisión independientes que garantizan estándares éticos. Incluso después de su aprobación, los sistemas de salud monitorean las vacunas a través de programas de vigilancia para detectar cualquier efecto secundario poco común. Los beneficios de las vacunas (la prevención de enfermedades graves) superan con creces los pequeños riesgos de efectos secundarios leves. Los efectos adversos graves son extremadamente raros. La evidencia científica respalda abrumadoramente la seguridad y eficacia de las vacunas.",
+      "imageUrl": "images/vaccine-trials.jpg",
+      "imageCaption": "Etapas del desarrollo y prueba de vacunas."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Inmunidad colectiva",
+      "body": "Cuando se vacuna a un porcentaje suficiente de la población, la transmisión de enfermedades se ralentiza drásticamente o se detiene por completo, un fenómeno llamado inmunidad colectiva. El umbral varía según la enfermedad. Para el sarampión, altamente contagioso, se necesita alrededor del noventa y cinco por ciento de vacunación. Para enfermedades menos contagiosas, bastan porcentajes más bajos. La inmunidad colectiva protege a las personas vulnerables que no pueden recibir vacunas debido a la edad, alergias o afecciones médicas. Cuando las tasas de vacunación caen por debajo del umbral de inmunidad colectiva, las enfermedades pueden resurgir. Los recientes brotes de sarampión en zonas con tasas de vacunación en descenso demuestran este principio. La inmunidad colectiva es una responsabilidad colectiva: cada persona vacunada contribuye a la protección de la comunidad. Este concepto muestra cómo las vacunas protegen no sólo a los individuos sino a comunidades enteras.",
+      "funFact": "La inmunidad colectiva alguna vez casi eliminó el sarampión en el mundo desarrollado, pero ha regresado en áreas con tasas de vacunación en declive."
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "El impacto de las vacunas",
+      "body": "Las vacunas representan uno de los mayores logros de la medicina. La viruela, que alguna vez fue una pandemia devastadora, fue completamente erradicada en 1980 gracias a los esfuerzos mundiales de vacunación. La polio, que paralizaba a cientos de miles de personas cada año, se ha reducido a menos de diez casos en todo el mundo. Enfermedades como la difteria, la tos ferina y la rubéola casi se han eliminado en las poblaciones vacunadas. Las vacunas salvan millones de vidas cada año y evitan un enorme sufrimiento humano. Se encuentran entre las intervenciones médicas más rentables y ahorran mucho más en costos de atención médica de lo que cuesta administrarlas. El desarrollo de nuevas vacunas para amenazas emergentes como la COVID-19 demuestra cómo la ciencia de las vacunas protege a la humanidad de nuevas enfermedades. A medida que surjan nuevos patógenos, las vacunas seguirán siendo cruciales para la salud pública."
+    }
+  ],
+  "quiz": {
+    "id": "quiz-3",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál es el propósito principal de una vacuna?",
+        "options": [
+          "Para tratar una infección existente",
+          "Para fortalecer la capacidad de su sistema inmunológico para combatir enfermedades específicas.",
+          "Para reemplazar los anticuerpos en su cuerpo",
+          "Para matar todas las bacterias en su sistema."
+        ],
+        "correctAnswer": "Para fortalecer la capacidad de su sistema inmunológico para combatir enfermedades específicas.",
+        "explanation": "Las vacunas preparan su sistema inmunológico de antemano enseñándole a reconocer y combatir un patógeno si lo encuentra más adelante, previniendo infecciones o reduciendo la gravedad de la enfermedad."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "Las vacunas vivas atenuadas contienen patógenos completamente activos que pueden causar enfermedades.",
+        "correctAnswer": "false",
+        "explanation": "Las vacunas vivas atenuadas contienen versiones debilitadas del patógeno que aún pueden reproducirse pero no pueden causar enfermedades en individuos sanos."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "Cuando se vacuna un porcentaje suficiente de una población, la transmisión de enfermedades se ralentiza mediante un proceso llamado inmunidad ________.",
+        "correctAnswer": "manada",
+        "explanation": "La inmunidad colectiva se produce cuando se vacuna a suficientes personas para prevenir la transmisión de enfermedades a través de la comunidad, protegiendo incluso a aquellos que no pueden ser vacunados."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Por qué algunas vacunas requieren inyecciones de refuerzo?",
+        "options": [
+          "La primera vacuna siempre falla",
+          "La respuesta inmune a la vacuna inicial disminuye con el tiempo",
+          "Los refuerzos contienen diferentes enfermedades.",
+          "Las dosis de refuerzo sólo se dan a personas mayores."
+        ],
+        "correctAnswer": "La respuesta inmune a la vacuna inicial disminuye con el tiempo",
+        "explanation": "Las células B y T de memoria disminuyen en número y efectividad con el tiempo, por lo que las inyecciones de refuerzo reactivan y refrescan la memoria inmunológica."
+      },
+      {
+        "id": "q5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué enfermedad fue completamente erradicada gracias a los esfuerzos mundiales de vacunación?",
+        "options": [
+          "sarampión",
+          "Poliomielitis",
+          "viruela",
+          "tuberculosis"
+        ],
+        "correctAnswer": "viruela",
+        "explanation": "La viruela fue completamente erradicada en 1980 gracias a los esfuerzos mundiales de vacunación, lo que la convirtió en la única enfermedad humana que logró una erradicación completa mediante la vacunación."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440003"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Plotkin, S. A., Orenstein, W. A., & Offit, P. A. (Eds.). (2017). 'Plotkin's Vaccines: Mechanisms of Action and Immunogenicity' (7th ed.). Elsevier.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Meldrum, M. (1998). 'A Brief History of the Immunization of Tuberculosis'. Current Issues in Public Health, 4, 374-385.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "World Health Organization. (2021). 'Ten Threats to Global Health in 2019' - Vaccine Hesitancy.",
+      "type": "journal"
+    }
+  ],
+  "publishedAt": "2026-04-07T00:00:00Z",
+  "createdAt": "2026-04-07T00:00:00Z",
+  "updatedAt": "2026-04-07T00:00:00Z"
+}

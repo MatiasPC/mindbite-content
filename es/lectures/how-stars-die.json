@@ -1,0 +1,150 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440007",
+  "slug": "how-stars-die",
+  "title": "Cómo mueren las estrellas",
+  "subtitle": "Las espectaculares etapas finales de la evolución estelar",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/how-stars-die.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Evolución estelar y destino",
+      "body": "Cada estrella tiene una vida limitada determinada por su masa. Las estrellas pasan la mayor parte de sus vidas fusionando hidrógeno en helio en sus núcleos, una fase estable que dura miles de millones de años en las estrellas como el Sol. A medida que avanza la fusión, se acumula helio, alterando la estructura y la temperatura de la estrella. Finalmente, el combustible se acaba y la estrella ya no puede sostenerse por sí misma. Lo que suceda a continuación depende fundamentalmente de la masa estelar. Las estrellas pequeñas como nuestro Sol se convierten en nebulosas planetarias y enanas blancas, mientras que las estrellas masivas explotan como supernovas, dejando estrellas de neutrones o agujeros negros. Comprender la muerte estelar ilumina los ciclos de vida estelares y la química cósmica.",
+      "funFact": "¡Nuestro Sol ya ha quemado la mitad de su combustible de hidrógeno y eventualmente se expandirá para engullir a Mercurio, Venus y posiblemente a la Tierra!",
+      "imageUrl": "images/content/star-lifecycle.jpg",
+      "imageCaption": "El ciclo de vida de las estrellas desde el nacimiento hasta la muerte."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "La muerte de las estrellas similares al sol",
+      "body": "Estrellas similares a nuestro Sol se convierten en gigantes rojas cuando se agota el hidrógeno del núcleo. Las capas exteriores se expanden dramáticamente mientras que el núcleo se contrae y se calienta. Con el tiempo, el núcleo se calienta lo suficiente como para que el helio se fusione, creando carbono y oxígeno. Cuando se agota el helio, la estrella no puede fusionar elementos más pesados. Las capas exteriores se desprenden, formando una nebulosa planetaria, una espectacular capa de gas brillante. El núcleo expuesto se convierte en una enana blanca: un objeto del tamaño de la Tierra, tan masivo como el Sol y con una densidad increíble. Las enanas blancas se enfrían lentamente a lo largo de miles de millones de años y eventualmente se convierten en restos estelares oscuros llamados enanas negras.",
+      "imageUrl": "images/content/planetary-nebula.jpg",
+      "imageCaption": "La Nebulosa del Anillo, una nebulosa planetaria de una estrella moribunda"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Estrellas masivas y supernovas",
+      "body": "Las estrellas con una masa superior a unas ocho masas solares sufren muertes más violentas. Estas estrellas masivas queman su combustible mucho más rápido y viven sólo millones de años. A medida que el núcleo acumula hierro, la fusión se vuelve imposible: la fusión del hierro consume energía en lugar de liberarla. El núcleo colapsa catastróficamente, aplastando átomos y, a menudo, rebotando en una explosión de supernova. Esta explosión eclipsa brevemente a galaxias enteras que contienen miles de millones de estrellas. El intenso calor de la explosión crea elementos pesados ​​como níquel, cobalto y elementos más pesados ​​que el hierro. Estos elementos, sintetizados sólo en supernovas, siembran la galaxia y eventualmente forman planetas y vida.",
+      "funFact": "¡El hierro de tu sangre se creó en una supernova hace miles de millones de años!",
+      "imageUrl": "images/content/supernova-explosion.jpg",
+      "imageCaption": "Representación artística de la explosión de una supernova."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Supernovas tipo Ia",
+      "body": "Las supernovas de tipo Ia ocurren en sistemas binarios donde una enana blanca orbita alrededor de una estrella normal. La gravedad de la enana blanca extrae material de su compañera, formando una capa en la superficie de la enana blanca. Esta materia acumulada alcanza presiones y temperaturas extremas, lo que provoca una fuga termonuclear. Toda la enana blanca explota, destruyendo completamente la estrella y sin dejar restos. Estas explosiones tienen un brillo notablemente consistente, lo que las hace útiles como \"velas estándar\" para medir distancias cósmicas. Las supernovas de tipo Ia ayudaron a descubrir que la expansión del universo se está acelerando, revelando la existencia de energía oscura.",
+      "imageUrl": "images/content/type-ia-supernova.jpg",
+      "imageCaption": "Vista artística de una enana blanca robando material de una estrella compañera"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Supernovas de colapso del núcleo",
+      "body": "Cuando el núcleo de hierro de una estrella masiva colapsa, un tremendo choque de rebote se propaga hacia afuera a través de la estrella. Este choque normalmente se detiene, pero los neutrinos que fluyen desde el núcleo pueden revivirlo mediante interacciones sutiles. El impacto atraviesa las capas de la estrella, expulsándolas explosivamente. Estas supernovas de colapso del núcleo (Tipo II, Ib y Ic) son más variables que las de Tipo Ia pero igualmente espectaculares. Dependiendo de la masa de la estrella original, el remanente es una estrella de neutrones o un agujero negro. Estas explosiones enriquecen el espacio con elementos pesados ​​y pueden desencadenar la formación de estrellas en nubes de gas cercanas.",
+      "funFact": "¡Una sola explosión de supernova libera más energía de la que producirá nuestro Sol en toda su vida útil de 10 mil millones de años!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Estrellas de neutrones y agujeros negros",
+      "body": "Los restos de supernovas pueden ser estrellas de neutrones o agujeros negros. Las estrellas de neutrones son cadáveres estelares increíblemente densos de aproximadamente 20 kilómetros de diámetro. Contienen materia exótica con densidad nuclear y poseen los campos magnéticos más fuertes del universo. Muchos giran rápidamente, emitiendo radiación visible como púlsares. Los agujeros negros se forman a partir de estrellas aún más masivas: la gravedad es tan intensa que el propio espacio-tiempo queda deformado en una trampa unidireccional. Nada escapa al horizonte de sucesos de un agujero negro. Tanto las estrellas de neutrones como los agujeros negros son laboratorios cósmicos de física extrema, que permiten realizar pruebas de relatividad general y mecánica cuántica.",
+      "imageUrl": "images/content/neutron-star-vs-black-hole.jpg",
+      "imageCaption": "Comparación de una estrella de neutrones y un agujero negro"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Impacto en el Cosmos",
+      "body": "La muerte estelar moldea profundamente el universo. Las supernovas distribuyen elementos pesados ​​por las galaxias, enriqueciendo las nubes de gas que forman nuevas estrellas y planetas. Estos elementos son esenciales para la química y la vida: el carbono para las moléculas orgánicas, el hierro para los núcleos planetarios, el oxígeno para el agua. Las explosiones de supernovas pueden desencadenar o impedir la formación de estrellas en regiones cercanas, influyendo en la evolución galáctica. La energía de las supernovas calienta el gas intergaláctico, lo que afecta el crecimiento de las galaxias. Los restos estelares (enanas blancas, estrellas de neutrones y agujeros negros) continúan evolucionando e interactuando con el entorno. La muerte de las estrellas permite el nacimiento de nuevas estructuras cósmicas.",
+      "funFact": "¡Cada átomo de tu cuerpo más pesado que el helio se formó en una estrella y se distribuyó mediante explosiones de supernova!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Arnett, W. D., & Truran, J. W. (1969). 'Nucleosynthesis in the supernovae and element formation in the galaxy.' The Astrophysical Journal, 157, 339.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Janka, H. T. (2012). 'Explosion mechanisms of core-collapse supernovae.' Annual Review of Nuclear and Particle Science, 62, 407-451.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Branch, D. (1998). 'Type Ia supernovae.' Annual Review of Astronomy and Astrophysics, 36, 17-55.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-7",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué es una nebulosa planetaria?",
+        "options": [
+          "Una nebulosa orbitando un planeta.",
+          "Una capa de gas expulsada por una estrella moribunda",
+          "Una estrella joven rodeada por un disco protoplanetario",
+          "Una región del espacio que contiene muchos planetas."
+        ],
+        "correctAnswer": "Una capa de gas expulsada por una estrella moribunda",
+        "explanation": "Las nebulosas planetarias son capas de gas brillante expulsadas de estrellas similares al Sol en su transición a enanas blancas."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Todas las estrellas masivas que explotan como supernovas dejan tras de sí estrellas de neutrones.",
+        "correctAnswer": "false",
+        "explanation": "Las estrellas más masivas crean agujeros negros, mientras que las estrellas masivas menos masivas crean estrellas de neutrones."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué tipo de supernova ocurre en un sistema binario con una enana blanca?",
+        "options": [
+          "Supernova tipo II",
+          "Supernova tipo Ia",
+          "Supernova tipo Ib",
+          "Supernova tipo Ic"
+        ],
+        "correctAnswer": "Supernova tipo Ia",
+        "explanation": "Las supernovas de tipo Ia ocurren cuando una enana blanca acumula material de una compañera binaria y sufre una fuga termonuclear."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "Un remanente estelar del tamaño de la Tierra y con la masa del Sol se llama _______ blanco.",
+        "correctAnswer": "enano",
+        "explanation": "Las enanas blancas son restos densos de estrellas similares al Sol, con una densidad increíble debido a la presión de degeneración de electrones."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué elemento ya no puede fusionarse en una estrella para liberar energía?",
+        "options": [
+          "Hidrógeno",
+          "helio",
+          "Carbono",
+          "hierro"
+        ],
+        "correctAnswer": "hierro",
+        "explanation": "La fusión del hierro consume energía en lugar de liberarla, por lo que la acumulación de hierro provoca el colapso del núcleo y la supernova."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440007"
+  },
+  "publishedAt": "2026-04-13T00:00:00Z",
+  "createdAt": "2026-04-13T00:00:00Z",
+  "updatedAt": "2026-04-13T00:00:00Z"
+}

@@ -1,0 +1,147 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "slug": "how-black-holes-form",
+  "title": "Cómo se forman los agujeros negros",
+  "subtitle": "Comprender el colapso de estrellas masivas",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/how-black-holes-form.jpg",
+  "isPremium": false,
+  "featured": true,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El nacimiento de un agujero negro",
+      "body": "Los agujeros negros se forman cuando las estrellas masivas llegan al final de sus vidas. Cuando una estrella mucho más grande que nuestro Sol agota su combustible nuclear, colapsa catastróficamente en una explosión de supernova. Si el núcleo restante es lo suficientemente masivo, la gravedad se vuelve tan intensa que nada, ni siquiera la luz, puede escapar. Esto crea una región del espacio-tiempo llamada agujero negro, cambiando fundamentalmente nuestra comprensión de la física y el universo.",
+      "funFact": "Los agujeros negros más pequeños son del tamaño de montañas, mientras que los más grandes podrían ser más grandes que todo nuestro sistema solar.",
+      "imageUrl": "images/content/black-hole-formation-1.jpg",
+      "imageCaption": "Ilustración de una estrella colapsando en un agujero negro"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Requisitos de masa estelar",
+      "body": "No todas las estrellas se convierten en agujeros negros. Una estrella debe tener al menos entre 20 y 25 veces la masa de nuestro Sol para formar potencialmente un agujero negro. Durante su vida, una estrella masiva fusiona elementos cada vez más pesados ​​en su núcleo. Cuando la fusión se detiene y el núcleo ya no puede sostenerse contra la gravedad, se produce un colapso catastrófico. La densidad llega a ser tan extrema que la materia es aplastada más allá de cualquier límite conocido.",
+      "funFact": "Si la Tierra se comprimiera hasta alcanzar la densidad de un agujero negro, ¡sería más pequeña que una canica!"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "El radio de Schwarzschild",
+      "body": "Todo agujero negro tiene un límite llamado horizonte de sucesos, definido por el radio de Schwarzschild. Este es el punto de no retorno: más allá de esta distancia, la gravedad es tan fuerte que ni siquiera la luz puede escapar. El radio de Schwarzschild depende únicamente de la masa del agujero negro; un agujero negro más masivo tiene un horizonte de sucesos más grande. Este límite matemático fue predicho por Karl Schwarzschild en 1916, poco después de que Einstein publicara la relatividad general.",
+      "imageUrl": "images/content/event-horizon.jpg",
+      "imageCaption": "El horizonte de sucesos marca el punto de no retorno"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Tipos de agujeros negros",
+      "body": "Los astrónomos reconocen varios tipos de agujeros negros según su formación. Los agujeros negros estelares se forman a partir de estrellas masivas moribundas y normalmente pesan entre 5 y 20 masas solares. Agujeros negros supermasivos, millones o miles de millones de veces más masivos que el Sol, acechan en los centros de las galaxias, incluida nuestra Vía Láctea. Los agujeros negros intermedios pueden formarse a partir de colisiones o fusiones estelares. Cada tipo ofrece información única sobre la evolución cósmica.",
+      "funFact": "¡Sagitario A*, el agujero negro en el centro de nuestra galaxia, pesa alrededor de 4 millones de soles!"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Observando lo invisible",
+      "body": "Los propios agujeros negros no emiten luz, lo que los hace invisibles. Sin embargo, los astrónomos los detectan observando sus efectos en la materia cercana. El material que gira hacia un agujero negro se calienta y emite una intensa radiación antes de cruzar el horizonte de sucesos. Las observaciones de rayos X revelan discos de acreción alrededor de los agujeros negros. En 2019, el Telescopio del Horizonte de Sucesos capturó la primera imagen directa de la sombra de un agujero negro en la galaxia M87, confirmando las predicciones de Einstein.",
+      "imageUrl": "images/content/black-hole-m87.jpg",
+      "imageCaption": "Primera imagen de un agujero negro captada por el Telescopio Event Horizon"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Radiación de Hawking",
+      "body": "En 1974, Stephen Hawking propuso que los agujeros negros no son enteramente negros. Los efectos cuánticos cerca del horizonte de sucesos hacen que los agujeros negros emitan radiación, ahora llamada radiación de Hawking. Esto significa que los agujeros negros pueden evaporarse lentamente con el tiempo, aunque este proceso lleva un tiempo extraordinariamente largo para los agujeros negros de masa estelar. Los agujeros negros más pequeños se evaporan más rápido, liberando una enorme energía. Este descubrimiento unificó la mecánica cuántica con la relatividad general.",
+      "funFact": "¡Un agujero negro con la masa de la Tierra tardaría mucho más que la edad del universo en evaporarse!"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Los agujeros negros y el tiempo",
+      "body": "Los agujeros negros son laboratorios para estudiar física extrema. Cerca de un agujero negro, el tiempo mismo se ralentiza en relación con los observadores distantes, una predicción de la relatividad general. Un objeto que cae hacia un agujero negro parece congelarse en el horizonte de sucesos desde la perspectiva de un observador distante, mientras que el objeto que cae experimenta un tiempo normal. Los agujeros negros desafían nuestra comprensión de la causalidad y la información, lo que lleva a la paradoja de la información que los físicos todavía debaten hoy.",
+      "funFact": "El tiempo corre más rápido lejos de los objetos masivos: ¡los satélites en órbita envejecen un poco más rápido que las personas en la Tierra!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Hawking, S. (1974). 'Black hole explosions?' Nature, 248(5443), 30-31.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Wald, R. M. (1984). General Relativity. University of Chicago Press.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "NASA Astrophysics Data System - Black Hole Research",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-1",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál es la masa mínima necesaria de una estrella para formar potencialmente un agujero negro?",
+        "options": [
+          "5-10 veces la masa del Sol",
+          "15-20 veces la masa del Sol",
+          "20-25 veces la masa del Sol",
+          "30-40 veces la masa del Sol"
+        ],
+        "correctAnswer": "20-25 veces la masa del Sol",
+        "explanation": "Una estrella debe tener al menos entre 20 y 25 masas solares para formar potencialmente un agujero negro cuando llegue al final de su vida."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "El horizonte de sucesos es el nombre del límite alrededor de un agujero negro del que nada, ni siquiera la luz, puede escapar.",
+        "correctAnswer": "true",
+        "explanation": "El horizonte de sucesos, definido por el radio de Schwarzschild, es el punto de no retorno alrededor de un agujero negro."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Quién propuso que los agujeros negros emitan radiación mediante efectos cuánticos?",
+        "options": [
+          "Albert Einstein",
+          "Karl Schwarzschild",
+          "Esteban Hawking",
+          "Roger Penrose"
+        ],
+        "correctAnswer": "Esteban Hawking",
+        "explanation": "Stephen Hawking descubrió en 1974 que los agujeros negros emiten radiación debido a efectos cuánticos cerca del horizonte de sucesos."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "El agujero negro en el centro de la Vía Láctea, llamado Sagitario A*, tiene una masa de aproximadamente _______ masas solares.",
+        "correctAnswer": "4 millones",
+        "explanation": "Sagitario A* es un agujero negro supermasivo con una masa de aproximadamente 4 millones de veces la de nuestro Sol."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué se logró en 2019 en materia de observación de agujeros negros?",
+        "options": [
+          "Se descubre el primer agujero negro",
+          "Se capturó la primera imagen directa de la sombra de un agujero negro",
+          "Se detectó directamente la radiación de un agujero negro",
+          "Se creó un agujero negro en un laboratorio"
+        ],
+        "correctAnswer": "Se capturó la primera imagen directa de la sombra de un agujero negro",
+        "explanation": "El Telescopio Event Horizon capturó la primera imagen directa de un agujero negro en la galaxia M87 en 2019."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440001"
+  },
+  "publishedAt": "2026-04-01T00:00:00Z",
+  "createdAt": "2026-04-01T00:00:00Z",
+  "updatedAt": "2026-04-01T00:00:00Z"
+}

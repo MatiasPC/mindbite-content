@@ -1,0 +1,148 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440008",
+  "slug": "exoplanets-habitable-worlds",
+  "title": "Exoplanetas y mundos habitables",
+  "subtitle": "Buscando mundos donde podría existir vida",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 8,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/exoplanets-habitable-worlds.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El descubrimiento de exoplanetas",
+      "body": "Durante la mayor parte de la historia de la humanidad, sólo observamos planetas orbitando alrededor de nuestro Sol. En 1995, los astrónomos descubrieron el primer exoplaneta alrededor de una estrella similar al Sol (51 Pegasi), revolucionando nuestra comprensión de los sistemas planetarios. Desde entonces se han descubierto más de 5.000 exoplanetas y constantemente se encuentran más. Estos descubrimientos revelan que los sistemas planetarios son comunes y diversos. Algunos planetas orbitan extremadamente cerca de sus estrellas, otros están sorprendentemente distantes. Algunos orbitan alrededor de estrellas binarias, otros viajan a través del espacio interestelar. Esta diversidad desafió las teorías existentes y amplió nuestro conocimiento sobre cómo se forman los sistemas planetarios.",
+      "funFact": "El primer exoplaneta descubierto fue un \"Júpiter caliente\", un planeta gaseoso gigante que orbita muy cerca de su estrella, ¡nada parecido a nuestro sistema solar!",
+      "imageUrl": "images/content/exoplanet-discovery.jpg",
+      "imageCaption": "Representación artística de un exoplaneta y su estrella anfitriona."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Métodos de detección",
+      "body": "Los astrónomos detectan exoplanetas utilizando varias técnicas. El método de tránsito detecta la ligera caída de brillo cuando un planeta pasa por delante de su estrella. El método de la velocidad radial mide el \"bamboleo\" de la estrella causado por la gravedad del planeta. Las imágenes directas capturan la luz reflejada o emitida por el propio planeta. La microlente gravitacional detecta planetas a través de efectos de lentes gravitacionales. La astrometría mide el cambio de posición de la estrella causado por los planetas en órbita. Cada método tiene fortalezas y limitaciones. El método de tránsito ha sido el más exitoso, utilizado por el telescopio espacial Kepler de la NASA para descubrir miles de exoplanetas.",
+      "imageUrl": "images/content/transit-method.jpg",
+      "imageCaption": "El método del tránsito detecta planetas midiendo la caída de la luz de las estrellas"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Tipos de exoplanetas",
+      "body": "La diversidad de exoplanetas supera con creces a nuestro sistema solar. Las súper Tierras y los miniNeptunos (planetas de tamaño comprendido entre la Tierra y Neptuno) son el tipo más común, pero no existen en nuestro sistema solar. Los Júpiter calientes orbitan muy cerca de sus estrellas, a diferencia de Júpiter. Los gigantes fríos orbitan muy lejos en órbitas extendidas. Cada vez se descubren más planetas terrestres similares a la Tierra o Marte. Algunos planetas orbitan alrededor de estrellas binarias o viajan flotando libremente por el espacio sin ninguna estrella. Esta variedad demuestra que nuestro sistema solar representa sólo una posibilidad entre innumerables configuraciones planetarias. Comprender esta diversidad informa las teorías de formación planetaria.",
+      "funFact": "Algunos exoplanetas están tan cerca de sus estrellas que están bloqueados por mareas, ¡con un lado siempre mirando a la estrella y el otro siempre oscuro!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "La zona habitable",
+      "body": "La zona habitable (o 'zona Ricitos de Oro') es la región alrededor de una estrella donde podría existir agua líquida en la superficie de un planeta. Demasiado cerca de la estrella y el agua se evapora; demasiado lejos y se congela. El tamaño y la ubicación de la zona habitable dependen de la temperatura y la luminosidad de la estrella. Las estrellas más calientes tienen zonas habitables más alejadas; las estrellas más frías los tienen más cerca. Se han descubierto numerosos exoplanetas potencialmente habitables, incluidos mundos del tamaño de la Tierra alrededor de tenues estrellas enanas rojas. Sin embargo, la habitabilidad requiere algo más que estar en la zona habitable: la composición atmosférica, la intensidad del campo magnético y la actividad geológica son muy importantes.",
+      "imageUrl": "images/content/habitable-zone.jpg",
+      "imageCaption": "El concepto de zona habitable que muestra el potencial del agua líquida."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Candidatos potencialmente habitables",
+      "body": "Varios exoplanetas son candidatos habitables convincentes. Proxima Centauri b, descubierta en 2016, orbita del tamaño de la Tierra alrededor de la estrella más cercana a nuestro Sol. TRAPPIST-1e orbita dentro de la zona habitable de una pequeña estrella enana roja. Kepler-452b fue llamado \"primo de la Tierra\" debido a su tamaño y similitud de estrellas. K2-18b muestra evidencia de agua en su atmósfera. Estos mundos siguen siendo distantes y difíciles de estudiar, pero las observaciones en curso perfeccionan nuestra comprensión. Los futuros telescopios, como el telescopio espacial James Webb, analizarán las atmósferas de los exoplanetas en busca de biofirmas (combinaciones químicas que sugieran actividad biológica).",
+      "funFact": "El exoplaneta potencialmente habitable más cercano (Próxima Centauri b) está a 4,24 años luz de distancia; ¡a nuestra nave espacial más rápida le llevaría más de 80.000 años alcanzarlo!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Estudios atmosféricos",
+      "body": "Comprender las atmósferas de los exoplanetas es crucial para evaluar la habitabilidad. Cuando un planeta transita por su estrella, parte de la luz estelar se filtra a través de la atmósfera. Al analizar esta luz filtrada, los científicos pueden identificar los componentes atmosféricos. El vapor de agua, el dióxido de carbono, el metano y el oxígeno son firmas biológicas detectables que indican posible vida. El telescopio espacial James Webb puede analizar atmósferas de exoplanetas relativamente cercanos. Los instrumentos futuros permitirán una caracterización atmosférica más detallada. El descubrimiento de atmósferas ricas en oxígeno sin fuentes geológicas aparentes sugeriría orígenes biológicos. Los estudios atmosféricos representan la frontera de la investigación de exoplanetas.",
+      "imageUrl": "images/content/atmospheri-spectroscopy.jpg",
+      "imageCaption": "Técnica para analizar atmósferas de exoplanetas."
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "El futuro de la ciencia de los exoplanetas",
+      "body": "La investigación de exoplanetas avanza rápidamente. Las próximas misiones espaciales descubrirán planetas más pequeños y potencialmente habitables. Los telescopios terrestres de próxima generación proporcionarán detalles sin precedentes. La investigación de biofirmas se centrará en identificar indicadores confiables de vida. Los estudios estadísticos estimarán cuántos planetas habitables existen en nuestra galaxia: potencialmente miles de millones. Las misiones futuras podrían obtener imágenes de las superficies de exoplanetas o incluso analizar lunas de exoplanetas. Encontrar evidencia de vida en otros lugares respondería a una de las preguntas más profundas de la humanidad. Ya sea que la vida sea rara o común en el universo, la investigación de exoplanetas tendrá un profundo impacto en nuestra comprensión del lugar de la vida en el cosmos.",
+      "funFact": "Algunas estimaciones sugieren que podría haber decenas de miles de millones de planetas potencialmente habitables sólo en la Vía Láctea."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Mayor, M., & Queloz, D. (1995). 'A Jupiter-mass companion to a solar-type star.' Nature, 378(6555), 355-359.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Kaltenegger, L., & Sasselov, D. (2011). 'Exploring the habitable zone for Kepler planetary candidates.' The Astrophysical Journal Letters, 736(2), L25.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Snellen, I. A., et al. (2014). 'Abundance of water in the atmosphere of WASP-33b detected with the CRIRES spectrograph.' The Astrophysical Journal, 764(2), 182.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-8",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Cuándo se descubrió el primer exoplaneta?",
+        "options": [
+          "1985",
+          "1990",
+          "1995",
+          "2000"
+        ],
+        "correctAnswer": "1995",
+        "explanation": "El primer exoplaneta fue descubierto alrededor de 51 pegasos en 1995, lo que cambió fundamentalmente nuestra visión de los sistemas planetarios."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "El método más común para detectar exoplanetas mide la oscilación causada por la atracción gravitacional del planeta sobre su estrella.",
+        "correctAnswer": "false",
+        "explanation": "Mientras que el método de la velocidad radial mide la oscilación, el método del tránsito (que mide las caídas de brillo) ha sido más exitoso para el descubrimiento de exoplanetas."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál es la zona habitable?",
+        "options": [
+          "La región dentro de la atmósfera de un planeta donde puede existir vida.",
+          "La región alrededor de una estrella donde podría existir agua líquida en la superficie de un planeta.",
+          "El área alrededor de un planeta donde se pueden formar lunas.",
+          "La región entre las órbitas planetarias."
+        ],
+        "correctAnswer": "La región alrededor de una estrella donde podría existir agua líquida en la superficie de un planeta.",
+        "explanation": "La zona habitable es la región orbital donde las temperaturas permiten el agua líquida, esencial para la vida tal como la conocemos."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "Proxima Centauri b, un exoplaneta potencialmente habitable, orbita la estrella _______ con respecto a nuestro Sol.",
+        "correctAnswer": "más cercano",
+        "explanation": "Próxima Centauri es la vecina estelar más cercana a nuestro Sol, a 4,24 años luz de distancia."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué es un 'Júpiter caliente'?",
+        "options": [
+          "Un planeta gaseoso gigante con una atmósfera muy caliente.",
+          "Un planeta gaseoso gigante que orbita muy cerca de su estrella",
+          "El tipo de exoplaneta más masivo.",
+          "Un planeta hecho de roca y metales fundidos."
+        ],
+        "correctAnswer": "Un planeta gaseoso gigante que orbita muy cerca de su estrella",
+        "explanation": "Los Júpiter calientes son descubrimientos inesperados: gigantes gaseosos en órbitas muy cercanas, diferentes a todo lo que hay en nuestro sistema solar."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440008"
+  },
+  "publishedAt": "2026-04-15T00:00:00Z",
+  "createdAt": "2026-04-15T00:00:00Z",
+  "updatedAt": "2026-04-15T00:00:00Z"
+}

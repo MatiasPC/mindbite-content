@@ -1,0 +1,134 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "slug": "fall-of-the-roman-empire",
+  "title": "La caída del Imperio Romano",
+  "subtitle": "Cómo se derrumbó el imperio más poderoso de la historia",
+  "topicId": "history",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/fall-of-the-roman-empire.jpg",
+  "isPremium": false,
+  "featured": true,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El apogeo del poder romano",
+      "body": "En su apogeo durante el reinado del emperador Adriano (117-138 d.C.), el Imperio Romano se extendía desde Gran Bretaña hasta Mesopotamia, abarcando casi tres millones de millas cuadradas. El imperio era la civilización más avanzada de su tiempo, con infraestructura, fuerza militar y sistemas de gobierno sofisticados. La población de Roma alcanzó aproximadamente entre 70 y 100 millones de personas en sus vastos territorios. El imperio controló el Mediterráneo, facilitó rutas comerciales y estableció sistemas legales que influyeron en el derecho occidental durante siglos.",
+      "funFact": "El hormigón romano, llamado opus caementicium, era superior al hormigón moderno en algunos aspectos y podía durar más de 2.000 años."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Tensión económica y militar",
+      "body": "En el siglo III d.C., Roma enfrentó graves problemas económicos, como inflación, degradación de la moneda y problemas fiscales que debilitaron la base financiera del imperio. Los militares, que alguna vez fueron una fuerza invencible, se estiraron demasiado manteniendo fronteras a lo largo de vastas distancias. La guerra constante en múltiples frentes agotó el tesoro imperial. La corrupción y la ineficiencia plagaron la administración gubernamental. El costo de mantener un imperio tan enorme excedió su capacidad de generación de ingresos, creando un ciclo de declive.",
+      "funFact": "El emperador Diocleciano dividió el imperio en Este y Oeste en 285 EC para que fuera más fácil de gobernar y defender."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Invasiones y presión bárbara",
+      "body": "Las tribus germánicas, incluidos los visigodos, los ostrogodos, los vándalos y los francos, presionaron cada vez más las fronteras romanas. Estos grupos, a menudo llamados \"bárbaros\", buscaban tierras y recursos. En 410 EC, el visigodo Alarico saqueó la propia Roma. El famoso saqueo conmocionó al mundo civilizado: Roma no había sido conquistada en 800 años. Hacia el año 476 d.C., el caudillo germánico Odoacro depuso al último emperador romano occidental, Rómulo Augústulo, lo que marcó el tradicional fin del Imperio Romano Occidental.",
+      "funFact": "Muchas tribus \"bárbaras\" se habían integrado a la sociedad romana y sirvieron en el ejército romano como foederati o fuerzas aliadas."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "División interna e inestabilidad política",
+      "body": "El imperio se fracturó en Oriente y Occidente, creando centros de poder en competencia y recursos divididos. La inestabilidad política floreció con una rápida sucesión de emperadores, algunos de los cuales reinaron sólo durante meses. El Senado perdió autoridad mientras los generales militares acumulaban poder. El conflicto religioso surgió a medida que el cristianismo se extendió, creando tensión entre las instituciones paganas tradicionales y el nuevo liderazgo cristiano. Las guerras civiles entre pretendientes rivales al trono debilitaron aún más la autoridad central y la eficacia militar.",
+      "imageUrl": "images/cards/roman-empire-divided.jpg",
+      "imageCaption": "Mapa que muestra la división del Imperio Romano en partes oriental y occidental."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Colapso cultural y administrativo",
+      "body": "A medida que la autoridad central se debilitó, las ciudades disminuyeron, las rutas comerciales se interrumpieron y las tasas de alfabetización cayeron dramáticamente. El complejo sistema administrativo que gobernaba el imperio colapsó. En Occidente, la infraestructura romana cayó en mal estado. Sin embargo, el Imperio Romano de Oriente (Bizantino) continuó durante otros mil años, preservando la cultura, el derecho y el cristianismo romanos. El legado cultural de Roma (su lengua, derecho, arquitectura y filosofía) influyó profundamente en los reinos europeos medievales emergentes.",
+      "funFact": "El latín, la lengua de Roma, evolucionó hacia las lenguas romances: español, francés, italiano, portugués y rumano."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Legado y significado histórico",
+      "body": "La caída de Roma no fue una catástrofe repentina sino una transformación gradual que abarcó siglos. Este período, alguna vez llamado la \"Edad Oscura\", ahora se reconoce como una época de importante síntesis y transformación cultural. Los principios del derecho romano siguen siendo la base de muchos sistemas jurídicos occidentales. La Iglesia católica conservó la literatura y el saber romanos. Los reinos medievales heredaron las ideas administrativas romanas. Comprender el declive de Roma proporciona información sobre cómo cambian y se adaptan las civilizaciones complejas.",
+      "funFact": "Los historiadores debaten si Roma \"cayó\" o \"se transformó\", ya que muchos aspectos de la civilización romana continuaron en diferentes formas."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Fall of the Roman Empire: And the Rise of Islam",
+      "author": "John Julius Norwich",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "The Later Roman Empire (284-430)",
+      "author": "Peter Brown",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Decline of the West",
+      "author": "Oswald Spengler",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-fall-roman-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿En qué año se consideraba tradicionalmente que había terminado el Imperio Romano Occidental?",
+        "options": [
+          "410 d.C.",
+          "476 d.C.",
+          "350 d.C.",
+          "500 d.C."
+        ],
+        "correctAnswer": "476 d.C.",
+        "explanation": "Tradicionalmente se fecha el fin del Imperio Romano Occidental en el año 476 d.C., cuando el cacique germánico Odoacro depuso al último emperador occidental, Rómulo Augústulo."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "El Imperio Romano de Oriente cayó al mismo tiempo que el Imperio Romano de Occidente en 476 EC.",
+        "correctAnswer": "false",
+        "explanation": "El Imperio Romano de Oriente (Bizantino) continuó durante más de 1000 años después de la caída del Imperio Occidental y no terminó hasta 1453 d.C."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "El emperador _______ dividió el Imperio Romano en Oriente y Occidente en 285 EC para facilitar su gobernación.",
+        "correctAnswer": "Diocleciano",
+        "explanation": "Diocleciano implementó esta importante reforma administrativa para abordar el tamaño del imperio y los desafíos de gobernanza."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Qué tribu germánica saqueó Roma en el año 410 d.C.?",
+        "options": [
+          "Vándalos",
+          "Visigodos",
+          "francos",
+          "Ostrogodos"
+        ],
+        "correctAnswer": "Visigodos",
+        "explanation": "El líder visigodo Alarico encabezó el saqueo de Roma en el año 410 d.C., lo que conmocionó al mundo mediterráneo ya que Roma no había sido conquistada en 800 años."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "La caída de Roma fue un acontecimiento catastrófico repentino que ocurrió en tan solo unos pocos años.",
+        "correctAnswer": "false",
+        "explanation": "La caída de Roma fue una transformación gradual que abarcó varios siglos, no una catástrofe repentina. Los historiadores ahora reconocen este período como uno de síntesis y cambio cultural."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440001"
+  },
+  "publishedAt": "2026-04-01T00:00:00Z",
+  "createdAt": "2026-04-01T00:00:00Z",
+  "updatedAt": "2026-04-01T00:00:00Z"
+}

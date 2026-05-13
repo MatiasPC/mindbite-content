@@ -1,0 +1,131 @@
+{
+  "id": "d8f0a1b2-c3d4-5e6f-7a8b-9c0d1e2f3a4b",
+  "slug": "confucius-golden-rule",
+  "title": "Confucio y la regla de oro",
+  "subtitle": "Reciprocidad, relaciones y vida virtuosa en la filosofía oriental",
+  "topicId": "philosophy",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/confucius-golden-rule.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Confucio y sus enseñanzas fundamentales",
+      "body": "Confucio (551-479 a. C.) fue un filósofo y maestro chino cuyas ideas moldearon profundamente la civilización del este de Asia durante más de dos mil años. Al vivir durante un período de caos político y desorden social, Confucio enseñó que la moralidad y la conducta adecuada podían restaurar la armonía en la sociedad. Su filosofía enfatiza virtudes como la benevolencia, la rectitud, el decoro y la sabiduría. A diferencia de la filosofía occidental, el confucianismo se centra menos en principios abstractos y más en la ética práctica y las relaciones sociales. Confucio creía que los individuos debían cultivar la virtud y cumplir adecuadamente sus roles sociales. Estas enseñanzas fueron recopiladas en las Analectas, una colección de dichos y conversaciones que sigue siendo fundamental para la filosofía confuciana. Su influencia se extendió más allá de China, hasta Corea, Japón, Vietnam y todo el este de Asia, dando forma a culturas y sistemas de gobierno."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "La regla de oro en el confucianismo",
+      "body": "El principio de \"reciprocidad\" o \"shu\" representa la versión de Confucio de la regla de oro. En las Analectas, cuando se le preguntó cuál era la palabra que podría servir de guía para la vida, Confucio respondió: \"Reciprocidad\". Lo que no quieras que te hagan a ti, no se lo hagas a los demás. Esta formulación negativa difiere de la versión positiva occidental (\"haz a los demás lo que te gustaría que te hicieran a ti\"). La reciprocidad confuciana enfatiza la obligación mutua y el respeto dentro de las relaciones. No se trata simplemente de bondad, sino más bien de un principio fundamental de cómo las personas deben relacionarse entre sí. El concepto se extiende más allá de las interacciones individuales para abarcar sistemas completos de relaciones: familia, gobierno y sociedad. Comprender la reciprocidad requiere comprender que el comportamiento ético debe ser apropiado para las relaciones y la posición social de cada uno."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Cinco relaciones clave",
+      "body": "El confucianismo estructura la sociedad en torno a cinco relaciones fundamentales: gobernante y súbdito, padre e hijo, marido y mujer, hermano mayor y hermano menor, y amigo con amigo. Cada relación implica deberes y virtudes específicas. El gobernante debe ser benevolente mientras el súbdito muestra lealtad y respeto. El padre debe ser afectuoso mientras el hijo muestra piedad filial. A diferencia del pensamiento occidental moderno que enfatiza la igualdad, el confucianismo reconoce las relaciones jerárquicas al tiempo que sostiene que quienes ocupan posiciones superiores tienen responsabilidades especiales. La piedad filial (respeto y cuidado de los padres) es fundamental para la ética confuciana. Estas relaciones crean una red de obligaciones mutuas. La virtud de uno se manifiesta a través del cumplimiento apropiado de los deberes relacionales. La familia se convierte en el modelo de toda organización social. Extender la lealtad familiar y los principios filiales al gobierno crea una sociedad armoniosa."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Ren, Li y otras virtudes",
+      "body": "Un elemento central de la ética de Confucio es \"ren\", a menudo traducido como benevolencia, humanidad o corazón humano. Ren representa la virtud más elevada y el objetivo del cultivo moral. Es la cualidad de ser plenamente humano y moralmente excelente. Otro concepto crucial es 'li': propiedad, ritual y ceremonia correcta. Li implica comprender y realizar acciones adecuadas que se adapten a las relaciones y circunstancias de cada uno. A través de li, uno expresa ren. Otras virtudes clave incluyen 'yi' (rectitud), 'zhi' (sabiduría) y 'xin' (confiabilidad). Estas virtudes no son innatas sino que deben cultivarse mediante la educación, la práctica ritual y la autodisciplina. Confucio creía que los humanos tienen una inclinación natural hacia la bondad, a diferencia de los filósofos posteriores que enfatizaron la depravación inherente. El desarrollo moral implica aprendizaje, práctica y superación personal continua. Esta visión optimista del potencial humano caracteriza al confucianismo.",
+      "funFact": "Confucio nunca ocupó altos cargos políticos a pesar de sus enseñanzas sobre la gobernanza, pero su influencia en la filosofía política y los sistemas educativos de toda Asia se volvió inconmensurable."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "La regla de oro confuciana hoy",
+      "body": "El principio de reciprocidad de Confucio sigue siendo relevante en los contextos globales contemporáneos. Su énfasis en la obligación mutua y el respeto dentro de las relaciones jerárquicas ofrece perspectivas sobre la dinámica del lugar de trabajo, las estructuras familiares y la comunicación intercultural. El principio enseña que el comportamiento ético requiere comprender la propia posición y cumplir con los deberes correspondientes. Los estudios organizacionales modernos reconocen cada vez más el valor de la ética relacional y el reconocimiento de la interdependencia. La formulación negativa de Confucio de la regla de oro (centrarse en lo que no se debe hacer) en realidad puede reducir la proyección de las preferencias de uno sobre los demás. Fomenta la empatía a través de la diferencia: 'No quisiera que me hicieran esto; por eso no te lo haré.' Su enfoque holístico de la ética que integra el ritual, la educación y la práctica social ofrece alternativas a los enfoques puramente legalistas o contractuales. Muchos consideran que la ética confuciana es valiosa para abordar desafíos modernos como la fragmentación social y el relativismo ético."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Críticas y limitaciones",
+      "body": "Los críticos argumentan que la jerarquía confuciana puede perpetuar la desigualdad y limitar la autonomía individual, especialmente en lo que respecta a los roles de género. El confucianismo tradicional a menudo reforzó las estructuras patriarcales y la subordinación de las mujeres. El énfasis en las relaciones jerárquicas y la armonía social podría desalentar el cuestionamiento de la autoridad o la defensa de la justicia. Algunos sostienen que la piedad filial confuciana exige obediencia incluso a padres poco éticos, lo que potencialmente permite el abuso. Otros cuestionan si el ritual y el decoro pueden sustituir la comprensión moral genuina. Los eruditos confucianos modernos abordan estas críticas reinterpretando conceptos como la piedad filial de manera compatible con los derechos y la igualdad contemporáneos. Sostienen que la reciprocidad confuciana en realidad requiere que los superiores cumplan sus deberes de manera responsable, limitando el abuso. A pesar de estas críticas, el énfasis del confucianismo en las relaciones, el desarrollo de las virtudes y la armonía social ofrece una valiosa sabiduría ética."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Confucius. The Analects. Translated by D.C. Lau, Penguin Classics, 1979.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Ivanhoe, Philip J. Confucian Moral Self Cultivation. Hackett Publishing, 2000.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "De Bary, William T. The Trouble with Confucianism. Harvard University Press, 1991.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-confucius-golden-rule",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Cómo se llama la versión de Confucio de la regla de oro?",
+        "options": [
+          "Armonía",
+          "Reciprocidad (shu)",
+          "Propiedad (li)",
+          "Benevolencia (ren)"
+        ],
+        "correctAnswer": "Reciprocidad (shu)",
+        "explanation": "Confucio llamó a su versión de la regla de oro \"reciprocidad\" o \"shu\". Dijo: \"Lo que no quieras que te hagan a ti mismo, no se lo hagas a los demás\". Esta formulación negativa enfatiza la obligación y el respeto mutuos."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "En el confucianismo, las cinco relaciones fundamentales son todas iguales y no jerárquicas.",
+        "correctAnswer": "false",
+        "explanation": "Las relaciones confucianas son jerárquicas, como gobernante sobre súbdito y padre sobre hijo. Sin embargo, quienes ocupan puestos superiores tienen responsabilidades especiales. Se aplican deberes recíprocos a ambos puestos."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué virtud representa la máxima excelencia moral en el confucianismo?",
+        "options": [
+          "Li (propiedad)",
+          "Yi (rectitud)",
+          "Ren (benevolencia/humanidad)",
+          "Zhi (sabiduría)"
+        ],
+        "correctAnswer": "Ren (benevolencia/humanidad)",
+        "explanation": "Ren se erige como la virtud confuciana más elevada y representa la humanidad genuina y la excelencia moral. Todas las demás virtudes expresan o apoyan en última instancia el cultivo de ren."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "Confucio creía que la virtud moral debía cultivarse a través de ___, la práctica ritual y la superación personal continua en lugar de ser innata.",
+        "correctAnswer": "educación",
+        "explanation": "Confucio enfatizó que las virtudes deben desarrollarse mediante la educación, la práctica ritual y la autodisciplina. Sostenía una visión optimista de que todos los seres humanos tienen el potencial de desarrollarse moralmente."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál de las siguientes NO es una de las cinco relaciones confucianas fundamentales?",
+        "options": [
+          "Gobernante y sujeto",
+          "padre e hijo",
+          "Amo y sirviente",
+          "marido y mujer"
+        ],
+        "correctAnswer": "Amo y sirviente",
+        "explanation": "Las cinco relaciones son: gobernante-súbdito, padre-hijo, marido-esposa, hermano mayor-menor y amigo-amigo. Amo-sirviente no se encuentra entre las cinco relaciones principales de la filosofía confuciana."
+      }
+    ],
+    "lectureId": "d8f0a1b2-c3d4-5e6f-7a8b-9c0d1e2f3a4b"
+  },
+  "publishedAt": "2026-04-09T00:00:00Z",
+  "createdAt": "2026-04-09T00:00:00Z",
+  "updatedAt": "2026-04-09T00:00:00Z"
+}

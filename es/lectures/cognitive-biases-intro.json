@@ -1,0 +1,115 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440002",
+  "slug": "cognitive-biases-intro",
+  "title": "Introducción a los sesgos cognitivos",
+  "subtitle": "Cómo nuestras mentes nos engañan sistemáticamente",
+  "topicId": "psychology",
+  "estimatedMinutes": 9,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/cognitive-biases-intro.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "¿Qué son los sesgos cognitivos?",
+      "body": "Los sesgos cognitivos son patrones sistemáticos en la forma en que nuestro cerebro procesa la información que conducen a desviaciones constantes del juicio racional. En lugar de evaluar toda la información objetivamente, nuestra mente utiliza atajos mentales llamados heurísticas que a menudo nos llevan por mal camino. Estos sesgos no son defectos de carácter: son características de la cognición humana que evolucionaron para ayudarnos a tomar decisiones rápidas con información limitada. Comprender estos patrones es esencial para mejorar la toma de decisiones en contextos personales, profesionales y académicos.",
+      "funFact": "El cerebro humano procesa aproximadamente 11 millones de bits de información por segundo, pero nuestra mente consciente sólo puede manejar unos 40 bits. Esta limitación es la razón por la que confiamos en los atajos."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Sesgo de confirmación",
+      "body": "El sesgo de confirmación es la tendencia a buscar, interpretar y recordar información que confirme nuestras creencias preexistentes mientras descarta evidencia contradictoria. Si cree que el café es saludable, recordará los estudios que respaldan esa afirmación e ignora las investigaciones que muestran efectos negativos. Este sesgo opera de forma automática e inconsciente. Refuerza las visiones del mundo existentes, lo que dificulta la actualización de creencias basadas en nueva información. Reconocer esta tendencia nos ayuda a buscar activamente puntos de vista opuestos y evaluar la evidencia de manera más objetiva."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Heurística de disponibilidad",
+      "body": "La heurística de disponibilidad nos lleva a juzgar la frecuencia o probabilidad de eventos en función de la facilidad con la que se nos ocurren ejemplos. Los acontecimientos memorables o recientes parecen más comunes de lo que realmente son. Después de oír hablar de accidentes aéreos, la gente sobreestima los accidentes de aviación mientras subestima causas de muerte mucho más comunes, como los accidentes automovilísticos. La cobertura periodística amplifica este sesgo al prestar una atención desproporcionada a acontecimientos dramáticos. Esta heurística es útil para realizar juicios rápidos, pero a menudo conduce a evaluaciones de riesgos inexactas en la vida diaria.",
+      "imageUrl": "images/availability-heuristic.jpg"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Sesgo de anclaje",
+      "body": "El sesgo de anclaje ocurre cuando confiamos demasiado en la información inicial (el ancla) al tomar decisiones. En las negociaciones, el primer precio mencionado ancla las expectativas, influyendo significativamente en el resultado final. Incluso cuando sabemos que un ancla es irrelevante o engañosa, sigue influyendo en nuestro juicio. Este sesgo afecta las negociaciones salariales, la percepción de los precios de los productos y las estimaciones numéricas. Comprender el anclaje ayuda a los negociadores a establecer ofertas iniciales estratégicamente y permite a los consumidores resistir las tácticas manipuladoras de precios en contextos minoristas."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Superar los sesgos cognitivos",
+      "body": "Si bien no podemos eliminar los sesgos por completo, podemos desarrollar estrategias para minimizar su impacto. Ralentizar nuestro pensamiento, buscar perspectivas diversas y utilizar datos estadísticos en lugar de anécdotas ayudan a contrarrestar los sesgos. Llevar un diario de decisiones para realizar un seguimiento de cómo se comparan las predicciones con los resultados reales genera conciencia con el tiempo. Colaborar con otras personas que tienen puntos de vista diferentes expone puntos ciegos. La práctica regular de reconocer los prejuicios en el pensamiento de los demás fortalece nuestra capacidad de identificarlos en nosotros mismos, lo que lleva a decisiones más racionales y mejor informadas."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Ariely, D. (2008). Predictably Irrational: The Hidden Forces That Shape Our Decisions. HarperCollins.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-biases-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál es la razón principal por la que se desarrollaron sesgos cognitivos en la cognición humana?",
+        "options": [
+          "Para hacernos menos inteligentes",
+          "Para ayudarnos a tomar decisiones rápidas con información limitada",
+          "Para impedirnos pensar racionalmente",
+          "Para crear desventajas evolutivas."
+        ],
+        "correctAnswer": "Para ayudarnos a tomar decisiones rápidas con información limitada",
+        "explanation": "Los sesgos cognitivos evolucionaron como atajos mentales que permitieron a nuestros antepasados ​​tomar decisiones rápidas en situaciones que requerían una acción rápida, a pesar de tener información incompleta."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "El sesgo de confirmación significa que buscamos activamente información que contradice nuestras creencias existentes.",
+        "correctAnswer": "false",
+        "explanation": "Esto es falso. El sesgo de confirmación es lo contrario: tendemos a buscar información que confirme nuestras creencias existentes mientras descartamos evidencia contradictoria."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "La heurística de disponibilidad nos hace juzgar mal la frecuencia ¿en función de qué factor?",
+        "options": [
+          "que caro es algo",
+          "Con qué facilidad me vienen a la mente ejemplos",
+          "¿Cuántas personas conocemos que lo experimentaron?",
+          "¿Qué tan reciente fue nuestra última experiencia?"
+        ],
+        "correctAnswer": "Con qué facilidad me vienen a la mente ejemplos",
+        "explanation": "La heurística de disponibilidad nos hace juzgar la probabilidad y la frecuencia en función de la facilidad con la que nos vienen a la mente los ejemplos, lo que a menudo refleja la cobertura de los medios más que la frecuencia real."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "En situaciones de negociación, el primer precio mencionado puede actuar como _______, influyendo significativamente en el resultado final.",
+        "correctAnswer": "ancla",
+        "explanation": "En el sesgo de anclaje, la cifra inicial sirve como un ancla que influye en los juicios y negociaciones posteriores, incluso cuando el ancla es irrelevante o se sabe que es engañosa."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "Llevar un diario de decisiones puede ayudar a crear conciencia sobre nuestros sesgos cognitivos con el tiempo.",
+        "correctAnswer": "true",
+        "explanation": "Esto es cierto. El seguimiento de las decisiones y la comparación de las predicciones con los resultados reales genera retroalimentación que ayuda a identificar patrones en nuestro pensamiento sesgado."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440002"
+  },
+  "publishedAt": "2026-04-03T00:00:00Z",
+  "createdAt": "2026-04-03T00:00:00Z",
+  "updatedAt": "2026-04-03T00:00:00Z"
+}

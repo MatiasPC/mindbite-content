@@ -1,0 +1,119 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440007",
+  "slug": "stockholm-syndrome",
+  "title": "Síndrome de Estocolmo",
+  "subtitle": "Comprender el vínculo psicológico bajo coacción",
+  "topicId": "psychology",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/stockholm-syndrome.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "La crisis de los rehenes que lo empezó todo",
+      "body": "El síndrome de Estocolmo toma su nombre de un robo a un banco y una situación de rehenes en 1973 en Estocolmo, Suecia. Dos ladrones mantuvieron como rehenes a cuatro empleados del banco durante casi seis días. Sorprendentemente, los rehenes desarrollaron sentimientos positivos hacia sus captores, los defendieron después del rescate e incluso los visitaron en prisión. Los psicólogos Frank Ochberg y Nils Bejerot analizaron este caso e identificaron el patrón psicológico que más tarde se denominó síndrome de Estocolmo. Desde entonces, la condición ha sido reconocida en diversas situaciones de rehenes, secuestros y traumas. Este fenómeno revela cómo la psicología humana puede adaptarse a peligros extremos a través de mecanismos psicológicos inusuales que involucran identidad, empatía e instintos de supervivencia.",
+      "funFact": "Según se informa, un rehén dijo acerca de los ladrones: \"Si hacen cosas malas, estarán contra mí\", demostrando el cambio psicológico hacia sus captores."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Mecanismos psicológicos clave",
+      "body": "El síndrome de Estocolmo implica varios procesos psicológicos. El capturado percibe una amenaza a la supervivencia por parte de los captores, lo que genera un miedo intenso. Cuando los captores otorgan pequeños gestos de bondad (proporcionando comida, permitiendo ir al baño), el contraste entre amenaza y bondad crea un vínculo emocional. Este alivio del miedo produce asociaciones positivas con los captores. El aislamiento de perspectivas externas impide comprobar la realidad. Los capitanes pueden suprimir inconscientemente los sentimientos negativos para mejorar las perspectivas del tratamiento. Con el tiempo, los capturados adoptan las perspectivas de sus captores, entendiendo sus motivaciones y justificando sus acciones. La relación captee-captor se convierte en la única realidad social, estrechando la perspectiva. Estos mecanismos se combinan para crear apego psicológico a pesar del peligro objetivo.",
+      "imageUrl": "images/stockholm-mechanisms.jpg"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Las cuatro condiciones para el desarrollo",
+      "body": "Los investigadores identificaron cuatro condiciones que facilitan el desarrollo del síndrome de Estocolmo. Primero, debe existir una amenaza percibida a la supervivencia. En segundo lugar, los pequeños actos de bondad por parte de los captores crean un contraste con la amenaza. En tercer lugar, el aislamiento impide la comunicación con perspectivas externas que podrían contrarrestar el apego en desarrollo. Cuarto, la incapacidad de escapar mantiene el desequilibrio de poder y la dependencia de los captores. Cuando las cuatro condiciones están presentes (una situación que pone en peligro la vida con bondad intermitente, aislamiento total y desesperanza respecto de escapar), el vínculo psicológico se vuelve probable. Sin embargo, estas condiciones no están presentes universalmente en todas las situaciones de alto estrés, lo que explica por qué el síndrome de Estocolmo no se desarrolla en todos los escenarios con rehenes.",
+      "imageUrl": "images/stockholm-conditions.jpg",
+      "imageCaption": "Cuatro condiciones facilitan el desarrollo del síndrome de Estocolmo"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Más allá de las situaciones de rehenes",
+      "body": "Si bien el síndrome de Estocolmo se originó a partir de la investigación con rehenes, los psicólogos han observado patrones similares en otros contextos. Las víctimas de abuso a veces defienden a sus abusadores y se resisten a abandonar las relaciones, lo que muestra mecanismos psicológicos que se superponen con el síndrome de Estocolmo. Los miembros de una secta a menudo muestran lealtad hacia los líderes que los explotan emocional o financieramente. Algunos empleados desarrollan apego a empleadores explotadores. Los guardias de prisiones y los reclusos a veces desarrollan patrones de lealtad inesperados. Sin embargo, los profesionales de la salud mental debaten si estas situaciones constituyen un verdadero síndrome de Estocolmo o representan fenómenos relacionados pero distintos. La idea más amplia (que las personas cautivas amenazadas pueden desarrollar apego a sus captores) se aplica a diversas situaciones coercitivas.",
+      "imageUrl": "images/stockholm-contexts.jpg"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Recuperación psicológica e implicaciones",
+      "body": "Comprender el síndrome de Estocolmo tiene implicaciones importantes para el rescate y la recuperación. Los profesionales de la salud mental reconocen que los rehenes que muestran lealtad a sus captores no necesariamente son enfermos mentales: se han adaptado psicológicamente a condiciones extremas. La recuperación implica procesar el trauma, establecer seguridad y reconstruir la percepción precisa de la amenaza. La terapia ayuda a los supervivientes a distinguir entre adaptaciones de supervivencia y apego genuino. Los sistemas legales se han vuelto más comprensivos y evitan acusar a las víctimas que inicialmente cooperan con los captores o los defienden. La dinámica del lugar de trabajo y de las relaciones se beneficia de la conciencia de que los desequilibrios de poder extremos y los traumas pueden crear patrones de apego inesperados. Este conocimiento promueve la compasión por quienes han experimentado situaciones coercitivas e informa mejores estrategias de apoyo durante la recuperación.",
+      "funFact": "Los criterios del síndrome de Estocolmo siguen siendo controvertidos en psicología, y algunos expertos argumentan que se ve más exactamente como una respuesta al trauma que como un síndrome distinto."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Ochberg, F. M. (1978). The victim of terrorism: Psychiatric considerations. Terrorism, 1(2), 147-168.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Graham, D. L., Rawlings, E. I., & Rimini, N. (1988). Survivors of terror: Battered women, hostages and the Stockholm syndrome. In K. Yllo & M. Bograd (Eds.), Feminist perspectives on wife abuse. Sage Publications.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-stockholm-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿En qué ciudad y año ocurrió la situación de rehenes que dio nombre al síndrome de Estocolmo?",
+        "options": [
+          "Berlín, 1972",
+          "Estocolmo, 1973",
+          "Oslo, 1974",
+          "Ámsterdam, 1975"
+        ],
+        "correctAnswer": "Estocolmo, 1973",
+        "explanation": "El caso original del síndrome de Estocolmo involucró un robo a un banco en Estocolmo, Suecia, en 1973, donde los rehenes desarrollaron sentimientos positivos hacia sus captores."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "En el síndrome de Estocolmo, los capturados desarrollan sentimientos positivos hacia sus captores principalmente porque son personas empáticas por naturaleza.",
+        "correctAnswer": "false",
+        "explanation": "Esto es falso. El síndrome de Estocolmo se desarrolla a través de mecanismos psicológicos específicos que incluyen el miedo, la bondad intermitente y el aislamiento, no simplemente debido a rasgos de personalidad."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál de las siguientes NO es una de las cuatro condiciones que los investigadores identificaron como facilitadoras del síndrome de Estocolmo?",
+        "options": [
+          "Amenaza percibida para la supervivencia",
+          "Pequeños actos de bondad de los captores",
+          "Trauma emocional previo en el captee",
+          "Aislamiento de perspectivas externas"
+        ],
+        "correctAnswer": "Trauma emocional previo en el captee",
+        "explanation": "Las cuatro condiciones identificadas son: percepción de amenaza, bondad intermitente, aislamiento e incapacidad para escapar. El trauma previo no es una condición requerida."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "Cuando los captores brindan pequeños gestos de bondad después de percibir amenazas, el contraste crea _______ emocional entre el captor y el captor.",
+        "correctAnswer": "vinculación",
+        "explanation": "El alivio psicológico del miedo cuando los captores muestran amabilidad crea asociaciones positivas, lo que genera vínculos inesperados a pesar de la situación peligrosa."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "Los patrones del síndrome de Estocolmo se han observado en contextos más allá de las situaciones de rehenes, como ciertas relaciones abusivas.",
+        "correctAnswer": "true",
+        "explanation": "Cierto. Los psicólogos han reconocido mecanismos psicológicos similares en víctimas de abuso, miembros de sectas y dinámicas de relaciones de explotación."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440007"
+  },
+  "publishedAt": "2026-04-13T00:00:00Z",
+  "createdAt": "2026-04-13T00:00:00Z",
+  "updatedAt": "2026-04-13T00:00:00Z"
+}

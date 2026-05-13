@@ -1,0 +1,148 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440003",
+  "slug": "life-on-mars",
+  "title": "¿Hay vida en Marte?",
+  "subtitle": "Explorando la posibilidad de vida pasada y presente en el Planeta Rojo",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 8,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/life-on-mars.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Marte: un hábitat potencial",
+      "body": "Marte ha capturado la imaginación de la humanidad como un posible hogar para la vida. El Planeta Rojo alguna vez tuvo condiciones que pueden haber sustentado vida microbiana hace miles de millones de años. La evidencia sugiere que el antiguo Marte tenía agua líquida, una atmósfera más espesa y posiblemente energía geotérmica. Hoy, Marte es frío y seco con una fina atmósfera de dióxido de carbono. Sin embargo, existe hielo de agua bajo la superficie y la evidencia de actividad hidrotermal pasada indica que las condiciones adecuadas para la vida pueden haber persistido durante períodos prolongados, lo que hace que merezca la pena investigar Marte.",
+      "funFact": "Un día en Marte (un 'sol') es casi idéntico al día de la Tierra: ¡24 horas y 37 minutos!",
+      "imageUrl": "images/content/mars-landscape.jpg",
+      "imageCaption": "El paisaje de Marte que muestra antiguos valles fluviales."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Agua en Marte",
+      "body": "El agua líquida es esencial para la vida tal como la entendemos. Marte alguna vez tuvo vastos océanos y ríos, como lo demuestran las redes de valles, deltas y lechos de lagos descubiertos a través de imágenes orbitales. El Marte más joven y seco que vemos hoy todavía contiene agua en sus casquetes polares y como hielo subterráneo en el suelo. Observaciones recientes realizadas por rovers y orbitadores han detectado flujos de agua estacionales y depósitos minerales que se forman en presencia de agua líquida. Comprender dónde existe y existió el agua ayuda a los científicos a determinar dónde podría haberse desarrollado la vida.",
+      "imageUrl": "images/content/mars-water-evidence.jpg",
+      "imageCaption": "Evidencias de antiguos valles fluviales en Marte"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Condiciones habitables antiguas",
+      "body": "Durante el período de Noé (hace aproximadamente entre 4,1 y 3,7 mil millones de años), Marte pudo haber sido más habitable que hoy. Una atmósfera más espesa retenía el calor, las temperaturas eran más cálidas y agua líquida fluía por la superficie. Los minerales como las arcillas se forman en agua de neutra a ligeramente alcalina, condiciones adecuadas para la vida microbiana. El rover Curiosity descubrió moléculas orgánicas y fluctuaciones de metano en el cráter Gale, aunque podrían deberse a procesos no biológicos. En el período comprendido entre hace 3.700 y 2.500 millones de años, Marte perdió gradualmente su campo magnético y su atmósfera, convirtiéndose en el mundo inhóspito que vemos hoy.",
+      "funFact": "¡Marte perdió la mayor parte de su atmósfera porque no tiene un campo magnético fuerte que lo proteja del viento solar!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "La búsqueda de biofirmas",
+      "body": "Las biofirmas son signos de vida pasada o presente, incluidas moléculas orgánicas, distribuciones minerales específicas o composiciones químicas anómalas. Los científicos buscan carbono orgánico, metano y otros compuestos que puedan indicar actividad biológica. El rover Perseverance lleva instrumentos avanzados para detectar estas firmas en el cráter Jezero, donde un antiguo delta de un río sugiere un flujo de agua pasado. Sin embargo, distinguir los orígenes biológicos de los no biológicos es un desafío. Sin muestras reales devueltas a la Tierra ni observación directa, la confirmación de vida extraterrestre sigue siendo difícil de alcanzar.",
+      "imageUrl": "images/content/perseverance-rover.jpg",
+      "imageCaption": "El rover Perseverance busca señales de vida"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Extremófilos y vida subterránea",
+      "body": "Incluso si la superficie marciana es hostil a la mayoría de los organismos, podría existir vida bajo tierra. En la Tierra, los extremófilos prosperan en entornos hostiles: aguas termales, océanos profundos y cavidades subterráneas. El subsuelo de Marte podría albergar organismos similares si existieran agua líquida y fuentes de energía química. Las fracturas de rocas brindan protección contra la radiación y estabilidad térmica. La posibilidad de que haya microbios subterráneos ha motivado planes para tomar muestras y perforar el subsuelo. Estos entornos extremófilos demuestran que la vida en la Tierra puede adaptarse a condiciones que antes pensábamos imposibles.",
+      "funFact": "Algunos microbios terrestres pueden sobrevivir a una radiación intensa y a una sequía extrema, ¡condiciones similares al entorno subterráneo de Marte!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Misiones y hallazgos actuales",
+      "body": "Múltiples rovers y orbitadores exploran activamente Marte en busca de signos de vida y habitabilidad. Los rovers Perseverance de la NASA y Zhurong de China recopilan datos geológicos y atmosféricos. El orbitador MAVEN estudia la atmósfera de Marte y cómo se perdió. El programa ExoMars tiene como objetivo la perforación subterránea para acceder a entornos potencialmente protegidos. Los descubrimientos recientes incluyen moléculas orgánicas, variaciones estacionales de metano y minerales arcillosos complejos. Si bien estos hallazgos son consistentes con la habitabilidad, ninguno prueba definitivamente que existió vida. Las futuras misiones de devolución de muestras permitirán análisis de laboratorio que no están disponibles para los rovers.",
+      "imageUrl": "images/content/mars-orbiters.jpg",
+      "imageCaption": "Varias naves espaciales que estudian la atmósfera y la superficie de Marte"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "La cronología de la habitabilidad marciana",
+      "body": "La historia de Marte muestra una progresión desde potencialmente habitable hasta cada vez más hostil. El período de Noé (hace 4.100-3.700 millones de años) ofreció las mejores condiciones con agua, calor y un campo magnético protector. El período Hesperian (hace 3.700-2.500 millones de años) vio una disminución de la habitabilidad a medida que el campo magnético se debilitaba. El período amazónico (hace 2.500 millones de años hasta el presente) muestra una cantidad mínima de agua y una superficie fría y seca. Sin embargo, es posible que las zonas habitables transitorias hayan existido durante más tiempo en el subsuelo o en regiones geotérmicamente activas. Comprender estas escalas de tiempo ayuda a los científicos a priorizar dónde buscar vida antigua fosilizada o preservada.",
+      "funFact": "Si la vida microbiana se originó en Marte, ¡sólo habrían transcurrido unos pocos cientos de millones de años antes de que las condiciones se volvieran demasiado hostiles!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Jakosky, B. M., & Edwards, C. S. (2018). 'Inventory and implications of CO2 detected by MAVEN.' Nature Astronomy, 2(5), 363-368.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Westall, F., et al. (2015). 'Habitability: A Review.' Astrobiology, 15(7), 524-546.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Bibring, J. P., et al. (2015). 'Geological layers and oxides in high-resolution images from the CRISM spectrometer on Mars Reconnaissance Orbiter.' Icarus, 258, 101-122.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-3",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Durante qué período Marte fue potencialmente más habitable?",
+        "options": [
+          "El período hesperiano",
+          "El periodo amazónico",
+          "El período de Noé",
+          "El periodo prometeico"
+        ],
+        "correctAnswer": "El período de Noé",
+        "explanation": "El período de Noé (hace 4.100-3.700 millones de años) es cuando Marte tenía las condiciones más favorables para la vida, incluida agua líquida y un campo magnético protector."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Marte actualmente no tiene agua en ninguna parte de su superficie o subsuelo.",
+        "correctAnswer": "false",
+        "explanation": "Marte tiene hielo de agua en sus casquetes polares y como hielo subterráneo en todo el planeta, aunque hoy no es líquido en la superficie."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál es una razón clave por la que Marte perdió la mayor parte de su atmósfera?",
+        "options": [
+          "Un impacto masivo de asteroide",
+          "Pérdida de su campo magnético, dejándolo vulnerable al viento solar.",
+          "Reacciones químicas con rocas superficiales.",
+          "Escape causado por el calor excesivo del sol."
+        ],
+        "correctAnswer": "Pérdida de su campo magnético, dejándolo vulnerable al viento solar.",
+        "explanation": "El débil campo magnético de Marte permitió que el viento solar destruyera gran parte de su atmósfera durante miles de millones de años."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "Las señales de vida pasada o presente se llaman _______.",
+        "correctAnswer": "biofirmas",
+        "explanation": "Las biofirmas son características observables o composiciones químicas que indican la presencia de vida o su existencia pasada."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué rover está buscando actualmente biofirmas en el cráter Jezero?",
+        "options": [
+          "Oportunidad",
+          "Curiosidad",
+          "perseverancia",
+          "extranjero"
+        ],
+        "correctAnswer": "perseverancia",
+        "explanation": "El rover Perseverance de la NASA, que aterrizó en 2021, está buscando activamente evidencia de vida microbiana antigua en el cráter Jezero."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440003"
+  },
+  "publishedAt": "2026-04-05T00:00:00Z",
+  "createdAt": "2026-04-05T00:00:00Z",
+  "updatedAt": "2026-04-05T00:00:00Z"
+}

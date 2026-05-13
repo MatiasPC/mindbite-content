@@ -1,0 +1,135 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440004",
+  "slug": "french-revolution-why",
+  "title": "Por qué ocurrió la Revolución Francesa",
+  "subtitle": "Las causas y el contexto de una agitación que está cambiando el mundo",
+  "topicId": "history",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/french-revolution-why.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Una nación en crisis financiera",
+      "body": "En la década de 1780, Francia se enfrentaba a una grave crisis financiera. El rey Luis XVI había heredado enormes deudas de reyes anteriores y sus costosas guerras. El costo de apoyar la Revolución Americana contra Gran Bretaña agotó aún más el tesoro. Las malas cosechas provocaron escasez de alimentos e inflación, lo que supuso una carga para la gente común. El gobierno intentó reformas fiscales radicales, pero los nobles y el clero se resistieron a pagar impuestos, protegiendo sus privilegios. El sistema de los Tres Estados (clero, nobleza y plebe) significaba que sólo la gente común soportaba la carga fiscal. Esta crisis fiscal creó la urgencia que llevó a Luis XVI a convocar los Estados Generales en 1789.",
+      "funFact": "La deuda de Francia en 1789 excedía los 2 mil millones de libras, una suma astronómica equivalente a años de ingresos nacionales."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Autoridad del desafío de las ideas de la Ilustración",
+      "body": "La Ilustración del siglo XVIII introdujo nuevas ideas radicales sobre los derechos humanos, la democracia y el contrato social. Filósofos como Montesquieu, Rousseau y Voltaire desafiaron la monarquía absoluta y los privilegios heredados. Montesquieu defendió la separación de poderes. Rousseau afirmó que la soberanía recaía en el pueblo. Estas ideas circularon ampliamente a través de libros, salones y círculos educados. La independencia estadounidense en 1783 demostró que la revolución contra la monarquía era posible. Los soldados franceses que lucharon en Estados Unidos regresaron con ideales revolucionarios. El clima intelectual estaba preparado para cuestionar la autoridad establecida y exigir cambios.",
+      "imageUrl": "images/cards/enlightenment-salon.jpg",
+      "imageCaption": "Un salón del siglo XVIII donde se debatían y discutían las ideas de la Ilustración"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Desigualdad social y resentimiento",
+      "body": "La sociedad francesa estaba rígidamente dividida por nacimiento en estamentos con privilegios y derechos muy diferentes. La nobleza poseía vastas tierras y no pagaba impuestos. El clero controlaba propiedades sustanciales y respondía ante Roma. La gente común (campesinos, artesanos, comerciantes, abogados) constituía el 98% de la población, pero soportaba todas las cargas fiscales. Una burguesía próspera (clase mercantil) obtuvo riqueza y educación, pero no tenía poder político. Los campesinos enfrentaban obligaciones feudales, impuestos e inseguridad alimentaria. Esta abrumadora desigualdad alimentó el resentimiento. La idea de que los derechos y oportunidades de una persona estuvieran determinados por el nacimiento y no por el mérito parecía cada vez más intolerable.",
+      "funFact": "Un campesino podría deberle al señor múltiples obligaciones, incluidas hornear pan en el horno del señor y mantener los estanques de peces del señor."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Crisis alimentaria y desesperación popular",
+      "body": "El pan era el alimento básico de la mayoría de los franceses y comprendía entre el 50% y el 80% de su dieta, según la clase social. Las malas cosechas de 1788-1789 provocaron un aumento espectacular de los precios. El desempleo aumentó a medida que la economía se contraía. El hambre y la desesperación se extendieron por las ciudades y el campo. Estallaron disturbios por los precios del pan. Las malas cosechas significaron que los campesinos no podían pagar las rentas e impuestos feudales. Esta crisis humanitaria creó urgencia e ira. Cuando los Estados Generales se reunieron en mayo de 1789, los representantes abordaron no sólo principios abstractos sino también necesidades inmediatas de supervivencia. El hambre transformó el descontento filosófico en acción revolucionaria.",
+      "funFact": "El precio del pan en París se duplicó con creces entre 1770 y 1789, devastando a la mayoría pobre."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "El colapso de la autoridad real",
+      "body": "El rey Luis XVI, bien intencionado pero indeciso, no logró gestionar la crisis de forma eficaz. Sus ministros propusieron reformas que amenazaban los privilegios nobles y creaban conflictos. La nobleza se negó a ceder. Luis vaciló entre la reforma y el conservadurismo, perdiendo la confianza de todos los partidos. Cuando los plebeyos marcharon a Versalles en octubre de 1789, exigiendo que el rey se trasladara a París, demostró que la autoridad real se había derrumbado. La incapacidad del rey para controlar los acontecimientos, prevenir disturbios o implementar una política coherente demostró la quiebra de la monarquía absoluta. El vacío de autoridad fue llenado por asambleas revolucionarias, creando un momento de profunda transformación.",
+      "imageUrl": "images/cards/march-to-versailles.jpg",
+      "imageCaption": "La marcha de la gente común a Versalles en octubre de 1789."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Catalizadores del cambio revolucionario",
+      "body": "La combinación de crisis fiscal, ideas de la Ilustración, desigualdad social, escasez de alimentos y fracaso real creó un momento revolucionario. Los Estados Generales, llamados a resolver la crisis financiera, se convirtieron en el escenario de cuestiones fundamentales sobre el poder y la representación. La formación de la Asamblea Nacional por parte del Tercer Estado, que hizo el juramento de la cancha de tenis para crear una constitución, marcó el punto de no retorno. Lo que comenzó como una crisis financiera y política se transformó en una revolución social que cuestiona toda la estructura de la sociedad. Estas causas en cascada explican por qué la Revolución Francesa se convirtió no simplemente en un cambio político sino en una reinvención fundamental de la sociedad.",
+      "funFact": "La Declaración de los Derechos del Hombre y del Ciudadano, adoptada en agosto de 1789, se convirtió en un documento fundamental para la democracia y los derechos humanos en todo el mundo."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The French Revolution: From Enlightenment to Tyranny",
+      "author": "Christopher Hibbert",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "A Short History of the French Revolution",
+      "author": "Peter McPhee",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Citizens: A Chronicle of the French Revolution",
+      "author": "Simon Schama",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-french-rev-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál de las siguientes fue una de las principales causas de la crisis financiera de Francia en la década de 1780?",
+        "options": [
+          "Gasto excesivo en proyectos culturales",
+          "Apoyo a la revolución estadounidense contra Gran Bretaña",
+          "Conflictos comerciales con comerciantes asiáticos",
+          "Corrupción en las filas militares"
+        ],
+        "correctAnswer": "Apoyo a la revolución estadounidense contra Gran Bretaña",
+        "explanation": "El costoso apoyo militar de Francia a la independencia estadounidense contra Gran Bretaña contribuyó significativamente a las enormes deudas de la corona."
+      },
+      {
+        "id": "q2",
+        "type": "fill_blank",
+        "questionText": "_______ argumentó que el poder soberano recaía en el pueblo, no en el monarca, en sus influyentes escritos de la Ilustración.",
+        "correctAnswer": "Rousseau",
+        "explanation": "El concepto de soberanía popular de Jean-Jacques Rousseau desafió los fundamentos de la monarquía absoluta."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "La nobleza y el clero en Francia en 1789 pagaban impuestos sustanciales como lo hacía la gente común.",
+        "correctAnswer": "false",
+        "explanation": "La nobleza y el clero estaban exentos de impuestos, mientras que la gente común soportaba toda la carga fiscal a pesar de representar el 98% de la población."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Qué porcentaje de la dieta de un francés pobre consistía típicamente en pan a finales del siglo XVIII?",
+        "options": [
+          "20-30%",
+          "40-50%",
+          "50-80%",
+          "90-95%"
+        ],
+        "correctAnswer": "50-80%",
+        "explanation": "El pan era el alimento básico y comprendía una porción muy grande de la dieta de las personas más pobres, lo que hacía que los aumentos en el precio del pan fueran devastadores para la supervivencia."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "La formación de la Asamblea Nacional por parte del Tercer Estado y el juramento de la cancha de tenis ocurrieron antes de la toma de la Bastilla.",
+        "correctAnswer": "true",
+        "explanation": "El juramento de la cancha de tenis en junio de 1789, donde el Tercer Estado juró crear una constitución, precedió a la toma de la Bastilla en julio de 1789."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440004"
+  },
+  "publishedAt": "2026-04-07T00:00:00Z",
+  "createdAt": "2026-04-07T00:00:00Z",
+  "updatedAt": "2026-04-07T00:00:00Z"
+}

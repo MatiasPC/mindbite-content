@@ -1,0 +1,135 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440009",
+  "slug": "genghis-khan-empire",
+  "title": "El imperio de Gengis Khan",
+  "subtitle": "El imperio terrestre contiguo más grande de la historia.",
+  "topicId": "history",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/genghis-khan-empire.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "De Temüjin a Gengis Khan",
+      "body": "Genghis Khan nació como Temüjin alrededor de 1162 en Mongolia. Sus primeros años de vida estuvieron marcados por dificultades, conflictos tribales y lucha por la supervivencia en el duro entorno estepario. Mediante astucia, innovación militar y carisma, Temüjin unificó a las rebeldes tribus mongoles. Estableció nuevas estructuras organizativas que trascendieron las lealtades tribales y nombró generales basándose en su capacidad más que en su nacimiento. En 1206, fue proclamado Genghis Khan, que significa \"gobernante universal\". En ese momento, comandaba un poderoso estado mongol unificado. Su ascenso desde orígenes miserables hasta gobernante supremo de un imperio continental representa uno de los ascensos más notables de la historia. Sus habilidades de liderazgo, visión estratégica y genio organizacional crearon una fuerza militar sin precedentes.",
+      "funFact": "El verdadero nombre de nacimiento de Genghis Khan era Temüjin, y sólo pasó a ser conocido como Genghis Khan después de unificar las tribus mongolas."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Innovación y organización militar",
+      "body": "Genghis Khan revolucionó la estrategia militar mediante la innovación organizativa. Creó un ejército de caballería móvil y altamente disciplinado, superior a las fuerzas contemporáneas. Los ejércitos mongoles estaban organizados jerárquicamente con unidades de 10, 100, 1.000 y 10.000 soldados. Esta estructura permitió el mando y control coordinados. Los mongoles dominaron la tecnología del arco compuesto, lo que permitió a los guerreros disparar con precisión a lomos de un caballo a distancia. Desarrollaron elaboradas técnicas de guerra de asedio y finalmente conquistaron ciudades fuertemente fortificadas. Los exploradores mongoles proporcionaron redes de inteligencia en vastos territorios. Utilizaron la guerra psicológica, sembrando el miedo a través de la reputación y la propaganda. La velocidad de la caballería mongola, combinada con una estrategia y organización sofisticadas, la hizo imparable contra los ejércitos convencionales.",
+      "imageUrl": "images/cards/mongol-warrior-cavalry.jpg",
+      "imageCaption": "Guerreros mongoles con arcos compuestos, la base de su superioridad militar"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Expansión territorial y conquista",
+      "body": "Genghis Khan y sus sucesores conquistaron un enorme imperio. En 1368, el Imperio mongol se extendía desde el Océano Pacífico hasta Europa del Este, abarcando aproximadamente 13 millones de millas cuadradas. Genghis Khan conquistó personalmente Asia Central, China y el mundo islámico. Sus sucesores continuaron la expansión. Bajo su nieto Kublai Khan, el dominio mongol abarcó China por completo. Los ejércitos mongoles derrotaron a la dinastía Jin, conquistaron el Imperio Khwarazmian y amenazaron a Europa. La conquista de Bagdad en 1258 por Hulagu Khan, nieto de Genghis Khan, marcó el declive del poder político de la civilización islámica. La velocidad y escala de las conquistas mongolas no tuvieron precedentes en la historia mundial. Al cabo de un siglo, una confederación esteparia unificada se convirtió en el imperio terrestre contiguo más grande del mundo.",
+      "imageUrl": "images/cards/mongol-empire-map.jpg",
+      "imageCaption": "La vasta extensión del Imperio mongol en su apogeo"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "La Pax Mongolica y el comercio",
+      "body": "Paradójicamente, a pesar de la brutalidad de la conquista mongola, la estabilidad resultante creó la Pax Mongolica (Paz Mongola). Genghis Khan y sus sucesores establecieron sistemas de gobierno que, si bien a veces eran duros, proporcionaban seguridad y previsibilidad. Promovieron el comercio y las comunicaciones en sus vastos territorios, revitalizando la Ruta de la Seda. Los comerciantes de diferentes regiones podrían viajar de forma más segura. Los mongoles eran administradores pragmáticos, toleraban diversas religiones y costumbres siempre que los súbditos pagaran impuestos y reconocieran la supremacía mongola. Emplearon hábiles artesanos, ingenieros y administradores de los territorios conquistados. Esta estabilidad facilitó el intercambio de bienes, tecnologías e ideas en toda Eurasia. El período mongol representó un momento único en el que la unificación política permitió un intercambio cultural y económico sin precedentes.",
+      "funFact": "Marco Polo viajó a la corte de Kublai Khan durante la Pax Mongolica, trayendo el conocimiento de Asia a Europa."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Brutalidad mongola y métodos de conquista",
+      "body": "La conquista mongola tuvo un enorme coste humano. Las ciudades que resistieron se enfrentaron a la destrucción total, la masacre de poblaciones y la esclavitud. Los historiadores estiman que decenas de millones murieron durante la expansión mongola. La conquista del Imperio Khwarazmian, que comenzó cuando Shah Muhammad insultó al emisario de Genghis Khan, resultó en una guerra total en toda Asia Central. Ciudades como Samarcanda y Bukhara quedaron devastadas. La guerra psicológica fue deliberada: las noticias de las atrocidades mongoles precedieron a los ejércitos, lo que alentó la rendición. Cuando las ciudades se sometieron sin luchar, generalmente se salvaron de la destrucción. Sin embargo, quienes resistieron se enfrentaron a la aniquilación total. Esta brutalidad calculada, aunque horrorosa, fue eficaz militarmente. La escala de la violencia y el sufrimiento demuestra el costo humano de la conquista y la construcción del imperio.",
+      "funFact": "Genghis Khan promulgó leyes que protegían la libertad religiosa y a los comerciantes, creando marcos para la coexistencia entre poblaciones diversas."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Legado e impacto histórico",
+      "body": "El imperio de Genghis Khan, aunque finalmente se fragmentó en kanatos regionales, moldeó profundamente la historia mundial. Las conquistas mongolas conectaron políticamente a Eurasia, facilitando el comercio y el intercambio cultural. Tecnologías, ideas y bienes viajaron entre Oriente y Occidente. El período mongol vio importantes avances en cartografía, astronomía y administración adoptados de las civilizaciones conquistadas. La estabilidad del imperio, por brutal que fuera lograda, permitió siglos de comercio transcontinental. Genghis Khan sigue siendo una figura controvertida: célebre como genio militar e innovador organizacional, pero también recordado por una violencia sin precedentes. Su legado demuestra cómo la visión individual, combinada con la innovación organizacional y la destreza militar, puede remodelar dramáticamente el orden mundial. El Imperio mongol fue el imperio terrestre más grande de la historia, incomparable hasta los estados-nación modernos.",
+      "funFact": "Los estudios genéticos sugieren que aproximadamente el 0,5% de la población masculina del mundo puede descender de Genghis Khan debido a sus múltiples esposas e hijos."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Genghis Khan and the Making of the Modern World",
+      "author": "Jack Weatherford",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "The Mongol Empire",
+      "author": "Jean-Noël Biraben",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "The Great Khan: The Life of Kubilai Khan",
+      "author": "John Man",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-genghis-khan-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "fill_blank",
+        "questionText": "Genghis Khan nació como _______ y solo adoptó su título después de unificar las tribus mongolas en 1206.",
+        "correctAnswer": "temujin",
+        "explanation": "Temüjin era su nombre de nacimiento antes de ser conocido como Genghis Khan, que significa \"Gobernante Universal\"."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "El Imperio mongol se convirtió en el imperio terrestre contiguo más grande de la historia mundial.",
+        "correctAnswer": "true",
+        "explanation": "En su apogeo, el Imperio mongol se extendía desde el Océano Pacífico hasta Europa del Este, aproximadamente 13 millones de millas cuadradas."
+      },
+      {
+        "id": "q3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué fue la 'Pax Mongolica'?",
+        "options": [
+          "Un tratado de paz entre los reinos mongoles y europeos.",
+          "Un período de relativa estabilidad y seguridad bajo el dominio mongol",
+          "Una estrategia militar mongol que enfatiza la conquista pacífica",
+          "Un acuerdo comercial entre comerciantes mongoles y chinos"
+        ],
+        "correctAnswer": "Un período de relativa estabilidad y seguridad bajo el dominio mongol",
+        "explanation": "La Pax Mongolica fue un período de relativa estabilidad y seguridad bajo el dominio mongol que facilitó el comercio y el intercambio cultural en toda Eurasia."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál fue una innovación militar clave de las fuerzas de Genghis Khan?",
+        "options": [
+          "Primeras armas de pólvora",
+          "Formaciones de infantería fuertemente blindadas.",
+          "Caballería móvil altamente disciplinada con arcos compuestos.",
+          "Dominio naval a través del diseño avanzado de barcos"
+        ],
+        "correctAnswer": "Caballería móvil altamente disciplinada con arcos compuestos.",
+        "explanation": "Los ejércitos mongoles se destacaron gracias a sus disciplinadas fuerzas de caballería equipadas con arcos compuestos, que permitían movimientos rápidos y combates a distancia eficaces."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "Los estudios genéticos sugieren que un porcentaje significativo de la población masculina del mundo puede descender de Genghis Khan.",
+        "correctAnswer": "true",
+        "explanation": "La investigación genética indica que aproximadamente el 0,5% de la población masculina del mundo puede descender de Genghis Khan debido a sus múltiples esposas e hijos."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440009"
+  },
+  "publishedAt": "2026-04-17T00:00:00Z",
+  "createdAt": "2026-04-17T00:00:00Z",
+  "updatedAt": "2026-04-17T00:00:00Z"
+}

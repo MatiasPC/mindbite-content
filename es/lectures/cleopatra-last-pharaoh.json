@@ -1,0 +1,135 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440002",
+  "slug": "cleopatra-last-pharaoh",
+  "title": "Cleopatra: El último faraón",
+  "subtitle": "El brillante gobernante que definió una era",
+  "topicId": "history",
+  "estimatedMinutes": 9,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/cleopatra-last-pharaoh.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "La dinastía final de Egipto",
+      "body": "Cleopatra VII Filopator (69-30 a. C.) fue la última gobernante activa del Egipto ptolemaico, una dinastía fundada después de la conquista de Alejandro Magno. Nacida en el seno de una familia ptolemaica griega, heredó un trono debilitado por el conflicto interno y la presión externa de Roma. Egipto, que alguna vez fue la mayor potencia del Mediterráneo, se había vuelto vulnerable. Cleopatra se crió en Alejandría, una de las ciudades más sofisticadas del mundo antiguo, y recibió una educación excepcional en idiomas, matemáticas, filosofía y diplomacia.",
+      "funFact": "Cleopatra hablaba al menos ocho idiomas, incluidos egipcio, griego, latín, hebreo, arameo y otros, lo que la hacía intelectualmente formidable."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Astucia política y estrategia",
+      "body": "Cuando su padre murió, Cleopatra debía gobernar junto con su hermano y marido, siguiendo la costumbre ptolemaica. Sin embargo, los funcionarios de la corte la destituyeron del poder y la obligaron a exiliarse. A través de alianzas militares estratégicas y habilidad diplomática, maniobró su camino de regreso al trono. Se alió con Julio César de Roma y le dio un hijo, Cesarión. Después del asesinato de César, formó una poderosa sociedad con Marco Antonio, otro líder romano, asegurando la independencia de Egipto y su gobierno continuo durante las turbulentas guerras civiles de Roma.",
+      "imageUrl": "images/cards/cleopatra-caesar.jpg",
+      "imageCaption": "Cleopatra se encuentra con Julio César en Alejandría."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Un administrador económico astuto",
+      "body": "Más allá de sus famosas alianzas políticas, Cleopatra fue una consumada administradora y gestora económica. Navegó por las finanzas de Egipto durante tiempos turbulentos, recaudando impuestos, administrando los recursos agrícolas del Nilo y controlando rutas comerciales cruciales entre Europa, África y Asia. Promovió la agricultura y el comercio, asegurando que Egipto siguiera siendo rico a pesar de las amenazas de Roma. Sus políticas económicas le permitieron apoyar ejércitos, mantener templos y sostener la infraestructura de una de las civilizaciones más grandes del mundo antiguo.",
+      "funFact": "Egipto era el granero del Imperio Romano y suministraba grandes cantidades de cereales que alimentaban a la población de Roma."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "El choque con Octavio",
+      "body": "Después de la muerte de Marco Antonio, Cleopatra enfrentó su mayor amenaza: Octavio (más tarde emperador Augusto), el líder más poderoso de Roma. Octavio estaba decidido a conquistar Egipto y anexarlo como provincia romana. Cleopatra intentó la diplomacia y la negociación, pero Octaviano fue implacable. Sus fuerzas navales fueron derrotadas en la batalla de Actium en el 31 a.C. Octavio la persiguió hasta Alejandría y, ante la captura y la humillación, Cleopatra tomó su decisión final: poner fin a su vida en lugar de someterse a su enemigo.",
+      "funFact": "La historia tradicional describe su muerte como suicidio por mordedura de áspid (serpiente), aunque los relatos históricos varían."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "El fin del Egipto faraónico",
+      "body": "Con la muerte de Cleopatra en el año 30 a. C., terminó la independencia de Egipto y Octaviano la anexó como provincia romana. La tradición de tres mil años de los faraones egipcios llegó a su fin. Las riquezas y los recursos de Egipto ahora servían al imperio de Roma. El mundo mediterráneo entró en una nueva era de dominio romano. A pesar de su derrota, el legado de Cleopatra perduró: se convirtió en el símbolo del último y brillante capítulo del antiguo Egipto, recordada no sólo como gobernante sino como intelectual y estratega política.",
+      "funFact": "La victoria de Octavio sobre Antonio y Cleopatra marcó el fin de la República Romana y el comienzo del Imperio Romano, lo que hizo que la lucha de Cleopatra fuera históricamente fundamental."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Legado e impacto cultural",
+      "body": "Cleopatra sigue siendo una de las figuras más fascinantes de la historia, aunque la cultura popular a menudo la tergiversa. Ella era principalmente una sofisticada estratega política, académica y administradora, no simplemente una seductora como a veces se la retrata. Su reinado vio un florecimiento cultural en Alejandría, con avances en matemáticas, astronomía y medicina. Ella patrocinó las artes y la erudición. Su historia representa la colisión entre el antiguo Egipto y el orden romano emergente, y simboliza cómo ni siquiera un liderazgo brillante pudo resistir la marea del cambio histórico.",
+      "imageUrl": "images/cards/alexandria-library.jpg",
+      "imageCaption": "La Gran Biblioteca de Alejandría, un centro de aprendizaje durante la era de Cleopatra"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cleopatra: A Life",
+      "author": "Stacy Schiff",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "The Ptolemaic Period",
+      "author": "Günter Hölbl",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Ancient Egypt",
+      "author": "John Romer",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-cleopatra-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "fill_blank",
+        "questionText": "Cleopatra hablaba al menos _______ idiomas diferentes, incluidos egipcio, griego, latín y hebreo.",
+        "correctAnswer": "ocho",
+        "explanation": "Las habilidades lingüísticas de Cleopatra eran extraordinarias para su época, lo que la convirtió en una figura política e intelectual formidable."
+      },
+      {
+        "id": "q2",
+        "type": "multiple_choice",
+        "questionText": "¿En qué año Egipto perdió su independencia cuando Octavio la anexó como provincia romana?",
+        "options": [
+          "48 a. C.",
+          "30 a. C.",
+          "58 a. C.",
+          "44 a. C."
+        ],
+        "correctAnswer": "30 a. C.",
+        "explanation": "Tras la muerte de Cleopatra en el año 30 a. C., Octaviano anexó Egipto, poniendo fin a tres mil años de gobierno faraónico."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "La principal fortaleza de Cleopatra como gobernante fue su belleza física y sus relaciones románticas más que sus habilidades administrativas.",
+        "correctAnswer": "false",
+        "explanation": "Si bien las alianzas románticas eran políticamente útiles, Cleopatra fue principalmente una administradora, gestora económica y erudita astuta. La cultura popular a menudo la tergiversa como una simple seductora."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Con qué líder romano Cleopatra formó una poderosa alianza después de la muerte de Julio César?",
+        "options": [
+          "Pompeyo",
+          "Bruto",
+          "Marco Antonio",
+          "Cicerón"
+        ],
+        "correctAnswer": "Marco Antonio",
+        "explanation": "Después del asesinato de César, Cleopatra se alió con Marco Antonio, otro poderoso líder romano, para mantener la independencia de Egipto."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "Alejandría fue la capital de Egipto durante el reinado de Cleopatra y un centro de aprendizaje y cultura.",
+        "correctAnswer": "true",
+        "explanation": "Alejandría era una de las ciudades más sofisticadas del mundo antiguo y un centro de erudición, que incluía la famosa Biblioteca de Alejandría."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440002"
+  },
+  "publishedAt": "2026-04-03T00:00:00Z",
+  "createdAt": "2026-04-03T00:00:00Z",
+  "updatedAt": "2026-04-03T00:00:00Z"
+}

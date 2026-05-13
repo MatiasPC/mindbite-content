@@ -1,0 +1,146 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440004",
+  "slug": "the-double-slit-experiment",
+  "title": "El experimento de la doble rendija",
+  "subtitle": "Revelando la dualidad de la luz onda-partícula",
+  "topicId": "science",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/the-double-slit-experiment.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "La configuración clásica del experimento",
+      "body": "El experimento de la doble rendija es una demostración fundamental de la mecánica cuántica. En su forma más simple, una fuente de luz brilla sobre una barrera con dos rendijas. Detrás de la barrera hay una pantalla para detectar la luz. Cuando la luz pasa a través de las dos rendijas, puede crear un patrón de interferencia en la pantalla, alternando bandas brillantes y oscuras. Este patrón demuestra que la luz se comporta como una onda. Sin embargo, cuando los científicos intentaron determinar por qué rendija pasaba la luz midiendola, sucedió algo sorprendente: el patrón de interferencia desapareció y la luz se comportó como partículas. Este experimento revela una verdad fundamental sobre la naturaleza: el acto de observación afecta el comportamiento de las partículas.",
+      "funFact": "¡El experimento de la doble rendija ha sido llamado el experimento más hermoso de la física!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Comportamiento ondulatorio de la luz",
+      "body": "Cuando no se mide, la luz se comporta como una onda que pasa por ambas rendijas simultáneamente. Las ondas de luz de las dos rendijas se extienden y se superponen en la pantalla. Cuando los picos se alinean con los picos, se produce una interferencia constructiva, creando franjas brillantes. Cuando los picos se alinean con los valles, se produce una interferencia destructiva que crea áreas oscuras. Este patrón de interferencia demuestra claramente el comportamiento de las ondas. Las ondas pueden atravesar múltiples caminos simultáneamente e interferir entre sí. Esta propiedad ondulatoria quedó bien establecida en el siglo XIX. Los científicos entendieron que la luz debe comportarse como ondas porque los patrones de interferencia coincidían con las predicciones matemáticas del comportamiento de las ondas. El experimento de la doble rendija demuestra elegantemente esta naturaleza ondulatoria con resultados simples y observables.",
+      "imageUrl": "images/wave-interference.jpg",
+      "imageCaption": "Patrón de interferencia que muestra interferencia constructiva y destructiva."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "El problema de la medición",
+      "body": "El aspecto verdaderamente desconcertante del experimento de la doble rendija es el problema de la medición. Cuando los científicos agregaron detectores en las rendijas para determinar por qué rendija viajaba cada fotón, el patrón de interferencia desapareció. Luego, la luz se comportó como partículas, apareciendo dos bandas distintas en la pantalla correspondientes a las dos rendijas. Sorprendentemente, el simple hecho de intentar medir qué rendija utilizó el fotón cambió su comportamiento por completo. La medición no dejó de detectar qué rendija: alteró fundamentalmente el comportamiento del fotón. Esto no es una limitación de la tecnología de detección; es una característica fundamental de la mecánica cuántica. El experimento revela que las partículas y las ondas no son propiedades fijas sino que dependen de cómo las observamos. Este comportamiento dependiente de la observación desafía nuestras intuiciones sobre la realidad.",
+      "imageUrl": "images/double-slit-measurement.jpg",
+      "imageCaption": "Comportamiento observado versus no observado en el experimento de la doble rendija"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Dualidad onda-partícula",
+      "body": "El experimento de la doble rendija demuestra el principio de la dualidad onda-partícula: los objetos a escalas cuánticas exhiben propiedades tanto de onda como de partícula dependiendo de la medición. La luz no es simplemente lo uno o lo otro; es fundamentalmente ambos y ninguno hasta que se mide. Esta dualidad se extiende más allá de la luz a toda la materia. Los electrones, átomos y moléculas también exhiben dualidad onda-partícula. Un electrón tiene una onda asociada (onda de Broglie) con una longitud de onda inversamente proporcional a su momento. Las partículas masivas muestran patrones de difracción e interferencia cuando pasan a través de rendijas, al igual que la luz. Esta dualidad es fundamental para la mecánica cuántica. Significa que la distinción clásica entre ondas y partículas se rompe en escalas cuánticas. La naturaleza opera según principios fundamentalmente diferentes de la experiencia cotidiana.",
+      "funFact": "En 1924, De Broglie propuso que la materia tiene propiedades ondulatorias. ¡Esta teoría fue confirmada experimentalmente cuando los haces de electrones crearon patrones de difracción!"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Superposición cuántica",
+      "body": "El experimento de la doble rendija revela la superposición cuántica: las partículas no observadas existen en múltiples estados simultáneamente. Cuando la luz no se mide, existe en un estado de superposición, pasando simultáneamente por ambas rendijas. La partícula no elige una rendija; experimenta ambos caminos a la vez. No se trata simplemente de saber qué camino tomó; la partícula existe genuinamente en ambos estados. La superposición es un fenómeno cuántico contradictorio pero fundamental. Cuando se mide, la superposición colapsa en un estado definido. Este colapso de la función de onda es uno de los aspectos más profundos y filosóficamente desconcertantes de la mecánica cuántica. El experimento demuestra que la superposición no es sólo teórica: produce consecuencias mensurables a través de patrones de interferencia.",
+      "imageUrl": "images/quantum-superposition.jpg",
+      "imageCaption": "Una partícula cuántica en superposición existe en múltiples estados simultáneamente"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Desarrollo histórico",
+      "body": "Thomas Young realizó el primer experimento de doble rendija alrededor de 1801, utilizando ondas de agua y luego luz, demostrando propiedades de las ondas y patrones de interferencia. El trabajo de Young proporcionó pruebas sólidas a favor de la teoría ondulatoria de la luz, contradiciendo la teoría corpuscular de Newton. Sin embargo, la interpretación de la mecánica cuántica surgió sólo después de que Planck, Einstein y otros desarrollaron la teoría cuántica a principios del siglo XX. La comprensión moderna de que la observación afecta los resultados provino del trabajo fundamental de la mecánica cuántica. En la década de 1920, físicos como Dirac y Schrödinger desarrollaron marcos matemáticos que explicaban estas observaciones. Hoy en día, las variaciones del experimento de la doble rendija siguen revelando el comportamiento cuántico, incluidos los experimentos de elección retardada. Este viaje histórico muestra cómo experimentos individuales pueden remodelar nuestra comprensión de la realidad.",
+      "imageUrl": "images/thomas-young.jpg",
+      "imageCaption": "Thomas Young realizó los primeros experimentos de doble rendija con luz"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Interpretaciones e implicaciones modernas",
+      "body": "El experimento de la doble rendija sigue siendo fundamental para interpretar la mecánica cuántica en la actualidad. Diferentes interpretaciones proponen diferentes explicaciones. La interpretación de Copenhague dice que la observación provoca el colapso de la función de onda. La interpretación de muchos mundos sugiere que ambos caminos ocurren en universos diferentes. Las teorías del colapso objetivo proponen el colapso espontáneo de la función de onda. Todas las interpretaciones coinciden en las predicciones pero difieren filosóficamente. El experimento tiene profundas implicaciones: la realidad a escalas cuánticas se comporta de manera diferente a lo que predice la física clásica. La medición no es observación pasiva sino interacción activa. El universo parece fundamentalmente probabilístico más que determinista. Estos conocimientos han generado tecnologías cuánticas: láseres, transistores y computadoras cuánticas explotan la dualidad y superposición onda-partícula. Las lecciones del experimento de la doble rendija continúan transformando la tecnología y la filosofía."
+    }
+  ],
+  "quiz": {
+    "id": "quiz-4",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué le sucede a la luz en el experimento de la doble rendija cuando no se mide?",
+        "options": [
+          "Se comporta sólo como partículas.",
+          "Se comporta como una onda y crea un patrón de interferencia.",
+          "No puede pasar por las rendijas.",
+          "Se divide en colores separados."
+        ],
+        "correctAnswer": "Se comporta como una onda y crea un patrón de interferencia.",
+        "explanation": "La luz no medida se comporta como una onda, pasa a través de ambas rendijas simultáneamente y crea un patrón de interferencia en la pantalla."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "Cuando los científicos miden por qué rendija pasa la luz, el patrón de interferencia sigue siendo el mismo.",
+        "correctAnswer": "false",
+        "explanation": "Cuando se mide, el patrón de interferencia desaparece y la luz se comporta como partículas, lo que demuestra que la medición afecta fundamentalmente al comportamiento cuántico."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "La luz exhibe ________ __________, lo que significa que tiene propiedades tanto de onda como de partícula dependiendo de cómo se mide.",
+        "correctAnswer": "dualidad onda-partícula",
+        "explanation": "La dualidad onda-partícula describe cómo los objetos exhiben propiedades tanto de ondas como de partículas, según el método de observación utilizado."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Qué crea las bandas brillantes y oscuras en un patrón de interferencia de doble rendija?",
+        "options": [
+          "Rendijas brillantes y rendijas oscuras.",
+          "Interferencia constructiva y destructiva de ondas de luz.",
+          "Variaciones en el ancho de la hendidura",
+          "Fuentes de luz de diferentes colores."
+        ],
+        "correctAnswer": "Interferencia constructiva y destructiva de ondas de luz.",
+        "explanation": "Se forman bandas brillantes donde se alinean los picos de las ondas (interferencia constructiva) y se forman bandas oscuras donde los picos se alinean con los valles (interferencia destructiva)."
+      },
+      {
+        "id": "q5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué físico realizó por primera vez el experimento de la doble rendija con luz?",
+        "options": [
+          "isaac newton",
+          "Tomás joven",
+          "Albert Einstein",
+          "Niels Bohr"
+        ],
+        "correctAnswer": "Tomás joven",
+        "explanation": "Thomas Young realizó el primer experimento de doble rendija con luz alrededor de 1801, proporcionando evidencia de la teoría ondulatoria de la luz."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440004"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Feynman, R. P., Leighton, R. B., & Sands, M. (1963). 'The Feynman Lectures on Physics, Vol. 3: Quantum Mechanics'. Addison-Wesley.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Young, T. (1807). 'A Course of Lectures on Natural Philosophy and the Mechanical Arts'. Printed for Joseph Johnson.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Born, M. (1926). 'Zur Quantenmechanik der Stoßvorgänge'. Zeitschrift für Physik, 37(12), 863-867.",
+      "type": "journal"
+    }
+  ],
+  "publishedAt": "2026-04-10T00:00:00Z",
+  "createdAt": "2026-04-10T00:00:00Z",
+  "updatedAt": "2026-04-10T00:00:00Z"
+}

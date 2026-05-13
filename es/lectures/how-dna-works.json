@@ -1,0 +1,146 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440009",
+  "slug": "how-dna-works",
+  "title": "Cómo funciona el ADN",
+  "subtitle": "El modelo de la vida",
+  "topicId": "science",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/how-dna-works.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "La estructura del ADN",
+      "body": "El ADN (ácido desoxirribonucleico) es una molécula que contiene las instrucciones genéticas para construir y mantener la vida. Su estructura se asemeja a una escalera retorcida, llamada doble hélice. Cada lado de la escalera está formado por moléculas de azúcar (desoxirribosa) y fosfato unidas entre sí. Los peldaños que conectan los dos lados están hechos de bases químicas: adenina, timina, guanina y citosina (abreviadas A, T, G, C). Estas bases se emparejan específicamente: la adenina siempre se une a la timina y la guanina a la citosina. Este emparejamiento específico es crucial para la replicación y la función. Una sola molécula de ADN contiene millones o miles de millones de pares de bases dispuestos en una secuencia específica. El orden de estas bases codifica la información genética. Todo el conjunto de ADN de una célula humana está contenido en el núcleo y forma el genoma. Comprender la estructura del ADN revela cómo se almacena y transmite la información genética con notable precisión.",
+      "funFact": "Si desenrolláramos todo el ADN de una célula humana, ¡tendría unos dos metros de largo!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Genes y proteínas",
+      "body": "Los genes son secciones específicas de ADN que contienen instrucciones para producir proteínas. Las proteínas realizan prácticamente todo el trabajo en las células: proporcionan estructura, catalizan reacciones, transportan moléculas y regulan los procesos celulares. Un gen consta de una secuencia de pares de bases que codifica una proteína específica. Este proceso comienza con la transcripción: una enzima lee la secuencia de ADN y crea una copia temporal de ARN. La copia de ARN sale del núcleo y se traduce en una proteína en un ribosoma. La traducción lee combinaciones de bases (codones) de tres letras, cada una de las cuales especifica qué aminoácido agregar a la cadena proteica en crecimiento. Una vez leídos todos los codones, la proteína está completa y toma su forma funcional. Diferentes genes producen diferentes proteínas con diferentes funciones. Los humanos tenemos aproximadamente veinte mil genes que producen decenas de miles de proteínas diferentes. La estructura y función de cada proteína están determinadas por su secuencia de aminoácidos, que está dictada por la secuencia de ADN del gen.",
+      "imageUrl": "images/dna-to-protein.jpg",
+      "imageCaption": "Expresión genética: de ADN a ARN y a proteína."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Replicación del ADN",
+      "body": "La replicación del ADN es el proceso mediante el cual las células copian su ADN antes de dividirse. La enzima ADN helicasa desenrolla la doble hélice. Luego, la ADN polimerasa agrega nuevos nucleótidos a cada cadena separada, siguiendo las reglas de emparejamiento de bases. Donde había una A en la cadena original, se agrega una T a la nueva cadena y viceversa. Esto garantiza que cada nueva molécula de ADN sea una copia exacta del original. Sorprendentemente, la replicación del ADN se produce con una precisión extremadamente alta: sólo se producen errores en uno de cada mil millones de pares de bases. Cuando se producen errores, los mecanismos de reparación suelen detectarlos y solucionarlos. La replicación del ADN es esencial para la división celular. Cada célula hija recibe una copia completa de la información genética. Los errores en la replicación pueden provocar mutaciones (cambios en la secuencia del ADN). Algunas mutaciones son neutras, otras dañinas y, en raras ocasiones, algunas beneficiosas. Las mutaciones proporcionan variación que permite la evolución por selección natural.",
+      "imageUrl": "images/dna-replication.jpg",
+      "imageCaption": "Replicación del ADN creando dos copias idénticas."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Los cromosomas y el genoma",
+      "body": "El ADN está organizado en estructuras llamadas cromosomas, cada una de las cuales contiene una sola molécula de ADN envuelta alrededor de proteínas llamadas histonas. Las histonas y las proteínas asociadas compactan el ADN de manera eficiente: el ADN de una sola célula se estiraría dos metros, pero cuando se enrolla alrededor de histonas y se organiza mejor, cabe en un núcleo de sólo una millonésima de metro de ancho. Los humanos tenemos cuarenta y seis cromosomas (veintitrés pares) que contienen aproximadamente tres mil millones de pares de bases. El conjunto completo de cromosomas y ADN se llama genoma. Un cromosoma proviene de cada padre, lo que proporciona diversidad genética. Veintidós pares de cromosomas son autosomas que transportan información genética general. Un par son cromosomas sexuales: XX en mujeres, XY en hombres. El cromosoma Y determina la masculinidad. Se ha secuenciado todo el genoma humano, proporcionando un mapa de referencia de la información genética humana. Comprender la organización cromosómica ayuda a explicar cómo se heredan los genes y cómo ocurren las enfermedades genéticas.",
+      "imageUrl": "images/chromosomes.jpg",
+      "imageCaption": "46 cromosomas humanos organizados en pares"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Herencia genética",
+      "body": "Los niños heredan el ADN de ambos padres. Cada padre aporta una copia de cada cromosoma, por lo que los niños tienen dos copias de cada gen, una de cada padre. Esta herencia genética sigue patrones predecibles descubiertos por Gregor Mendel. Si ambos padres aportan la misma versión genética (alelo), la descendencia tendrá ese par de alelos. Si los padres aportan alelos diferentes, la descendencia hereda ambos. Algunos alelos son dominantes y expresan su rasgo incluso cuando se combinan con un alelo recesivo. Otros alelos son recesivos y se expresan sólo cuando ambas copias son recesivas. Esto explica por qué los niños suelen parecerse a sus padres y por qué los rasgos genéticos se saltan generaciones. Las mutaciones crean nuevos alelos, aumentando la variación genética. Diferentes alelos pueden producir diferentes variaciones de rasgos: ojos azules, ojos marrones, textura del cabello y muchas otras características. Algunas condiciones genéticas resultan de la herencia de alelos mutantes de ambos padres. Comprender la herencia genética ayuda a predecir enfermedades hereditarias y explica la diversidad humana.",
+      "funFact": "En promedio, su ADN es 99,9% idéntico al ADN de cualquier otro ser humano; ¡esa diferencia del 0,1% crea una diversidad notable!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Mutaciones y Evolución",
+      "body": "Las mutaciones son cambios permanentes en la secuencia del ADN. Pueden ser el resultado de errores de replicación, daños por radiación, exposición a sustancias químicas o inserción viral. La mayoría de las mutaciones no tienen ningún efecto significativo. Algunos reducen la condición física al alterar la función de las proteínas. En raras ocasiones, las mutaciones mejoran la función o crean nuevas capacidades. A lo largo de generaciones, las mutaciones beneficiosas se vuelven más comunes a través de la selección natural, mientras que las mutaciones dañinas disminuyen. Este proceso impulsa la evolución. Las mutaciones proporcionan la variación sobre la que actúa la selección natural. Sin mutaciones, la evolución no podría ocurrir porque no habría diferencias genéticas entre los organismos. A lo largo de millones de años, las mutaciones acumuladas crean nuevas especies. Algunas mutaciones causan enfermedades genéticas cuando ocurren en genes importantes. El cáncer se desarrolla a través de múltiples mutaciones que se acumulan en genes críticos. Comprender las mutaciones ayuda a desarrollar tratamientos para enfermedades genéticas y explica cómo evoluciona la vida.",
+      "imageUrl": "images/mutations.jpg",
+      "imageCaption": "Diferentes tipos de mutaciones del ADN."
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Epigenética: más allá de la secuencia",
+      "body": "Si bien la secuencia de ADN proporciona el código básico, la epigenética revela que factores adicionales controlan qué genes se expresan. Las modificaciones químicas del ADN y de las proteínas histonas regulan la actividad genética sin cambiar la secuencia misma. Estas modificaciones pueden silenciar genes o permitir su expresión. Los factores ambientales (dieta, estrés, toxinas, temperatura) pueden afectar las modificaciones epigenéticas. Sorprendentemente, algunos cambios epigenéticos pueden ser heredados por la descendencia sin alterar la secuencia de ADN subyacente. Esto explica cómo gemelos idénticos con el mismo ADN pueden desarrollar diferentes rasgos con el tiempo a medida que diferentes exposiciones ambientales crean diferentes patrones epigenéticos. La epigenética muestra que la naturaleza y la crianza interactúan a nivel molecular. Sus genes proporcionan potencial, pero los factores ambientales modifican qué genes están activos. Esta comprensión está revolucionando la medicina al mostrar cómo los factores del estilo de vida afectan la salud a través de la regulación de la expresión genética. La epigenética revela que el genoma es más dinámico y flexible de lo que sugiere la secuencia estática de ADN por sí sola."
+    }
+  ],
+  "quiz": {
+    "id": "quiz-9",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué base se empareja con la adenina (A) en el ADN?",
+        "options": [
+          "Guanina (G)",
+          "Timina (T)",
+          "Citosina (C)",
+          "La adenina siempre se empareja consigo misma."
+        ],
+        "correctAnswer": "Timina (T)",
+        "explanation": "En el ADN, la adenina siempre se empareja específicamente con la timina a través de enlaces de hidrógeno, y la guanina se empareja con la citosina."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "La replicación del ADN es un proceso perfecto y sin errores.",
+        "correctAnswer": "false",
+        "explanation": "Si bien la replicación del ADN es muy precisa, se producen errores en aproximadamente uno de cada mil millones de pares de bases, aunque los mecanismos de reparación suelen solucionar estos errores."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "Un ________ es una sección específica de ADN que contiene instrucciones para producir una proteína.",
+        "correctAnswer": "gen",
+        "explanation": "Los genes son segmentos de ADN que codifican proteínas, y cada gen produce una proteína específica con una función específica."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Cuántos cromosomas suelen tener los humanos?",
+        "options": [
+          "23",
+          "23 pares (46 en total)",
+          "100",
+          "El número varía según el individuo."
+        ],
+        "correctAnswer": "23 pares (46 en total)",
+        "explanation": "Los humanos tenemos 46 cromosomas organizados en 23 pares, con 22 pares de autosomas y un par de cromosomas sexuales."
+      },
+      {
+        "id": "q5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué papel juegan las mutaciones en la evolución?",
+        "options": [
+          "Las mutaciones impiden la evolución.",
+          "Las mutaciones proporcionan una variación genética sobre la que actúa la selección natural.",
+          "Las mutaciones sólo causan enfermedades genéticas.",
+          "Las mutaciones no tienen ningún efecto sobre la evolución."
+        ],
+        "correctAnswer": "Las mutaciones proporcionan una variación genética sobre la que actúa la selección natural.",
+        "explanation": "Las mutaciones crean diversidad genética dentro de las poblaciones, lo que permite que la selección natural favorezca rasgos beneficiosos e impulse cambios evolutivos con el tiempo."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440009"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Watson, J. D., et al. (2013). 'Molecular Biology of the Gene' (7th ed.). Pearson.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Franklin, R. E., & Gosling, R. G. (1953). 'Molecular configuration in sodium thymonucleate'. Nature, 171(4356), 740-741.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Human Genome Project Consortium. (2003). 'Finishing the euchromatic sequence of the human genome'. Nature, 431(7011), 931-945.",
+      "type": "journal"
+    }
+  ],
+  "publishedAt": "2026-04-25T00:00:00Z",
+  "createdAt": "2026-04-25T00:00:00Z",
+  "updatedAt": "2026-04-25T00:00:00Z"
+}

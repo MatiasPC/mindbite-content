@@ -1,0 +1,119 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440006",
+  "slug": "psychology-of-habits",
+  "title": "La psicología de los hábitos",
+  "subtitle": "Cómo los comportamientos se vuelven automáticos y cómo cambiarlos",
+  "topicId": "psychology",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/psychology-of-habits.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El bucle del hábito",
+      "body": "La investigación sobre hábitos de Charles Duhigg revela que todos los hábitos siguen una estructura predecible: señal, rutina y recompensa. La señal es un desencadenante ambiental que provoca un comportamiento automático. La rutina es la conducta misma, realizada casi sin pensamiento consciente. La recompensa refuerza el comportamiento, fomentando la repetición futura. Los aromas del café (señal) estimulan la preparación del café matutino (rutina) para obtener cafeína y estar alerta (recompensa). Los hábitos se forman cuando este ciclo se repite con suficiente regularidad como para que su cerebro comience a predecir la recompensa al encontrar la señal. Comprender esta estructura permite cambiar los hábitos: al modificar cualquier componente, se pueden redirigir las respuestas habituales. La conciencia de sus ciclos de hábitos es el primer paso hacia un cambio de comportamiento intencional.",
+      "funFact": "Las investigaciones muestran que alrededor del 40% de nuestros comportamientos diarios son hábitos más que elecciones conscientes, influenciados principalmente por señales ambientales más que por decisiones."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Cambios neurológicos en la formación de hábitos",
+      "body": "Cuando se aprenden conductas por primera vez, la corteza prefrontal participa activamente en la toma y ejecución de decisiones. Con la repetición, las vías neuronales se fortalecen y la actividad se desplaza hacia los ganglios basales, que manejan los comportamientos automáticos. Esta transferencia hace que los hábitos sean eficientes: requieren una energía mental mínima en comparación con las acciones conscientes. Básicamente, su cerebro mueve los comportamientos al \"piloto automático\", liberando recursos cognitivos para nuevas tareas. Este cambio neurológico explica por qué los hábitos se sienten sin esfuerzo una vez establecidos. Sin embargo, el mismo mecanismo dificulta romper con los hábitos: las vías de los ganglios basales permanecen incluso después de cambios de intención consciente. Esta es la razón por la que la fuerza de voluntad por sí sola a menudo no logra cambiar hábitos arraigados.",
+      "imageUrl": "images/habit-neural-pathways.jpg",
+      "imageCaption": "La actividad neuronal pasa de la corteza prefrontal a los ganglios basales"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Acumulación de hábitos y hábitos clave",
+      "body": "La acumulación de hábitos implica adjuntar nuevos hábitos a los existentes. Después de cepillarte los dientes (hábito establecido), practicas la meditación (nuevo hábito). Esto aprovecha las vías neuronales existentes en lugar de requerir el establecimiento de señales completamente nuevas. Algunos hábitos, llamados hábitos clave, desencadenan cambios en cascada. Las rutinas de ejercicio a menudo crean motivación para una alimentación saludable, lo que mejora el sueño y aumenta la productividad. Identificar sus hábitos clave, los que crean efectos dominó, permite un cambio de comportamiento estratégico. Por el contrario, algunos hábitos son ejes que mantienen unidos patrones disfuncionales. Eliminar estos hábitos fundamentales puede colapsar sistemas negativos completos. Comprender la arquitectura de hábitos permite la superación personal estratégica.",
+      "imageUrl": "images/habit-stacking.jpg"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Cambiar hábitos no deseados",
+      "body": "Un cambio de hábitos eficaz requiere comprender que tratar de eliminar los hábitos por completo rara vez tiene éxito: la señal permanece y, finalmente, la rutina y la recompensa lo hacen retroceder. En su lugar, siga la señal y recompénselo, pero cambie la rutina. Si el estrés (señal) incita a comer refrigerios (rutina) para obtener consuelo (recompensa), sustitúyalo por una rutina más saludable, como respirar profundamente, manteniendo la recompensa de consuelo. La modificación ambiental es poderosa: eliminar la comida chatarra de su hogar, colocar zapatos para correr de manera visible o programar ejercicios en su calendario crea señales que respaldan los comportamientos deseados. Los cambios graduales resultan más sostenibles que las reformas drásticas. Las pequeñas mejoras mantenidas consistentemente superan los intentos ambiciosos que fracasan.",
+      "imageUrl": "images/habit-change-strategy.jpg"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "El papel de la fuerza de voluntad y la identidad",
+      "body": "Si bien el diseño ambiental es muy importante, los factores internos también influyen en el cambio de hábitos. El cambio de comportamiento basado en la identidad (verse a sí mismo como \"alguien que hace ejercicio\" en lugar de \"alguien que intenta hacer ejercicio\") crea una motivación más fuerte. La fuerza de voluntad funciona como un músculo: se fortalece con el uso pero se agota con el uso excesivo. Depender únicamente de la fuerza de voluntad para realizar múltiples cambios de hábitos simultáneamente suele fracasar porque las reservas de fuerza de voluntad se agotan. La secuenciación estratégica (cambiar un hábito a la vez) aprovecha la fuerza de voluntad limitada de manera más efectiva. El apoyo social mejora drásticamente las tasas de éxito. Compartir objetivos con otros, unirse a comunidades que buscan cambios similares y encontrar socios responsables mejoran el éxito de la modificación de hábitos. Comprender estos mecanismos psicológicos permite un cambio de comportamiento realista y sostenido.",
+      "funFact": "Los estudios muestran que las personas que dicen \"no quiero\" (basado en la identidad) resisten mejor la tentación que aquellos que dicen \"no puedo\" (basado en la fuerza de voluntad) cuando rechazan opciones poco saludables."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Wood, W., & Neal, D. T. (2016). Healthy through habit: Interventions for initiating & maintaining health behavior change. Behavioral Science & Policy, 2(1), 71-83.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-habits-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "Según el modelo de Charles Duhigg, ¿cuáles son los tres componentes de un ciclo de hábitos?",
+        "options": [
+          "Desencadenante, acción y consecuencia",
+          "Señal, rutina y recompensa",
+          "Estímulo, respuesta y refuerzo.",
+          "Intención, comportamiento y resultado."
+        ],
+        "correctAnswer": "Señal, rutina y recompensa",
+        "explanation": "Duhigg identifica el ciclo del hábito como una señal (desencadenante), una rutina (el comportamiento) y una recompensa (el refuerzo que fomenta la repetición)."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Los hábitos requieren una toma de decisiones consciente cada vez que se realizan porque implican elecciones deliberadas.",
+        "correctAnswer": "false",
+        "explanation": "Esto es falso. Una vez establecidos, los hábitos se vuelven automáticos y requieren un pensamiento consciente mínimo. La actividad neuronal se desplaza a los ganglios basales, lo que permite la ejecución automática."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué es un hábito clave?",
+        "options": [
+          "El hábito más antiguo que alguien ha desarrollado",
+          "Un hábito que desencadena cambios en cascada en otros comportamientos.",
+          "El hábito más difícil de cambiar",
+          "Un hábito que es más fácil de formar."
+        ],
+        "correctAnswer": "Un hábito que desencadena cambios en cascada en otros comportamientos.",
+        "explanation": "Los hábitos clave son aquellos que crean efectos dominó, influyendo en otros comportamientos y patrones. Ejemplo: el ejercicio a menudo conduce a una mejor alimentación y sueño."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "Para cambiar un hábito no deseado de manera efectiva, debes mantener _______ y recompensar, pero cambiar la rutina.",
+        "correctAnswer": "señal",
+        "explanation": "Dado que la señal (desencadenante ambiental) permanece constante, cambiar sólo el comportamiento rutinario manteniendo la recompensa a menudo resulta más efectivo que tratar de eliminar todo el hábito."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "Las investigaciones muestran que el cambio de comportamiento basado en la identidad (\"Soy alguien que hace ejercicio\") puede ser más efectivo que los enfoques basados ​​en la fuerza de voluntad (\"Haré ejercicio\").",
+        "correctAnswer": "true",
+        "explanation": "Esto es cierto. Las personas que adoptan un marco basado en la identidad muestran un mayor éxito a largo plazo en el cambio de comportamiento porque se alinea con la autopercepción."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440006"
+  },
+  "publishedAt": "2026-04-11T00:00:00Z",
+  "createdAt": "2026-04-11T00:00:00Z",
+  "updatedAt": "2026-04-11T00:00:00Z"
+}

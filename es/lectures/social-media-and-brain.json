@@ -1,0 +1,120 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440009",
+  "slug": "social-media-and-brain",
+  "title": "Las redes sociales y tu cerebro",
+  "subtitle": "Cómo las plataformas digitales afectan nuestra cognición y salud mental",
+  "topicId": "psychology",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/social-media-and-brain.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El circuito de retroalimentación de la dopamina",
+      "body": "Las plataformas de redes sociales aprovechan el sistema de recompensa de dopamina del cerebro. Cuando publicas contenido, las notificaciones de me gusta, comentarios y acciones compartidas desencadenan la liberación de dopamina, el neurotransmisor asociado con el placer y la motivación. Esto crea un poderoso circuito de retroalimentación donde la anticipación de la validación social motiva la publicación y verificación continua. Las plataformas diseñan características para maximizar estos golpes de dopamina: recompensas variables (a veces una publicación obtiene cientos de me gusta, a veces pocos), retroalimentación inmediata (las notificaciones aparecen rápidamente) y desplazamiento sin fin (disponibilidad infinita de contenido). Este diseño refleja la mecánica del juego, que también manipula los sistemas de dopamina. Comprender este mecanismo biológico explica por qué las redes sociales resultan atractivas incluso cuando los usuarios quieren limitar conscientemente su uso.",
+      "funFact": "Los arquitectos de las plataformas de redes sociales, incluidos ex ejecutivos de Facebook, han declarado que diseñaron deliberadamente funciones para que fueran adictivas y han expresado preocupación por los impactos de sus creaciones."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Atención y capacidad cognitiva",
+      "body": "La exposición constante a las redes sociales fragmenta la atención, reduciendo nuestra capacidad de concentración profunda. Los recursos de atención del cerebro son limitados. Consultar las redes sociales durante las pausas del trabajo o del estudio interrumpe los procesos cognitivos necesarios para el pensamiento complejo. Las investigaciones muestran que el simple hecho de tener el teléfono visible reduce el rendimiento cognitivo en tareas desafiantes, incluso si no lo usa. La posibilidad de notificaciones crea una atención dividida. Las interrupciones periódicas perjudican la consolidación del aprendizaje en la memoria a largo plazo. Los estudiantes que realizan múltiples tareas con las redes sociales obtienen peores resultados académicos. Los profesionales que intentan concentrarse en problemas complejos experimentan una productividad reducida. El efecto acumulativo de la atención fragmentada es la reducción de la capacidad para involucrarse profundamente con material desafiante.",
+      "imageUrl": "images/attention-fragmentation.jpg",
+      "imageCaption": "Las interrupciones en las redes sociales reducen la capacidad de concentración sostenida"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Comparación social y autoestima",
+      "body": "Las redes sociales facilitan la constante comparación social ascendente: comparar su vida con los momentos más destacados de los demás. Las plataformas fomentan la selección de presentaciones perfectas: publicar fotografías atractivas, documentar experiencias y mostrar logros. Ver el contenido cuidadosamente editado de otros crea la ilusión de que todos los demás viven vidas mejores, más felices y más exitosas. Esta comparación activa regiones del cerebro asociadas con la autoevaluación y produce sentimientos de insuficiencia. Las investigaciones vinculan el uso intensivo de las redes sociales con un aumento de la ansiedad y la depresión, particularmente entre los adolescentes cuyas identidades aún se están formando. La tendencia a la comparación se ve amplificada por feeds algorítmicos que muestran contenido cada vez más extremo. Tomar descansos de las redes sociales mejora constantemente la autoestima y el estado de ánimo, lo que sugiere que estos sentimientos reflejan la influencia de las redes sociales más que la realidad.",
+      "imageUrl": "images/social-comparison.jpg"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "El sueño y los efectos neurológicos",
+      "body": "El uso de las redes sociales a altas horas de la noche altera el sueño a través de múltiples mecanismos. La luz azul de las pantallas suprime la producción de melatonina, retrasando el inicio del sueño. El contenido emocionalmente estimulante activa tu sistema nervioso cuando deberías estar relajándote. Las notificaciones crean fragmentación del sueño a lo largo de la noche. La pérdida de sueño afecta la función cognitiva, la regulación emocional, la función inmune y la consolidación de la memoria. Los adolescentes son particularmente vulnerables: dormir es fundamental para el desarrollo del cerebro. El momento del uso de las redes sociales es muy importante: el uso nocturno produce peores alteraciones del sueño que el uso matutino o vespertino. Establecer períodos de relajación sin usar el teléfono mejora la calidad del sueño, lo que posteriormente mejora el estado de ánimo, la cognición y el funcionamiento general. La calidad del sueño a menudo mejora drásticamente después de reducir el uso de las redes sociales por la noche.",
+      "imageUrl": "images/sleep-disruption.jpg",
+      "imageCaption": "La luz azul y la estimulación del contenido alteran los patrones de sueño"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Estrategias de uso intencional",
+      "body": "Comprender los efectos neurológicos de las redes sociales permite un uso más intencional. Desactivar las notificaciones reduce la imprevisibilidad que desencadena la dopamina. Programar horarios específicos en las redes sociales en lugar de consultarlos a lo largo del día limita la fragmentación de la atención. Limitar el uso nocturno protege el sueño. La selección de feeds para incluir contenido inspirador en lugar de contenido que induzca a comparaciones cambia la exposición basada en algoritmos. El uso de bloqueadores de sitios web durante sesiones de trabajo concentradas evita la tentación. Tomar descansos regulares en las redes sociales ayuda a restablecer los niveles de tolerancia: lo que parecían controles necesarios se vuelve menos convincente. Elegir la interacción cara a cara en lugar de la participación en las redes sociales activa vías neuronales diferentes y más saludables. Ser consciente de la manipulación del diseño (reconocer cuándo las plataformas provocan comparación o ansiedad) crea una distancia psicológica. Estas estrategias no requieren abandonar las redes sociales sino utilizarlas de forma más consciente.",
+      "funFact": "La investigación sobre las pausas en las redes sociales muestra que solo una o dos semanas de uso reducido producen mejoras mensurables en el estado de ánimo y los niveles de ansiedad en la mayoría de los usuarios."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World. Grand Central Publishing.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Williams, J. (2018). Stand Out of Our Light: Freedom and Resistance in the Attention Economy. Cambridge University Press.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-socialmedia-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué sistema de neurotransmisores aprovechan principalmente las plataformas de redes sociales para crear experiencias adictivas?",
+        "options": [
+          "serotonina",
+          "dopamina",
+          "GABA",
+          "acetilcolina"
+        ],
+        "correctAnswer": "dopamina",
+        "explanation": "Las plataformas de redes sociales manipulan el sistema de recompensa de dopamina a través de me gusta, comentarios y notificaciones, creando poderosos circuitos de retroalimentación similares a los mecanismos de juego."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "El simple hecho de tener el teléfono visible, incluso sin usarlo, no tiene ningún efecto significativo en el rendimiento cognitivo.",
+        "correctAnswer": "false",
+        "explanation": "Las investigaciones muestran que la mera presencia y visibilidad de un teléfono reduce el rendimiento cognitivo en tareas desafiantes, incluso cuando el teléfono no está en uso."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué tipo de comparación social facilitan más las redes sociales?",
+        "options": [
+          "Comparación a la baja con personas menos exitosas",
+          "Comparación lateral con personas en circunstancias similares",
+          "Comparación ascendente con videos destacados de las vidas seleccionadas de otros",
+          "Análisis comparativo de diferentes filosofías de vida."
+        ],
+        "correctAnswer": "Comparación ascendente con videos destacados de las vidas seleccionadas de otros",
+        "explanation": "Las redes sociales muestran los mejores momentos de las personas y presentaciones editadas, lo que lleva a una comparación ascendente que produce sentimientos de insuficiencia en los espectadores."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "La luz azul de las pantallas suprime la producción de _______, que es crucial para iniciar el sueño.",
+        "correctAnswer": "melatonina",
+        "explanation": "La luz azul de las pantallas suprime la producción de melatonina, lo que retrasa el inicio del sueño cuando se usa por la noche."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "Las investigaciones indican que tomar descansos de las redes sociales generalmente resulta en un empeoramiento del estado de ánimo y niveles de ansiedad.",
+        "correctAnswer": "false",
+        "explanation": "Las investigaciones muestran que los descansos en las redes sociales mejoran el estado de ánimo y los niveles de ansiedad, y se producen mejoras mensurables dentro de una o dos semanas de uso reducido."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440009"
+  },
+  "publishedAt": "2026-04-17T00:00:00Z",
+  "createdAt": "2026-04-17T00:00:00Z",
+  "updatedAt": "2026-04-17T00:00:00Z"
+}

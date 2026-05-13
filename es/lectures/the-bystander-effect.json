@@ -1,0 +1,117 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "slug": "the-bystander-effect",
+  "title": "El efecto espectador",
+  "subtitle": "Por qué no ayudamos cuando hay otras personas cerca",
+  "topicId": "psychology",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-bystander-effect.jpg",
+  "isPremium": false,
+  "featured": true,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "¿Qué es el efecto espectador?",
+      "body": "El efecto espectador es un fenómeno psicológico en el que es menos probable que las personas ayuden a alguien que lo necesita cuando hay otras personas presentes. Esto ocurre en múltiples situaciones, desde emergencias médicas hasta escenas de crímenes. Cuantos más espectadores estén presentes, es menos probable que intervenga algún individuo. Este concepto surgió de la investigación en psicología social en la década de 1960 y sigue siendo crucial para comprender el comportamiento grupal y la difusión de la responsabilidad en la sociedad moderna.",
+      "funFact": "En 1964, Kitty Genovese fue asesinada en Nueva York sin que 38 testigos pidieran ayuda. Este trágico suceso provocó una investigación psicológica sobre por qué los transeúntes no intervienen."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Difusión de responsabilidad",
+      "body": "Cuando hay varias personas presentes durante una emergencia, la responsabilidad de ayudar se distribuye entre todos los observadores. Cada persona se siente menos responsable personalmente, asumiendo que alguien más tomará medidas. Esta difusión crea una falsa sensación de que el problema no es de su incumbencia. En grupos más pequeños o cuando están solos, los individuos sienten una responsabilidad directa y están más motivados para actuar. El mecanismo psicológico opera inconscientemente pero influye poderosamente en la toma de decisiones.",
+      "imageUrl": "images/diffusion-responsibility.jpg",
+      "imageCaption": "La responsabilidad disminuye a medida que aumenta el tamaño del grupo."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Ignorancia pluralista",
+      "body": "La ignorancia pluralista ocurre cuando las personas observan el comportamiento de los demás para determinar qué es apropiado en situaciones ambiguas. Si todos parecen tranquilos y despreocupados, las personas asumen que la situación no es realmente grave. Esto crea un circuito de retroalimentación donde la inacción de los demás refuerza la percepción de que no se necesita ayuda. Incluso si en privado no están seguros, la gente sigue el ejemplo del grupo. Este mecanismo ayuda a explicar por qué las emergencias pueden no abordarse a pesar de que hay muchos testigos presentes."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Aprensión por la evaluación",
+      "body": "A las personas les preocupa ser juzgadas negativamente por sus acciones o inacciones. En situaciones públicas con múltiples observadores, los individuos experimentan una mayor ansiedad sobre cómo se percibirá su comportamiento. Esta timidez puede paralizar la toma de decisiones. El miedo a parecer tonto, interferir de manera inapropiada o ser culpado por resultados negativos genera vacilación. Este miedo se intensifica con el tamaño de la audiencia, lo que contribuye a reducir el comportamiento de ayuda en situaciones de emergencia."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Implicaciones del mundo real",
+      "body": "Comprender el efecto espectador ha influido en los protocolos de seguridad en espacios públicos, la capacitación en el lugar de trabajo y los procedimientos de respuesta a emergencias. Las organizaciones ahora implementan asignaciones de responsabilidad claras y alientan el empoderamiento individual para ayudar. Las escuelas enseñan a los estudiantes a intervenir en situaciones de acoso en lugar de permanecer en silencio. La capacitación en RCP enfatiza señalar directamente a las personas para solicitar ayuda en lugar de apelar a una multitud. Reconocer estos patrones psicológicos nos permite superarlos y crear comunidades más receptivas.",
+      "imageUrl": "images/implications-helping.jpg"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Latané, B., & Darley, J. M. (1970). The Unresponsive Bystander: Why Doesn't He Help? Appleton-Century-Crofts.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8(4), 377-383.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-bystander-001",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál es la causa principal de la reducción del comportamiento de ayuda en el efecto espectador?",
+        "options": [
+          "Difusión de responsabilidad entre los observadores",
+          "Falta de empatía en las multitudes",
+          "Miedo al daño físico",
+          "Incapacidad para ver la emergencia."
+        ],
+        "correctAnswer": "Difusión de responsabilidad entre los observadores",
+        "explanation": "La difusión de la responsabilidad es el mecanismo central: cuando hay varias personas presentes, cada individuo se siente menos responsable personalmente, lo que reduce la probabilidad de intervención."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Según las investigaciones, es más probable que las personas ayuden en emergencias cuando están solas que cuando hay otras personas presentes.",
+        "correctAnswer": "true",
+        "explanation": "Esto es cierto. Los estudios demuestran sistemáticamente que las personas intervienen con mayor frecuencia y rapidez cuando son los únicos testigos de una emergencia, ya que se sienten totalmente responsables de ayudar."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué significa la ignorancia pluralista en el contexto de la investigación del efecto espectador?",
+        "options": [
+          "La gente ignora las emergencias a propósito",
+          "Las personas asumen que las situaciones no son serias basándose en el comportamiento tranquilo de los demás.",
+          "La gente desconoce las normas sociales.",
+          "La gente carece de conocimientos sobre los procedimientos de emergencia."
+        ],
+        "correctAnswer": "Las personas asumen que las situaciones no son serias basándose en el comportamiento tranquilo de los demás.",
+        "explanation": "La ignorancia pluralista ocurre cuando los observadores interpretan la inacción de los demás como una señal de que la situación no es en realidad una emergencia, lo que los lleva a abstenerse también de ayudar."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "El concepto de efecto espectador cobró importancia tras una investigación inspirada en el caso _______ de 1964.",
+        "correctAnswer": "gatito genovés",
+        "explanation": "El asesinato de Kitty Genovese, presenciado por 38 personas que no pidieron ayuda, impulsó la innovadora investigación de Latané y Darley sobre por qué los transeúntes no intervienen."
+      },
+      {
+        "id": "q-5",
+        "type": "true_false",
+        "questionText": "La aprensión a la evaluación se refiere a la preocupación de las personas por ser juzgadas por otros por su comportamiento de ayuda.",
+        "correctAnswer": "true",
+        "explanation": "Esto es correcto. La aprensión a la evaluación describe la ansiedad que sienten las personas acerca de cómo los demás percibirán sus acciones, lo que puede inhibir la ayuda en situaciones públicas."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440001"
+  },
+  "publishedAt": "2026-04-01T00:00:00Z",
+  "createdAt": "2026-04-01T00:00:00Z",
+  "updatedAt": "2026-04-01T00:00:00Z"
+}

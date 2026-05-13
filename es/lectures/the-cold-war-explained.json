@@ -1,0 +1,136 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440008",
+  "slug": "the-cold-war-explained",
+  "title": "La Guerra Fría",
+  "subtitle": "Décadas de tensión entre superpotencias sin conflicto militar directo",
+  "topicId": "history",
+  "estimatedMinutes": 10,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/the-cold-war-explained.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Los orígenes del conflicto",
+      "body": "Después de que terminó la Segunda Guerra Mundial en 1945, la alianza entre la Unión Soviética y las potencias occidentales se disolvió. Las diferencias ideológicas (comunismo versus capitalismo y democracia) crearon una incompatibilidad fundamental. Stalin amplió el control soviético sobre las naciones de Europa del Este, creando estados satélite bajo dominación soviética. Las naciones occidentales, encabezadas por Estados Unidos, se opusieron a la expansión soviética y buscaron contener el comunismo. El Telón de Acero, término popularizado por Winston Churchill, simbolizaba la división entre la Europa del Este comunista y la Europa Occidental democrática. La desconfianza mutua, los intereses contrapuestos y la oposición ideológica crearon un mundo bipolar. Ninguna superpotencia atacó directamente a la otra militarmente, pero compitieron globalmente a través de guerras por poderes, espionaje y carreras armamentistas.",
+      "funFact": "El término \"Guerra Fría\" se acuñó porque las superpotencias nunca lucharon directamente; el conflicto fue ideológico, político y económico."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Armas nucleares y disuasión",
+      "body": "El desarrollo de armas nucleares transformó la estrategia global. La Unión Soviética detonó su primera bomba atómica en 1949, rompiendo el monopolio atómico estadounidense. Ambas superpotencias desarrollaron enormes arsenales nucleares capaces de destruir la civilización. La doctrina de Destrucción Mutua Asegurada (MAD) sugería que una guerra nuclear sería tan devastadora que ninguna de las partes se arriesgaría a iniciar un conflicto. Esto creó una estabilidad precaria basada en la amenaza de la aniquilación nuclear. La crisis de los misiles cubanos de 1962 acercó a la humanidad a una guerra nuclear, con Estados Unidos y la Unión Soviética al borde de un conflicto directo. La ansiedad nuclear dio forma a la cultura de la Guerra Fría e influyó en la literatura, el cine y la conciencia pública.",
+      "imageUrl": "images/cards/nuclear-mushroom-cloud.jpg",
+      "imageCaption": "Las armas nucleares dieron forma a la estrategia de la Guerra Fría y al pensamiento de seguridad global"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Guerras de poder y competencia global",
+      "body": "Incapaces de luchar directamente, las superpotencias compitieron a través de guerras por poderes, financiando a bandos opuestos en conflictos en todo el mundo. En la Guerra de Corea (1950-1953), las fuerzas estadounidenses apoyaron a Corea del Sur contra una Corea del Norte respaldada por los soviéticos. La Guerra de Vietnam (1955-1975) se convirtió en un importante conflicto por poderes con una amplia participación estadounidense contra el Vietnam del Norte comunista. La Unión Soviética intervino en Afganistán en 1979, enfrentándose a combatientes muyahidines respaldados por Estados Unidos. En África, América Latina y Asia, las superpotencias de la Guerra Fría apoyaron a facciones opuestas. Estos conflictos por poderes causaron un enorme sufrimiento, millones de muertes y una inestabilidad regional prolongada. Las superpotencias utilizaron a las naciones en desarrollo como tableros de ajedrez para su competencia ideológica.",
+      "funFact": "El término \"guerra por poderes\" describe conflictos en los que las potencias rivales no luchan directamente sino que apoyan a los bandos opuestos para promover sus intereses."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Espionaje, tecnología y espacio",
+      "body": "La Guerra Fría también se libró mediante el espionaje, con la CIA y la KGB realizando operaciones de inteligencia a nivel mundial. Ambas superpotencias priorizaron el avance tecnológico. La carrera espacial se convirtió en un símbolo de la competición de la Guerra Fría. La Unión Soviética logró éxitos iniciales, lanzando el Sputnik (1957) y enviando a Yuri Gagarin como el primer ser humano al espacio (1961). Estados Unidos respondió comprometiéndose a llevar humanos a la Luna, lo que logró en 1969. La competencia tecnológica se extendió a los sistemas militares, las computadoras y la medicina. Esta competencia, aunque peligrosa y costosa, aceleró el progreso tecnológico. El sistema de carreteras interestatales, Internet (ARPANET) y numerosos avances médicos fueron el resultado de la competencia tecnológica de la Guerra Fría.",
+      "imageUrl": "images/cards/space-race-moon.jpg",
+      "imageCaption": "La carrera espacial simbolizó la competencia de la Guerra Fría entre superpotencias"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Alianzas y Europa dividida",
+      "body": "La OTAN (Organización del Tratado del Atlántico Norte), formada en 1949, alió a las democracias occidentales contra la expansión soviética. El Pacto de Varsovia, establecido en 1955, formalizó el control soviético sobre Europa del Este. Alemania quedó dividida en Alemania Oriental comunista y Alemania Occidental capitalista. Berlín, la capital alemana, estaba igualmente dividida, con un muro construido en 1961 que impidió que los alemanes orientales huyeran hacia el oeste. Corea y Vietnam quedaron divididos en regiones comunistas y no comunistas. Esta división del mundo en esferas de influencia tuvo consecuencias geopolíticas duraderas. La OTAN y el Pacto de Varsovia representaron alianzas formales que persistieron hasta el final de la Guerra Fría.",
+      "imageUrl": "images/cards/berlin-wall.jpg",
+      "imageCaption": "El Muro de Berlín, construido en 1961, simbolizó la división de la Guerra Fría."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "El fin de la guerra fría",
+      "body": "La Guerra Fría terminó gradualmente a finales de los años 1980. El líder soviético Mikhail Gorbachev implementó la glasnost (apertura) y la perestroika (reestructuración), reduciendo las tensiones. La economía soviética, agobiada por el gasto militar y la ineficiencia, colapsó. Las naciones de Europa del Este lograron la independencia. El Muro de Berlín cayó en 1989. La Unión Soviética se disolvió en 1991. Estos cambios alteraron fundamentalmente la geopolítica global. El mundo bipolar de superpotencias comunistas versus capitalistas dio paso a la unipolaridad estadounidense y a nuevos desafíos regionales. La Guerra Fría duró más de cuatro décadas y marcó profundamente la historia posterior a la Segunda Guerra Mundial. Su legado persiste en tensiones geopolíticas, preocupaciones sobre la proliferación nuclear e inestabilidades regionales.",
+      "funFact": "La Guerra Fría no terminó con una dramática confrontación militar sino con el fracaso económico y el colapso interno del sistema soviético."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Cold War: A New History",
+      "author": "John Lewis Gaddis",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "The Cold War: A Very Short Introduction",
+      "author": "Robert McMahon",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Origins of the Cold War in Europe",
+      "author": "David Reynolds",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-cold-war-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿En qué año se disolvió la Unión Soviética, poniendo fin efectivamente a la Guerra Fría?",
+        "options": [
+          "1989",
+          "1991",
+          "1993",
+          "1985"
+        ],
+        "correctAnswer": "1991",
+        "explanation": "La Unión Soviética se disolvió oficialmente el 26 de diciembre de 1991, marcando el fin definitivo de la Guerra Fría."
+      },
+      {
+        "id": "q2",
+        "type": "fill_blank",
+        "questionText": "La doctrina de _______ sugería que una guerra nuclear sería tan devastadora que ninguna de las superpotencias se arriesgaría a iniciar un conflicto.",
+        "correctAnswer": "Destrucción mutua asegurada",
+        "explanation": "La Destrucción Mutua Asegurada (MAD) fue el concepto estratégico que evitó la confrontación directa entre superpotencias con armas nucleares."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "La crisis de los misiles cubanos fue el momento más cercano que estuvo el mundo a una guerra nuclear directa entre las superpotencias.",
+        "correctAnswer": "true",
+        "explanation": "La crisis de los misiles cubanos en octubre de 1962 llevó a Estados Unidos y la Unión Soviética al borde de un conflicto nuclear antes de resolverlo mediante negociaciones diplomáticas."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál de las siguientes fue una importante guerra por poderes durante la Guerra Fría?",
+        "options": [
+          "La guerra de los cien años",
+          "La guerra de Vietnam",
+          "La Guerra Civil Española",
+          "Las guerras napoleónicas"
+        ],
+        "correctAnswer": "La guerra de Vietnam",
+        "explanation": "La Guerra de Vietnam (1955-1975) fue un importante conflicto indirecto de la Guerra Fría con una amplia participación estadounidense y soviética."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "La Unión Soviética fue la primera nación en lograr vuelos espaciales tripulados con Yuri Gagarin en 1961.",
+        "correctAnswer": "true",
+        "explanation": "El cosmonauta soviético Yuri Gagarin se convirtió en el primer ser humano en el espacio el 12 de abril de 1961, lo que representó una victoria soviética inicial en la carrera espacial."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440008"
+  },
+  "publishedAt": "2026-04-15T00:00:00Z",
+  "createdAt": "2026-04-15T00:00:00Z",
+  "updatedAt": "2026-04-15T00:00:00Z"
+}

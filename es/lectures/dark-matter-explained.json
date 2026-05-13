@@ -1,0 +1,148 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440006",
+  "slug": "dark-matter-explained",
+  "title": "Materia oscura",
+  "subtitle": "La sustancia invisible que mantiene unidas a las galaxias",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 9,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/dark-matter-explained.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El misterio de faltar a misa",
+      "body": "Cuando los astrónomos calculan la masa de las galaxias basándose en la materia visible (estrellas, gas y polvo) descubren que no es suficiente para explicar los movimientos observados. Las galaxias giran demasiado rápido; deberían separarse como un tiovivo que gira perdiendo gran parte de su peso. Los cúmulos de galaxias se mueven de maneras que sugieren que la materia invisible es mucho más masiva que la visible. Esta discrepancia llevó a la hipótesis de la materia oscura: una forma invisible de materia que comprende aproximadamente el 85% de toda la materia del universo. La gravedad de la materia oscura proporciona el \"pegamento\" que mantiene unidos a las galaxias y los cúmulos.",
+      "funFact": "¡Por cada kilogramo de materia normal, hay alrededor de 5 a 6 kilogramos de materia oscura en el universo!",
+      "imageUrl": "images/content/galaxy-rotation-curve.jpg",
+      "imageCaption": "Curvas de rotación de galaxias que muestran la necesidad de materia oscura"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Evidencia observacional",
+      "body": "Múltiples observaciones independientes respaldan la existencia de la materia oscura. Las curvas de rotación de las galaxias muestran regiones exteriores que se mueven demasiado rápido para lograr estabilidad gravitacional con masa visible únicamente. Las velocidades de las galaxias en cúmulos superan las predicciones basadas en la materia visible. Las lentes gravitacionales (la desviación de la luz por objetos masivos) revelan estructuras masivas donde sólo existen pequeñas cantidades de materia visible. La distribución de la temperatura del gas caliente en los cúmulos de galaxias requiere más masa gravitacional que la que proporcionan las estrellas visibles. Las mediciones del fondo cósmico de microondas limitan la densidad total de la materia, lo que confirma el dominio de la materia oscura sobre la materia normal.",
+      "imageUrl": "images/content/gravitational-lensing.jpg",
+      "imageCaption": "Las lentes gravitacionales de la materia oscura desvían la luz de galaxias distantes"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Candidatos a la Materia Oscura",
+      "body": "Los científicos han propuesto numerosos candidatos a materia oscura. Las partículas masivas de interacción débil (WIMP) son partículas hipotéticas que apenas interactúan con la materia normal. Los axiones son partículas diminutas, parecidas a fantasmas, propuestas originalmente para resolver problemas de física nuclear. Los neutrinos estériles interactúan sólo a través de la gravedad. Los MACHO (objetos de halo compactos masivos), como los agujeros negros y las estrellas de neutrones, son alternativas sin partículas. Cada candidato tiene diferentes propiedades y firmas de detección. A pesar de décadas de búsqueda con detectores sensibles, no se ha confirmado ninguna detección directa, aunque los experimentos continúan buscando partículas de materia oscura.",
+      "funFact": "¡Las partículas de materia oscura podrían estar pasando a través de su cuerpo ahora mismo (miles de millones por segundo) sin interactuar!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Halos de materia oscura",
+      "body": "Las galaxias están incrustadas en enormes halos de materia oscura. Estos halos se extienden mucho más allá de las estrellas visibles y contienen la mayor parte de la masa de una galaxia. Nuestra Vía Láctea probablemente tenga un halo de materia oscura que se extiende cientos de miles de años luz. Los halos de materia oscura influyen en la formación, las fusiones y la evolución de las galaxias. La distribución de la materia oscura en los halos se puede inferir a partir de lentes gravitacionales y dinámica de galaxias. Las simulaciones por computadora ayudan a predecir las propiedades de los halos de materia oscura, pero muchos detalles siguen siendo inciertos. La estructura y propiedades de los halos de materia oscura siguen siendo áreas de investigación activas.",
+      "imageUrl": "images/content/dark-matter-halo.jpg",
+      "imageCaption": "Una ilustración de una galaxia rodeada por su halo de materia oscura."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Experimentos de detección",
+      "body": "Los científicos llevan a cabo experimentos sofisticados en busca de partículas de materia oscura. Los detectores subterráneos como XENON y SuperCDMS buscan colisiones directas entre la materia oscura y los núcleos atómicos. Estos experimentos requieren una protección extrema contra los rayos cósmicos, de ahí las ubicaciones subterráneas. Los aceleradores de partículas como el Gran Colisionador de Hadrones buscan materia oscura producida en colisiones de alta energía. Otros experimentos buscan axiones utilizando magnetómetros especializados. A pesar de la extensa búsqueda, no se ha confirmado ninguna detección de partículas de materia oscura. Esta no detección es en sí misma informativa y limita las propiedades de la materia oscura.",
+      "imageUrl": "images/content/xenon-detector.jpg",
+      "imageCaption": "Dentro del experimento de detección de materia oscura XENON"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Teorías alternativas",
+      "body": "Algunos científicos proponen explicaciones alternativas a la materia oscura. Las teorías de la gravedad modificada como MOND (Dinámica Newtoniana Modificada) ajustan las leyes gravitacionales para explicar las observaciones sin materia oscura. Sin embargo, estas teorías luchan por explicar todos los fenómenos que la materia oscura explica fácilmente, en particular la estructura a gran escala y el fondo cósmico de microondas. Si bien la gravedad modificada sigue siendo un área de investigación activa, las observaciones apoyan cada vez más la materia oscura frente a las modificaciones de la gravedad únicamente. La opinión generalizada es que la materia oscura comprende la masa gravitacional que falta, aunque se siguen explorando alternativas.",
+      "funFact": "¡Las teorías de la gravedad modificada funcionan mejor para galaxias individuales, pero no logran explicar la dinámica de los cúmulos de galaxias!"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "El futuro de la investigación de la materia oscura",
+      "body": "La investigación de la materia oscura sigue siendo uno de los mayores misterios de la física. Futuros experimentos con mayor sensibilidad podrían finalmente detectar partículas de materia oscura directamente. Los telescopios de próxima generación permitirán mejores observaciones de las distribuciones de la materia oscura mediante lentes gravitacionales. Los detectores de ondas gravitacionales pueden revelar los efectos de la materia oscura. Los avances teóricos pueden predecir nuevos candidatos a materia oscura. La solución podría implicar múltiples tipos de materia oscura con diferentes propiedades. Descubrir la verdadera naturaleza de la materia oscura impactaría profundamente la física, revelaría física más allá del Modelo Estándar y profundizaría nuestra comprensión de la composición fundamental del universo.",
+      "funFact": "¡Encontrar materia oscura podría conducir a una nueva física revolucionaria más allá de lo que conocemos actualmente!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Bertone, G., Hooper, D., & Silk, J. (2005). 'Particle dark matter: Evidence, candidates and constraints.' Physics Reports, 405(5-6), 279-390.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Clowe, D., et al. (2006). 'A direct empirical proof of the existence of dark matter.' The Astrophysical Journal Letters, 648(2), L109.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Planck Collaboration (2018). 'Planck 2018 results. VI. Cosmological parameters.' Astronomy & Astrophysics, 641, A6.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-6",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué porcentaje de la materia del universo se estima que es materia oscura?",
+        "options": [
+          "Aproximadamente 15%",
+          "Aproximadamente el 50%",
+          "Aproximadamente 85%",
+          "Aproximadamente el 95%"
+        ],
+        "correctAnswer": "Aproximadamente 85%",
+        "explanation": "La materia oscura comprende aproximadamente el 85% de toda la materia del universo, superando con creces la materia normal."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Las curvas de rotación de las galaxias proporcionan evidencia de que las galaxias contienen más masa de la que pueden explicar las estrellas visibles y el gas por sí solos.",
+        "correctAnswer": "true",
+        "explanation": "Las curvas de rotación de las galaxias muestran regiones exteriores que se mueven demasiado rápido, lo que requiere masa gravitacional adicional de la materia oscura."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál de estos NO es un candidato propuesto a materia oscura?",
+        "options": [
+          "WIMP (partículas masivas de interacción débil)",
+          "Axiones",
+          "fotones",
+          "neutrinos estériles"
+        ],
+        "correctAnswer": "fotones",
+        "explanation": "Los fotones son parte de la materia normal e interactúan fácilmente con otra materia. Los candidatos a materia oscura son partículas hipotéticas."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "La región que rodea una galaxia y que contiene la mayor parte de su masa en forma de materia oscura se llama materia oscura _______.",
+        "correctAnswer": "aureola",
+        "explanation": "Los halos de materia oscura son regiones extendidas alrededor de galaxias que contienen la mayor parte de la masa gravitacional."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué significa MOND?",
+        "options": [
+          "Dinámica Newtoniana Orbital Modificada",
+          "Dinámica newtoniana modificada",
+          "Muchos discos newtonianos en órbita",
+          "Distribución newtoniana de objetos masivos"
+        ],
+        "correctAnswer": "Dinámica newtoniana modificada",
+        "explanation": "MOND propone modificar las leyes gravitacionales como explicación alternativa a la materia oscura, aunque las observaciones respaldan cada vez más la materia oscura."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440006"
+  },
+  "publishedAt": "2026-04-11T00:00:00Z",
+  "createdAt": "2026-04-11T00:00:00Z",
+  "updatedAt": "2026-04-11T00:00:00Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "philosophy",
+  "name": "Filosofía",
+  "slug": "philosophy",
+  "emoji": "🧠",
+  "colorHex": "#7C3AED",
+  "description": "Grandes preguntas, respuestas simples",
+  "sortOrder": 1
+}

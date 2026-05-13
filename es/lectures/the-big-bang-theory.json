@@ -1,0 +1,148 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440002",
+  "slug": "the-big-bang-theory",
+  "title": "La teoría del Big Bang",
+  "subtitle": "El origen y expansión de nuestro universo.",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 9,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-big-bang-theory.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El comienzo de todo",
+      "body": "La teoría del Big Bang describe cómo comenzó nuestro universo hace aproximadamente 13.800 millones de años. Antes de este momento, el espacio, el tiempo y la materia no existían en ningún sentido convencional. En un estado increíblemente caliente y denso, el universo de repente comenzó a expandirse. No se trató de una explosión en el espacio, sino más bien de la expansión del espacio mismo. Toda la materia, la energía y el espacio-tiempo surgieron de este evento inicial, convirtiéndolo en el momento más dramático de la historia cósmica.",
+      "funFact": "El Big Bang no ocurrió en un lugar específico: ¡ocurrió en todas partes al mismo tiempo!",
+      "imageUrl": "images/content/big-bang-timeline.jpg",
+      "imageCaption": "Cronología del universo desde el Big Bang hasta la actualidad"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Evidencia del fondo cósmico de microondas",
+      "body": "Una de las pruebas más sólidas del Big Bang es el fondo cósmico de microondas (CMB). Se trata de radiación sobrante de cuando el universo tenía sólo 380.000 años, cuando se enfrió lo suficiente como para que la luz viajara libremente. Descubierto en 1965 por Penzias y Wilson, el CMB llena todo el espacio de manera uniforme. Las mediciones precisas realizadas por satélites como WMAP y Planck muestran pequeñas variaciones de temperatura que coinciden con las predicciones de la teoría del Big Bang, lo que proporciona una confirmación notable de la teoría.",
+      "funFact": "¡Aproximadamente el 1% de la estática en los televisores antiguos fue causada por la radiación CMB!",
+      "imageUrl": "images/content/cmb-map.jpg",
+      "imageCaption": "Mapa de temperatura del fondo cósmico de microondas"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "El descubrimiento y la expansión cósmica del Hubble",
+      "body": "En la década de 1920, Edwin Hubble hizo un descubrimiento revolucionario: el universo se está expandiendo. Al medir la luz de galaxias distantes, descubrió que la mayoría de las galaxias se están alejando de nosotros, y cuanto más lejos están, más rápido se alejan. Esta observación proporcionó evidencia directa de que el universo tuvo un comienzo y no es estático. Si el universo se está expandiendo ahora, retroceder en el tiempo significa que debe haber sido más pequeño y más denso en el pasado, lo que respalda la hipótesis del Big Bang.",
+      "funFact": "¡La expansión del universo se está acelerando debido a la energía oscura, no desacelerando!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Las primeras fracciones de un segundo",
+      "body": "Los primeros momentos del Big Bang siguen siendo un misterio debido a los efectos cuánticos en energías extremas. En la primera fracción de segundo, el universo estaba incomprensiblemente caliente y denso. Durante el primer microsegundo, los quarks formaron protones y neutrones. Un segundo después del Big Bang, el universo se había enfriado lo suficiente como para que las fuerzas débil y electromagnética se separaran. Entre un segundo y tres minutos, los protones y neutrones se combinaron para formar los primeros núcleos atómicos, principalmente hidrógeno y helio.",
+      "funFact": "¡El primer segundo del Big Bang implicó cambios más fundamentales que miles de millones de años después!"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Recombinación y los primeros átomos",
+      "body": "Durante los primeros 380.000 años después del Big Bang, el universo fue un plasma caliente de partículas y radiación. Los electrones no podían combinarse con los núcleos porque los fotones tenían demasiada energía. Luego, el universo se expandió y se enfrió por debajo de los 3.000 Kelvin, lo que permitió que los electrones se recombinaran con los núcleos para formar átomos neutros, principalmente hidrógeno y algo de helio. Este momento, llamado recombinación, es cuando la luz finalmente podría viajar libremente, creando el fondo cósmico de microondas que observamos hoy.",
+      "imageUrl": "images/content/recombination-era.jpg",
+      "imageCaption": "La era de la recombinación marcó cuando el universo se volvió transparente"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Formación de estructuras y galaxias.",
+      "body": "Después de la recombinación, el universo era mayoritariamente uniforme, pero pequeñas variaciones de densidad sembraron la formación de estructuras. Durante millones de años, la gravedad amplificó estas variaciones, uniendo la materia en grupos. Las primeras estrellas se formaron entre 100 y 200 millones de años después del Big Bang, seguidas de las primeras galaxias. Estas primeras galaxias se estaban fusionando y evolucionando hasta formar la diversa población de galaxias que vemos hoy. Esta estructura cósmica que observamos (galaxias, cúmulos y la red cósmica) surgió de fluctuaciones cuánticas en el universo primitivo.",
+      "funFact": "¡Las primeras galaxias que vemos hoy se formaron cuando el universo tenía menos de mil millones de años!"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "La inflación y los misterios cósmicos",
+      "body": "Para explicar ciertas observaciones, los cosmólogos propusieron la inflación cósmica: una expansión extremadamente rápida en la primera fracción de segundo. La inflación suaviza el universo y explica por qué regiones distantes son notablemente similares a pesar de nunca estar en contacto. Aunque aún no se ha demostrado de manera concluyente, la inflación resuelve problemas importantes en la teoría del Big Bang. Las observaciones actuales y futuras pueden detectar ondas gravitacionales de la inflación. Comprender estos primeros momentos requiere combinar la mecánica cuántica con la relatividad general.",
+      "funFact": "Durante la inflación, es posible que el universo se haya expandido más rápido que la velocidad de la luz; ¡esto no viola la relatividad porque el espacio mismo se estaba expandiendo!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Penzias, A. A., & Wilson, R. W. (1965). 'A Measurement of Excess Antenna Temperature at 4080 Mc/s.' The Astrophysical Journal, 142, 419-421.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Lineweaver, C. H., & Rao, T. M. (2003). 'The cosmic microwave background and the geometry of the universe.' General Relativity and Gravitation, 35(12), 2313-2331.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Planck Collaboration (2018). 'Planck 2018 results. VI. Cosmological parameters.' Astronomy & Astrophysics, 641, A6.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-2",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Hace aproximadamente cuánto tiempo ocurrió el Big Bang?",
+        "options": [
+          "Hace 4.600 millones de años",
+          "Hace 13,8 mil millones de años",
+          "Hace 50 mil millones de años",
+          "Hace 100 mil millones de años"
+        ],
+        "correctAnswer": "Hace 13,8 mil millones de años",
+        "explanation": "Las observaciones actuales indican que el Big Bang ocurrió hace aproximadamente 13.800 millones de años."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "El fondo cósmico de microondas es evidencia de que el universo alguna vez fue extremadamente caliente y denso.",
+        "correctAnswer": "true",
+        "explanation": "El CMB es radiación sobrante de cuando el universo tenía unos 380.000 años y era extremadamente caliente, lo que proporciona una fuerte evidencia del Big Bang."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Quién descubrió que el universo se está expandiendo?",
+        "options": [
+          "Albert Einstein",
+          "Edwin Hubble",
+          "Georges Lemaître",
+          "Fred Hoyle"
+        ],
+        "correctAnswer": "Edwin Hubble",
+        "explanation": "Las observaciones de Edwin Hubble en la década de 1920 mostraron que las galaxias distantes se están alejando de nosotros, lo que demuestra que el universo se está expandiendo."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "El momento en que los electrones se combinan con los núcleos para formar átomos neutros se llama _______.",
+        "correctAnswer": "recombinación",
+        "explanation": "La recombinación ocurrió unos 380.000 años después del Big Bang, cuando el universo se enfrió lo suficiente como para que los electrones se combinaran con los núcleos."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué dice la teoría del Big Bang sobre el origen del espacio y el tiempo?",
+        "options": [
+          "Siempre existieron sin cambios.",
+          "Comenzaron con el Big Bang",
+          "Vinieron de otro universo",
+          "Son ilusiones de la percepción humana."
+        ],
+        "correctAnswer": "Comenzaron con el Big Bang",
+        "explanation": "La teoría del Big Bang describe que el espacio, el tiempo y la materia se originaron a partir del evento de expansión inicial."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440002"
+  },
+  "publishedAt": "2026-04-03T00:00:00Z",
+  "createdAt": "2026-04-03T00:00:00Z",
+  "updatedAt": "2026-04-03T00:00:00Z"
+}

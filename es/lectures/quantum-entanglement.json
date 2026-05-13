@@ -1,0 +1,146 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440010",
+  "slug": "quantum-entanglement",
+  "title": "Entrelazamiento cuántico",
+  "subtitle": "La espeluznante conexión que Einstein no pudo aceptar",
+  "topicId": "science",
+  "estimatedMinutes": 10,
+  "difficulty": "advanced",
+  "thumbnailUrl": "images/thumbnails/quantum-entanglement.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "¿Qué es el entrelazamiento cuántico?",
+      "body": "El entrelazamiento cuántico es un fenómeno en el que dos o más partículas se interconectan de tal manera que el estado cuántico de una partícula se relaciona instantáneamente con el estado de otra, independientemente de la distancia que las separe. Cuando las partículas están entrelazadas, medir una propiedad de una partícula determina inmediatamente la propiedad correspondiente de la otra partícula. Esto ocurre incluso si están separados por grandes distancias (a lo largo del universo, si es necesario). Einstein llamó a esta acción \"espeluznante a distancia\" porque la encontraba filosóficamente preocupante. Creía que la información no podía viajar más rápido que la luz, por lo que una correlación instantánea parecía imposible. Sin embargo, décadas de experimentos han confirmado que el entrelazamiento es real y fundamental para la mecánica cuántica. Sorprendentemente, el entrelazamiento no transmite información más rápido que la luz porque no se puede controlar el resultado de la medición en una partícula para enviar un mensaje a la otra. A pesar de esto, el entrelazamiento sigue siendo uno de los fenómenos más fascinantes y contradictorios de la física.",
+      "funFact": "Einstein se negó a aceptar plenamente el entrelazamiento cuántico y escribió que Dios no juega a los dados, ¡pero los experimentos demostraron que Einstein estaba equivocado!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Creando partículas entrelazadas",
+      "body": "Las partículas entrelazadas se crean mediante varios procesos. Un método común consiste en dividir un fotón en dos fotones de menor energía a través de cristales no lineales. Las leyes de conservación garantizan que estos fotones hijos estén correlacionados: entrelazados. Otro método utiliza una conversión descendente paramétrica espontánea en la que un único fotón de alta energía se convierte en dos fotones entrelazados de menor energía. Los átomos pueden entrelazarse mediante interacciones con láseres. Los electrones pueden entrelazarse mediante interacciones electromagnéticas. El requisito clave es que las partículas interactúen de una manera que acople sus estados cuánticos. Una vez entrelazadas, las partículas mantienen su correlación incluso cuando están separadas. El entrelazamiento es frágil: las interacciones ambientales (decoherencia) pueden destruirlo. Es por eso que mantener el entrelazamiento requiere condiciones de laboratorio cuidadosas: aislamiento extremo y bajas temperaturas. Crear y mantener el entrelazamiento es un desafío técnico, pero los investigadores lo han logrado repetidamente, confirmando las predicciones de la mecánica cuántica.",
+      "imageUrl": "images/entangled-particles.jpg",
+      "imageCaption": "Fotones entrelazados creados mediante conversión descendente paramétrica"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "La paradoja de Einstein-Podolsky-Rosen",
+      "body": "En 1935, Einstein, Podolsky y Rosen propusieron un experimento mental que desafiaba la mecánica cuántica. Argumentaron que si la medición de una partícula afectaba instantáneamente a otra partícula lejana, o la mecánica cuántica era incompleta o la influencia instantánea violaba la relatividad. Concluyeron que la mecánica cuántica debe ser incompleta: deben existir variables ocultas que determinen las propiedades de las partículas antes de la medición. Esto desafió la visión de la mecánica cuántica de que las partículas no tienen propiedades definidas hasta que se miden. La paradoja del EPR desató décadas de debate. En la década de 1960, John Bell desarrolló una prueba matemática (la desigualdad de Bell) que distinguía entre teorías locales de variables ocultas y mecánica cuántica. Los experimentos demostraron repetidamente que las predicciones de la mecánica cuántica violaban la desigualdad de Bell, mientras que las teorías de variables ocultas la satisfacían. Esto demostró que ninguna teoría local de variables ocultas podía reproducir la mecánica cuántica. El universo es fundamentalmente no local: las correlaciones instantáneas a distancia son reales. La incomodidad de Einstein refleja cuán profundamente el entrelazamiento desafía las intuiciones clásicas sobre la realidad.",
+      "imageUrl": "images/epr-paradox.jpg",
+      "imageCaption": "El experimento mental de Einstein, Podolsky y Rosen"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Teorema y experimentos de Bell",
+      "body": "El teorema de John Bell de 1964 demostró que ninguna teoría local de variables ocultas podía reproducir todas las predicciones de la mecánica cuántica. La desigualdad de Bell es una restricción matemática que deben satisfacer las variables ocultas locales. La mecánica cuántica predice violaciones de esta desigualdad en ciertos escenarios. Los experimentos de Alain Aspect y otros en la década de 1980 probaron la desigualdad de Bell utilizando fotones entrelazados. Los resultados violaron decisivamente la desigualdad de Bell, contradiciendo las variables locales ocultas y al mismo tiempo apoyando la mecánica cuántica. Experimentos posteriores que utilizaron diferentes partículas y métodos confirmaron consistentemente las predicciones de la mecánica cuántica. Estos experimentos se encuentran entre los más importantes de la física y demuestran que la naturaleza es fundamentalmente no local. Sin embargo, seguían existiendo \"lagunas\" que permitían una interpretación contraria. La laguna jurídica de la \"libertad de elección\" sugería que las opciones de medición podrían no ser verdaderamente independientes. El \"laguna de detección\" señaló que no se detectaron todas las partículas. Recientemente, los experimentos que cerraron ambas lagunas demostraron definitivamente la no localidad. El universo realmente exhibe correlaciones instantáneas a distancias arbitrarias.",
+      "imageUrl": "images/bell-test.jpg",
+      "imageCaption": "Experimentos de prueba de Bell que confirman la mecánica cuántica"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Teletransportación cuántica",
+      "body": "La teletransportación cuántica aprovecha el entrelazamiento para transferir estados cuánticos. Aunque no puede transmitir más rápido que la luz (se requiere la transferencia de información clásica), es un fenómeno notable. El proceso implica un par entrelazado: una partícula con el emisor y otra con el receptor. El remitente realiza una medición entrelazando su partícula con el estado que desea teletransportar. Esta medición produce bits de información clásicos enviados al receptor. El receptor realiza una operación sobre su partícula entrelazada utilizando la información clásica, recuperando el estado cuántico original. Durante la medición se destruye el estado original en el emisor. En 1997, los investigadores demostraron experimentalmente la teletransportación cuántica. Desde entonces, la técnica ha avanzado desde fotones hasta átomos y sistemas más grandes. La teletransportación cuántica sigue siendo imperfecta, pero la investigación continúa mejorando la fidelidad. Las futuras computadoras cuánticas podrían utilizar la teletransportación para transferir información cuántica. Aunque la teletransportación cuántica suena a ciencia ficción, es un fenómeno real que surge de la mecánica cuántica.",
+      "funFact": "¡La teletransportación cuántica ha sido demostrada con fotones, átomos e incluso objetos macroscópicos como diamantes!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Aplicaciones de computación cuántica",
+      "body": "El entrelazamiento cuántico es fundamental para la computación cuántica. Las computadoras cuánticas usan qubits: bits cuánticos que pueden ser 0, 1 o ambos simultáneamente (superposición). Se pueden entrelazar varios qubits, creando correlaciones que permiten un cálculo potente. El entrelazamiento permite a las computadoras cuánticas procesar ciertos problemas exponencialmente más rápido que las computadoras clásicas. Una computadora clásica con n bits puede representar uno de 2 ^ n valores posibles a la vez. Una computadora cuántica con n qubits entrelazados puede representar los 2^n valores simultáneamente en superposición. Los algoritmos cuánticos explotan este entrelazamiento para buscar bases de datos más rápidamente, factorizar grandes números y simular sistemas cuánticos. Sin embargo, mantener el enredo es un desafío. La decoherencia del ruido ambiental destruye el enredo y provoca errores. La corrección de errores cuánticos utiliza el entrelazamiento estratégicamente para proteger la información. Las principales empresas tecnológicas (IBM, Google, Microsoft) están desarrollando computadoras cuánticas. Las computadoras cuánticas de IBM son accesibles a la nube para la investigación. A medida que la computación cuántica madure, el entrelazamiento será cada vez más importante para la tecnología.",
+      "imageUrl": "images/quantum-computer.jpg",
+      "imageCaption": "Computadora cuántica que utiliza qubits entrelazados"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Interpretaciones y realidad",
+      "body": "El entrelazamiento cuántico plantea preguntas fundamentales sobre la naturaleza de la realidad. La interpretación de Copenhague sugiere que las partículas no tienen propiedades definidas hasta que se miden, lo que hace que el entrelazamiento sea natural: la medición crea propiedades correlacionadas. La interpretación de muchos mundos sugiere que todos los resultados de las mediciones ocurren en universos diferentes, por lo que el entrelazamiento simplemente se correlaciona entre universos. La teoría de la onda piloto propone variables ocultas que guían las partículas de maneras que violan la desigualdad de Bell a través de influencias no locales. Estas interpretaciones coinciden en las predicciones de la mecánica cuántica pero difieren filosóficamente. El entrelazamiento demuestra que la realidad a escalas cuánticas opera de manera diferente a lo que sugiere la intuición clásica. Las partículas pueden correlacionarse a través del espacio de maneras que desafían la localidad. Esto no viola la relatividad porque la transferencia de información es imposible: no se pueden controlar los resultados de las mediciones. Sin embargo, la correlación instantánea es innegable. El entrelazamiento cuántico continúa desafiando y ampliando la comprensión de la realidad, la localidad y el determinismo. Sigue siendo un área activa de investigación en tecnología y fundamentos cuánticos."
+    }
+  ],
+  "quiz": {
+    "id": "quiz-10",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué significa entrelazamiento cuántico?",
+        "options": [
+          "Dos partículas no pueden interactuar entre sí.",
+          "La medición de una partícula entrelazada afecta instantáneamente el estado de otra partícula entrelazada.",
+          "Las partículas siempre deben estar en el mismo lugar.",
+          "El entrelazamiento evita que las partículas tengan propiedades."
+        ],
+        "correctAnswer": "La medición de una partícula entrelazada afecta instantáneamente el estado de otra partícula entrelazada.",
+        "explanation": "El entrelazamiento crea un estado cuántico en el que la medición de una propiedad de una partícula se correlaciona inmediatamente con la propiedad de otra partícula, independientemente de la distancia."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "El entrelazamiento cuántico permite una comunicación más rápida que la luz.",
+        "correctAnswer": "false",
+        "explanation": "Si bien el entrelazamiento crea correlaciones instantáneas, no se pueden controlar los resultados de las mediciones para enviar información, por lo que la comunicación más rápida que la luz es imposible."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "El EPR ________ fue propuesto por Einstein, Podolsky y Rosen para desafiar la mecánica cuántica.",
+        "correctAnswer": "paradoja",
+        "explanation": "La paradoja de Einstein-Podolsky-Rosen sostenía que la mecánica cuántica era incompleta porque predecía la influencia instantánea a distancia."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Qué demostraron los experimentos que probaron la desigualdad de Bell?",
+        "options": [
+          "Las variables ocultas determinan todas las propiedades de las partículas.",
+          "La mecánica cuántica está incompleta",
+          "La naturaleza es fundamentalmente no local y viola la desigualdad de Bell como predice la mecánica cuántica",
+          "El enredo en realidad no existe"
+        ],
+        "correctAnswer": "La naturaleza es fundamentalmente no local y viola la desigualdad de Bell como predice la mecánica cuántica",
+        "explanation": "Los experimentos de Bell mostraron consistentemente violaciones de la desigualdad de Bell, confirmando la mecánica cuántica y demostrando que la naturaleza es fundamentalmente no local."
+      },
+      {
+        "id": "q5",
+        "type": "multiple_choice",
+        "questionText": "¿Cómo permite el entrelazamiento cuántico las ventajas de la computación cuántica?",
+        "options": [
+          "Los qubits entrelazados permiten un procesamiento clásico más rápido",
+          "El entrelazamiento no tiene ningún papel en la computación cuántica",
+          "Los qubits entrelazados en superposición permiten la representación simultánea de exponencialmente más estados que los bits clásicos",
+          "El entrelazamiento impide el funcionamiento de las computadoras cuánticas"
+        ],
+        "correctAnswer": "Los qubits entrelazados en superposición permiten la representación simultánea de exponencialmente más estados que los bits clásicos",
+        "explanation": "Los qubits entrelazados aprovechan la superposición cuántica para representar simultáneamente todos los estados posibles, lo que permite a las computadoras cuánticas resolver ciertos problemas exponencialmente más rápido."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440010"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Einstein, A., Podolsky, B., & Rosen, N. (1935). 'Can quantum-mechanical description of physical reality be considered complete?'. Physical Review, 47(10), 777-780.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Bell, J. S. (1964). 'On the Einstein Podolsky Rosen paradox'. Physics Physique Fizika, 1(3), 195-200.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Aspect, A., Grangier, P., & Roger, G. (1982). 'Experimental tests of Bell's inequalities using time-varying analyzers'. Physical Review Letters, 49(25), 1804-1807.",
+      "type": "journal"
+    }
+  ],
+  "publishedAt": "2026-04-28T00:00:00Z",
+  "createdAt": "2026-04-28T00:00:00Z",
+  "updatedAt": "2026-04-28T00:00:00Z"
+}

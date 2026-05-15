@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-13T12:19:15.822Z",
+  "updatedAt": "2026-05-15T15:17:38.253Z",
   "featured": {
     "lectureSlug": "fall-of-the-roman-empire",
-    "validUntil": "2026-05-20T12:19:15.822Z"
+    "validUntil": "2026-05-22T15:17:38.253Z"
   },
   "topics": [
     {
@@ -88,6 +88,42 @@
       "estimatedMinutes": 8,
       "difficulty": "beginner",
       "thumbnailUrl": "images/thumbnails/the-bystander-effect.jpg",
+      "isPremium": false,
+      "publishedAt": "2026-04-01T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
+      "slug": "the-trolley-problem",
+      "title": "El problema del tranvía",
+      "subtitle": "Un dilema moral que desafía nuestras intuiciones éticas",
+      "topicId": "philosophy",
+      "estimatedMinutes": 8,
+      "difficulty": "beginner",
+      "thumbnailUrl": "images/thumbnails/the-trolley-problem.jpg",
+      "isPremium": false,
+      "publishedAt": "2026-04-01T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
+      "slug": "why-do-cats-purr",
+      "title": "¿Por qué ronronean los gatos?",
+      "subtitle": "Comprender la ciencia detrás del ruido del motor de su gato",
+      "topicId": "nature-animals",
+      "estimatedMinutes": 8,
+      "difficulty": "beginner",
+      "thumbnailUrl": "images/thumbnails/why-do-cats-purr.jpg",
+      "isPremium": false,
+      "publishedAt": "2026-04-01T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
+      "slug": "why-is-the-sky-blue",
+      "title": "¿Por qué el cielo es azul?",
+      "subtitle": "Comprender la dispersión de la luz en nuestra atmósfera",
+      "topicId": "science",
+      "estimatedMinutes": 8,
+      "difficulty": "beginner",
+      "thumbnailUrl": "images/thumbnails/why-is-the-sky-blue.jpg",
       "isPremium": false,
       "publishedAt": "2026-04-01T00:00:00Z",
       "popularityScore": 0
@@ -213,6 +249,18 @@
       "popularityScore": 0
     },
     {
+      "slug": "the-silk-road",
+      "title": "La ruta de la seda",
+      "subtitle": "Antiguas rutas comerciales que conectaron civilizaciones",
+      "topicId": "history",
+      "estimatedMinutes": 10,
+      "difficulty": "intermediate",
+      "thumbnailUrl": "images/thumbnails/the-silk-road.jpg",
+      "isPremium": true,
+      "publishedAt": "2026-04-05T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
       "slug": "french-revolution-why",
       "title": "Por qué ocurrió la Revolución Francesa",
       "subtitle": "Las causas y el contexto de una agitación que está cambiando el mundo",
@@ -273,6 +321,18 @@
       "popularityScore": 0
     },
     {
+      "slug": "what-are-neutron-stars",
+      "title": "¿Qué son las estrellas de neutrones?",
+      "subtitle": "Explorando los objetos más extremos del universo.",
+      "topicId": "space-astronomy",
+      "estimatedMinutes": 8,
+      "difficulty": "intermediate",
+      "thumbnailUrl": "images/thumbnails/what-are-neutron-stars.jpg",
+      "isPremium": false,
+      "publishedAt": "2026-04-07T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
       "slug": "confucius-golden-rule",
       "title": "Confucio y la regla de oro",
       "subtitle": "Reciprocidad, relaciones y vida virtuosa en la filosofía oriental",
@@ -304,6 +364,30 @@
       "estimatedMinutes": 8,
       "difficulty": "beginner",
       "thumbnailUrl": "images/thumbnails/dunning-kruger-effect.jpg",
+      "isPremium": false,
+      "publishedAt": "2026-04-09T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
+      "slug": "the-voyager-missions",
+      "title": "Las misiones Voyager",
+      "subtitle": "El mayor viaje de la humanidad al cosmos",
+      "topicId": "space-astronomy",
+      "estimatedMinutes": 7,
+      "difficulty": "beginner",
+      "thumbnailUrl": "images/thumbnails/the-voyager-missions.jpg",
+      "isPremium": true,
+      "publishedAt": "2026-04-09T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
+      "slug": "viking-age-explorers",
+      "title": "La era vikinga",
+      "subtitle": "Exploradores, comerciantes y colonos nórdicos que dieron forma a la Europa medieval",
+      "topicId": "history",
+      "estimatedMinutes": 8,
+      "difficulty": "beginner",
+      "thumbnailUrl": "images/thumbnails/viking-age-explorers.jpg",
       "isPremium": false,
       "publishedAt": "2026-04-09T00:00:00Z",
       "popularityScore": 0
@@ -369,6 +453,18 @@
       "popularityScore": 0
     },
     {
+      "slug": "wolves-and-ecosystems",
+      "title": "Cómo los lobos cambian los ríos",
+      "subtitle": "La cascada trófica y la restauración de ecosistemas a través de los principales depredadores",
+      "topicId": "nature-animals",
+      "estimatedMinutes": 8,
+      "difficulty": "beginner",
+      "thumbnailUrl": "images/thumbnails/wolves-and-ecosystems.jpg",
+      "isPremium": false,
+      "publishedAt": "2026-04-11T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
       "slug": "ancient-egypt-pyramids",
       "title": "¿Cómo se construyeron las pirámides?",
       "subtitle": "Maravillas de la ingeniería del mundo antiguo.",
@@ -429,6 +525,18 @@
       "popularityScore": 0
     },
     {
+      "slug": "why-we-dream",
+      "title": "¿Por qué soñamos?",
+      "subtitle": "Explorando el misterio del sueño y el cerebro dormido",
+      "topicId": "science",
+      "estimatedMinutes": 8,
+      "difficulty": "beginner",
+      "thumbnailUrl": "images/thumbnails/why-we-dream.jpg",
+      "isPremium": true,
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
       "slug": "exoplanets-habitable-worlds",
       "title": "Exoplanetas y mundos habitables",
       "subtitle": "Buscando mundos donde podría existir vida",
@@ -474,6 +582,30 @@
       "thumbnailUrl": "images/thumbnails/the-marshmallow-test.jpg",
       "isPremium": false,
       "publishedAt": "2026-04-15T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
+      "slug": "the-ship-of-theseus",
+      "title": "El barco de Teseo",
+      "subtitle": "Identidad, continuidad y lo que hace que algo sea igual a lo largo del tiempo",
+      "topicId": "philosophy",
+      "estimatedMinutes": 8,
+      "difficulty": "beginner",
+      "thumbnailUrl": "images/thumbnails/the-ship-of-theseus.jpg",
+      "isPremium": false,
+      "publishedAt": "2026-04-15T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
+      "slug": "theory-of-relativity",
+      "title": "La teoría de la relatividad de Einstein",
+      "subtitle": "Understanding Space, Time, and Gravity",
+      "topicId": "science",
+      "estimatedMinutes": 10,
+      "difficulty": "intermediate",
+      "thumbnailUrl": "images/thumbnails/theory-of-relativity.jpg",
+      "isPremium": false,
+      "publishedAt": "2026-04-16T00:00:00Z",
       "popularityScore": 0
     },
     {
@@ -580,6 +712,30 @@
       "estimatedMinutes": 7,
       "difficulty": "beginner",
       "thumbnailUrl": "images/thumbnails/the-placebo-effect.jpg",
+      "isPremium": true,
+      "publishedAt": "2026-04-19T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
+      "slug": "the-renaissance",
+      "title": "El Renacimiento",
+      "subtitle": "El renacimiento del potencial humano y el aprendizaje",
+      "topicId": "history",
+      "estimatedMinutes": 10,
+      "difficulty": "advanced",
+      "thumbnailUrl": "images/thumbnails/the-renaissance.jpg",
+      "isPremium": true,
+      "publishedAt": "2026-04-19T00:00:00Z",
+      "popularityScore": 0
+    },
+    {
+      "slug": "zen-buddhism-emptiness",
+      "title": "Budismo Zen y el Vacío",
+      "subtitle": "Comprender Sunyata y la experiencia directa de la realidad",
+      "topicId": "philosophy",
+      "estimatedMinutes": 10,
+      "difficulty": "advanced",
+      "thumbnailUrl": "images/thumbnails/zen-buddhism-emptiness.jpg",
       "isPremium": true,
       "publishedAt": "2026-04-19T00:00:00Z",
       "popularityScore": 0

@@ -1,0 +1,135 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440005",
+  "slug": "viking-age-explorers",
+  "title": "La era vikinga",
+  "subtitle": "Exploradores, comerciantes y colonos nórdicos que dieron forma a la Europa medieval",
+  "topicId": "history",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/viking-age-explorers.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "¿Quiénes eran los vikingos?",
+      "body": "Los vikingos eran guerreros nórdicos marineros de Escandinavia que vivieron durante la era vikinga (aproximadamente 793-1066 d.C.). Procedían principalmente de las actuales Noruega, Suecia y Dinamarca. A diferencia de los estereotipos populares, la mayoría de los vikingos eran agricultores, comerciantes y colonos, no sólo asaltantes. Sin embargo, los guerreros nórdicos llevaron a cabo brutales incursiones contra objetivos europeos ricos, en particular monasterios y asentamientos costeros. Estas incursiones, que comenzaron con el famoso ataque al monasterio de Lindisfarne en Inglaterra en 793 d.C., conmocionaron a la Europa cristiana y marcaron el comienzo de la era vikinga. Las innovaciones tecnológicas de los vikingos en la construcción naval y la navegación permitieron una exploración sin precedentes.",
+      "funFact": "Los barcos vikingos (drakkar) eran tan avanzados que incluso los historiadores modernos quedaron asombrados por su navegabilidad y velocidad cuando se construyeron réplicas."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Rutas de exploración y comercio",
+      "body": "Los vikingos suecos, llamados varegos, establecieron rutas comerciales que llegaban a Constantinopla y Bagdad, viajando por ríos rusos. Fundaron puestos comerciales y, finalmente, la ciudad de Kiev, que se convirtió en la base del Estado ruso. Los vikingos noruegos navegaron hacia el oeste y llegaron a Islandia alrededor del año 870 d.C. y a Groenlandia alrededor del 985 d.C. Los vikingos daneses atacaron extensamente Inglaterra y Francia y finalmente se establecieron en Normandía mediante el Tratado de Saint-Clair-sur-Epte en 911 d.C. Estas empresas convirtieron a los vikingos en formidables comerciantes que intercambiaban pieles, ámbar y esclavos por seda, especias y artículos de lujo. Los vikingos ampliaron el conocimiento geográfico europeo y crearon redes comerciales.",
+      "imageUrl": "images/cards/viking-longship.jpg",
+      "imageCaption": "Un drakkar vikingo reconstruido que demuestra su avanzada tecnología marítima"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Leif Erikson y América del Norte",
+      "body": "El explorador nórdico Leif Erikson, hijo de Erik el Rojo, quien fundó Groenlandia, navegó hacia el oeste alrededor del año 1000 EC y llegó a América del Norte, a la que llamó \"Vinlandia\". La evidencia arqueológica de L'Anse aux Meadows en Terranova confirma el asentamiento nórdico en América del Norte alrededor del año 1000 d.C. Esto convirtió a los vikingos en los primeros europeos conocidos en llegar a América, casi 500 años antes que Colón. Si bien su asentamiento fue breve y limitado, los viajes vikingos demostraron una habilidad y un coraje marítimos extraordinarios. El logro de Leif representa una de las mayores hazañas exploratorias de la historia, lograda en embarcaciones abiertas que navegan en aguas inexploradas.",
+      "funFact": "El viaje de Leif Erikson a América del Norte quedó documentado en sagas nórdicas, que proporcionaron pistas a los arqueólogos modernos que buscaban Vinland."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Asentamiento e integración cultural",
+      "body": "Más allá de las incursiones, los vikingos establecieron asentamientos en toda su esfera de influencia. Los vikingos noruegos se establecieron en Islandia y Groenlandia, creando nuevas sociedades nórdicas. Los vikingos daneses y noruegos que se establecieron en Normandía adoptaron gradualmente la cultura, el idioma y el cristianismo franceses a lo largo de generaciones. Sus descendientes, los normandos, se convirtieron en destacados señores feudales medievales. En Rusia, los comerciantes escandinavos fundaron asentamientos que se fusionaron con poblaciones eslavas. En lugar de conquistar y reemplazar poblaciones, los vikingos a menudo se casaban entre sí y se fusionaban culturalmente con las sociedades existentes. Esta integración creó nuevas culturas híbridas que mezclaron tradiciones nórdicas y locales.",
+      "imageUrl": "images/cards/viking-settlement.jpg",
+      "imageCaption": "Reconstrucción de un asentamiento de la época vikinga que muestra casas comunales típicas"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Religión, cultura y legado",
+      "body": "Los vikingos tenían creencias religiosas nórdicas politeístas y adoraban a dioses como Odín, Thor y Freyja. A medida que se establecieron en la Europa cristiana, se convirtieron gradualmente al cristianismo, que finalmente reemplazó al paganismo nórdico. La sociedad vikinga valoraba la destreza marcial, el honor y la lealtad. Crearon arte impresionante, intrincados trabajos en metal y poesía épica. Las mujeres en la sociedad vikinga tenían más derechos que muchas mujeres medievales, podían poseer propiedades y divorciarse. Los vikingos desarrollaron un sofisticado sistema legal y una asamblea democrática llamada The Thing. A pesar de su reputación de asaltantes, los vikingos hicieron contribuciones culturales duraderas a la civilización europea a través de las leyes, el idioma y las estructuras de gobierno.",
+      "funFact": "Muchas palabras inglesas con raíces escandinavas ingresaron al idioma a través del asentamiento vikingo, incluidas \"cielo\", \"huevo\", \"ventana\" y \"marido\"."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "El fin de la era vikinga",
+      "body": "La era vikinga concluyó alrededor del año 1066 d.C., marcada por la conquista normanda de Inglaterra y la batalla de Stamford Bridge, donde el rey noruego Harald Hardrada fue derrotado mientras intentaba conquistar Inglaterra. En esta fecha, la mayoría de los nórdicos se habían integrado en las sociedades cristianas europeas. La cristianización de Escandinavia, las fortificaciones defensivas mejoradas en las regiones europeas y el desarrollo de reinos centralizados más grandes hicieron que las incursiones vikingas fueran menos efectivas. La época pasó de la exploración y el asentamiento a la integración. Sin embargo, la influencia vikinga persistió en el idioma, el derecho, la cultura y la tecnología marítima. El legado de los vikingos moldeó profundamente la Europa medieval y moderna.",
+      "funFact": "La palabra \"vikingo\" puede derivar de la palabra nórdica antigua \"vik\", que significa \"bahía\", o de \"vikingr\", que significa \"alguien que permanece en una bahía\"."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Normans: From Raided Raiders to Kings",
+      "author": "James Muldoon",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "The Vikings",
+      "author": "Robert Ferguson",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "The Age of the Vikings",
+      "author": "Anders Winroth",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-viking-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué evento se marca tradicionalmente como el comienzo de la era vikinga?",
+        "options": [
+          "La fundación de Groenlandia en el año 985 d.C.",
+          "El asalto al monasterio de Lindisfarne en el año 793 d.C.",
+          "La exploración de América del Norte en el año 1000 d.C.",
+          "El asentamiento de Islandia en 870 d.C."
+        ],
+        "correctAnswer": "El asalto al monasterio de Lindisfarne en el año 793 d.C.",
+        "explanation": "El ataque al monasterio de Lindisfarne en Inglaterra en 793 d.C. conmocionó a la Europa cristiana y marca el comienzo de la era vikinga."
+      },
+      {
+        "id": "q2",
+        "type": "fill_blank",
+        "questionText": "El explorador nórdico _______ llegó a América del Norte alrededor del año 1000 EC y estableció un asentamiento al que llamó Vinland.",
+        "correctAnswer": "Leif Erikson",
+        "explanation": "Leif Erikson era hijo de Erik el Rojo y se convirtió en el primer europeo conocido en llegar a América del Norte."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "El viaje de Leif Erikson a América del Norte se produjo aproximadamente 500 años antes que Colón.",
+        "correctAnswer": "true",
+        "explanation": "Leif Erikson llegó a América del Norte alrededor del año 1000 d.C., mientras que Colón llegó en 1492 d.C., casi 500 años después."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿A qué vikingos suecos se les atribuye el establecimiento de rutas comerciales a Constantinopla y Bagdad?",
+        "options": [
+          "Variegos noruegos",
+          "normandos daneses",
+          "Variegos suecos",
+          "Colonos groenlandeses"
+        ],
+        "correctAnswer": "Variegos suecos",
+        "explanation": "Los vikingos suecos, conocidos como varegos, establecieron rutas comerciales por los ríos rusos hasta Constantinopla y Bagdad."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "Todos los vikingos eran principalmente guerreros y asaltantes; la mayoría no se estableció ni comerció pacíficamente.",
+        "correctAnswer": "false",
+        "explanation": "La mayoría de los vikingos eran agricultores, comerciantes y colonos. Si bien algunos realizaron incursiones, muchos establecieron asentamientos y participaron en comercio pacífico en toda Europa y más allá."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440005"
+  },
+  "publishedAt": "2026-04-09T00:00:00Z",
+  "createdAt": "2026-04-09T00:00:00Z",
+  "updatedAt": "2026-04-09T00:00:00Z"
+}

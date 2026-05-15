@@ -1,0 +1,130 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "slug": "why-do-cats-purr",
+  "title": "¿Por qué ronronean los gatos?",
+  "subtitle": "Comprender la ciencia detrás del ruido del motor de su gato",
+  "topicId": "nature-animals",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/why-do-cats-purr.jpg",
+  "isPremium": false,
+  "featured": true,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "La mecánica del ronroneo",
+      "body": "El ronroneo del gato es producido por los músculos de la laringe (laringe) que se contraen y relajan rápidamente mientras su gato inhala y exhala. Esta vibración crea el característico sonido retumbante en frecuencias entre 25 y 150 Hertz. Los científicos creen que estos músculos están controlados por un oscilador neuronal especializado en el cerebro. Las vibraciones son tan consistentes que los gatos pueden seguir ronroneando mientras comen, beben o incluso dan a luz. Esta notable adaptación biológica demuestra la sofisticación evolutiva de la comunicación felina.",
+      "funFact": "¡La frecuencia del ronroneo de un gato es similar a las frecuencias utilizadas en la terapia para promover la curación ósea en los humanos!"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Razones por las que los gatos ronronean",
+      "body": "Si bien muchos asocian el ronroneo con la alegría, los gatos ronronean por múltiples razones. Ronronean cuando los acarician o se sientan en un regazo cómodo, lo que indica confianza y afecto. Sin embargo, los gatos también ronronean cuando están heridos, enfermos o angustiados, lo que sugiere que el ronroneo puede tener propiedades calmantes. Las madres gatas ronronean para guiar a los gatitos recién nacidos, y los gatitos ronronean a las pocas horas de nacer. Durante las visitas al veterinario o situaciones estresantes, los gatos pueden ronronear como mecanismo de afrontamiento. Comprender el contexto es esencial para interpretar lo que realmente significa el ronroneo de tu gato.",
+      "imageUrl": "images/cards/cat-purring.jpg",
+      "imageCaption": "Un gato ronroneando contento en el regazo de su dueño"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Beneficios curativos y de salud",
+      "body": "Las investigaciones sugieren que el ronroneo puede tener beneficios terapéuticos para los propios gatos. Las vibraciones generadas durante el ronroneo pueden estimular músculos y huesos, previniendo potencialmente la atrofia durante períodos de inactividad. Los estudios han demostrado que las frecuencias de ronroneo de los gatos se superponen con frecuencias que promueven la reparación de tejidos y la curación de huesos en la investigación médica. Para los humanos, el sonido y las vibraciones del ronroneo de un gato pueden reducir el estrés y disminuir la presión arterial. Este beneficio mutuo explica por qué tener un gato se ha asociado con mejores resultados de salud física y mental en numerosos estudios.",
+      "funFact": "¡El ronroneo de los gatos domésticos tiene frecuencias similares a las utilizadas en los tratamientos de curación ósea!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Ronroneo versus otras vocalizaciones",
+      "body": "Los gatos se comunican a través de diversas vocalizaciones además del ronroneo: maullidos, silbidos, aullidos y parloteos. A diferencia del ronroneo, el maullido está dirigido principalmente a los humanos y no a otros gatos. El silbido es un sonido defensivo que imita a las serpientes para advertir amenazas potenciales. Los aullidos a menudo indican comportamiento de apareamiento o angustia. El ronroneo es único porque es la única vocalización que puede mantenerse de forma continua, ya sea al inhalar o al exhalar. Algunos investigadores creen que el ronroneo evolucionó como un mecanismo de vínculo entre madre y gatito, mientras que otras vocalizaciones se desarrollaron para la comunicación territorial y social.",
+      "imageUrl": "images/cards/cat-vocalizations.jpg",
+      "imageCaption": "Los diferentes sonidos de gatos sirven para diferentes propósitos de comunicación"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Variación individual en el ronroneo",
+      "body": "No todos los gatos ronronean con la misma intensidad ni frecuencia. Algunos gatos ronronean crónicamente, mientras que otros ronronean raramente. Los gatitos suelen ronronear con más frecuencia que los gatos adultos. Los gatos mayores pueden ronronear menos debido a los cambios en el control muscular relacionados con la edad. Existen variaciones de raza, y algunas razas son más ruidosas que otras. Los gatos de exterior ronronean con menos frecuencia que los de interior, posiblemente porque dependen más de otros métodos de comunicación con su comunidad felina. Los factores ambientales, la socialización temprana y la personalidad individual influyen en la frecuencia y el volumen de los ronroneos de un gato.",
+      "funFact": "¡Algunos dueños de gatos informan que sus gatos ronronean más fuerte cuando tienen hambre!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "La conexión neurológica",
+      "body": "El cerebro organiza el ronroneo a través de un oscilador neuronal especializado que envía señales rítmicas a los músculos laríngeos. Se cree que este mecanismo es involuntario en muchas situaciones, lo que significa que su gato puede estar ronroneando sin control consciente. Sin embargo, las investigaciones sugieren que los gatos pueden modular la intensidad y duración de su ronroneo, lo que indica cierto control voluntario. Las vías neuronales implicadas en el ronroneo son distintas de las que controlan los maullidos, lo que explica por qué los gatos pueden ronronear mientras vocalizan. Esta sofisticación neurológica refleja el éxito evolutivo de los gatos como cazadores solitarios y compañeros sociales.",
+      "imageUrl": "images/cards/cat-brain.jpg",
+      "imageCaption": "El cerebro del gato contiene un oscilador especializado para ronronear"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Cat Behavior Answer Book: Practical Insights and Proven Solutions",
+      "author": "Arden Moore",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "Feline Behavior: A Guide for Veterinarians",
+      "author": "Kristyn Vitale and Monique Udell",
+      "type": "journal",
+      "id": "src-2"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-why-do-cats-purr",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué produce el sonido del ronroneo de un gato?",
+        "options": [
+          "Contracciones rápidas de los músculos de la garganta.",
+          "El aire pasa por las fosas nasales.",
+          "La vibración de la cola.",
+          "Chasquido de los dientes"
+        ],
+        "correctAnswer": "Contracciones rápidas de los músculos de la garganta.",
+        "explanation": "Los músculos laríngeos de la laringe se contraen y relajan rápidamente para producir la vibración retumbante característica del ronroneo."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "Los gatos sólo ronronean cuando están felices y contentos.",
+        "correctAnswer": "false",
+        "explanation": "Si bien los gatos ronronean cuando están contentos, también ronronean cuando están heridos, enfermos, angustiados o como mecanismo de autocalmamiento durante situaciones estresantes."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "La frecuencia del ronroneo de un gato oscila entre _____ y _____ Hertz.",
+        "correctAnswer": "25 y 150",
+        "explanation": "Las investigaciones han demostrado que las vibraciones del ronroneo de los gatos suelen producirse en frecuencias entre 25 y 150 Hertz."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál de las siguientes características del ronroneo es única en comparación con otras vocalizaciones de gatos?",
+        "options": [
+          "Sólo se puede producir al inhalar.",
+          "Puede mantenerse continuamente mientras se inhala y exhala.",
+          "Se utiliza principalmente para comunicarse con otros gatos.",
+          "Puede alcanzar frecuencias superiores a 200 Hertz."
+        ],
+        "correctAnswer": "Puede mantenerse continuamente mientras se inhala y exhala.",
+        "explanation": "A diferencia de los maullidos y otras vocalizaciones, el ronroneo es único porque los gatos pueden mantenerlo continuamente tanto durante la inhalación como la exhalación."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "La frecuencia del ronroneo en los gatos es similar a las frecuencias utilizadas en las terapias de curación ósea humana.",
+        "correctAnswer": "true",
+        "explanation": "Los estudios muestran que las frecuencias del ronroneo de los gatos se superponen con las frecuencias terapéuticas utilizadas para promover la reparación de tejidos y la curación de huesos en la investigación médica."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440001"
+  },
+  "publishedAt": "2026-04-01T00:00:00Z",
+  "createdAt": "2026-04-01T00:00:00Z",
+  "updatedAt": "2026-04-01T00:00:00Z"
+}

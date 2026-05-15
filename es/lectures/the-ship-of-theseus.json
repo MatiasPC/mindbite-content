@@ -1,0 +1,131 @@
+{
+  "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+  "slug": "the-ship-of-theseus",
+  "title": "El barco de Teseo",
+  "subtitle": "Identidad, continuidad y lo que hace que algo sea igual a lo largo del tiempo",
+  "topicId": "philosophy",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-ship-of-theseus.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "La paradoja clásica",
+      "body": "El barco de Teseo es una antigua paradoja sobre la identidad y la continuidad atribuida al filósofo griego Plutarco. El barco del héroe legendario Teseo fue preservado por los atenienses, quienes gradualmente reemplazaron cada tabla de madera a medida que se deterioraba. Finalmente, se reemplazaron todas las tablas originales. La paradoja pregunta: ¿sigue siendo el mismo barco? Intuitivamente, sí: aceptamos el reemplazo gradual de piezas. Reemplazamos células en nuestros cuerpos, pero seguimos siendo nosotros mismos. Pero la paradoja se vuelve desconcertante. Imagínese recoger las tablas originales a medida que las retira y volver a montarlas en un barco. Ahora tienes dos barcos: uno con todos los tablones originales y otro que mantuvo la continuidad mediante un reemplazo gradual. ¿Cuál es la verdadera nave de Teseo? Este problema no tiene una respuesta obvia. Revela algo sutil sobre la identidad. La identidad no está determinada por una propiedad intrínseca sino por nuestros marcos conceptuales. La paradoja ilustra cómo el lenguaje y la lógica pueden confundir las cuestiones filosóficas."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "El principio de composición material",
+      "body": "Una aproximación a la paradoja enfatiza la composición material: el barco es idéntico a sus partes materiales. Si se vuelven a ensamblar todos los tablones originales, ese barco es el verdadero Barco de Teseo porque contiene todo el material original. El barco con todos los tablones nuevos es un barco diferente a pesar de su existencia continua. Esta visión prioriza la sustancia física. Sin embargo, plantea problemas. Si la identidad depende de la composición material, entonces no eres la misma persona porque has reemplazado la mayoría de las células desde la infancia. Un edificio no es el mismo edificio después de una renovación. Estas conclusiones parecen falsas. Aceptamos intuitivamente que las personas y los edificios pueden ser \"iguales\" a pesar del reemplazo de materiales. La visión de la composición material define demasiado estrictamente la identidad. Funciona para algunos objetos pero falla para organismos vivos y artefactos complejos. Esto ilustra que la identidad puede no ser un hecho objetivo único, sino que depende del contexto, los intereses y los esquemas conceptuales."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "El principio de continuidad",
+      "body": "Otro enfoque enfatiza la continuidad espacio-temporal: el barco sigue siendo idéntico porque mantuvo una existencia continua a través de un reemplazo gradual. En ningún momento hubo discontinuidad; El barco persistió continuamente. Esto respalda la identificación del barco que sufrió un reemplazo gradual como el Barco de Teseo original. Este enfoque se alinea con la forma en que identificamos naturalmente organismos y objetos. Tu cuerpo persiste a través de una existencia continua y un cambio material gradual. Un río sigue siendo el mismo río a pesar del flujo constante de agua. Este principio tiene sentido práctico y coincide con nuestros juicios de identidad ordinarios. Sin embargo, la continuidad por sí sola no resuelve completamente la paradoja. Si alguien de repente creara un duplicado exacto del barco en algún momento, ¿qué barco es el original: el duplicado o el modificado gradualmente? Ambos tienen continuidad con lo que existía antes. La paradoja revela que la continuidad proporciona un criterio importante para la identidad, pero no es el único. Diferentes criterios pueden entrar en conflicto, creando una auténtica ambigüedad."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "El papel de la función y el propósito",
+      "body": "Algunos filósofos sostienen que la identidad depende en parte de la función o el propósito. La identidad del barco depende de que sea el objeto utilizado para navegar, transportar personas y servir como monumento a Teseo. El barco que mantiene continuidad funcional (todavía se utiliza para los mismos fines y es reconocido por la comunidad) es el verdadero Barco de Teseo. Este enfoque funcional explica por qué identificamos los barcos por sus funciones a pesar de los cambios materiales. De manera similar, identificamos a las personas en parte a través de la continuidad psicológica: memoria, personalidad, intenciones. Esta visión se adapta mejor a los juicios prácticos de identidad que a la estricta composición material. Sin embargo, la función también parece algo arbitraria. ¿Qué hace que una función sea \"igual\"? ¿Qué pasa si un barco se reutiliza por completo? El enfoque funcional destaca que la identidad implica propósitos y reconocimiento comunitario, no sólo propiedades físicas objetivas. Esto sugiere que la identidad se construye socialmente y depende de un propósito, no puramente objetiva."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Aplicación a Personas e Identidad Personal",
+      "body": "La Nave de Teseo se aplica directamente a la identidad personal. Con el tiempo, tu cuerpo reemplaza células, tu mente cambia a través de la experiencia y tus valores y creencias evolucionan. ¿Eres la misma persona que eras hace diez años? La paradoja sugiere que ésta no es una cuestión puramente fáctica sino en parte convencional. A efectos prácticos, decimos que eres la misma persona debido a la continuidad psicológica: la memoria conecta tu yo presente con tu yo pasado. La sociedad reconoce esta continuidad jurídica y moralmente. Sin embargo, persisten los enigmas filosóficos. ¿Existe un hecho profundo sobre la identidad personal independiente de nuestras convenciones? ¿Qué pasaría si tu cerebro estuviera dividido y cada mitad se desarrollara por separado? Ambas continuaciones tendrían algún derecho a ser usted. La paradoja enseña humildad: la identidad podría no tener una respuesta determinada independientemente de los intereses humanos y los esquemas conceptuales. La identidad personal es real e importante, pero sus fundamentos son más complejos que los simples hechos objetivos.",
+      "funFact": "La paradoja del Barco de Teseo ha influido en la filosofía contemporánea de la mente, la identidad personal e incluso las discusiones sobre la carga de conciencia y la inmortalidad digital."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Por qué es importante la paradoja",
+      "body": "El barco de Teseo puede parecer un rompecabezas sin sentido, pero revela algo profundo sobre la identidad, el lenguaje y la realidad. Muestra que los juicios de identidad dependen de múltiples criterios: composición material, continuidad, función, reconocimiento social. Cuando estos criterios entran en conflicto, no hay una respuesta objetivamente correcta. Esto se aplica más allá de los barcos, a organismos, artefactos, personas e incluso instituciones. La paradoja enseña que la identidad no siempre está determinada. El lenguaje desarrollado en la mayoría de los casos se descompone en los extremos. En lugar de buscar una definición única de identidad, deberíamos comprender cómo se aplican diferentes criterios en diferentes contextos. Esta humildad filosófica es valiosa. Sugiere que algunos acertijos filosóficos no se resuelven con una mejor lógica, sino reconociendo que el lenguaje y los conceptos tienen límites. La paradoja fomenta una reflexión cuidadosa sobre lo que queremos decir con \"igual\" y el reconocimiento de que la identidad, si bien es importante en la práctica, puede carecer de fundamentos absolutos."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Plutarch. Life of Theseus. Various classical editions.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Hobbes, Thomas. De Corpore. Translated by A.P. Martinich, Abaris Books, 1981.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Wiggins, David. Sameness and Substance. Harvard University Press, 1980.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-the-ship-of-theseus",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "En la paradoja del Barco de Teseo, ¿cuál es la cuestión filosófica central?",
+        "options": [
+          "¿Pueden los barcos cruzar océanos?",
+          "¿El barco con tablas reemplazadas gradualmente es el mismo barco que uno hecho con tablas originales?",
+          "¿Cómo deberían construirse los barcos de forma más eficaz?",
+          "¿Por qué Teseo era dueño de un barco?"
+        ],
+        "correctAnswer": "¿El barco con tablas reemplazadas gradualmente es el mismo barco que uno hecho con tablas originales?",
+        "explanation": "La paradoja cuestiona qué constituye la identidad cuando todas las partes se reemplazan gradualmente. Dos barcos podrían afirmar ser el barco original de Teseo, lo que crearía ambigüedad sobre la identidad."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Según el principio de composición material, el barco fabricado con tablas originales reensambladas sería el verdadero Barco de Teseo.",
+        "correctAnswer": "true",
+        "explanation": "El principio de composición material identifica los objetos por su sustancia física. Si se vuelven a ensamblar todos los tablones originales, ese barco contiene el material original y sería considerado el verdadero Barco de Teseo."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué principio respalda la idea de que el barco reemplazado gradualmente es el verdadero Barco de Teseo?",
+        "options": [
+          "Composición de materiales",
+          "Continuidad espacio-temporal",
+          "Valor económico",
+          "Documentación histórica"
+        ],
+        "correctAnswer": "Continuidad espacio-temporal",
+        "explanation": "El principio de continuidad sostiene que el barco que mantiene una existencia continua y un reemplazo gradual es el verdadero Barco de Teseo porque nunca experimenta discontinuidad."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "La paradoja del Barco de Teseo revela que la identidad podría depender en parte de ___, el propósito y el reconocimiento social más que sólo de propiedades físicas objetivas.",
+        "correctAnswer": "función",
+        "explanation": "Un enfoque funcional considera cómo se utilizan los objetos y su papel en las prácticas comunitarias. Los barcos se identifican por su función de navegación en lugar de por su estricta identidad material."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Cómo se aplica la paradoja del Barco de Teseo a la identidad personal humana?",
+        "options": [
+          "Demuestra que las personas no pueden cambiar con el tiempo.",
+          "Demuestra que tu cuerpo físico determina quién eres.",
+          "Ilustra que la identidad personal depende de criterios de continuidad que pueden entrar en conflicto, similar a los barcos.",
+          "Demuestra que la identidad es puramente una cuestión de composición material."
+        ],
+        "correctAnswer": "Ilustra que la identidad personal depende de criterios de continuidad que pueden entrar en conflicto, similar a los barcos.",
+        "explanation": "Al igual que el barco, la identidad personal a lo largo del tiempo implica cambios materiales, continuidad y factores psicológicos. La paradoja muestra que los criterios de identidad también pueden entrar en conflicto en las personas."
+      }
+    ],
+    "lectureId": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d"
+  },
+  "publishedAt": "2026-04-15T00:00:00Z",
+  "createdAt": "2026-04-15T00:00:00Z",
+  "updatedAt": "2026-04-15T00:00:00Z"
+}

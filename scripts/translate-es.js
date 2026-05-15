@@ -59,6 +59,8 @@ function requestTranslation(text) {
     const lingvaResponse = execFileSync('curl', [
       '-s',
       '--fail',
+      '--connect-timeout', '10',
+      '--max-time', '25',
       '--retry', '3',
       '--retry-delay', '2',
       `https://lingva.ml/api/v1/en/es/${encodeURIComponent(text)}`
@@ -81,6 +83,8 @@ function requestTranslation(text) {
     const googleResponse = execFileSync('curl', [
       '-s',
       '--fail',
+      '--connect-timeout', '10',
+      '--max-time', '25',
       '--retry', '3',
       '--retry-delay', '2',
       '--data-urlencode', 'client=gtx',
@@ -106,6 +110,8 @@ function requestTranslation(text) {
     const myMemoryResponse = execFileSync('curl', [
       '-sG',
       '--fail',
+      '--connect-timeout', '10',
+      '--max-time', '25',
       '--retry', '3',
       '--retry-delay', '2',
       '--data-urlencode', `q=${text}`,

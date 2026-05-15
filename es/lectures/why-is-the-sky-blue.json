@@ -1,0 +1,145 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "slug": "why-is-the-sky-blue",
+  "title": "¿Por qué el cielo es azul?",
+  "subtitle": "Comprender la dispersión de la luz en nuestra atmósfera",
+  "topicId": "science",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/why-is-the-sky-blue.jpg",
+  "isPremium": false,
+  "featured": true,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "¿Qué hace que el cielo sea azul?",
+      "body": "El cielo aparece azul debido a un fenómeno llamado dispersión de Rayleigh. Cuando la luz del sol ingresa a la atmósfera de la Tierra, choca con las moléculas de nitrógeno y oxígeno. Estas moléculas dispersan longitudes de onda de luz más cortas, como el azul y el violeta, de manera más efectiva que las longitudes de onda más largas, como el rojo y el naranja. Esta dispersión ocurre en todas direcciones, haciendo que todo el cielo parezca azul. El efecto es más fuerte durante el día, cuando el sol está alto, proporcionando los ángulos óptimos para que la luz azul llegue a nuestros ojos.",
+      "funFact": "¡El cielo no siempre es azul! Durante el amanecer y el atardecer, la luz viaja a través de más atmósfera, dispersando la luz azul y revelando rojos, naranjas y amarillos."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Longitud de onda y color",
+      "body": "La luz viaja en ondas con diferentes longitudes de onda. La luz visible oscila entre unos 380 nanómetros (violeta) y 750 nanómetros (roja). La luz azul tiene una longitud de onda de alrededor de 450 nanómetros. La dispersión de Rayleigh es inversamente proporcional a la cuarta potencia de la longitud de onda, lo que significa que las longitudes de onda más cortas se dispersan de manera mucho más espectacular. Esta relación matemática explica por qué la luz azul se dispersa unas nueve veces más que la luz roja. Comprender esto ayuda a explicar no sólo el color del cielo, sino también por qué las puestas de sol son rojas y por qué la luna aparece rojiza durante los eclipses lunares.",
+      "imageUrl": "images/wavelength-spectrum.jpg",
+      "imageCaption": "Espectro de luz visible que muestra longitudes de onda del violeta al rojo."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "¿Por qué no violeta?",
+      "body": "Quizás te preguntes por qué el cielo es azul en lugar de violeta, ya que la luz violeta tiene una longitud de onda aún más corta y se dispersa aún más. Hay dos razones principales. Primero, nuestros ojos son más sensibles a la luz azul que a la luz violeta. En segundo lugar, la luz violeta es parcialmente absorbida por la atmósfera superior antes de llegar a nosotros. Además, gran parte de la luz violeta se dispersa tanto que se dispersa en otras direcciones. La combinación de estos factores hace que el azul sea el color dominante que percibimos en el cielo en los días despejados.",
+      "funFact": "¡Algunos animales y pájaros pueden ver la luz ultravioleta y pueden percibir el cielo de manera muy diferente a como lo hacemos nosotros!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Condiciones atmosféricas y color del cielo",
+      "body": "El brillo y el tono del azul del cielo varían según las condiciones atmosféricas. En días despejados y secos con poco polvo o contaminación, el cielo aparece de un azul más profundo y saturado. La humedad, las partículas de polvo y la contaminación pueden dispersar luz blanca adicional, haciendo que el cielo parezca más pálido o incluso grisáceo. Las gotas de agua en las nubes dispersan todas las longitudes de onda de la luz por igual, razón por la cual las nubes parecen blancas. El ángulo de observación también importa: el cielo que está directamente sobre nosotros aparece de un azul más oscuro que cerca del horizonte porque la luz ha viajado a través de menos atmósfera.",
+      "imageUrl": "images/sky-conditions.jpg",
+      "imageCaption": "Variaciones del color del cielo según las condiciones atmosféricas."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Más allá de la Tierra",
+      "body": "El cielo azul es exclusivo de la Tierra porque tenemos una atmósfera rica en oxígeno y nitrógeno con la densidad adecuada. Otros planetas tienen cielos de diferentes colores. Marte tiene un cielo de color caramelo debido a las partículas de polvo de óxido de hierro que dispersan longitudes de onda más largas. La espesa atmósfera de Venus crea un cielo de color amarillo anaranjado. La Luna, al carecer de atmósfera, tiene el cielo negro incluso durante el día. Esto demuestra que el color del cielo depende directamente de las moléculas que hay en la atmósfera y de cómo interactúan con la luz solar, lo que hace que el cielo azul de la Tierra sea una característica especial de nuestro planeta.",
+      "funFact": "Si estuvieras en Marte mirando la puesta de sol, el cielo se volvería azul cerca del sol, ¡lo opuesto a la Tierra!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Comprensión histórica",
+      "body": "Durante siglos, la gente se preguntó por qué el cielo era azul. Los filósofos antiguos ofrecieron diversas explicaciones, desde reflejos hasta vibraciones simpáticas. En la década de 1870, el físico John Tyndall descubrió que las partículas pequeñas podían dispersar la luz, pero su explicación no estaba completa. En 1871, Lord Rayleigh desarrolló la teoría matemática de la dispersión que explicaba perfectamente el fenómeno. Su trabajo sentó las bases para comprender no sólo el color del cielo, sino también fenómenos como por qué el océano aparece azul y cómo titilan las estrellas. Este viaje científico muestra cómo comprender observaciones cotidianas simples requiere tanto observación como análisis matemático.",
+      "imageUrl": "images/rayleigh-portrait.jpg",
+      "imageCaption": "Lord Rayleigh, quien desarrolló la teoría de la dispersión de la luz."
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Conclusiones clave",
+      "body": "El cielo es azul debido a la dispersión de Rayleigh: las longitudes de onda azules más cortas se dispersan más eficazmente que las longitudes de onda rojas más largas cuando interactúan con las moléculas atmosféricas. Este proceso explica no sólo el cielo azul sino también los atardeceres rojos y los colores de otros planetas. El fenómeno depende de la composición atmosférica, la humedad y el ángulo de luz solar. Comprender esto nos enseña principios fundamentales sobre la luz, la atmósfera y en qué se diferencia nuestro planeta de los demás. Es un hermoso ejemplo de cómo la física explica las maravillas cotidianas que nos rodean."
+    }
+  ],
+  "quiz": {
+    "id": "quiz-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál es la razón principal por la que el cielo parece azul?",
+        "options": [
+          "La luz azul es absorbida por la atmósfera.",
+          "La dispersión de Rayleigh dispersa la luz azul más que otros colores",
+          "Las moléculas de oxígeno y nitrógeno son azules.",
+          "El océano refleja su color en el cielo."
+        ],
+        "correctAnswer": "La dispersión de Rayleigh dispersa la luz azul más que otros colores",
+        "explanation": "La dispersión de Rayleigh es inversamente proporcional a la cuarta potencia de la longitud de onda, lo que hace que las longitudes de onda azules más cortas se dispersen mucho más dramáticamente que las longitudes de onda más largas como la roja."
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "questionText": "La luz violeta se dispersa más que la luz azul en la atmósfera.",
+        "correctAnswer": "true",
+        "explanation": "La luz violeta tiene una longitud de onda más corta que la luz azul, por lo que, según la teoría de dispersión de Rayleigh, se dispersa aún más. Sin embargo, vemos azul, no violeta, porque el violeta se absorbe parcialmente y nuestros ojos son más sensibles al azul."
+      },
+      {
+        "id": "q3",
+        "type": "fill_blank",
+        "questionText": "La luz viaja en ondas con diferentes ________, con luz azul alrededor de 450 nanómetros y roja alrededor de 750 nanómetros.",
+        "correctAnswer": "longitudes de onda",
+        "explanation": "La longitud de onda de la luz determina su color. Diferentes colores corresponden a diferentes longitudes de onda dentro del espectro de luz visible."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Por qué el cielo cerca del horizonte es más pálido que el que está directamente encima?",
+        "options": [
+          "La luz se dispersa menos cerca del horizonte.",
+          "La luz viaja a través de más atmósfera cerca del horizonte.",
+          "El sol es más débil en el horizonte.",
+          "La humedad aumenta cerca del suelo."
+        ],
+        "correctAnswer": "La luz viaja a través de más atmósfera cerca del horizonte.",
+        "explanation": "Cerca del horizonte, la luz del sol debe atravesar una cantidad significativamente mayor de atmósfera para llegar a los ojos. Esto significa que se dispersa más luz blanca además de azul, lo que hace que el cielo parezca más pálido."
+      },
+      {
+        "id": "q5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué nos dice el cielo color caramelo de Marte?",
+        "options": [
+          "Marte está más cerca del sol.",
+          "La atmósfera marciana tiene diferente composición y tipos de partículas que la Tierra",
+          "Marte no tiene atmósfera.",
+          "El cielo marciano cambia de color a diario"
+        ],
+        "correctAnswer": "La atmósfera marciana tiene diferente composición y tipos de partículas que la Tierra",
+        "explanation": "El color caramelo de Marte es causado por partículas de polvo de óxido de hierro que se dispersan en longitudes de onda más largas, lo que demuestra que el color del cielo depende de la composición atmosférica y los tipos de partículas."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440001"
+  },
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Tyndall, J. (1870). 'On the Blue Colour of the Sky, the Polarization of Sky-Light, and on the Polarization of Light by Cloudy Matter Generally'. Proceedings of the Royal Society of London.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Strutt, J. W. (1871). 'On the light from the sky, its polarization and colour'. Philosophical Magazine.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Bohren, C. F., & Huffman, D. R. (1983). 'Absorption and Scattering of Light by Small Particles'. Wiley-Interscience.",
+      "type": "journal"
+    }
+  ],
+  "publishedAt": "2026-04-01T00:00:00Z",
+  "createdAt": "2026-04-01T00:00:00Z",
+  "updatedAt": "2026-04-01T00:00:00Z"
+}

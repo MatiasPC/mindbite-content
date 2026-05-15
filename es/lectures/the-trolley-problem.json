@@ -1,0 +1,131 @@
+{
+  "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "slug": "the-trolley-problem",
+  "title": "El problema del tranvía",
+  "subtitle": "Un dilema moral que desafía nuestras intuiciones éticas",
+  "topicId": "philosophy",
+  "estimatedMinutes": 8,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-trolley-problem.jpg",
+  "isPremium": false,
+  "featured": true,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "¿Cuál es el problema del tranvía?",
+      "body": "El problema del tranvía es un famoso experimento mental sobre ética creado por la filósofa Philippa Foot en 1967. Presenta un dilema moral: un tranvía fuera de control se dirige hacia cinco personas en la vía. Estás junto a una palanca que puede desviar el carro hacia una vía lateral donde matará a una persona. ¿Deberías tirar de la palanca? Este escenario revela tensiones entre dos marcos éticos principales: el consecuencialismo, que se centra en los resultados, y la ética deontológica, que enfatiza deberes y reglas."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "La variante de la pasarela",
+      "body": "La filósofa Judith Thomson introdujo una variación en la que, en lugar de tirar de una palanca, debes empujar a una persona grande desde una pasarela para detener el tranvía. La mayoría de la gente se niega a presionar a pesar de que las matemáticas son idénticas: una muerte versus cinco. Esta variación expone algo intrigante sobre el juicio moral humano. Sugiere que nuestra ética no es puramente consecuencialista. Distinguimos entre dañar activamente a alguien y permitir que se produzca daño. Esta distinción desafía el razonamiento moral puramente centrado en los resultados y sugiere que otros factores importan en nuestra toma de decisiones éticas.",
+      "funFact": "La variante de la pasarela de Thomson se inspiró en una variante anterior del problema del tranvía, pero añade un elemento visceral y personal que cambia drásticamente las intuiciones de la mayoría de las personas."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Consecuencialismo versus deontología",
+      "body": "La ética consecuencialista juzga las acciones por sus resultados. Desde este punto de vista, tirar de la palanca parece correcto: cinco muertes son peores que una. La ética deontológica, por el contrario, se centra en deberes y reglas. Podría decirse que matar activamente a alguien viola un deber fundamental, incluso si previene un daño mayor. El problema del tranvía ilustra por qué ambos enfoques son importantes. El consecuencialismo puro puede justificar acciones perturbadoras, mientras que la deontología pura puede permitir negativas aparentemente irracionales a minimizar el daño. Las intuiciones morales reales de la mayoría de las personas combinan ambos enfoques, lo que explica nuestras respuestas inconsistentes."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Perspectivas psicológicas a partir de variaciones",
+      "body": "La investigación en neurociencia muestra que el contacto personal activa regiones emocionales del cerebro, mientras que los dilemas abstractos activan regiones racionales. Cuando presionamos a alguien, experimentamos disgusto moral y resistencia emocional. Con la palanca, se siente más distante y abstracto. Esto revela que la moralidad humana no es puramente racional. Estamos influenciados por la psicología, las emociones y los factores evolutivos. El problema del tranvía demuestra cómo el contexto da forma a nuestro juicio moral. Comprender estos patrones psicológicos nos ayuda a reconocer los sesgos en nuestro pensamiento ético y a tomar decisiones morales más deliberadas en lugar de confiar únicamente en intuiciones."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Aplicaciones del mundo real",
+      "body": "El problema del tranvía no es simplemente abstracto. Refleja dilemas éticos reales en medicina, derecho y tecnología. Los médicos se enfrentan a versiones a la hora de asignar recursos escasos durante las crisis. Los diseñadores de vehículos autónomos se enfrentan a ello cuando programan escenarios de colisión. Los sistemas legales luchan contra esto en casos que involucran defensa propia o daños menores. El problema nos enseña a examinar críticamente nuestros principios morales y a reconocer cuándo nuestras intuiciones pueden entrar en conflicto. Al estudiar escenarios artificiales, podemos desarrollar marcos éticos más coherentes antes de enfrentar situaciones reales de alto riesgo donde las emociones pueden nublar el juicio y necesitamos una guía basada en principios."
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Críticas y limitaciones",
+      "body": "Los críticos argumentan que el problema del tranvía simplifica demasiado la ética al reducir situaciones complejas a opciones binarias con información perfecta. Los verdaderos dilemas morales implican incertidumbre, bienes en competencia y múltiples partes interesadas. Algunos filósofos sostienen que los escenarios artificiales no captan cómo los humanos realmente toman decisiones morales en contextos sociales. Otros cuestionan si los experimentos mentales sobre situaciones imposibles revelan principios éticos genuinos. A pesar de estas críticas, el problema del tranvía sigue siendo valioso. No pretende responder definitivamente a dilemas reales, sino que más bien proporciona un laboratorio para examinar nuestro razonamiento moral y descubrir supuestos ocultos que subyacen a nuestros juicios éticos."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Foot, Philippa. 'The Problem of Abortion and the Doctrine of Double Effect.' Oxford Review, 1967.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Thomson, Judith. 'Killing, Letting Die, and the Trolley Problem.' The Monist, 1976.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Greene, Joshua D. 'The Secret Joke of Kant's Soul.' In Moral Psychology, 2007.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-the-trolley-problem",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Quién creó originalmente el experimento mental del problema del tranvía?",
+        "options": [
+          "felipa pie",
+          "Judith Thompson",
+          "Jeremy Bentham",
+          "Emmanuel Kant"
+        ],
+        "correctAnswer": "felipa pie",
+        "explanation": "Philippa Foot introdujo el problema del tranvía en 1967 como una forma de explorar las tensiones entre diferentes teorías éticas y cómo tomamos decisiones morales."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "En la variante de pasarela, la mayoría de las personas están dispuestas a empujar a una persona grande desde un puente para detener el tranvía.",
+        "correctAnswer": "false",
+        "explanation": "La mayoría de la gente se niega a empujar a alguien por el puente, aunque matemáticamente eso salva el mismo número neto de vidas (una muerte frente a cinco). Esto demuestra que nuestra ética implica más que meras consecuencias."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué marco ético se centra en los resultados de las acciones?",
+        "options": [
+          "Ética deontológica",
+          "Ética de la virtud",
+          "consecuencialismo",
+          "Contractualismo"
+        ],
+        "correctAnswer": "consecuencialismo",
+        "explanation": "El consecuencialismo juzga las acciones en función de sus resultados. En el problema del tranvía, un consecuencialista probablemente tiraría de la palanca porque produce el mejor resultado: una muerte en lugar de cinco."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "El problema del tranvía demuestra que la moralidad humana está influenciada no sólo por la razón sino también por la ___, la emoción y el contexto.",
+        "correctAnswer": "psicología",
+        "explanation": "La investigación en neurociencia muestra que la participación personal activa regiones emocionales del cerebro, mientras que los escenarios abstractos activan regiones racionales, lo que demuestra que la psicología desempeña un papel clave en el juicio moral."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál de las siguientes es una aplicación del mundo real del razonamiento del problema del carrito?",
+        "options": [
+          "Decidir qué desayunar",
+          "Asignar recursos médicos escasos durante una crisis",
+          "Elegir un género de película favorito",
+          "Decidir qué ropa usar"
+        ],
+        "correctAnswer": "Asignar recursos médicos escasos durante una crisis",
+        "explanation": "Los médicos y hospitales enfrentan versiones del problema de los tranvías cuando deciden cómo asignar recursos limitados como ventiladores o trasplantes de órganos durante emergencias o pandemias."
+      }
+    ],
+    "lectureId": "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "publishedAt": "2026-04-01T00:00:00Z",
+  "createdAt": "2026-04-01T00:00:00Z",
+  "updatedAt": "2026-04-01T00:00:00Z"
+}

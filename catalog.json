@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-13T12:19:15.808Z",
+  "updatedAt": "2026-05-15T15:17:38.236Z",
   "featured": {
     "lectureSlug": "fall-of-the-roman-empire",
-    "validUntil": "2026-05-20T12:19:15.809Z"
+    "validUntil": "2026-05-22T15:17:38.237Z"
   },
   "topics": [
     {
       "id": "philosophy",
       "name": "Philosophy",
-      "emoji": "\ud83e\udde0",
+      "emoji": "🧠",
       "colorHex": "#7C3AED",
       "description": "Big questions, simple answers",
       "sortOrder": 1
@@ -17,7 +17,7 @@
     {
       "id": "science",
       "name": "Science",
-      "emoji": "\ud83d\udd2c",
+      "emoji": "🔬",
       "colorHex": "#3B82F6",
       "description": "How the world really works",
       "sortOrder": 2
@@ -25,7 +25,7 @@
     {
       "id": "history",
       "name": "History",
-      "emoji": "\ud83d\udcdc",
+      "emoji": "📜",
       "colorHex": "#D97706",
       "description": "Stories that shaped the world",
       "sortOrder": 3
@@ -33,7 +33,7 @@
     {
       "id": "nature-animals",
       "name": "Nature & Animals",
-      "emoji": "\ud83c\udf3f",
+      "emoji": "🌿",
       "colorHex": "#059669",
       "description": "The wild world around us",
       "sortOrder": 4
@@ -41,7 +41,7 @@
     {
       "id": "psychology",
       "name": "Psychology",
-      "emoji": "\ud83e\udde9",
+      "emoji": "🧩",
       "colorHex": "#EC4899",
       "description": "Understanding the human mind",
       "sortOrder": 5
@@ -49,7 +49,7 @@
     {
       "id": "space-astronomy",
       "name": "Space & Astronomy",
-      "emoji": "\ud83d\ude80",
+      "emoji": "🚀",
       "colorHex": "#06B6D4",
       "description": "Exploring the universe beyond",
       "sortOrder": 6

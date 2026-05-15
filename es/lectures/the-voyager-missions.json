@@ -1,0 +1,150 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440005",
+  "slug": "the-voyager-missions",
+  "title": "Las misiones Voyager",
+  "subtitle": "El mayor viaje de la humanidad al cosmos",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 7,
+  "difficulty": "beginner",
+  "thumbnailUrl": "images/thumbnails/the-voyager-missions.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El Gran Tour de los Planetas",
+      "body": "Las misiones Voyager representan uno de los mayores logros de la humanidad en la exploración espacial. Lanzadas en 1977 durante una rara alineación de los planetas exteriores, las Voyager 1 y 2 fueron diseñadas para explorar Júpiter, Saturno y más allá. La Voyager 2 también visitó Urano y Neptuno, la única nave espacial que lo hizo. Las misiones aprovecharon una alineación gravitacional que ocurre sólo una vez cada 176 años, lo que permitió a la nave espacial viajar por todo el sistema solar utilizando asistencia de gravedad planetaria. Estas sondas continúan transmitiendo datos hoy, casi 50 años después.",
+      "funFact": "Las sondas Voyager han viajado más lejos que cualquier objeto creado por el hombre, ¡y la Voyager 1 ahora se encuentra en el espacio interestelar!",
+      "imageUrl": "images/content/voyager-launch.jpg",
+      "imageCaption": "Lanzamiento de la nave espacial Voyager en 1977"
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Encuentros con los planetas gigantes",
+      "body": "La Voyager 1 realizó descubrimientos innovadores en Júpiter (1979) y Saturno (1980), revelando dinámicas atmosféricas complejas, intensos cinturones de radiación y estructuras de anillos inesperadas. El encuentro con Io, la luna de Júpiter, reveló volcanes activos, la primera evidencia definitiva de vulcanismo más allá de la Tierra. En Saturno, la nave espacial descubrió nuevas lunas, reveló una intrincada estructura de anillos y encontró una química orgánica compleja en la atmósfera. La Voyager 2 continuó esta exploración, descubriendo 10 lunas nuevas en Saturno y proporcionando las primeras vistas cercanas de Urano y Neptuno. Estos encuentros revolucionaron nuestra comprensión del sistema solar exterior.",
+      "imageUrl": "images/content/saturn-rings-voyager.jpg",
+      "imageCaption": "Los anillos de Saturno fotografiados por la Voyager 1"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "El disco de oro",
+      "body": "La nave espacial Voyager lleva discos dorados que contienen sonidos e imágenes de la Tierra, destinados a enviar mensajes a cualquier inteligencia extraterrestre. Los discos incluyen saludos en 55 idiomas, sonidos de la Tierra como viento y lluvia y música de diversas culturas. El presidente Jimmy Carter proporcionó un saludo grabado: \"Lanzamos este mensaje al cosmos\". Los registros representan la esperanza de la humanidad de tener un contacto pacífico con vida extraterrestre. Aunque la probabilidad de recuperación es extremadamente pequeña, estos registros simbolizan nuestro deseo de compartir la cultura humana con el universo.",
+      "funFact": "¡El Disco de Oro incluye una sinfonía de Beethoven, Johnny B. Goode y saludos de los líderes mundiales!",
+      "imageUrl": "images/content/golden-record.jpg",
+      "imageCaption": "El Disco de Oro a bordo de la nave espacial Voyager"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Descubrimientos de Urano y Neptuno",
+      "body": "Los encuentros de la Voyager 2 con Urano (1986) y Neptuno (1989) fueron las únicas vistas de cerca que tuvo la humanidad de estos distantes gigantes de hielo. En Urano, la nave espacial reveló una inclinación axial extrema, un sistema de anillos y lunas nuevas. En Neptuno, la Voyager 2 descubrió 6 lunas nuevas y Tritón, la luna más grande de Neptuno con géiseres de nitrógeno activos, el lugar más frío observado directamente hasta ahora. Estos encuentros cambiaron fundamentalmente nuestra comprensión de la formación planetaria y las atmósferas en el sistema solar exterior. Desde entonces, ninguna otra nave espacial ha visitado estos mundos distantes.",
+      "imageUrl": "images/content/triton-neptune.jpg",
+      "imageCaption": "Neptuno y su luna Tritón, fotografiados por la Voyager 2"
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "El punto azul pálido",
+      "body": "Una de las imágenes más emblemáticas de la historia de la humanidad fue tomada por la Voyager 1 el 14 de febrero de 1990, cuando se encontraba a 6.400 millones de kilómetros de distancia. La fotografía muestra la Tierra como una pequeña mota de luz: el 'punto azul pálido'. El astrónomo Carl Sagan escribió sobre esta imagen y señaló cómo la Tierra parece insignificante pero contiene a toda la humanidad, todas las culturas, conflictos y logros. La imagen cambió fundamentalmente la forma en que nos vemos a nosotros mismos y nuestro lugar en el cosmos, enfatizando el aislamiento de la Tierra y la urgente necesidad de proteger nuestro planeta.",
+      "imageUrl": "images/content/pale-blue-dot.jpg",
+      "imageCaption": "La Tierra como el punto azul pálido, fotografiada desde miles de millones de kilómetros de distancia"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Llegando al espacio interestelar",
+      "body": "En 2012, la Voyager 1 se convirtió en el primer objeto creado por el hombre en alcanzar el espacio interestelar, cruzando la heliopausa, el límite donde el viento solar del Sol da paso al medio interestelar. Le siguió la Voyager 2 en 2018. A pesar de la duración original de la misión de cinco años, ambas naves espaciales continúan transmitiendo datos. La Misión Interestelar Voyager estudia las características del espacio interestelar y continuará mientras la energía lo permita. Ambas naves espaciales llevan generadores termoeléctricos de radioisótopos (RTG) que convierten el calor de la desintegración del plutonio radiactivo en electricidad, lo que les permite funcionar indefinidamente.",
+      "funFact": "¡La Voyager 1 se encuentra ahora a más de 14 mil millones de millas de la Tierra y todavía envía datos!"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Legado y futuro",
+      "body": "Las misiones Voyager representan el pináculo de los logros en exploración espacial. Demostraron ingenio humano, excelencia en ingeniería y curiosidad científica. Las naves espaciales han revelado la estructura de los sistemas planetarios, la naturaleza de los mundos exóticos y nuestro lugar en el universo. Los datos de la Voyager siguen contribuyendo a la investigación científica. Aunque las comunicaciones cesarán finalmente cuando se agote la energía, la nave espacial seguirá a la deriva por el espacio durante miles de millones de años, llevando el mensaje de la Tierra. Las misiones Voyager inspiran a las generaciones futuras a explorar y comprender el cosmos.",
+      "funFact": "¡Se necesitan aproximadamente 20 horas para que una señal de radio que viaja a la velocidad de la luz llegue a la Voyager 1 y regrese!"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Gurnett, D. A., et al. (2013). 'In Situ Observations of Interstellar Plasma with Voyager 1.' Science, 341(6147), 1489-1492.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Stone, E. C., et al. (2005). 'Voyager 1's interaction with the termination shock and heliosheath.' Science, 309(5743), 2017-2020.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "NASA Voyager Mission Archive and Documentation",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-5",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿En qué año se lanzó la nave espacial Voyager?",
+        "options": [
+          "1970",
+          "1975",
+          "1977",
+          "1980"
+        ],
+        "correctAnswer": "1977",
+        "explanation": "Las Voyager 1 y 2 se lanzaron en 1977, aprovechando una rara alineación de los planetas exteriores."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "La Voyager 2 es la única nave espacial que ha visitado Urano y Neptuno.",
+        "correctAnswer": "true",
+        "explanation": "La Voyager 2 sigue siendo la única nave espacial que ha realizado sobrevuelos cercanos de Urano y Neptuno."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Qué lleva la nave espacial Voyager como mensaje a la inteligencia extraterrestre?",
+        "options": [
+          "Una base de datos informática digital.",
+          "El disco de oro",
+          "Ecuaciones matemáticas",
+          "muestras de ADN"
+        ],
+        "correctAnswer": "El disco de oro",
+        "explanation": "El Disco de Oro contiene sonidos, imágenes y saludos desde la Tierra destinados a ser un mensaje para cualquier vida extraterrestre."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "La famosa imagen que muestra la Tierra como una pequeña mota de luz se llama '_______'.",
+        "correctAnswer": "Punto azul pálido",
+        "explanation": "El Punto Azul Pálido, fotografiado por la Voyager 1 en 1990, muestra la Tierra desde 6.400 millones de kilómetros de distancia."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿En qué año la Voyager 1 cruzó la heliopausa hacia el espacio interestelar?",
+        "options": [
+          "2009",
+          "2012",
+          "2015",
+          "2018"
+        ],
+        "correctAnswer": "2012",
+        "explanation": "La Voyager 1 se convirtió en el primer objeto creado por el hombre en alcanzar el espacio interestelar en 2012, seguida por la Voyager 2 en 2018."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440005"
+  },
+  "publishedAt": "2026-04-09T00:00:00Z",
+  "createdAt": "2026-04-09T00:00:00Z",
+  "updatedAt": "2026-04-09T00:00:00Z"
+}

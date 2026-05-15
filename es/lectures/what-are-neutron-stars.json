@@ -1,0 +1,148 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440004",
+  "slug": "what-are-neutron-stars",
+  "title": "¿Qué son las estrellas de neutrones?",
+  "subtitle": "Explorando los objetos más extremos del universo.",
+  "topicId": "space-astronomy",
+  "estimatedMinutes": 8,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/what-are-neutron-stars.jpg",
+  "isPremium": false,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "El nacimiento de una estrella de neutrones",
+      "body": "Las estrellas de neutrones se forman cuando estrellas masivas (entre 8 y 20 masas solares) llegan al final de su vida y explotan como supernovas. A diferencia de las estrellas más masivas que se convierten en agujeros negros, estas estrellas moderadamente masivas dejan tras de sí un remanente increíblemente denso. El núcleo colapsa tan violentamente que los protones y los electrones se juntan para formar neutrones. Lo que queda es una estrella de neutrones: una esfera de materia de densidad nuclear que suele tener 20 kilómetros de diámetro pero que contiene más masa que todo nuestro Sol.",
+      "funFact": "¡Una cucharadita de materia de estrella de neutrones pesaría tanto como una montaña en la Tierra!",
+      "imageUrl": "images/content/neutron-star-formation.jpg",
+      "imageCaption": "Una estrella masiva explota y deja tras de sí una estrella de neutrones."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Densidad y composición extremas",
+      "body": "La densidad de la materia de las estrellas de neutrones desafía la comprensión. Un centímetro cúbico de material de estrella de neutrones pesaría alrededor de 6 mil millones de toneladas. La materia está tan comprimida que los electrones son forzados a convertirse en protones, creando principalmente neutrones. A tales densidades, la materia se comporta de maneras que la física apenas puede describir. La corteza exterior es de hierro y níquel sólidos, pero en el fondo existe un océano de neutrones sobreenfriados con fases exóticas de la materia. En esencia, algunas teorías proponen la materia de quarks: los constituyentes fundamentales de la materia comprimidos aún más.",
+      "imageUrl": "images/content/neutron-star-structure.jpg",
+      "imageCaption": "Sección transversal que muestra la estructura en capas de una estrella de neutrones."
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Pulsares: faros cósmicos",
+      "body": "Muchas estrellas de neutrones son púlsares: estrellas de neutrones en rotación que emiten rayos de radiación desde sus polos magnéticos. A medida que giran, estos rayos barren el espacio como un faro. Cuando un rayo apunta hacia la Tierra, detectamos un pulso de radio. Los púlsares pueden girar increíblemente rápido, desde unas pocas veces por segundo hasta cientos de veces por segundo. El primer púlsar fue descubierto en 1967 por Jocelyn Bell Burnell, inicialmente llamado LGM-1 (Hombrecitos Verdes) porque su señal era tan regular que parecía artificial. Los púlsares son cronometradores notablemente precisos, cuya precisión rivaliza con los relojes atómicos.",
+      "funFact": "El Pulsar del Cangrejo gira 30 veces por segundo, ¡pero fue creado por una supernova hace sólo 950 años!"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Potentes campos magnéticos",
+      "body": "Las estrellas de neutrones poseen los campos magnéticos más fuertes del universo. Su fuerza magnética supera la de la Tierra en un factor de un billón a un cuatrillón. Se cree que estos intensos campos surgen de la compresión del campo magnético original de la estrella en colapso junto con el material. El campo magnético canaliza material hacia los polos de la estrella, creando puntos calientes que emiten radiación intensa. Algunas estrellas de neutrones son \"magnetares\" (con campos aún más fuertes) que ocasionalmente liberan explosiones masivas de energía a partir de fracturas de la corteza terrestre.",
+      "imageUrl": "images/content/magnetar-burst.jpg",
+      "imageCaption": "Representación artística de un magnetar liberando energía."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Sistemas binarios y acreción",
+      "body": "Algunas estrellas de neutrones existen en sistemas binarios con estrellas compañeras. El material de la compañera fluye hacia la estrella de neutrones, formando un disco de acreción. A medida que el material gira en espiral hacia adentro, se calienta a millones de grados y emite rayos X. Estas binarias de rayos X se encuentran entre las fuentes de rayos X más brillantes del cielo. La intensa gravedad hace que el material en acreción haga girar la estrella de neutrones más rápido, creando eventualmente púlsares de milisegundos. Algunas estrellas de neutrones en sistema binario eventualmente se fusionan con sus compañeras, creando ondas gravitacionales detectables por instrumentos como LIGO.",
+      "funFact": "Algunos púlsares de milisegundos son los objetos que giran más rápido en el universo, ¡completando más de 700 rotaciones por segundo!"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Ondas gravitacionales de fusiones",
+      "body": "En 2017, los detectores de ondas gravitacionales LIGO y Virgo observaron la fusión de dos estrellas de neutrones. Este evento, GW170817, produjo ondas gravitacionales y fue seguido de observaciones en todo el espectro electromagnético. La colisión creó una bola de fuego rica en elementos que produjo elementos pesados ​​como oro, platino y uranio. Este descubrimiento confirmó que las fusiones de estrellas de neutrones son una fuente importante de elementos pesados ​​en el universo. Las observaciones abrieron una nueva ventana a la física de las estrellas de neutrones y demostraron cómo las estrellas de neutrones pueden producir los metales preciosos que vemos hoy en la Tierra.",
+      "imageUrl": "images/content/neutron-star-merger.jpg",
+      "imageCaption": "Ilustración de dos estrellas de neutrones fusionándose"
+    },
+    {
+      "id": "card-7",
+      "order": 7,
+      "heading": "Misterios de las estrellas de neutrones",
+      "body": "A pesar de décadas de estudio, las estrellas de neutrones siguen siendo un misterio. Persisten dudas sobre la ecuación de estado exacta: cómo se relaciona la presión con la densidad en sus núcleos. ¿La materia se transforma en quarks? ¿Existen fases extrañas de la materia en densidades de neutrones? ¿Cómo se generan los campos magnéticos más fuertes? La relación masa-radio limita las teorías, pero aún no se comprende del todo. Las próximas observaciones con instrumentos como el Telescopio Horizonte de Sucesos y futuros detectores de ondas gravitacionales prometen revelar más secretos de las estrellas de neutrones. Estos objetos son laboratorios naturales para probar la física en condiciones imposibles de recrear en la Tierra.",
+      "funFact": "Si una estrella de neutrones entrara en nuestro sistema solar, su gravedad alteraría las órbitas planetarias y su radiación lo esterilizaría todo."
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1",
+      "title": "Shapiro, S. L., & Teukolsky, S. A. (1983). Black Holes, White Dwarfs, and Neutron Stars: The Physics of Compact Objects. John Wiley & Sons.",
+      "type": "journal"
+    },
+    {
+      "id": "src-2",
+      "title": "Abbott, B. P., et al. (2017). 'GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral.' Physical Review Letters, 119(16), 161101.",
+      "type": "journal"
+    },
+    {
+      "id": "src-3",
+      "title": "Lorimer, D. R., & Kramer, M. (2004). Handbook of Pulsar Astronomy. Cambridge University Press.",
+      "type": "journal"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-4",
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "questionText": "¿Cuál es el diámetro típico de una estrella de neutrones?",
+        "options": [
+          "200 kilómetros",
+          "20 kilómetros",
+          "2 kilómetros",
+          "200 metros"
+        ],
+        "correctAnswer": "20 kilómetros",
+        "explanation": "Las estrellas de neutrones suelen tener unos 20 kilómetros de diámetro a pesar de contener más masa que nuestro Sol."
+      },
+      {
+        "id": "q-2",
+        "type": "true_false",
+        "questionText": "Un púlsar es un tipo de estrella de neutrones que emite rayos de radiación que recorren el espacio como un faro.",
+        "correctAnswer": "true",
+        "explanation": "Los púlsares son estrellas de neutrones en rotación con intensos campos magnéticos que dirigen haces de radiación, creando pulsos detectables a medida que giran."
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "questionText": "¿Quién descubrió el primer púlsar en 1967?",
+        "options": [
+          "Jocelyn Bell Burnell",
+          "Esteban Hawking",
+          "Carl Sagan",
+          "Fred Hoyle"
+        ],
+        "correctAnswer": "Jocelyn Bell Burnell",
+        "explanation": "Jocelyn Bell Burnell descubrió el primer púlsar mientras analizaba señales de radio, lo que inicialmente resultó desconcertante debido a su naturaleza regular."
+      },
+      {
+        "id": "q-4",
+        "type": "fill_blank",
+        "questionText": "En 2017, los detectores de ondas gravitacionales observaron la fusión de dos estrellas de neutrones en un evento llamado _______.",
+        "correctAnswer": "GW170817",
+        "explanation": "GW170817 fue la primera detección confirmada de ondas gravitacionales procedentes de una fusión de estrellas de neutrones, proporcionando conocimientos sin precedentes sobre la física extrema."
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "questionText": "¿Qué proceso hace que algunas estrellas de neutrones se conviertan en púlsares de milisegundos?",
+        "options": [
+          "Desintegración radiactiva en el núcleo.",
+          "Inversión del campo magnético",
+          "Acreción de una estrella compañera que hace girar la estrella de neutrones",
+          "Colisión con polvo cósmico"
+        ],
+        "correctAnswer": "Acreción de una estrella compañera que hace girar la estrella de neutrones",
+        "explanation": "El material de una compañera binaria puede transferir momento angular a una estrella de neutrones, acelerando su rotación para producir púlsares de milisegundos."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440004"
+  },
+  "publishedAt": "2026-04-07T00:00:00Z",
+  "createdAt": "2026-04-07T00:00:00Z",
+  "updatedAt": "2026-04-07T00:00:00Z"
+}

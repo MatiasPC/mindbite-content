@@ -1,0 +1,136 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440010",
+  "slug": "the-renaissance",
+  "title": "El Renacimiento",
+  "subtitle": "El renacimiento del potencial humano y el aprendizaje",
+  "topicId": "history",
+  "estimatedMinutes": 10,
+  "difficulty": "advanced",
+  "thumbnailUrl": "images/thumbnails/the-renaissance.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Emergencia de las limitaciones medievales",
+      "body": "El Renacimiento (siglos XIV-XVII) marcó un cambio fundamental en el pensamiento y la cultura europeos. Surgió de la Italia de finales de la Edad Media y representó un rechazo consciente de las visiones del mundo medievales y un resurgimiento del saber grecorromano clásico. Los eruditos recuperaron textos antiguos que se habían perdido o descuidado, redescubriendo la filosofía, la literatura y la ciencia clásicas. La palabra \"Renacimiento\" en sí misma significa \"renacimiento\", en referencia al resurgimiento de la civilización clásica. Este movimiento intelectual fue posible gracias a factores prácticos: aumento de la riqueza comercial, desarrollo urbano, tecnología de impresión y el redescubrimiento de textos clásicos a través del contacto con eruditos bizantinos y centros de aprendizaje islámico. El movimiento humanista enfatizó el potencial humano, los logros individuales y la investigación racional. Esta nueva perspectiva suplantó gradualmente el enfoque de la escolástica medieval en la autoridad teológica.",
+      "funFact": "El Renacimiento comenzó en Florencia, Italia, donde la rica familia Medici patrocinó a artistas y eruditos, transformando la ciudad en un centro de aprendizaje."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Revolución Artística y Cultural",
+      "body": "Los artistas del Renacimiento revolucionaron la representación visual a través de la innovación técnica y la filosofía humanista. La perspectiva, el claroscuro (luz y sombra), la precisión anatómica y las proporciones realistas transformaron la pintura y la escultura. Leonardo da Vinci ejemplificó el ideal del Renacimiento: pintor, científico, ingeniero y anatomista. Miguel Ángel creó esculturas monumentales y los frescos de la Capilla Sixtina. Rafael desarrolló sofisticadas técnicas de composición. Estos maestros fueron más allá de la estilización medieval y representaron la dignidad humana y la belleza natural. La arquitectura abandonó la verticalidad gótica por proporciones clásicas influenciadas por la antigua Roma. La literatura floreció con Dante, Petrarca y Shakespeare creando obras de brillantez duradera. La música desarrolló complejidad polifónica. El Renacimiento produjo un florecimiento cultural sin precedentes desde la antigüedad clásica. El arte se convirtió no sólo en instrucción religiosa sino en celebración de los logros humanos y la belleza del mundo natural.",
+      "imageUrl": "images/cards/leonardo-vitruvian.jpg",
+      "imageCaption": "El Hombre de Vitruvio de Leonardo da Vinci ejemplifica el humanismo y el estudio científico del Renacimiento"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "Método científico y revolución intelectual",
+      "body": "Los pensadores del Renacimiento desafiaron a las autoridades medievales mediante la observación y la experimentación. Copérnico propuso el heliocentrismo (cosmología centrada en el sol), anulando el modelo geocéntrico de Aristóteles. Galileo utilizó telescopios para observar fenómenos celestes, apoyando la teoría copernicana a través de evidencia empírica. Este cambio del conocimiento basado en la autoridad a la comprensión basada en la observación sentó las bases de la ciencia moderna. Anatomistas como Andreas Vesalius realizaron disecciones humanas, corrigiendo los antiguos errores de Galeno a través de la observación directa. Los matemáticos desarrollaron álgebra y geometría avanzada. Esta revolución intelectual hizo hincapié en la investigación racional, la evidencia empírica y la investigación sistemática. El método científico (hipótesis, experimentación, verificación) surgió durante el Renacimiento. Mientras que los eruditos medievales interpretaron literalmente los textos antiguos, los pensadores del Renacimiento cuestionaron la sabiduría recibida. Este cambio epistemológico fundamental creó la base intelectual para la Revolución Científica.",
+      "imageUrl": "images/cards/renaissance-telescope.jpg",
+      "imageCaption": "Las observaciones telescópicas de Galileo revolucionaron la comprensión del cosmos"
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Humanismo y realización individual",
+      "body": "El humanismo renacentista enfatizó la dignidad humana, el potencial y la excelencia individual. A diferencia del enfoque del cristianismo medieval en la salvación de otro mundo, los humanistas celebraron los logros humanos terrenales. La educación se centró en la literatura, la historia, la filosofía y la retórica: las artes liberales. Se animó a las personas a desarrollar múltiples talentos y buscar la excelencia en todas las disciplinas. Este ideal del \"hombre renacentista\" o erudito (ejemplificado por Leonardo, quien se destacó como artista, científico, ingeniero y anatomista) representaba la creencia de la época en el potencial humano. Los humanistas valoraban la participación cívica y la agencia individual. Esto marcó un cambio hacia el individualismo y las visiones del mundo centradas en el ser humano. Las mujeres, aunque más restringidas que los hombres, participaron en el aprendizaje humanista. Las reinas y las mujeres nobles se convirtieron en mecenas y eruditas. El énfasis en el potencial y los logros individuales creó valores culturales que persisten en la civilización occidental.",
+      "funFact": "El término \"hombre del Renacimiento\" describe a alguien con experiencia y logros en múltiples disciplinas, inspirado en los ideales renacentistas del potencial humano."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Patrocinio, publicaciones y apoyo institucional",
+      "body": "Los logros intelectuales y artísticos del Renacimiento dependieron de los sistemas de mecenazgo. Las familias de comerciantes adineradas, en particular los Medici, patrocinaron a artistas, eruditos y arquitectos. La Iglesia católica, a pesar de los conflictos religiosos posteriores, siguió siendo un patrocinador importante. Los papas encargaron obras maestras, incluida la Capilla Sixtina. Las universidades se expandieron y multiplicaron, convirtiéndose en centros de aprendizaje. La imprenta democratizó el conocimiento, permitiendo una distribución más amplia de textos clásicos e ideas del Renacimiento. La cultura impresa creó redes de académicos en toda Europa. Se establecieron bibliotecas que recopilaban manuscritos antiguos y obras contemporáneas. El discurso académico se facilitó mediante correspondencia publicada y libros impresos. Este apoyo institucional (mecenazgo, universidades, bibliotecas e imprentas) permitió el florecimiento intelectual. Sin riqueza económica e infraestructura institucional, el Renacimiento no habría ocurrido. La concentración de recursos entre las élites urbanas que valoraban el aprendizaje creó las condiciones para la transformación cultural.",
+      "imageUrl": "images/cards/medici-palace.jpg",
+      "imageCaption": "El Palacio de los Medici en Florencia, símbolo del mecenazgo familiar que apoya la cultura renacentista"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Legado y transición a la modernidad",
+      "body": "El Renacimiento tendió un puente entre los mundos medieval y moderno, estableciendo marcos intelectuales subyacentes a la civilización occidental. El empirismo científico, los logros individuales, el humanismo y el aprendizaje secular surgieron de los valores del Renacimiento. La Revolución Científica y la Ilustración se construyeron directamente sobre cimientos del Renacimiento. El arte y la literatura del Renacimiento siguen siendo canónicos: Leonardo, Miguel Ángel y Shakespeare están considerados entre las figuras más importantes de la historia. Los principios arquitectónicos desarrollados durante el Renacimiento influyeron en el diseño de edificios occidentales. El énfasis en el potencial humano y la investigación racional dio forma a los valores modernos. Sin embargo, el Renacimiento también facilitó el colonialismo y la explotación cuando las potencias europeas utilizaron nuevos conocimientos y tecnologías para dominar a los pueblos no europeos. El Renacimiento marca el comienzo del dominio cultural europeo. Comprender este período requiere reconocer tanto su brillantez intelectual como su papel en el establecimiento de desigualdades globales que persisten hoy en día.",
+      "funFact": "Las ideas renacentistas sobre los logros individuales y el potencial humano influyeron en la filosofía de la Ilustración y dieron forma a los ideales democráticos modernos."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Renaissance: A Very Short Introduction",
+      "author": "Jerry Brotton",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "The Civilization of the Renaissance in Italy",
+      "author": "Jacob Burckhardt",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Renaissance Thought: The Classic, Scholastic, and Humanistic Strains",
+      "author": "Paul Oskar Kristeller",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-renaissance-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué ciudad europea se considera tradicionalmente la cuna del Renacimiento?",
+        "options": [
+          "Roma",
+          "Venecia",
+          "Florencia",
+          "Milán"
+        ],
+        "correctAnswer": "Florencia",
+        "explanation": "Florencia, Italia, se considera tradicionalmente la cuna del Renacimiento, particularmente debido al patrocinio de eruditos y artistas de la familia Medici."
+      },
+      {
+        "id": "q2",
+        "type": "fill_blank",
+        "questionText": "Los pensadores del Renacimiento enfatizaron el aprendizaje _______ y la investigación racional basada en la observación y la experimentación en lugar de la autoridad.",
+        "correctAnswer": "empírico",
+        "explanation": "El aprendizaje empírico, basado en la observación y la experimentación directa, reemplazó la dependencia medieval de las autoridades y la doctrina teológica antiguas."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "La teoría heliocéntrica de Copérnico fue inicialmente aceptada por la Iglesia católica y las autoridades medievales.",
+        "correctAnswer": "false",
+        "explanation": "El modelo solar de Copérnico contradecía la filosofía aristotélica establecida y las enseñanzas de la Iglesia, creando un conflicto que persistió durante siglos."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "¿Qué artista del Renacimiento ejemplificó el ideal del \"hombre renacentista\" a través de la excelencia en pintura, ciencia, ingeniería y anatomía?",
+        "options": [
+          "Miguel Ángel",
+          "Rafael",
+          "leonardo da vinci",
+          "Donatello"
+        ],
+        "correctAnswer": "leonardo da vinci",
+        "explanation": "Leonardo da Vinci encarnó los ideales del Renacimiento a través de sus extraordinarios logros en múltiples disciplinas, incluidas el arte, la ciencia y la ingeniería."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "El humanismo renacentista enfatizó el potencial individual y la dignidad humana en lugar de centrarse exclusivamente en la salvación religiosa.",
+        "correctAnswer": "true",
+        "explanation": "Los humanistas del Renacimiento cambiaron su enfoque de las preocupaciones puramente teológicas hacia la celebración de los logros humanos, la excelencia individual y los esfuerzos terrenales."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440010"
+  },
+  "publishedAt": "2026-04-19T00:00:00Z",
+  "createdAt": "2026-04-19T00:00:00Z",
+  "updatedAt": "2026-04-19T00:00:00Z"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440003",
+  "slug": "the-silk-road",
+  "title": "La ruta de la seda",
+  "subtitle": "Antiguas rutas comerciales que conectaron civilizaciones",
+  "topicId": "history",
+  "estimatedMinutes": 10,
+  "difficulty": "intermediate",
+  "thumbnailUrl": "images/thumbnails/the-silk-road.jpg",
+  "isPremium": true,
+  "featured": false,
+  "popularityScore": 0,
+  "cards": [
+    {
+      "id": "card-1",
+      "order": 1,
+      "heading": "Más que seda: una red de rutas comerciales",
+      "body": "La Ruta de la Seda no era una única ruta, sino una vasta red de rutas comerciales terrestres y marítimas que conectaban Asia Oriental, Asia Central, India, Oriente Medio y Europa. Establecidas durante la dinastía Han de China (206 a. C.-220 d. C.), estas rutas facilitaron el comercio, el intercambio cultural y las relaciones diplomáticas durante más de 1.500 años. Las rutas, que llevan el nombre de la seda, el tejido de lujo muy apreciado por las élites romanas, también transportaban especias, cerámica, metales preciosos, cristalería y otros bienes. Más allá del comercio, la Ruta de la Seda permitió la difusión de religiones, tecnologías e ideas a través de los continentes.",
+      "funFact": "La producción de seda estaba estrechamente custodiada por China y revelar el secreto de la sericultura a forasteros se castigaba con la muerte."
+    },
+    {
+      "id": "card-2",
+      "order": 2,
+      "heading": "Ciudades clave y centros comerciales",
+      "body": "Las principales ciudades a lo largo de la Ruta de la Seda se convirtieron en centros cosmopolitas donde interactuaban comerciantes, peregrinos y enviados de diferentes culturas. Samarcanda, en Asia Central, era un cruce de caminos donde convergían comerciantes persas, chinos e indios. Chang'an (la actual Xi'an), la capital de China, era una de las ciudades más grandes del mundo con una población que superaba el millón. Otros centros importantes fueron Bagdad, Damasco y Cachemira. Estas ciudades desarrollaron sofisticados sistemas bancarios, caravasares (posadas de carretera) y mercados donde se intercambiaban, almacenaban y redistribuían bienes.",
+      "imageUrl": "images/cards/samarkand-bazaar.jpg",
+      "imageCaption": "Antiguo bazar en Samarcanda, un importante centro comercial de la Ruta de la Seda"
+    },
+    {
+      "id": "card-3",
+      "order": 3,
+      "heading": "La difusión del budismo y las ideas",
+      "body": "La Ruta de la Seda fue fundamental para la difusión del budismo desde la India hasta Asia Central y, finalmente, hasta China, Corea y Japón. Los monjes budistas recorrieron estas rutas, fundaron monasterios y tradujeron textos budistas. De manera similar, la expansión islámica siguió rutas comerciales, extendiendo la religión a partir del siglo VII en adelante. Innovaciones tecnológicas como la fabricación de papel, la imprenta y la pólvora viajaron de Oriente a Occidente a lo largo de estas redes. La filosofía y el conocimiento matemático griegos se trasladaron hacia el este. Este intercambio de ideas moldeó fundamentalmente el desarrollo intelectual y espiritual de las civilizaciones en toda Eurasia.",
+      "funFact": "La tecnología china de fabricación de papel llegó al mundo islámico en el siglo VIII y finalmente se extendió a Europa y revolucionó la transmisión de información."
+    },
+    {
+      "id": "card-4",
+      "order": 4,
+      "heading": "Comerciantes, peligros y logística",
+      "body": "Viajar por la Ruta de la Seda era peligroso y caro. Los comerciantes se enfrentaron a duros desiertos, pasos de montaña, clima impredecible y bandidos. Los comerciantes individuales rara vez recorrían toda la ruta; en cambio, los bienes pasaban a través de numerosos intermediarios. Caravanas de camellos, caballos y animales de carga transportaban mercancías a través de grandes distancias. Los comerciantes formaron redes y asociaciones con comerciantes de diferentes regiones. El Imperio Bizantino y los califatos islámicos proporcionaron seguridad e infraestructura para el comercio. Las comunidades de comerciantes especializados, como los sogdianos, se convirtieron en intermediarios esenciales, facilitando el comercio y la diplomacia.",
+      "funFact": "Los sogdianos eran comerciantes de Asia central tan cruciales para el comercio de la Ruta de la Seda que se convirtieron en el idioma del comercio en múltiples regiones."
+    },
+    {
+      "id": "card-5",
+      "order": 5,
+      "heading": "Bienes, lujo y demanda",
+      "body": "Las élites romanas codiciaban la seda china con tanta intensidad que la demanda impulsó el comercio durante siglos. La porcelana, la laca y el té chinos eran muy valorados en los mercados occidentales. Desde Occidente, la cristalería mediterránea, las monedas romanas y la lana viajaron hacia el Este. Entre las regiones se comercializaban alfombras persas, especias indias y caballos de Asia Central. El mercado de artículos de lujo creó una enorme riqueza para comerciantes y gobernantes. El comercio estimuló el desarrollo urbano, las industrias artesanales y los sistemas bancarios. El deseo de productos exóticos conectó literalmente a los continentes, creando la primera red comercial verdaderamente global.",
+      "imageUrl": "images/cards/silk-caravan.jpg",
+      "imageCaption": "Comerciantes y camellos en la Ruta de la Seda transportando mercancías valiosas"
+    },
+    {
+      "id": "card-6",
+      "order": 6,
+      "heading": "Decadencia y legado",
+      "body": "La Ruta de la Seda decayó gradualmente entre los siglos XV y XVII a medida que las rutas marítimas alrededor de África se convirtieron en alternativas viables para el comercio europeo con Asia. El comercio marítimo era más rápido y en ocasiones más seguro que las rutas terrestres. El ascenso del poder marítimo europeo y la era de la exploración reorientaron el comercio global. Sin embargo, el legado de la Ruta de la Seda marcó profundamente la historia mundial. Las religiones, tecnologías, cocinas y tradiciones artísticas que vemos hoy reflejan siglos de intercambio en la Ruta de la Seda. Comprender estas antiguas redes comerciales revela cuán interconectada ha estado siempre la civilización humana.",
+      "funFact": "Los estudios de ADN modernos muestran que el comercio de la Ruta de la Seda creó una mezcla genética entre las poblaciones de toda Eurasia, lo que demuestra la escala del movimiento humano."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Silk Roads: A New History of the World",
+      "author": "Peter Frankopan",
+      "type": "book",
+      "id": "src-1"
+    },
+    {
+      "title": "The Silk Road: A History",
+      "author": "Susan Whitfield",
+      "type": "book",
+      "id": "src-2"
+    },
+    {
+      "title": "Central Asia in World History",
+      "author": "Peter B. Golden",
+      "type": "book",
+      "id": "src-3"
+    }
+  ],
+  "quiz": {
+    "id": "quiz-silk-road-1",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "questionText": "¿Qué dinastía china estableció la Ruta de la Seda durante su reinado?",
+        "options": [
+          "Dinastía Tang",
+          "Dinastía Han",
+          "Dinastía Ming",
+          "Dinastía Song"
+        ],
+        "correctAnswer": "Dinastía Han",
+        "explanation": "La Ruta de la Seda se estableció durante la dinastía Han (206 a. C.-220 d. C.) cuando los gobernantes chinos se expandieron hacia el oeste."
+      },
+      {
+        "id": "q2",
+        "type": "fill_blank",
+        "questionText": "La Ruta de la Seda contribuyó decisivamente a la expansión de _______ desde la India hasta Asia central, China y, finalmente, Japón.",
+        "correctAnswer": "budismo",
+        "explanation": "Los monjes budistas recorrieron las rutas de la Ruta de la Seda, establecieron monasterios y difundieron el budismo por toda Asia."
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "Los comerciantes individuales normalmente viajaban a lo largo de toda la Ruta de la Seda desde China hasta Europa.",
+        "correctAnswer": "false",
+        "explanation": "La Ruta de la Seda era demasiado vasta y peligrosa para que la atravesaran los comerciantes individuales. En cambio, los bienes pasaban a través de numerosos intermediarios y centros comerciales."
+      },
+      {
+        "id": "q4",
+        "type": "multiple_choice",
+        "questionText": "Which Central Asian trading group became essential intermediaries on the Silk Road?",
+        "options": [
+          "hunos",
+          "sogdianos",
+          "escitas",
+          "mongoles"
+        ],
+        "correctAnswer": "sogdianos",
+        "explanation": "The Sogdians were central Asian traders whose language became the lingua franca of Silk Road commerce."
+      },
+      {
+        "id": "q5",
+        "type": "true_false",
+        "questionText": "La tecnología china de fabricación de papel llegó al mundo islámico en el siglo VIII d.C.",
+        "correctAnswer": "true",
+        "explanation": "La fabricación de papel viajó a lo largo de la Ruta de la Seda y se estableció en el mundo islámico durante el siglo VIII, llegando finalmente a Europa."
+      }
+    ],
+    "lectureId": "550e8400-e29b-41d4-a716-446655440003"
+  },
+  "publishedAt": "2026-04-05T00:00:00Z",
+  "createdAt": "2026-04-05T00:00:00Z",
+  "updatedAt": "2026-04-05T00:00:00Z"
+}

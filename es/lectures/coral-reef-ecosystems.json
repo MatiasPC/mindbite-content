@@ -99,7 +99,12 @@
         "type": "fill_blank",
         "questionText": "Las zooxantelas producen aproximadamente el _____% de las necesidades energéticas de un coral a través de la fotosíntesis.",
         "correctAnswer": "90",
-        "explanation": "La fotosíntesis de las zooxantelas proporciona hasta el 90% de las necesidades energéticas de los corales en el entorno oceánico tropical."
+        "explanation": "La fotosíntesis de las zooxantelas proporciona hasta el 90% de las necesidades energéticas de los corales en el entorno oceánico tropical.",
+        "options": [
+          "90",
+          "60",
+          "75"
+        ]
       },
       {
         "id": "q4",

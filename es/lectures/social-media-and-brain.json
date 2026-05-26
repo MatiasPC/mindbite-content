@@ -102,7 +102,12 @@
         "type": "fill_blank",
         "questionText": "La luz azul de las pantallas suprime la producción de _______, que es crucial para iniciar el sueño.",
         "correctAnswer": "melatonina",
-        "explanation": "La luz azul de las pantallas suprime la producción de melatonina, lo que retrasa el inicio del sueño cuando se usa por la noche."
+        "explanation": "La luz azul de las pantallas suprime la producción de melatonina, lo que retrasa el inicio del sueño cuando se usa por la noche.",
+        "options": [
+          "dopamina",
+          "melatonina",
+          "serotonina"
+        ]
       },
       {
         "id": "q-5",

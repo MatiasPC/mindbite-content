@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "Descartes distinguished between mind, which he called ___ substance, and body, which he called ___ substance.",
         "correctAnswer": "thinking; extended",
-        "explanation": "Descartes divided reality into two substances: thinking substance (mind, which is non-physical and conscious) and extended substance (body, which is physical and spatial). This is known as Cartesian dualism."
+        "explanation": "Descartes divided reality into two substances: thinking substance (mind, which is non-physical and conscious) and extended substance (body, which is physical and spatial). This is known as Cartesian dualism.",
+        "options": [
+          "physical; spiritual",
+          "thinking; extended",
+          "material; divine"
+        ]
       },
       {
         "id": "q-5",

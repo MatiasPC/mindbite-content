@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "La Ruta de la Seda contribuyó decisivamente a la expansión de _______ desde la India hasta Asia central, China y, finalmente, Japón.",
         "correctAnswer": "budismo",
-        "explanation": "Los monjes budistas recorrieron las rutas de la Ruta de la Seda, establecieron monasterios y difundieron el budismo por toda Asia."
+        "explanation": "Los monjes budistas recorrieron las rutas de la Ruta de la Seda, establecieron monasterios y difundieron el budismo por toda Asia.",
+        "options": [
+          "budismo",
+          "el islam",
+          "el cristianismo"
+        ]
       },
       {
         "id": "q3",

@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "La Gran Pirámide de Keops está compuesta por aproximadamente _______ millones de bloques de piedra, cada uno de los cuales pesa varias toneladas.",
         "correctAnswer": "2.3",
-        "explanation": "La Gran Pirámide contiene aproximadamente 2,3 millones de bloques de piedra, lo que demuestra la enorme escala del proyecto de construcción."
+        "explanation": "La Gran Pirámide contiene aproximadamente 2,3 millones de bloques de piedra, lo que demuestra la enorme escala del proyecto de construcción.",
+        "options": [
+          "5.0",
+          "2.3",
+          "1.5"
+        ]
       },
       {
         "id": "q3",

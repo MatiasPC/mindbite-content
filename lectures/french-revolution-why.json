@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "_______ argued that sovereign power rested with the people, not with the monarch, in his influential Enlightenment writings.",
         "correctAnswer": "Rousseau",
-        "explanation": "Jean-Jacques Rousseau's concept of popular sovereignty challenged the foundation of absolute monarchy."
+        "explanation": "Jean-Jacques Rousseau's concept of popular sovereignty challenged the foundation of absolute monarchy.",
+        "options": [
+          "Voltaire",
+          "Rousseau",
+          "Montesquieu"
+        ]
       },
       {
         "id": "q3",

@@ -91,7 +91,12 @@
         "type": "fill_blank",
         "questionText": "The ________ RNA directs CRISPR to the correct location in the genome by matching a specific DNA sequence.",
         "correctAnswer": "guide",
-        "explanation": "The guide RNA is programmed with a target sequence and directs the Cas9 protein to cut at the precise location in the DNA."
+        "explanation": "The guide RNA is programmed with a target sequence and directs the Cas9 protein to cut at the precise location in the DNA.",
+        "options": [
+          "messenger",
+          "transfer",
+          "guide"
+        ]
       },
       {
         "id": "q4",

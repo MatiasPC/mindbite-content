@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "En situaciones de negociación, el primer precio mencionado puede actuar como _______, influyendo significativamente en el resultado final.",
         "correctAnswer": "ancla",
-        "explanation": "En el sesgo de anclaje, la cifra inicial sirve como un ancla que influye en los juicios y negociaciones posteriores, incluso cuando el ancla es irrelevante o se sabe que es engañosa."
+        "explanation": "En el sesgo de anclaje, la cifra inicial sirve como un ancla que influye en los juicios y negociaciones posteriores, incluso cuando el ancla es irrelevante o se sabe que es engañosa.",
+        "options": [
+          "señuelo",
+          "ancla",
+          "límite"
+        ]
       },
       {
         "id": "q-5",

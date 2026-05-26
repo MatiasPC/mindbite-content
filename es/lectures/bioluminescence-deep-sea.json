@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "Aproximadamente el _____% de los organismos de las profundidades marinas producen luz o poseen órganos que detectan la luz.",
         "correctAnswer": "90",
-        "explanation": "Alrededor del 90% de los organismos de las profundidades marinas tienen capacidades bioluminiscentes o estructuras de detección de luz, lo que indica la importancia de la luz en la ecología de las profundidades marinas."
+        "explanation": "Alrededor del 90% de los organismos de las profundidades marinas tienen capacidades bioluminiscentes o estructuras de detección de luz, lo que indica la importancia de la luz en la ecología de las profundidades marinas.",
+        "options": [
+          "75",
+          "50",
+          "90"
+        ]
       },
       {
         "id": "q3",
@@ -119,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "La proteína verde fluorescente (GFP) se descubrió originalmente en el _____ y ​​ha revolucionado la biología molecular.",
         "correctAnswer": "medusa",
-        "explanation": "La GFP se descubrió en la medusa Aequorea victoria y se ha convertido en una herramienta crucial para el seguimiento de los procesos celulares en la investigación médica."
+        "explanation": "La GFP se descubrió en la medusa Aequorea victoria y se ha convertido en una herramienta crucial para el seguimiento de los procesos celulares en la investigación médica.",
+        "options": [
+          "coral",
+          "medusa",
+          "calamar"
+        ]
       }
     ],
     "lectureId": "550e8400-e29b-41d4-a716-446655440007"

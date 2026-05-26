@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "Signs of past or present life are called _______.",
         "correctAnswer": "biosignatures",
-        "explanation": "Biosignatures are observable features or chemical compositions that indicate the presence of life or its past existence."
+        "explanation": "Biosignatures are observable features or chemical compositions that indicate the presence of life or its past existence.",
+        "options": [
+          "minerals",
+          "fossils",
+          "biosignatures"
+        ]
       },
       {
         "id": "q-5",

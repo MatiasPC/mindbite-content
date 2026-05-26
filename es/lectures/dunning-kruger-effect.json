@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "El efecto Dunning-Kruger se produce porque no sabes lo que _______, lo que hace imposible una autoevaluación precisa.",
         "correctAnswer": "no lo sé",
-        "explanation": "Una idea clave del efecto es que la incompetencia impide la conciencia de la incompetencia: no se pueden reconocer las lagunas de conocimiento cuando se ignoran esas áreas."
+        "explanation": "Una idea clave del efecto es que la incompetencia impide la conciencia de la incompetencia: no se pueden reconocer las lagunas de conocimiento cuando se ignoran esas áreas.",
+        "options": [
+          "no lo sé",
+          "ya sabes",
+          "aprendiste"
+        ]
       },
       {
         "id": "q-5",

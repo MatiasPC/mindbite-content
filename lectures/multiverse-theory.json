@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "The observation that we inevitably exist in a universe compatible with our existence is called the _______ principle.",
         "correctAnswer": "anthropic",
-        "explanation": "The anthropic principle explains apparent fine-tuning by noting we must observe conditions permitting observers."
+        "explanation": "The anthropic principle explains apparent fine-tuning by noting we must observe conditions permitting observers.",
+        "options": [
+          "quantum",
+          "anthropic",
+          "cosmological"
+        ]
       },
       {
         "id": "q-5",

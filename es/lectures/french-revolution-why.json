@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "_______ argumentó que el poder soberano recaía en el pueblo, no en el monarca, en sus influyentes escritos de la Ilustración.",
         "correctAnswer": "Rousseau",
-        "explanation": "El concepto de soberanía popular de Jean-Jacques Rousseau desafió los fundamentos de la monarquía absoluta."
+        "explanation": "El concepto de soberanía popular de Jean-Jacques Rousseau desafió los fundamentos de la monarquía absoluta.",
+        "options": [
+          "Voltaire",
+          "Montesquieu",
+          "Rousseau"
+        ]
       },
       {
         "id": "q3",

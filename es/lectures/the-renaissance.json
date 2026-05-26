@@ -98,7 +98,12 @@
         "type": "fill_blank",
         "questionText": "Los pensadores del Renacimiento enfatizaron el aprendizaje _______ y la investigación racional basada en la observación y la experimentación en lugar de la autoridad.",
         "correctAnswer": "empírico",
-        "explanation": "El aprendizaje empírico, basado en la observación y la experimentación directa, reemplazó la dependencia medieval de las autoridades y la doctrina teológica antiguas."
+        "explanation": "El aprendizaje empírico, basado en la observación y la experimentación directa, reemplazó la dependencia medieval de las autoridades y la doctrina teológica antiguas.",
+        "options": [
+          "empírico",
+          "clásico",
+          "escolástico"
+        ]
       },
       {
         "id": "q3",

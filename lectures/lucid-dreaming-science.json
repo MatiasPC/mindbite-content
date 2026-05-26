@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "The _______ technique involves waking after five to six hours of sleep, staying awake briefly, then returning to sleep to increase lucid dream frequency.",
         "correctAnswer": "Wake-Back-to-Bed",
-        "explanation": "The WBTB (Wake-Back-to-Bed) method is an evidence-based technique that increases REM sleep propensity and metacognitive awareness, facilitating lucid dreaming."
+        "explanation": "The WBTB (Wake-Back-to-Bed) method is an evidence-based technique that increases REM sleep propensity and metacognitive awareness, facilitating lucid dreaming.",
+        "options": [
+          "Wake-Back-to-Bed",
+          "Mnemonic Induction",
+          "Reality Testing"
+        ]
       },
       {
         "id": "q-5",

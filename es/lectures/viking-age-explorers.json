@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "El explorador nórdico _______ llegó a América del Norte alrededor del año 1000 EC y estableció un asentamiento al que llamó Vinland.",
         "correctAnswer": "Leif Erikson",
-        "explanation": "Leif Erikson era hijo de Erik el Rojo y se convirtió en el primer europeo conocido en llegar a América del Norte."
+        "explanation": "Leif Erikson era hijo de Erik el Rojo y se convirtió en el primer europeo conocido en llegar a América del Norte.",
+        "options": [
+          "Harald Hardrada",
+          "Erik el Rojo",
+          "Leif Erikson"
+        ]
       },
       {
         "id": "q3",

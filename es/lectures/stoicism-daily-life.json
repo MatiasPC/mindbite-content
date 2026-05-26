@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "La práctica estoica de 'premeditatio malorum' implica ___ imaginar pérdidas y dificultades potenciales para reducir el shock y aumentar la apreciación.",
         "correctAnswer": "visualizando negativamente",
-        "explanation": "La visualización negativa es la práctica de prepararse mentalmente para las dificultades. Aumenta la resiliencia al reducir el shock y profundiza el aprecio por lo que tienes, sabiendo que es temporal."
+        "explanation": "La visualización negativa es la práctica de prepararse mentalmente para las dificultades. Aumenta la resiliencia al reducir el shock y profundiza el aprecio por lo que tienes, sabiendo que es temporal.",
+        "options": [
+          "ignorando deliberadamente",
+          "aceptando pasivamente",
+          "visualizando negativamente"
+        ]
       },
       {
         "id": "q-5",

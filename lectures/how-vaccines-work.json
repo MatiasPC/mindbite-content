@@ -91,7 +91,12 @@
         "type": "fill_blank",
         "questionText": "When a sufficient percentage of a population is vaccinated, disease transmission slows through a process called ________ immunity.",
         "correctAnswer": "herd",
-        "explanation": "Herd immunity occurs when enough people are vaccinated to prevent disease transmission through the community, protecting even those who cannot be vaccinated."
+        "explanation": "Herd immunity occurs when enough people are vaccinated to prevent disease transmission through the community, protecting even those who cannot be vaccinated.",
+        "options": [
+          "herd",
+          "natural",
+          "acquired"
+        ]
       },
       {
         "id": "q4",

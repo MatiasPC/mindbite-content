@@ -151,15 +151,30 @@
         "sourceRef": { "type": "string" }
       },
       "additionalProperties": false,
-      "if": {
-        "properties": { "type": { "const": "multiple_choice" } }
-      },
-      "then": {
-        "required": ["options"],
-        "properties": {
-          "options": { "minItems": 4, "maxItems": 4 }
+      "allOf": [
+        {
+          "if": {
+            "properties": { "type": { "const": "multiple_choice" } }
+          },
+          "then": {
+            "required": ["options"],
+            "properties": {
+              "options": { "minItems": 4, "maxItems": 4 }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": { "type": { "const": "fill_blank" } }
+          },
+          "then": {
+            "required": ["options"],
+            "properties": {
+              "options": { "minItems": 3, "maxItems": 3 }
+            }
+          }
         }
-      }
+      ]
     }
   }
 }

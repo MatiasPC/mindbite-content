@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "El gradiente de entropía (desorden creciente con el tiempo) define el ________ ________ __________.",
         "correctAnswer": "flecha del tiempo",
-        "explanation": "La flecha de la dirección del tiempo (del pasado al futuro) está definida por el aumento constante de la entropía como lo describe la Segunda Ley de la Termodinámica."
+        "explanation": "La flecha de la dirección del tiempo (del pasado al futuro) está definida por el aumento constante de la entropía como lo describe la Segunda Ley de la Termodinámica.",
+        "options": [
+          "ciclo del tiempo",
+          "flecha del tiempo",
+          "principio del universo"
+        ]
       },
       {
         "id": "q4",

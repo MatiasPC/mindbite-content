@@ -79,7 +79,12 @@
         "type": "fill_blank",
         "questionText": "Los lobos fueron reintroducidos en el Parque Nacional Yellowstone en _____ después de haber estado ausentes durante _____ años.",
         "correctAnswer": "1995-1996 y 70",
-        "explanation": "Los lobos fueron reintroducidos en Yellowstone en 1995-1996 y regresaron al parque por primera vez en 70 años."
+        "explanation": "Los lobos fueron reintroducidos en Yellowstone en 1995-1996 y regresaron al parque por primera vez en 70 años.",
+        "options": [
+          "2005-2006 y 90",
+          "1995-1996 y 70",
+          "1985-1986 y 50"
+        ]
       },
       {
         "id": "q2",

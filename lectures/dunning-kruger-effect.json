@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "The Dunning-Kruger effect occurs because you don't know what you _______, making accurate self-assessment impossible.",
         "correctAnswer": "don't know",
-        "explanation": "A key insight of the effect is that incompetence prevents awareness of incompetence—you cannot recognize knowledge gaps when you're ignorant of those areas."
+        "explanation": "A key insight of the effect is that incompetence prevents awareness of incompetence—you cannot recognize knowledge gaps when you're ignorant of those areas.",
+        "options": [
+          "already know",
+          "have learned",
+          "don't know"
+        ]
       },
       {
         "id": "q-5",

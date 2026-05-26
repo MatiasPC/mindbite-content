@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "El EPR ________ fue propuesto por Einstein, Podolsky y Rosen para desafiar la mecánica cuántica.",
         "correctAnswer": "paradoja",
-        "explanation": "La paradoja de Einstein-Podolsky-Rosen sostenía que la mecánica cuántica era incompleta porque predecía la influencia instantánea a distancia."
+        "explanation": "La paradoja de Einstein-Podolsky-Rosen sostenía que la mecánica cuántica era incompleta porque predecía la influencia instantánea a distancia.",
+        "options": [
+          "teorema",
+          "experimento",
+          "paradoja"
+        ]
       },
       {
         "id": "q4",

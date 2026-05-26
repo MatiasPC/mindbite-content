@@ -91,7 +91,12 @@
         "type": "fill_blank",
         "questionText": "El ARN ________ dirige CRISPR a la ubicación correcta en el genoma al hacer coincidir una secuencia de ADN específica.",
         "correctAnswer": "guía",
-        "explanation": "El ARN guía está programado con una secuencia objetivo y dirige la proteína Cas9 para que corte en la ubicación precisa del ADN."
+        "explanation": "El ARN guía está programado con una secuencia objetivo y dirige la proteína Cas9 para que corte en la ubicación precisa del ADN.",
+        "options": [
+          "guía",
+          "de transferencia",
+          "mensajero"
+        ]
       },
       {
         "id": "q4",

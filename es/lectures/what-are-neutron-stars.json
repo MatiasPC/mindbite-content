@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "En 2017, los detectores de ondas gravitacionales observaron la fusión de dos estrellas de neutrones en un evento llamado _______.",
         "correctAnswer": "GW170817",
-        "explanation": "GW170817 fue la primera detección confirmada de ondas gravitacionales procedentes de una fusión de estrellas de neutrones, proporcionando conocimientos sin precedentes sobre la física extrema."
+        "explanation": "GW170817 fue la primera detección confirmada de ondas gravitacionales procedentes de una fusión de estrellas de neutrones, proporcionando conocimientos sin precedentes sobre la física extrema.",
+        "options": [
+          "GW190521",
+          "GW150914",
+          "GW170817"
+        ]
       },
       {
         "id": "q-5",

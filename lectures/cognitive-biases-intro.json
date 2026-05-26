@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "In negotiation situations, the first price mentioned can act as a(n) _______, significantly influencing the final outcome.",
         "correctAnswer": "anchor",
-        "explanation": "In anchoring bias, the initial figure serves as an anchor that influences subsequent judgments and negotiations, even when the anchor is irrelevant or known to be misleading."
+        "explanation": "In anchoring bias, the initial figure serves as an anchor that influences subsequent judgments and negotiations, even when the anchor is irrelevant or known to be misleading.",
+        "options": [
+          "anchor",
+          "limit",
+          "decoy"
+        ]
       },
       {
         "id": "q-5",

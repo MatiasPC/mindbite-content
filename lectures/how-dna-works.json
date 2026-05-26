@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "A ________ is a specific section of DNA that contains instructions for making a protein.",
         "correctAnswer": "gene",
-        "explanation": "Genes are segments of DNA that code for proteins, with each gene producing a specific protein with a specific function."
+        "explanation": "Genes are segments of DNA that code for proteins, with each gene producing a specific protein with a specific function.",
+        "options": [
+          "chromosome",
+          "gene",
+          "nucleotide"
+        ]
       },
       {
         "id": "q4",

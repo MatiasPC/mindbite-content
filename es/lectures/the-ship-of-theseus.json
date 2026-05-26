@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "La paradoja del Barco de Teseo revela que la identidad podría depender en parte de ___, el propósito y el reconocimiento social más que sólo de propiedades físicas objetivas.",
         "correctAnswer": "función",
-        "explanation": "Un enfoque funcional considera cómo se utilizan los objetos y su papel en las prácticas comunitarias. Los barcos se identifican por su función de navegación en lugar de por su estricta identidad material."
+        "explanation": "Un enfoque funcional considera cómo se utilizan los objetos y su papel en las prácticas comunitarias. Los barcos se identifican por su función de navegación en lugar de por su estricta identidad material.",
+        "options": [
+          "la memoria",
+          "la materia",
+          "función"
+        ]
       },
       {
         "id": "q-5",

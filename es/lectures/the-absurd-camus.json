@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "Camus rechazó tres respuestas comunes al Absurdo: suicidio, religión y ___.",
         "correctAnswer": "escape filosófico",
-        "explanation": "Camus identificó tres intentos de fuga: el suicidio (acabar con el sujeto consciente), la religión (reivindicar un significado trascendente) y la fuga filosófica (proponer un significado oculto). Rechazó las tres como respuestas no auténticas."
+        "explanation": "Camus identificó tres intentos de fuga: el suicidio (acabar con el sujeto consciente), la religión (reivindicar un significado trascendente) y la fuga filosófica (proponer un significado oculto). Rechazó las tres como respuestas no auténticas.",
+        "options": [
+          "negación total",
+          "escape filosófico",
+          "esperanza ciega"
+        ]
       },
       {
         "id": "q-5",

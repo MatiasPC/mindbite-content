@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "Norse explorer _______ reached North America around 1000 CE, establishing a settlement he called Vinland.",
         "correctAnswer": "Leif Erikson",
-        "explanation": "Leif Erikson was the son of Erik the Red and became the first known European to reach North America."
+        "explanation": "Leif Erikson was the son of Erik the Red and became the first known European to reach North America.",
+        "options": [
+          "Harald Hardrada",
+          "Erik the Red",
+          "Leif Erikson"
+        ]
       },
       {
         "id": "q3",

@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "General relativity describes gravity not as a force, but as ________ of space and time.",
         "correctAnswer": "curvature",
-        "explanation": "General relativity proposes that massive objects curve spacetime, and other objects follow the curved paths, which we perceive as gravitational attraction."
+        "explanation": "General relativity proposes that massive objects curve spacetime, and other objects follow the curved paths, which we perceive as gravitational attraction.",
+        "options": [
+          "curvature",
+          "expansion",
+          "vibration"
+        ]
       },
       {
         "id": "q4",

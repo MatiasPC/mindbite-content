@@ -99,7 +99,12 @@
         "type": "fill_blank",
         "questionText": "El concepto de efecto espectador cobró importancia tras una investigación inspirada en el caso _______ de 1964.",
         "correctAnswer": "gatito genovés",
-        "explanation": "El asesinato de Kitty Genovese, presenciado por 38 personas que no pidieron ayuda, impulsó la innovadora investigación de Latané y Darley sobre por qué los transeúntes no intervienen."
+        "explanation": "El asesinato de Kitty Genovese, presenciado por 38 personas que no pidieron ayuda, impulsó la innovadora investigación de Latané y Darley sobre por qué los transeúntes no intervienen.",
+        "options": [
+          "Central Park",
+          "Rodney King",
+          "gatito genovés"
+        ]
       },
       {
         "id": "q-5",

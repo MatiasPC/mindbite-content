@@ -123,7 +123,12 @@
         "type": "fill_blank",
         "questionText": "The black hole at the center of the Milky Way, called Sagittarius A*, has a mass of approximately _______ solar masses.",
         "correctAnswer": "4 million",
-        "explanation": "Sagittarius A* is a supermassive black hole with a mass of about 4 million times that of our Sun."
+        "explanation": "Sagittarius A* is a supermassive black hole with a mass of about 4 million times that of our Sun.",
+        "options": [
+          "4 million",
+          "10 million",
+          "1 million"
+        ]
       },
       {
         "id": "q-5",

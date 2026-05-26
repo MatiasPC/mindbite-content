@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "Approximately _____% of deep-sea organisms produce light or possess light-detecting organs.",
         "correctAnswer": "90",
-        "explanation": "About 90% of deep-sea organisms have bioluminescent capabilities or light-detecting structures, indicating the importance of light in deep-sea ecology."
+        "explanation": "About 90% of deep-sea organisms have bioluminescent capabilities or light-detecting structures, indicating the importance of light in deep-sea ecology.",
+        "options": [
+          "75",
+          "50",
+          "90"
+        ]
       },
       {
         "id": "q3",
@@ -119,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "Green fluorescent protein (GFP) was originally discovered in the _____ and has revolutionized molecular biology.",
         "correctAnswer": "jellyfish",
-        "explanation": "GFP was discovered in the jellyfish Aequorea victoria and has become a crucial tool for tracking cellular processes in medical research."
+        "explanation": "GFP was discovered in the jellyfish Aequorea victoria and has become a crucial tool for tracking cellular processes in medical research.",
+        "options": [
+          "coral",
+          "jellyfish",
+          "squid"
+        ]
       }
     ],
     "lectureId": "550e8400-e29b-41d4-a716-446655440007"

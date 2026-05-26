@@ -123,7 +123,12 @@
         "type": "fill_blank",
         "questionText": "El agujero negro en el centro de la Vía Láctea, llamado Sagitario A*, tiene una masa de aproximadamente _______ masas solares.",
         "correctAnswer": "4 millones",
-        "explanation": "Sagitario A* es un agujero negro supermasivo con una masa de aproximadamente 4 millones de veces la de nuestro Sol."
+        "explanation": "Sagitario A* es un agujero negro supermasivo con una masa de aproximadamente 4 millones de veces la de nuestro Sol.",
+        "options": [
+          "10 millones",
+          "1 millón",
+          "4 millones"
+        ]
       },
       {
         "id": "q-5",

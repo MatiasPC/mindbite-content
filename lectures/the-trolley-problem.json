@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "The trolley problem demonstrates that human morality is influenced not just by reason but also by ___, emotion, and context.",
         "correctAnswer": "psychology",
-        "explanation": "Neuroscience research shows that personal involvement activates emotional brain regions, while abstract scenarios activate rational regions, proving psychology plays a key role in moral judgment."
+        "explanation": "Neuroscience research shows that personal involvement activates emotional brain regions, while abstract scenarios activate rational regions, proving psychology plays a key role in moral judgment.",
+        "options": [
+          "instinct",
+          "intuition",
+          "psychology"
+        ]
       },
       {
         "id": "q-5",

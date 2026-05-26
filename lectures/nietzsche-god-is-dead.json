@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "The ___ represents Nietzsche's ideal of someone who overcomes conventional morality and creates new values for themselves.",
         "correctAnswer": "\u00dcbermensch",
-        "explanation": "The \u00dcbermensch (or 'overman') is Nietzsche's ideal figure who transcends herd morality through strength, creativity, and authentic self-creation. It's not a biological superior but an achievable ideal of human excellence."
+        "explanation": "The \u00dcbermensch (or 'overman') is Nietzsche's ideal figure who transcends herd morality through strength, creativity, and authentic self-creation. It's not a biological superior but an achievable ideal of human excellence.",
+        "options": [
+          "Free Spirit",
+          "\u00dcbermensch",
+          "Last Man"
+        ]
       },
       {
         "id": "q-5",

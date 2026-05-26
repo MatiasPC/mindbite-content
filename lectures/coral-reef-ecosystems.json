@@ -99,7 +99,12 @@
         "type": "fill_blank",
         "questionText": "Zooxanthellae produce approximately _____% of a coral's energy needs through photosynthesis.",
         "correctAnswer": "90",
-        "explanation": "Zooxanthellae photosynthesis provides up to 90% of the coral's energy requirements in the tropical ocean environment."
+        "explanation": "Zooxanthellae photosynthesis provides up to 90% of the coral's energy requirements in the tropical ocean environment.",
+        "options": [
+          "75",
+          "90",
+          "60"
+        ]
       },
       {
         "id": "q4",

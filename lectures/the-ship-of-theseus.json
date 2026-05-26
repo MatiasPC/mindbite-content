@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "The Ship of Theseus paradox reveals that identity might partly depend on ___, purpose, and social recognition rather than just objective physical properties.",
         "correctAnswer": "function",
-        "explanation": "A functional approach considers how objects are used and their role in community practices. Ships identified through their sailing function rather than strict material identity."
+        "explanation": "A functional approach considers how objects are used and their role in community practices. Ships identified through their sailing function rather than strict material identity.",
+        "options": [
+          "function",
+          "memory",
+          "matter"
+        ]
       },
       {
         "id": "q-5",

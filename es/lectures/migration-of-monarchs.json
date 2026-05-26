@@ -79,7 +79,12 @@
         "type": "fill_blank",
         "questionText": "Las mariposas monarca migran más de _____ kilómetros desde Canadá a México.",
         "correctAnswer": "3000",
-        "explanation": "La migración de la monarca se extiende por más de 3.000 kilómetros (1.900 millas) desde las zonas de reproducción del norte hasta los sitios de invernada en México."
+        "explanation": "La migración de la monarca se extiende por más de 3.000 kilómetros (1.900 millas) desde las zonas de reproducción del norte hasta los sitios de invernada en México.",
+        "options": [
+          "3000",
+          "1000",
+          "5000"
+        ]
       },
       {
         "id": "q2",

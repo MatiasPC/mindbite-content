@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "The EPR ________ was proposed by Einstein, Podolsky, and Rosen to challenge quantum mechanics.",
         "correctAnswer": "paradox",
-        "explanation": "The Einstein-Podolsky-Rosen paradox argued that quantum mechanics was incomplete because it predicted instantaneous influence at a distance."
+        "explanation": "The Einstein-Podolsky-Rosen paradox argued that quantum mechanics was incomplete because it predicted instantaneous influence at a distance.",
+        "options": [
+          "experiment",
+          "paradox",
+          "theorem"
+        ]
       },
       {
         "id": "q4",

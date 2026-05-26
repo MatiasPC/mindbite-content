@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "Plato's cave allegory is found in his work called ___.",
         "correctAnswer": "The Republic",
-        "explanation": "The cave allegory appears in Book VII of Plato's Republic, where Socrates uses it to explain the nature of reality, knowledge, and enlightenment through dialogue with Glaucon."
+        "explanation": "The cave allegory appears in Book VII of Plato's Republic, where Socrates uses it to explain the nature of reality, knowledge, and enlightenment through dialogue with Glaucon.",
+        "options": [
+          "The Republic",
+          "The Symposium",
+          "The Laws"
+        ]
       },
       {
         "id": "q-5",

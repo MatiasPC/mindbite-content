@@ -99,7 +99,12 @@
         "type": "fill_blank",
         "questionText": "The concept of the bystander effect became prominent following research inspired by the _______ case in 1964.",
         "correctAnswer": "Kitty Genovese",
-        "explanation": "The murder of Kitty Genovese, witnessed by 38 people who didn't call for help, prompted Latané and Darley's groundbreaking research on why bystanders fail to intervene."
+        "explanation": "The murder of Kitty Genovese, witnessed by 38 people who didn't call for help, prompted Latané and Darley's groundbreaking research on why bystanders fail to intervene.",
+        "options": [
+          "Rodney King",
+          "Central Park",
+          "Kitty Genovese"
+        ]
       },
       {
         "id": "q-5",

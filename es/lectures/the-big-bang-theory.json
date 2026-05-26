@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "El momento en que los electrones se combinan con los núcleos para formar átomos neutros se llama _______.",
         "correctAnswer": "recombinación",
-        "explanation": "La recombinación ocurrió unos 380.000 años después del Big Bang, cuando el universo se enfrió lo suficiente como para que los electrones se combinaran con los núcleos."
+        "explanation": "La recombinación ocurrió unos 380.000 años después del Big Bang, cuando el universo se enfrió lo suficiente como para que los electrones se combinaran con los núcleos.",
+        "options": [
+          "inflación",
+          "nucleosíntesis",
+          "recombinación"
+        ]
       },
       {
         "id": "q-5",

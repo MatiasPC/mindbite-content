@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "Investigaciones recientes sugieren que la prueba del malvavisco mide _______ y las expectativas aprendidas tanto como el autocontrol.",
         "correctAnswer": "confianza",
-        "explanation": "La disposición de los niños a esperar depende de si han aprendido por experiencia que las recompensas retrasadas son fiables y dignas de confianza."
+        "explanation": "La disposición de los niños a esperar depende de si han aprendido por experiencia que las recompensas retrasadas son fiables y dignas de confianza.",
+        "options": [
+          "confianza",
+          "hambre",
+          "inteligencia"
+        ]
       },
       {
         "id": "q-5",

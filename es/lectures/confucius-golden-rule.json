@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "Confucio creía que la virtud moral debía cultivarse a través de ___, la práctica ritual y la superación personal continua en lugar de ser innata.",
         "correctAnswer": "educación",
-        "explanation": "Confucio enfatizó que las virtudes deben desarrollarse mediante la educación, la práctica ritual y la autodisciplina. Sostenía una visión optimista de que todos los seres humanos tienen el potencial de desarrollarse moralmente."
+        "explanation": "Confucio enfatizó que las virtudes deben desarrollarse mediante la educación, la práctica ritual y la autodisciplina. Sostenía una visión optimista de que todos los seres humanos tienen el potencial de desarrollarse moralmente.",
+        "options": [
+          "la meditación",
+          "la riqueza",
+          "educación"
+        ]
       },
       {
         "id": "q-5",

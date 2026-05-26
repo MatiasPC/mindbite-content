@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "De Beauvoir argumentó que las relaciones auténticas requieren \"generosidad\": reconocer el ___ del otro mientras se persiguen los propios proyectos y la trascendencia.",
         "correctAnswer": "libertad",
-        "explanation": "Generosidad en las relaciones significa respetar y reconocer que la otra persona tiene su propia libertad, proyectos y capacidad de trascendencia, no intentar fusionarse ni poseer."
+        "explanation": "Generosidad en las relaciones significa respetar y reconocer que la otra persona tiene su propia libertad, proyectos y capacidad de trascendencia, no intentar fusionarse ni poseer.",
+        "options": [
+          "libertad",
+          "deseo",
+          "poder"
+        ]
       },
       {
         "id": "q-5",

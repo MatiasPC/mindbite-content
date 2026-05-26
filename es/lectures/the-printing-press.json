@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "Hacia 1500, apenas cincuenta años después de la invención de Gutenberg, se habían impreso en Europa aproximadamente _______ millones de libros.",
         "correctAnswer": "20",
-        "explanation": "La rápida proliferación de la tecnología de impresión dio como resultado que se imprimieran aproximadamente 20 millones de libros en cincuenta años."
+        "explanation": "La rápida proliferación de la tecnología de impresión dio como resultado que se imprimieran aproximadamente 20 millones de libros en cincuenta años.",
+        "options": [
+          "50",
+          "5",
+          "20"
+        ]
       },
       {
         "id": "q3",

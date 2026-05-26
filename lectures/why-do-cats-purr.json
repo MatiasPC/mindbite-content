@@ -99,7 +99,12 @@
         "type": "fill_blank",
         "questionText": "A cat's purring frequency ranges between _____ and _____ Hertz.",
         "correctAnswer": "25 and 150",
-        "explanation": "Research has shown that cat purring vibrations typically occur at frequencies between 25 and 150 Hertz."
+        "explanation": "Research has shown that cat purring vibrations typically occur at frequencies between 25 and 150 Hertz.",
+        "options": [
+          "25 and 150",
+          "100 and 300",
+          "10 and 80"
+        ]
       },
       {
         "id": "q4",

@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "To change an unwanted habit effectively, you should keep the _______ and reward but change the routine.",
         "correctAnswer": "cue",
-        "explanation": "Since the cue (environmental trigger) remains constant, changing just the routine behavior while keeping the reward often proves more effective than trying to eliminate the entire habit."
+        "explanation": "Since the cue (environmental trigger) remains constant, changing just the routine behavior while keeping the reward often proves more effective than trying to eliminate the entire habit.",
+        "options": [
+          "environment",
+          "goal",
+          "cue"
+        ]
       },
       {
         "id": "q-5",

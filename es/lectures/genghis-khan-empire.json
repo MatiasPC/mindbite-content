@@ -84,7 +84,12 @@
         "type": "fill_blank",
         "questionText": "Genghis Khan nació como _______ y solo adoptó su título después de unificar las tribus mongolas en 1206.",
         "correctAnswer": "temujin",
-        "explanation": "Temüjin era su nombre de nacimiento antes de ser conocido como Genghis Khan, que significa \"Gobernante Universal\"."
+        "explanation": "Temüjin era su nombre de nacimiento antes de ser conocido como Genghis Khan, que significa \"Gobernante Universal\".",
+        "options": [
+          "temujin",
+          "Ögedei",
+          "Kublai"
+        ]
       },
       {
         "id": "q2",

@@ -106,7 +106,12 @@
         "type": "fill_blank",
         "questionText": "Los maestros zen utilizan ___ (preguntas o afirmaciones paradójicas) para provocar una percepción directa e ir más allá del pensamiento conceptual.",
         "correctAnswer": "koans",
-        "explanation": "Los koans son fundamentales para el entrenamiento Zen. Ejemplos famosos incluyen \"¿Cuál es el sonido de una mano aplaudiendo?\" y '¿Cuál era tu rostro original antes de que nacieran tus padres?'"
+        "explanation": "Los koans son fundamentales para el entrenamiento Zen. Ejemplos famosos incluyen \"¿Cuál es el sonido de una mano aplaudiendo?\" y '¿Cuál era tu rostro original antes de que nacieran tus padres?'",
+        "options": [
+          "koans",
+          "sutras",
+          "mantras"
+        ]
       },
       {
         "id": "q-5",

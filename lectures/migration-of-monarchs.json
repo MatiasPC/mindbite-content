@@ -79,7 +79,12 @@
         "type": "fill_blank",
         "questionText": "Monarch butterflies migrate over _____ kilometers from Canada to Mexico.",
         "correctAnswer": "3000",
-        "explanation": "The monarch migration spans over 3,000 kilometers (1,900 miles) from northern breeding grounds to Mexican wintering sites."
+        "explanation": "The monarch migration spans over 3,000 kilometers (1,900 miles) from northern breeding grounds to Mexican wintering sites.",
+        "options": [
+          "1000",
+          "5000",
+          "3000"
+        ]
       },
       {
         "id": "q2",

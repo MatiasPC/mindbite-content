@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "Las señales de vida pasada o presente se llaman _______.",
         "correctAnswer": "biofirmas",
-        "explanation": "Las biofirmas son características observables o composiciones químicas que indican la presencia de vida o su existencia pasada."
+        "explanation": "Las biofirmas son características observables o composiciones químicas que indican la presencia de vida o su existencia pasada.",
+        "options": [
+          "fósiles",
+          "minerales",
+          "biofirmas"
+        ]
       },
       {
         "id": "q-5",

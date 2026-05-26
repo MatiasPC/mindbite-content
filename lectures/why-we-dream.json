@@ -91,7 +91,12 @@
         "type": "fill_blank",
         "questionText": "The process of transferring memories from short-term to long-term storage during sleep is called ________ __________.",
         "correctAnswer": "memory consolidation",
-        "explanation": "Memory consolidation is the process by which memories are transferred and stabilized in long-term storage, which occurs significantly during REM sleep."
+        "explanation": "Memory consolidation is the process by which memories are transferred and stabilized in long-term storage, which occurs significantly during REM sleep.",
+        "options": [
+          "memory retrieval",
+          "sensory encoding",
+          "memory consolidation"
+        ]
       },
       {
         "id": "q4",

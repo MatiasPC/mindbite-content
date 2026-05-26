@@ -126,7 +126,12 @@
         "type": "fill_blank",
         "questionText": "La famosa imagen que muestra la Tierra como una pequeña mota de luz se llama '_______'.",
         "correctAnswer": "Punto azul pálido",
-        "explanation": "El Punto Azul Pálido, fotografiado por la Voyager 1 en 1990, muestra la Tierra desde 6.400 millones de kilómetros de distancia."
+        "explanation": "El Punto Azul Pálido, fotografiado por la Voyager 1 en 1990, muestra la Tierra desde 6.400 millones de kilómetros de distancia.",
+        "options": [
+          "Salida de la Tierra",
+          "Canica azul",
+          "Punto azul pálido"
+        ]
       },
       {
         "id": "q-5",

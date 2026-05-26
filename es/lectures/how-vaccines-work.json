@@ -91,7 +91,12 @@
         "type": "fill_blank",
         "questionText": "Cuando se vacuna un porcentaje suficiente de una población, la transmisión de enfermedades se ralentiza mediante un proceso llamado inmunidad ________.",
         "correctAnswer": "manada",
-        "explanation": "La inmunidad colectiva se produce cuando se vacuna a suficientes personas para prevenir la transmisión de enfermedades a través de la comunidad, protegiendo incluso a aquellos que no pueden ser vacunados."
+        "explanation": "La inmunidad colectiva se produce cuando se vacuna a suficientes personas para prevenir la transmisión de enfermedades a través de la comunidad, protegiendo incluso a aquellos que no pueden ser vacunados.",
+        "options": [
+          "natural",
+          "adquirida",
+          "manada"
+        ]
       },
       {
         "id": "q4",

@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "La técnica _______ implica despertarse después de cinco a seis horas de sueño, permanecer despierto brevemente y luego volver a dormir para aumentar la frecuencia de los sueños lúcidos.",
         "correctAnswer": "Despertar y volver a la cama",
-        "explanation": "El método WBTB (Wake-Back-to-Bed) es una técnica basada en evidencia que aumenta la propensión al sueño REM y la conciencia metacognitiva, facilitando los sueños lúcidos."
+        "explanation": "El método WBTB (Wake-Back-to-Bed) es una técnica basada en evidencia que aumenta la propensión al sueño REM y la conciencia metacognitiva, facilitando los sueños lúcidos.",
+        "options": [
+          "Inducción mnemónica",
+          "Prueba de realidad",
+          "Despertar y volver a la cama"
+        ]
       },
       {
         "id": "q-5",

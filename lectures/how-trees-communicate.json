@@ -99,7 +99,12 @@
         "type": "fill_blank",
         "questionText": "Through mycorrhizal networks, a healthy mature tree can transfer carbon and nutrients to _____ trees.",
         "correctAnswer": "weaker or neighboring",
-        "explanation": "Healthy trees transfer excess resources through fungal networks to support struggling neighbors or seedlings."
+        "explanation": "Healthy trees transfer excess resources through fungal networks to support struggling neighbors or seedlings.",
+        "options": [
+          "stronger or distant",
+          "younger or unrelated",
+          "weaker or neighboring"
+        ]
       },
       {
         "id": "q4",

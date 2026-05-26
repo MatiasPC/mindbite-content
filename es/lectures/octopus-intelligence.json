@@ -79,7 +79,12 @@
         "type": "fill_blank",
         "questionText": "Un pulpo tiene aproximadamente _____ millones de neuronas.",
         "correctAnswer": "500",
-        "explanation": "Los pulpos tienen alrededor de 500 millones de neuronas, aproximadamente dos tercios de ellas ubicadas en sus ocho brazos en lugar de en su cerebro central."
+        "explanation": "Los pulpos tienen alrededor de 500 millones de neuronas, aproximadamente dos tercios de ellas ubicadas en sus ocho brazos en lugar de en su cerebro central.",
+        "options": [
+          "500",
+          "100",
+          "900"
+        ]
       },
       {
         "id": "q2",

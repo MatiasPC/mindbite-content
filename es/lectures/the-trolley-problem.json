@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "El problema del tranvía demuestra que la moralidad humana está influenciada no sólo por la razón sino también por la ___, la emoción y el contexto.",
         "correctAnswer": "psicología",
-        "explanation": "La investigación en neurociencia muestra que la participación personal activa regiones emocionales del cerebro, mientras que los escenarios abstractos activan regiones racionales, lo que demuestra que la psicología desempeña un papel clave en el juicio moral."
+        "explanation": "La investigación en neurociencia muestra que la participación personal activa regiones emocionales del cerebro, mientras que los escenarios abstractos activan regiones racionales, lo que demuestra que la psicología desempeña un papel clave en el juicio moral.",
+        "options": [
+          "el instinto",
+          "psicología",
+          "la intuición"
+        ]
       },
       {
         "id": "q-5",

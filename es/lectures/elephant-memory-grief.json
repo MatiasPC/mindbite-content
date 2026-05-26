@@ -99,7 +99,12 @@
         "type": "fill_blank",
         "questionText": "Los elefantes producen _____ llamadas que están por debajo del alcance auditivo humano y pueden transmitir kilómetros.",
         "correctAnswer": "infrasonido",
-        "explanation": "Los elefantes utilizan infrasonidos (sonidos de muy baja frecuencia por debajo del oído humano) para comunicarse a través de grandes distancias."
+        "explanation": "Los elefantes utilizan infrasonidos (sonidos de muy baja frecuencia por debajo del oído humano) para comunicarse a través de grandes distancias.",
+        "options": [
+          "infrasonido",
+          "sísmicas",
+          "ultrasonido"
+        ]
       },
       {
         "id": "q4",

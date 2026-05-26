@@ -91,7 +91,12 @@
         "type": "fill_blank",
         "questionText": "La luz viaja en ondas con diferentes ________, con luz azul alrededor de 450 nanómetros y roja alrededor de 750 nanómetros.",
         "correctAnswer": "longitudes de onda",
-        "explanation": "La longitud de onda de la luz determina su color. Diferentes colores corresponden a diferentes longitudes de onda dentro del espectro de luz visible."
+        "explanation": "La longitud de onda de la luz determina su color. Diferentes colores corresponden a diferentes longitudes de onda dentro del espectro de luz visible.",
+        "options": [
+          "frecuencias",
+          "amplitudes",
+          "longitudes de onda"
+        ]
       },
       {
         "id": "q4",

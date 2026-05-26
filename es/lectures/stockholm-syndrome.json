@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "Cuando los captores brindan pequeños gestos de bondad después de percibir amenazas, el contraste crea _______ emocional entre el captor y el captor.",
         "correctAnswer": "vinculación",
-        "explanation": "El alivio psicológico del miedo cuando los captores muestran amabilidad crea asociaciones positivas, lo que genera vínculos inesperados a pesar de la situación peligrosa."
+        "explanation": "El alivio psicológico del miedo cuando los captores muestran amabilidad crea asociaciones positivas, lo que genera vínculos inesperados a pesar de la situación peligrosa.",
+        "options": [
+          "resentimiento",
+          "distancia",
+          "vinculación"
+        ]
       },
       {
         "id": "q-5",

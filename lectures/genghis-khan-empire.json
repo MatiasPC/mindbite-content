@@ -84,7 +84,12 @@
         "type": "fill_blank",
         "questionText": "Genghis Khan was born as _______ and only adopted his title after unifying the Mongol tribes in 1206.",
         "correctAnswer": "Temüjin",
-        "explanation": "Temüjin was his birth name before he became known as Genghis Khan, which means 'Universal Ruler.'"
+        "explanation": "Temüjin was his birth name before he became known as Genghis Khan, which means 'Universal Ruler.'",
+        "options": [
+          "Temüjin",
+          "Ögedei",
+          "Kublai"
+        ]
       },
       {
         "id": "q2",

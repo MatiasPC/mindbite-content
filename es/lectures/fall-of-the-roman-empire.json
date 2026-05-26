@@ -103,7 +103,12 @@
         "type": "fill_blank",
         "questionText": "El emperador _______ dividió el Imperio Romano en Oriente y Occidente en 285 EC para facilitar su gobernación.",
         "correctAnswer": "Diocleciano",
-        "explanation": "Diocleciano implementó esta importante reforma administrativa para abordar el tamaño del imperio y los desafíos de gobernanza."
+        "explanation": "Diocleciano implementó esta importante reforma administrativa para abordar el tamaño del imperio y los desafíos de gobernanza.",
+        "options": [
+          "Nerón",
+          "Diocleciano",
+          "Constantino"
+        ]
       },
       {
         "id": "q4",

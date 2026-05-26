@@ -79,7 +79,12 @@
         "type": "fill_blank",
         "questionText": "El organismo vivo más grande de la Tierra es un micelio de hongo en Oregón que cubre _____ acres.",
         "correctAnswer": "2384",
-        "explanation": "Un micelio de hongo de miel en Oregon se extiende por 2,384 acres, lo que lo hace más grande que 1,800 campos de fútbol."
+        "explanation": "Un micelio de hongo de miel en Oregon se extiende por 2,384 acres, lo que lo hace más grande que 1,800 campos de fútbol.",
+        "options": [
+          "2384",
+          "4000",
+          "1200"
+        ]
       },
       {
         "id": "q2",

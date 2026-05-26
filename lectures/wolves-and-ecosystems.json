@@ -79,7 +79,12 @@
         "type": "fill_blank",
         "questionText": "Wolves were reintroduced to Yellowstone National Park in _____ after being absent for _____ years.",
         "correctAnswer": "1995-1996 and 70",
-        "explanation": "Wolves were reintroduced to Yellowstone in 1995-1996, returning to the park for the first time in 70 years."
+        "explanation": "Wolves were reintroduced to Yellowstone in 1995-1996, returning to the park for the first time in 70 years.",
+        "options": [
+          "2005-2006 and 90",
+          "1995-1996 and 70",
+          "1985-1986 and 50"
+        ]
       },
       {
         "id": "q2",

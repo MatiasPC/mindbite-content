@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "Un ________ es una sección específica de ADN que contiene instrucciones para producir una proteína.",
         "correctAnswer": "gen",
-        "explanation": "Los genes son segmentos de ADN que codifican proteínas, y cada gen produce una proteína específica con una función específica."
+        "explanation": "Los genes son segmentos de ADN que codifican proteínas, y cada gen produce una proteína específica con una función específica.",
+        "options": [
+          "nucleótido",
+          "gen",
+          "cromosoma"
+        ]
       },
       {
         "id": "q4",

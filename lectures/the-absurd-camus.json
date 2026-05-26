@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "Camus rejected three common responses to the Absurd: suicide, religion, and ___.",
         "correctAnswer": "philosophical escape",
-        "explanation": "Camus identified three escape attempts: suicide (ending the conscious subject), religion (claiming transcendent meaning), and philosophical escape (proposing hidden meaning). He rejected all three as inauthentic responses."
+        "explanation": "Camus identified three escape attempts: suicide (ending the conscious subject), religion (claiming transcendent meaning), and philosophical escape (proposing hidden meaning). He rejected all three as inauthentic responses.",
+        "options": [
+          "philosophical escape",
+          "total denial",
+          "blind hope"
+        ]
       },
       {
         "id": "q-5",

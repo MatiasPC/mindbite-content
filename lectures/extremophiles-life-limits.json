@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "Hydrothermal vents use _____ instead of sunlight to power their ecosystems.",
         "correctAnswer": "chemosynthesis",
-        "explanation": "Vent ecosystems use chemosynthesis, where bacteria oxidize chemicals like hydrogen sulfide for energy, independent of sunlight."
+        "explanation": "Vent ecosystems use chemosynthesis, where bacteria oxidize chemicals like hydrogen sulfide for energy, independent of sunlight.",
+        "options": [
+          "photosynthesis",
+          "chemosynthesis",
+          "fermentation"
+        ]
       },
       {
         "id": "q3",

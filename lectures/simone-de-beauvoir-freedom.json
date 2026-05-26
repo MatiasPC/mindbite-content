@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "De Beauvoir argued that authentic relationships require 'generosity'\u2014recognizing the other's ___ while pursuing your own projects and transcendence.",
         "correctAnswer": "freedom",
-        "explanation": "Generosity in relationships means respecting and recognizing that the other person has their own freedom, projects, and capacity for transcendence, not trying to merge or possess."
+        "explanation": "Generosity in relationships means respecting and recognizing that the other person has their own freedom, projects, and capacity for transcendence, not trying to merge or possess.",
+        "options": [
+          "freedom",
+          "desire",
+          "power"
+        ]
       },
       {
         "id": "q-5",

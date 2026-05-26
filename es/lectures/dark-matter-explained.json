@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "La región que rodea una galaxia y que contiene la mayor parte de su masa en forma de materia oscura se llama materia oscura _______.",
         "correctAnswer": "aureola",
-        "explanation": "Los halos de materia oscura son regiones extendidas alrededor de galaxias que contienen la mayor parte de la masa gravitacional."
+        "explanation": "Los halos de materia oscura son regiones extendidas alrededor de galaxias que contienen la mayor parte de la masa gravitacional.",
+        "options": [
+          "filamento",
+          "aureola",
+          "disco"
+        ]
       },
       {
         "id": "q-5",

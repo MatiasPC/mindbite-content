@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "La luz exhibe ________ __________, lo que significa que tiene propiedades tanto de onda como de partícula dependiendo de cómo se mide.",
         "correctAnswer": "dualidad onda-partícula",
-        "explanation": "La dualidad onda-partícula describe cómo los objetos exhiben propiedades tanto de ondas como de partículas, según el método de observación utilizado."
+        "explanation": "La dualidad onda-partícula describe cómo los objetos exhiben propiedades tanto de ondas como de partículas, según el método de observación utilizado.",
+        "options": [
+          "interferencia cuántica",
+          "superposición de estados",
+          "dualidad onda-partícula"
+        ]
       },
       {
         "id": "q4",

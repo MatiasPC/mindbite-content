@@ -125,7 +125,12 @@
         "type": "fill_blank",
         "questionText": "JWST is located at a point in space called the _______ Point 2, about 1.5 million kilometers from Earth.",
         "correctAnswer": "Lagrange",
-        "explanation": "The Lagrange Point 2 is a stable point where Earth and Sun's gravity balance, allowing JWST to remain cold while staying relatively close to Earth."
+        "explanation": "The Lagrange Point 2 is a stable point where Earth and Sun's gravity balance, allowing JWST to remain cold while staying relatively close to Earth.",
+        "options": [
+          "Hohmann",
+          "Kepler",
+          "Lagrange"
+        ]
       },
       {
         "id": "q-5",

@@ -103,7 +103,12 @@
         "type": "fill_blank",
         "questionText": "Emperor _______ split the Roman Empire into East and West in 285 CE to make it easier to govern.",
         "correctAnswer": "Diocletian",
-        "explanation": "Diocletian implemented this major administrative reform to address the empire's size and governance challenges."
+        "explanation": "Diocletian implemented this major administrative reform to address the empire's size and governance challenges.",
+        "options": [
+          "Diocletian",
+          "Constantine",
+          "Nero"
+        ]
       },
       {
         "id": "q4",

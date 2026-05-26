@@ -126,7 +126,12 @@
         "type": "fill_blank",
         "questionText": "An Earth-sized stellar remnant with the mass of the Sun is called a white _______.",
         "correctAnswer": "dwarf",
-        "explanation": "White dwarfs are the dense remnants of Sun-like stars, with incredible density due to electron degeneracy pressure."
+        "explanation": "White dwarfs are the dense remnants of Sun-like stars, with incredible density due to electron degeneracy pressure.",
+        "options": [
+          "hole",
+          "giant",
+          "dwarf"
+        ]
       },
       {
         "id": "q-5",

@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "Recent research suggests that the marshmallow test measures _______ and learned expectations as much as self-control.",
         "correctAnswer": "trust",
-        "explanation": "Children's willingness to wait depends on whether they've learned from experience that delayed rewards are reliable and trustworthy."
+        "explanation": "Children's willingness to wait depends on whether they've learned from experience that delayed rewards are reliable and trustworthy.",
+        "options": [
+          "hunger",
+          "trust",
+          "intelligence"
+        ]
       },
       {
         "id": "q-5",

@@ -98,7 +98,12 @@
         "type": "fill_blank",
         "questionText": "The doctrine of _______ suggested that nuclear war would be so devastating that neither superpower would risk initiating conflict.",
         "correctAnswer": "Mutually Assured Destruction",
-        "explanation": "Mutually Assured Destruction (MAD) was the strategic concept that prevented direct confrontation between nuclear-armed superpowers."
+        "explanation": "Mutually Assured Destruction (MAD) was the strategic concept that prevented direct confrontation between nuclear-armed superpowers.",
+        "options": [
+          "Containment",
+          "Flexible Deterrence",
+          "Mutually Assured Destruction"
+        ]
       },
       {
         "id": "q3",

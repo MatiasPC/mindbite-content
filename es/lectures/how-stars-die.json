@@ -126,7 +126,12 @@
         "type": "fill_blank",
         "questionText": "Un remanente estelar del tamaño de la Tierra y con la masa del Sol se llama _______ blanco.",
         "correctAnswer": "enano",
-        "explanation": "Las enanas blancas son restos densos de estrellas similares al Sol, con una densidad increíble debido a la presión de degeneración de electrones."
+        "explanation": "Las enanas blancas son restos densos de estrellas similares al Sol, con una densidad increíble debido a la presión de degeneración de electrones.",
+        "options": [
+          "gigante",
+          "enano",
+          "agujero"
+        ]
       },
       {
         "id": "q-5",

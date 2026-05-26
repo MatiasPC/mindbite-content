@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "El ___ representa el ideal de Nietzsche de alguien que supera la moralidad convencional y crea nuevos valores para sí mismo.",
         "correctAnswer": "supermensch",
-        "explanation": "El Übermensch (o 'superhombre') es la figura ideal de Nietzsche que trasciende la moralidad de rebaño a través de la fuerza, la creatividad y la auténtica autocreación. No es un superior biológico sino un ideal alcanzable de excelencia humana."
+        "explanation": "El Übermensch (o 'superhombre') es la figura ideal de Nietzsche que trasciende la moralidad de rebaño a través de la fuerza, la creatividad y la auténtica autocreación. No es un superior biológico sino un ideal alcanzable de excelencia humana.",
+        "options": [
+          "último hombre",
+          "espíritu libre",
+          "supermensch"
+        ]
       },
       {
         "id": "q-5",

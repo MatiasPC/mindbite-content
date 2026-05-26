@@ -126,7 +126,12 @@
         "type": "fill_blank",
         "questionText": "The famous image showing Earth as a tiny speck of light is called the '_______.'",
         "correctAnswer": "Pale Blue Dot",
-        "explanation": "The Pale Blue Dot, photographed by Voyager 1 in 1990, shows Earth from 6.4 billion kilometers away."
+        "explanation": "The Pale Blue Dot, photographed by Voyager 1 in 1990, shows Earth from 6.4 billion kilometers away.",
+        "options": [
+          "Blue Marble",
+          "Earthrise",
+          "Pale Blue Dot"
+        ]
       },
       {
         "id": "q-5",

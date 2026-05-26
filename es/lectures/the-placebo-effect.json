@@ -91,7 +91,12 @@
         "type": "fill_blank",
         "questionText": "El efecto ________ es lo opuesto al placebo, donde las expectativas negativas producen efectos físicos dañinos.",
         "correctAnswer": "nocebo",
-        "explanation": "El efecto nocebo ocurre cuando las expectativas negativas causan síntomas o resultados dañinos, lo que demuestra la relación bidireccional entre creencia y fisiología."
+        "explanation": "El efecto nocebo ocurre cuando las expectativas negativas causan síntomas o resultados dañinos, lo que demuestra la relación bidireccional entre creencia y fisiología.",
+        "options": [
+          "Hawthorne",
+          "halo",
+          "nocebo"
+        ]
       },
       {
         "id": "q4",

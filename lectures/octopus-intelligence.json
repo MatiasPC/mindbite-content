@@ -79,7 +79,12 @@
         "type": "fill_blank",
         "questionText": "An octopus has approximately _____ million neurons.",
         "correctAnswer": "500",
-        "explanation": "Octopuses have about 500 million neurons, with roughly two-thirds located in their eight arms rather than their central brain."
+        "explanation": "Octopuses have about 500 million neurons, with roughly two-thirds located in their eight arms rather than their central brain.",
+        "options": [
+          "100",
+          "500",
+          "900"
+        ]
       },
       {
         "id": "q2",

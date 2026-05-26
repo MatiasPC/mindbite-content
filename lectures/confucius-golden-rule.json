@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "Confucius believed that moral virtue should be cultivated through ___, ritual practice, and continuous self-improvement rather than being innate.",
         "correctAnswer": "education",
-        "explanation": "Confucius emphasized that virtues must be developed through education, ritual practice, and self-discipline. He held an optimistic view that all humans have the potential for moral development."
+        "explanation": "Confucius emphasized that virtues must be developed through education, ritual practice, and self-discipline. He held an optimistic view that all humans have the potential for moral development.",
+        "options": [
+          "education",
+          "meditation",
+          "wealth"
+        ]
       },
       {
         "id": "q-5",

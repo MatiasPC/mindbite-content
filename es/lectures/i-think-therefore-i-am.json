@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "Descartes distinguió entre mente, a la que llamó ___ sustancia, y cuerpo, al que llamó ___ sustancia.",
         "correctAnswer": "pensando; extendido",
-        "explanation": "Descartes dividió la realidad en dos sustancias: sustancia pensante (mente, que es no física y consciente) y sustancia extendida (cuerpo, que es físico y espacial). Esto se conoce como dualismo cartesiano."
+        "explanation": "Descartes dividió la realidad en dos sustancias: sustancia pensante (mente, que es no física y consciente) y sustancia extendida (cuerpo, que es físico y espacial). Esto se conoce como dualismo cartesiano.",
+        "options": [
+          "material; divina",
+          "pensando; extendido",
+          "física; espiritual"
+        ]
       },
       {
         "id": "q-5",

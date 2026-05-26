@@ -79,7 +79,12 @@
         "type": "fill_blank",
         "questionText": "The largest living organism on Earth is a fungal mycelium in Oregon that covers _____ acres.",
         "correctAnswer": "2384",
-        "explanation": "A honey fungus mycelium in Oregon spans 2,384 acres, making it larger than 1,800 football fields."
+        "explanation": "A honey fungus mycelium in Oregon spans 2,384 acres, making it larger than 1,800 football fields.",
+        "options": [
+          "2384",
+          "4000",
+          "1200"
+        ]
       },
       {
         "id": "q2",

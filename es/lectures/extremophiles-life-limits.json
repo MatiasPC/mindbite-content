@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "Los respiraderos hidrotermales utilizan _____ en lugar de luz solar para alimentar sus ecosistemas.",
         "correctAnswer": "quimiosíntesis",
-        "explanation": "Los ecosistemas de ventilación utilizan la quimiosíntesis, donde las bacterias oxidan sustancias químicas como el sulfuro de hidrógeno para obtener energía, independientemente de la luz solar."
+        "explanation": "Los ecosistemas de ventilación utilizan la quimiosíntesis, donde las bacterias oxidan sustancias químicas como el sulfuro de hidrógeno para obtener energía, independientemente de la luz solar.",
+        "options": [
+          "fermentación",
+          "quimiosíntesis",
+          "fotosíntesis"
+        ]
       },
       {
         "id": "q3",

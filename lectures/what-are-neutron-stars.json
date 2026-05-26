@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "In 2017, gravitational wave detectors observed the merger of two neutron stars in an event called _______.",
         "correctAnswer": "GW170817",
-        "explanation": "GW170817 was the first confirmed detection of gravitational waves from a neutron star merger, providing unprecedented insights into extreme physics."
+        "explanation": "GW170817 was the first confirmed detection of gravitational waves from a neutron star merger, providing unprecedented insights into extreme physics.",
+        "options": [
+          "GW170817",
+          "GW150914",
+          "GW190521"
+        ]
       },
       {
         "id": "q-5",

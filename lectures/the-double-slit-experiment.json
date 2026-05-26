@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "Light exhibits ________ __________, meaning it has both wave and particle properties depending on how it is measured.",
         "correctAnswer": "wave-particle duality",
-        "explanation": "Wave-particle duality describes how objects exhibit properties of both waves and particles, depending on the observation method used."
+        "explanation": "Wave-particle duality describes how objects exhibit properties of both waves and particles, depending on the observation method used.",
+        "options": [
+          "wave-particle duality",
+          "quantum interference",
+          "state superposition"
+        ]
       },
       {
         "id": "q4",

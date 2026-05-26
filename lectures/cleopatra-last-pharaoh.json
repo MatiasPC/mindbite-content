@@ -84,7 +84,12 @@
         "type": "fill_blank",
         "questionText": "Cleopatra spoke at least _______ different languages, including Egyptian, Greek, Latin, and Hebrew.",
         "correctAnswer": "eight",
-        "explanation": "Cleopatra's linguistic abilities were extraordinary for her time, making her a formidable political and intellectual figure."
+        "explanation": "Cleopatra's linguistic abilities were extraordinary for her time, making her a formidable political and intellectual figure.",
+        "options": [
+          "eight",
+          "five",
+          "twelve"
+        ]
       },
       {
         "id": "q2",

@@ -99,7 +99,12 @@
         "type": "fill_blank",
         "questionText": "Elephants produce _____ calls that are below human hearing range and can carry for kilometers.",
         "correctAnswer": "infrasound",
-        "explanation": "Elephants use infrasound (very low frequency sounds below human hearing) to communicate across vast distances."
+        "explanation": "Elephants use infrasound (very low frequency sounds below human hearing) to communicate across vast distances.",
+        "options": [
+          "infrasound",
+          "seismic",
+          "ultrasound"
+        ]
       },
       {
         "id": "q4",

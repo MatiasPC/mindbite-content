@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "When captors provide small gestures of kindness following perceived threats, the contrast creates emotional _______ between captee and captor.",
         "correctAnswer": "bonding",
-        "explanation": "The psychological relief from fear when captors show kindness creates positive associations, leading to unexpected bonding despite the dangerous situation."
+        "explanation": "The psychological relief from fear when captors show kindness creates positive associations, leading to unexpected bonding despite the dangerous situation.",
+        "options": [
+          "distance",
+          "resentment",
+          "bonding"
+        ]
       },
       {
         "id": "q-5",

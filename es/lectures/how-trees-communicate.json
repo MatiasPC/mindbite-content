@@ -99,7 +99,12 @@
         "type": "fill_blank",
         "questionText": "A través de redes de micorrizas, un árbol maduro sano puede transferir carbono y nutrientes a _____ árboles.",
         "correctAnswer": "más débil o vecino",
-        "explanation": "Los árboles sanos transfieren el exceso de recursos a través de redes de hongos para apoyar a los vecinos o las plántulas en dificultades."
+        "explanation": "Los árboles sanos transfieren el exceso de recursos a través de redes de hongos para apoyar a los vecinos o las plántulas en dificultades.",
+        "options": [
+          "más débil o vecino",
+          "más fuerte o lejano",
+          "más joven o distante"
+        ]
       },
       {
         "id": "q4",

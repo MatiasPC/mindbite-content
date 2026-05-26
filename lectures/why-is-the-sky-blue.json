@@ -91,7 +91,12 @@
         "type": "fill_blank",
         "questionText": "Light travels in waves with different ________, with blue light around 450 nanometers and red around 750 nanometers.",
         "correctAnswer": "wavelengths",
-        "explanation": "The wavelength of light determines its color. Different colors correspond to different wavelengths within the visible light spectrum."
+        "explanation": "The wavelength of light determines its color. Different colors correspond to different wavelengths within the visible light spectrum.",
+        "options": [
+          "amplitudes",
+          "wavelengths",
+          "frequencies"
+        ]
       },
       {
         "id": "q4",

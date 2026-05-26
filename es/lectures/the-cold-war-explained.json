@@ -98,7 +98,12 @@
         "type": "fill_blank",
         "questionText": "La doctrina de _______ sugería que una guerra nuclear sería tan devastadora que ninguna de las superpotencias se arriesgaría a iniciar un conflicto.",
         "correctAnswer": "Destrucción mutua asegurada",
-        "explanation": "La Destrucción Mutua Asegurada (MAD) fue el concepto estratégico que evitó la confrontación directa entre superpotencias con armas nucleares."
+        "explanation": "La Destrucción Mutua Asegurada (MAD) fue el concepto estratégico que evitó la confrontación directa entre superpotencias con armas nucleares.",
+        "options": [
+          "Contención",
+          "Destrucción mutua asegurada",
+          "Disuasión flexible"
+        ]
       },
       {
         "id": "q3",

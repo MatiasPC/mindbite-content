@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "Proxima Centauri b, un exoplaneta potencialmente habitable, orbita la estrella _______ con respecto a nuestro Sol.",
         "correctAnswer": "más cercano",
-        "explanation": "Próxima Centauri es la vecina estelar más cercana a nuestro Sol, a 4,24 años luz de distancia."
+        "explanation": "Próxima Centauri es la vecina estelar más cercana a nuestro Sol, a 4,24 años luz de distancia.",
+        "options": [
+          "más cercano",
+          "más antigua",
+          "más brillante"
+        ]
       },
       {
         "id": "q-5",

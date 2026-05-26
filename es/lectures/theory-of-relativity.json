@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "La relatividad general describe la gravedad no como una fuerza, sino como ________ del espacio y el tiempo.",
         "correctAnswer": "curvatura",
-        "explanation": "La relatividad general propone que los objetos masivos curvan el espacio-tiempo y que otros objetos siguen trayectorias curvas, lo que percibimos como atracción gravitacional."
+        "explanation": "La relatividad general propone que los objetos masivos curvan el espacio-tiempo y que otros objetos siguen trayectorias curvas, lo que percibimos como atracción gravitacional.",
+        "options": [
+          "curvatura",
+          "vibración",
+          "expansión"
+        ]
       },
       {
         "id": "q4",

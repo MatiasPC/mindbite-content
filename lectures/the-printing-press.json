@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "By 1500, just fifty years after Gutenberg's invention, approximately _______ million books had been printed in Europe.",
         "correctAnswer": "20",
-        "explanation": "The rapid proliferation of printing technology resulted in approximately 20 million books being printed within fifty years."
+        "explanation": "The rapid proliferation of printing technology resulted in approximately 20 million books being printed within fifty years.",
+        "options": [
+          "50",
+          "5",
+          "20"
+        ]
       },
       {
         "id": "q3",

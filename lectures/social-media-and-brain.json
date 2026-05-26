@@ -102,7 +102,12 @@
         "type": "fill_blank",
         "questionText": "The blue light from screens suppresses production of _______, which is crucial for initiating sleep.",
         "correctAnswer": "melatonin",
-        "explanation": "Blue light from screens suppresses melatonin production, delaying sleep onset when used in the evening."
+        "explanation": "Blue light from screens suppresses melatonin production, delaying sleep onset when used in the evening.",
+        "options": [
+          "dopamine",
+          "melatonin",
+          "serotonin"
+        ]
       },
       {
         "id": "q-5",

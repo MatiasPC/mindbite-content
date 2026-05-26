@@ -92,7 +92,12 @@
         "type": "fill_blank",
         "questionText": "The entropy gradient—increasing disorder over time—defines the ________ ________ __________.",
         "correctAnswer": "arrow of time",
-        "explanation": "The arrow of time's direction (past to future) is defined by the constant increase in entropy as described by the Second Law of Thermodynamics."
+        "explanation": "The arrow of time's direction (past to future) is defined by the constant increase in entropy as described by the Second Law of Thermodynamics.",
+        "options": [
+          "cycle of time",
+          "beginning of time",
+          "arrow of time"
+        ]
       },
       {
         "id": "q4",

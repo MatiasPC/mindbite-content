@@ -91,7 +91,12 @@
         "type": "fill_blank",
         "questionText": "El proceso de transferir recuerdos del almacenamiento a corto plazo al almacenamiento a largo plazo durante el sueño se llama ________ __________.",
         "correctAnswer": "consolidación de la memoria",
-        "explanation": "La consolidación de la memoria es el proceso mediante el cual los recuerdos se transfieren y estabilizan en el almacenamiento a largo plazo, lo que ocurre significativamente durante el sueño REM."
+        "explanation": "La consolidación de la memoria es el proceso mediante el cual los recuerdos se transfieren y estabilizan en el almacenamiento a largo plazo, lo que ocurre significativamente durante el sueño REM.",
+        "options": [
+          "consolidación de la memoria",
+          "recuperación de la memoria",
+          "codificación sensorial"
+        ]
       },
       {
         "id": "q4",

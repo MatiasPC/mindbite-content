@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "Proxima Centauri b, a potentially habitable exoplanet, orbits the _______ star to our Sun.",
         "correctAnswer": "closest",
-        "explanation": "Proxima Centauri is our Sun's nearest stellar neighbor at 4.24 light-years away."
+        "explanation": "Proxima Centauri is our Sun's nearest stellar neighbor at 4.24 light-years away.",
+        "options": [
+          "oldest",
+          "brightest",
+          "closest"
+        ]
       },
       {
         "id": "q-5",

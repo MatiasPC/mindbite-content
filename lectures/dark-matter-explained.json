@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "The region surrounding a galaxy and containing most of its mass in the form of dark matter is called a dark matter _______.",
         "correctAnswer": "halo",
-        "explanation": "Dark matter halos are extended regions around galaxies containing the bulk of gravitational mass."
+        "explanation": "Dark matter halos are extended regions around galaxies containing the bulk of gravitational mass.",
+        "options": [
+          "filament",
+          "halo",
+          "disk"
+        ]
       },
       {
         "id": "q-5",

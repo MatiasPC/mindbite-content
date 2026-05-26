@@ -100,7 +100,12 @@
         "type": "fill_blank",
         "questionText": "During flow, people often report that time seems to _______, and they become completely absorbed in their activity.",
         "correctAnswer": "disappear",
-        "explanation": "Loss of time perception is a hallmark characteristic of flow\u2014people in flow often express surprise at how much time has passed because they were so engaged."
+        "explanation": "Loss of time perception is a hallmark characteristic of flow\u2014people in flow often express surprise at how much time has passed because they were so engaged.",
+        "options": [
+          "speed up",
+          "disappear",
+          "stand still"
+        ]
       },
       {
         "id": "q-5",

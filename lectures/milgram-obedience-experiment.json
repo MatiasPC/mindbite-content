@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "Milgram found that _______ of the authority figure significantly increased obedience rates in his experiments.",
         "correctAnswer": "physical presence",
-        "explanation": "When the experimenter (authority figure) was physically present and giving direct orders, obedience rates were highest. Distance from authority reduced compliance."
+        "explanation": "When the experimenter (authority figure) was physically present and giving direct orders, obedience rates were highest. Distance from authority reduced compliance.",
+        "options": [
+          "physical presence",
+          "verbal authority",
+          "institutional prestige"
+        ]
       },
       {
         "id": "q-5",

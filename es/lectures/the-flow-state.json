@@ -100,7 +100,12 @@
         "type": "fill_blank",
         "questionText": "Durante el flujo, las personas a menudo informan que el tiempo parece _______ y ​​quedan completamente absortas en su actividad.",
         "correctAnswer": "desaparecer",
-        "explanation": "La pérdida de percepción del tiempo es una característica distintiva del flujo: las personas en flujo a menudo expresan sorpresa por cuánto tiempo ha pasado porque estaban muy comprometidas."
+        "explanation": "La pérdida de percepción del tiempo es una característica distintiva del flujo: las personas en flujo a menudo expresan sorpresa por cuánto tiempo ha pasado porque estaban muy comprometidas.",
+        "options": [
+          "acelerarse",
+          "detenerse",
+          "desaparecer"
+        ]
       },
       {
         "id": "q-5",

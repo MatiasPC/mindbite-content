@@ -91,7 +91,12 @@
         "type": "fill_blank",
         "questionText": "The ________ effect is the opposite of placebo, where negative expectations produce harmful physical effects.",
         "correctAnswer": "nocebo",
-        "explanation": "The nocebo effect occurs when negative expectations cause harmful symptoms or outcomes, demonstrating the two-way relationship between belief and physiology."
+        "explanation": "The nocebo effect occurs when negative expectations cause harmful symptoms or outcomes, demonstrating the two-way relationship between belief and physiology.",
+        "options": [
+          "nocebo",
+          "Hawthorne",
+          "halo"
+        ]
       },
       {
         "id": "q4",

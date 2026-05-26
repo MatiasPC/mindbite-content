@@ -99,7 +99,12 @@
         "type": "fill_blank",
         "questionText": "La frecuencia del ronroneo de un gato oscila entre _____ y _____ Hertz.",
         "correctAnswer": "25 y 150",
-        "explanation": "Las investigaciones han demostrado que las vibraciones del ronroneo de los gatos suelen producirse en frecuencias entre 25 y 150 Hertz."
+        "explanation": "Las investigaciones han demostrado que las vibraciones del ronroneo de los gatos suelen producirse en frecuencias entre 25 y 150 Hertz.",
+        "options": [
+          "100 y 300",
+          "10 y 80",
+          "25 y 150"
+        ]
       },
       {
         "id": "q4",

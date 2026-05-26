@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "The moment when electrons combined with nuclei to form neutral atoms is called _______.",
         "correctAnswer": "recombination",
-        "explanation": "Recombination occurred about 380,000 years after the Big Bang, when the universe cooled enough for electrons to combine with nuclei."
+        "explanation": "Recombination occurred about 380,000 years after the Big Bang, when the universe cooled enough for electrons to combine with nuclei.",
+        "options": [
+          "inflation",
+          "recombination",
+          "nucleosynthesis"
+        ]
       },
       {
         "id": "q-5",

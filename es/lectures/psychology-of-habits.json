@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "Para cambiar un hábito no deseado de manera efectiva, debes mantener _______ y recompensar, pero cambiar la rutina.",
         "correctAnswer": "señal",
-        "explanation": "Dado que la señal (desencadenante ambiental) permanece constante, cambiar sólo el comportamiento rutinario manteniendo la recompensa a menudo resulta más efectivo que tratar de eliminar todo el hábito."
+        "explanation": "Dado que la señal (desencadenante ambiental) permanece constante, cambiar sólo el comportamiento rutinario manteniendo la recompensa a menudo resulta más efectivo que tratar de eliminar todo el hábito.",
+        "options": [
+          "entorno",
+          "señal",
+          "objetivo"
+        ]
       },
       {
         "id": "q-5",

@@ -124,7 +124,12 @@
         "type": "fill_blank",
         "questionText": "La observación de que inevitablemente existimos en un universo compatible con nuestra existencia se llama principio _______.",
         "correctAnswer": "antrópico",
-        "explanation": "El principio antrópico explica el aparente ajuste fino al señalar que debemos observar condiciones que permitan a los observadores."
+        "explanation": "El principio antrópico explica el aparente ajuste fino al señalar que debemos observar condiciones que permitan a los observadores.",
+        "options": [
+          "antrópico",
+          "cosmológico",
+          "cuántico"
+        ]
       },
       {
         "id": "q-5",

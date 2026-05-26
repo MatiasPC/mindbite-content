@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "The Silk Road was instrumental in spreading _______ from India to Central Asia, China, and eventually Japan.",
         "correctAnswer": "Buddhism",
-        "explanation": "Buddhist monks traveled the Silk Road routes, establishing monasteries and spreading Buddhism across Asia."
+        "explanation": "Buddhist monks traveled the Silk Road routes, establishing monasteries and spreading Buddhism across Asia.",
+        "options": [
+          "Islam",
+          "Christianity",
+          "Buddhism"
+        ]
       },
       {
         "id": "q3",

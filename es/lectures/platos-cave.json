@@ -107,7 +107,12 @@
         "type": "fill_blank",
         "questionText": "La alegoría de la caverna de Platón se encuentra en su obra llamada ___.",
         "correctAnswer": "la república",
-        "explanation": "La alegoría de la cueva aparece en el Libro VII de La República de Platón, donde Sócrates la utiliza para explicar la naturaleza de la realidad, el conocimiento y la iluminación a través del diálogo con Glaucón."
+        "explanation": "La alegoría de la cueva aparece en el Libro VII de La República de Platón, donde Sócrates la utiliza para explicar la naturaleza de la realidad, el conocimiento y la iluminación a través del diálogo con Glaucón.",
+        "options": [
+          "la república",
+          "el banquete",
+          "las leyes"
+        ]
       },
       {
         "id": "q-5",

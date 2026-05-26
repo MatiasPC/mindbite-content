@@ -97,7 +97,12 @@
         "type": "fill_blank",
         "questionText": "The Great Pyramid of Khufu is composed of approximately _______ million stone blocks, each weighing several tons.",
         "correctAnswer": "2.3",
-        "explanation": "The Great Pyramid contains approximately 2.3 million stone blocks, demonstrating the enormous scale of the construction project."
+        "explanation": "The Great Pyramid contains approximately 2.3 million stone blocks, demonstrating the enormous scale of the construction project.",
+        "options": [
+          "2.3",
+          "5.0",
+          "1.5"
+        ]
       },
       {
         "id": "q3",

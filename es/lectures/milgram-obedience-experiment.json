@@ -101,7 +101,12 @@
         "type": "fill_blank",
         "questionText": "Milgram descubrió que _______ de la figura de autoridad aumentaba significativamente los índices de obediencia en sus experimentos.",
         "correctAnswer": "presencia física",
-        "explanation": "Cuando el experimentador (figura de autoridad) estaba físicamente presente y daba órdenes directas, las tasas de obediencia eran más altas. La distancia de la autoridad redujo el cumplimiento."
+        "explanation": "Cuando el experimentador (figura de autoridad) estaba físicamente presente y daba órdenes directas, las tasas de obediencia eran más altas. La distancia de la autoridad redujo el cumplimiento.",
+        "options": [
+          "la autoridad verbal",
+          "el prestigio institucional",
+          "presencia física"
+        ]
       },
       {
         "id": "q-5",

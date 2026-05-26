@@ -98,7 +98,12 @@
         "type": "fill_blank",
         "questionText": "Renaissance thinkers emphasized _______ learning and rational inquiry based on observation and experimentation rather than authority.",
         "correctAnswer": "empirical",
-        "explanation": "Empirical learning—based on direct observation and experimentation—replaced medieval reliance on ancient authorities and theological doctrine."
+        "explanation": "Empirical learning—based on direct observation and experimentation—replaced medieval reliance on ancient authorities and theological doctrine.",
+        "options": [
+          "scholastic",
+          "classical",
+          "empirical"
+        ]
       },
       {
         "id": "q3",
